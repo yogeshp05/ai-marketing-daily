@@ -1,0 +1,64 @@
+{
+  "date": "30 September 2026",
+  "lead": {
+    "title": "AI Marketing Daily launches",
+    "deck": "A newspaper-style front page for the technologies changing search, advertising, analytics, creative production and marketing automation.",
+    "url": "https://github.com/yogeshp05/ai-marketing-daily"
+  },
+  "note": "Editorial filter: does this materially affect digital marketing, performance marketing, SEO, analytics, ecommerce, CRO or automation?",
+  "ticker": [
+    "AI agents",
+    "Generative AI",
+    "Ad-tech",
+    "Search & SEO",
+    "Analytics",
+    "Creative AI",
+    "Marketing automation"
+  ],
+  "sections": [
+    {
+      "name": "AI & Agents",
+      "stories": [
+        {
+          "title": "The daily publication is now structured as a newspaper",
+          "summary": "The content layer is separated from the front end so each edition can be refreshed without rebuilding the site.",
+          "source": "Editorial",
+          "when": "Today",
+          "url": "https://github.com/yogeshp05/ai-marketing-daily"
+        }
+      ]
+    },
+    {
+      "name": "Google Ads",
+      "stories": []
+    },
+    {
+      "name": "Meta Ads",
+      "stories": []
+    },
+    {
+      "name": "Microsoft Ads",
+      "stories": []
+    },
+    {
+      "name": "Search & SEO",
+      "stories": []
+    },
+    {
+      "name": "Analytics",
+      "stories": []
+    },
+    {
+      "name": "Creative AI",
+      "stories": []
+    },
+    {
+      "name": "MarTech & Automation",
+      "stories": []
+    },
+    {
+      "name": "Ecommerce",
+      "stories": []
+    }
+  ]
+}

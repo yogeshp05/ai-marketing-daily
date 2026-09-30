@@ -120,9 +120,12 @@ def fetch_og_image(url):
                 return ""
             raw=response.read(500000).decode("utf-8",errors="ignore")
         patterns=[
-            r'<meta[^>]+property=["\\']og:image["\\'][^>]+content=["\\']([^"\\']+)["\\']',
-            r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+property=["\\']og:image["\\']',
-            r'<meta[^>]+name=["\\']twitter:image["\\'][^>]+content=["\\']([^"\\']+)["\\']'
+            r'<meta[^>]+property=["\\'](?:og:image|og:image:url)["\\'][^>]+content=["\\']([^"\\']+)["\\']',
+            r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+property=["\\'](?:og:image|og:image:url)["\\']',
+            r'<meta[^>]+name=["\\'](?:twitter:image|twitter:image:src)["\\'][^>]+content=["\\']([^"\\']+)["\\']',
+            r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+name=["\\'](?:twitter:image|twitter:image:src)["\\']',
+            r'<link[^>]+rel=["\\']image_src["\\'][^>]+href=["\\']([^"\\']+)["\\']',
+            r'<link[^>]+href=["\\']([^"\\']+)["\\'][^>]+rel=["\\']image_src["\\']'
         ]
         for pattern in patterns:
             match=re.search(pattern,raw,flags=re.I)

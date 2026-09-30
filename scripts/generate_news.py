@@ -9,7 +9,7 @@ from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data.json"
-MODEL = os.getenv("OPENAI_MODEL", "gpt-5.6-luna")
+MODEL = os.getenv("OPENAI_MODEL") or "gpt-5.6-luna"
 IST = ZoneInfo("Asia/Kolkata")
 NOW_UTC = datetime.now(timezone.utc)
 NOW_IST = NOW_UTC.astimezone(IST)

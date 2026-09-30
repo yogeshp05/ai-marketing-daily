@@ -3,7 +3,7 @@ import os
 import re
 import html
 import ssl
-from urllib.parse import urljoin
+from urllib.parse import urljoin, quote_plus
 from urllib.request import Request, urlopen
 from datetime import datetime, timezone
 from pathlib import Path
@@ -137,6 +137,26 @@ def fetch_og_image(url):
         pass
     return ""
 
+def fetch_relevant_image(title, source=""):
+    """Find a relevant freely hosted image from Wikimedia Commons when the publisher has none."""
+    try:
+        query = f"{title} {source}".strip()
+        api = ("https://commons.wikimedia.org/w/api.php?action=query&generator=search"
+               f"&gsrsearch={quote_plus(query)}&gsrnamespace=6&gsrlimit=5"
+               "&prop=imageinfo&iiprop=url&iiurlwidth=1200&format=json&origin=*")
+        request = Request(api, headers={"User-Agent": "AI-Marketing-Daily/1.0"})
+        with urlopen(request, timeout=12, context=ssl.create_default_context()) as response:
+            data = json.loads(response.read(1000000).decode("utf-8", errors="ignore"))
+        pages = data.get("query", {}).get("pages", {})
+        for page in pages.values():
+            info = (page.get("imageinfo") or [{}])[0]
+            image = info.get("thumburl") or info.get("url")
+            if image and re.match(r"^https?://", image):
+                return image
+    except Exception:
+        pass
+    return ""
+
 def add_images(payload):
     cache={}
     items=[payload["lead"]]+[story for section in payload["sections"] for story in section["stories"]]
@@ -144,9 +164,10 @@ def add_images(payload):
         url=clean_url(item.get("url"))
         if url not in cache:
             cache[url]=fetch_og_image(url) if url else ""
+            if not cache[url]:
+                cache[url]=fetch_relevant_image(item.get("title", ""), item.get("source", ""))
         item["image"]=cache[url]
     return payload
-
 def validate(payload):
     if payload.get("date") != NOW_IST.strftime("%-d %B %Y"):
         raise ValueError(f"Unexpected edition date: {payload.get('date')}")

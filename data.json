@@ -2,7 +2,7 @@
   "date": "30 September 2026",
   "lead": {
     "title": "OpenAI pushes ads deeper into the AI conversation",
-    "deck": "OpenAI is testing Sponsored Agents in ChatGPT, while also adding AI-assisted ad creation and Ads Manager creative tools. For marketers, the ad unit is moving closer to a conversational, agent-led customer journey.",
+    "deck": "OpenAI is testing Sponsored Agents in ChatGPT, alongside prompt-based ad creation and new AI creative tools. For marketers, the ad journey is moving closer to a conversational, agent-led experience.",
     "url": "https://openai.com/index/reimagining-advertising-with-ai/",
     "source": "OpenAI",
     "when": "16 Sep 2026"
@@ -24,21 +24,21 @@
       "stories": [
         {
           "title": "OpenAI tests Sponsored Agents for ChatGPT Ads",
-          "summary": "OpenAI is testing sponsored agents that let people start a conversation with a business-sponsored agent after clicking an ad. The company is also adding prompt-based ad creation and new AI creative capabilities in Ads Manager.",
+          "summary": "OpenAI is testing sponsored agents that let people start a conversation with a business-sponsored agent after clicking an ad. It is also adding prompt-based ad creation and new AI creative capabilities in Ads Manager.",
           "source": "OpenAI",
           "when": "16 Sep 2026",
           "url": "https://openai.com/index/reimagining-advertising-with-ai/"
         },
         {
           "title": "Meta launches an enterprise AI platform around agents",
-          "summary": "Meta says its new enterprise platform will bring products including Muse, Meta Business Agent, Muse API and Muse Code to businesses and developers. This expands the potential role of AI agents from consumer assistance into business operations and marketing workflows.",
+          "summary": "Meta says its new enterprise platform will bring Muse, Meta Business Agent, Muse API and Muse Code to businesses and developers. This expands the potential role of AI agents from consumer assistance into business operations and marketing workflows.",
           "source": "Meta",
           "when": "28 Sep 2026",
           "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/"
         },
         {
           "title": "Meta expands Muse into small-business workflows",
-          "summary": "Muse for Small Business can connect with tools such as Shopify, Canva, Klaviyo, Slack and business accounts, with approval controls before anything publishes, sends or spends. That makes cross-tool AI workflow automation more accessible to smaller marketing teams.",
+          "summary": "Muse for Small Business can connect tools such as Shopify, Canva, Klaviyo and Slack plus business accounts, with approval controls before anything publishes, sends or spends. This makes cross-tool AI workflow automation more accessible to smaller teams.",
           "source": "Meta",
           "when": "29 Sep 2026",
           "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/"
@@ -50,14 +50,14 @@
       "stories": [
         {
           "title": "Google expands AI Max briefing and reporting",
-          "summary": "Google is expanding AI Brief to additional languages and introducing reporting that connects search terms, creative assets and landing pages in one AI Max journey view. The change is aimed at improving visibility into how AI-driven Search performance is produced.",
+          "summary": "Google is expanding AI Brief to additional languages and introducing reporting that connects search terms, creative assets and landing pages in one AI Max journey view. The change is aimed at improving visibility into AI-driven Search performance.",
           "source": "Google Ads",
           "when": "23 Sep 2026",
           "url": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/"
         },
         {
           "title": "Google highlights Gemini Omni for on-brand video ads",
-          "summary": "Google Ads is promoting new creative capabilities using Gemini Omni to help advertisers create on-brand video assets faster. The development points toward tighter integration between generative creative production and campaign asset workflows.",
+          "summary": "Google Ads is highlighting Gemini Omni for creating on-brand video assets faster. The development points toward tighter integration between generative creative production and campaign asset workflows.",
           "source": "Google Ads",
           "when": "28 Sep 2026",
           "url": "https://business.google.com/us/accelerate/announcements/"
@@ -99,7 +99,7 @@
       "name": "Search & SEO",
       "stories": [
         {
-          "title": "Google documents new structured-data changes for local and video content",
+          "title": "Google documents new structured-data changes",
           "summary": "Google Search Central's September documentation updates include a new creator property for VideoObject and expanded documentation for local business queries in aggregator and supplier units. These changes matter for teams maintaining structured data and search eligibility.",
           "source": "Google Search Central",
           "when": "24 Sep 2026",
@@ -111,7 +111,7 @@
       "name": "Analytics",
       "stories": [
         {
-          "title": "Google AI Max reporting moves toward full journey visibility",
+          "title": "Google AI Max reporting moves toward journey visibility",
           "summary": "The new AI Max reporting view is designed to connect the search term that triggered an ad, the creative asset shown and the landing page reached. For performance teams, this could make AI-driven Search easier to audit at the query-to-landing-page level.",
           "source": "Google Ads",
           "when": "23 Sep 2026",
@@ -124,7 +124,7 @@
       "stories": [
         {
           "title": "Google Ads pushes Gemini Omni into video asset creation",
-          "summary": "Google's September 28 Ads announcement highlights Gemini Omni for creating on-brand video ads. The opportunity for marketers is faster creative iteration, provided brand controls and human review remain part of the workflow.",
+          "summary": "Google's September 28 Ads announcement highlights Gemini Omni for creating on-brand video ads. The opportunity is faster creative iteration, provided brand controls and human review remain part of the workflow.",
           "source": "Google Ads",
           "when": "28 Sep 2026",
           "url": "https://business.google.com/us/accelerate/announcements/"
@@ -142,7 +142,7 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "Meta's enterprise platform turns its AI stack into business tooling",
+          "title": "Meta turns its AI stack into business tooling",
           "summary": "Meta is packaging agents, APIs and coding capabilities for businesses and developers through its new enterprise platform. Agencies could use these capabilities as building blocks for operational automations, subject to access, permissions and review controls.",
           "source": "Meta",
           "when": "28 Sep 2026",
@@ -155,7 +155,7 @@
       "stories": [
         {
           "title": "Salesforce reports agentic search becoming a larger shopping entry point",
-          "summary": "Salesforce says agentic search as the first step in the purchase journey grew 200% year over year in its latest commerce research. The report also says traffic referred from AI chats grew substantially faster than overall traffic, reinforcing the need to measure AI-originated discovery.",
+          "summary": "Salesforce says agentic search as the first step in the purchase journey grew 200% year over year in its latest commerce research. It also reports that traffic referred from AI chats grew substantially faster than overall traffic, reinforcing the need to measure AI-originated discovery.",
           "source": "Salesforce",
           "when": "30 Sep 2026",
           "url": "https://www.salesforce.com/ap/news/press-releases/2026/09/shoppings-new-first-step-agentic-search-grows-200-as-purchase-journeys-start-in-ai-chats/?bc=OTH"

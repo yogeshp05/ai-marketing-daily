@@ -1,6 +1,10 @@
 import json
 import os
 import re
+import html
+import ssl
+from urllib.parse import urljoin
+from urllib.request import Request, urlopen
 from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -107,6 +111,38 @@ def clean_url(value):
     if not re.match(r"^https?://", value):
         return ""
     return value
+
+def fetch_og_image(url):
+    try:
+        request=Request(url,headers={"User-Agent":"Mozilla/5.0 (compatible; AI-Marketing-Daily/1.0)"})
+        with urlopen(request,timeout=12,context=ssl.create_default_context()) as response:
+            if "text/html" not in response.headers.get("content-type",""):
+                return ""
+            raw=response.read(500000).decode("utf-8",errors="ignore")
+        patterns=[
+            r'<meta[^>]+property=["\\']og:image["\\'][^>]+content=["\\']([^"\\']+)["\\']',
+            r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+property=["\\']og:image["\\']',
+            r'<meta[^>]+name=["\\']twitter:image["\\'][^>]+content=["\\']([^"\\']+)["\\']'
+        ]
+        for pattern in patterns:
+            match=re.search(pattern,raw,flags=re.I)
+            if match:
+                image=urljoin(url,html.unescape(match.group(1).strip()))
+                if re.match(r"^https?://",image):
+                    return image
+    except Exception:
+        pass
+    return ""
+
+def add_images(payload):
+    cache={}
+    items=[payload["lead"]]+[story for section in payload["sections"] for story in section["stories"]]
+    for item in items:
+        url=clean_url(item.get("url"))
+        if url not in cache:
+            cache[url]=fetch_og_image(url) if url else ""
+        item["image"]=cache[url]
+    return payload
 
 def validate(payload):
     if payload.get("date") != NOW_IST.strftime("%-d %B %Y"):

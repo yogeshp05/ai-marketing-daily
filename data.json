@@ -1,47 +1,47 @@
 {
-  "date": "30 September 2026",
+  "date": "1 October 2026",
   "lead": {
-    "title": "OpenAI pushes ads deeper into the AI conversation",
-    "deck": "OpenAI is testing Sponsored Agents in ChatGPT, alongside prompt-based ad creation and new AI creative tools. For marketers, the ad journey is moving closer to a conversational, agent-led experience.",
-    "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-    "source": "OpenAI",
-    "when": "16 Sep 2026"
+    "title": "Amazon Ads turns its ad platform into an agentic media-buying system",
+    "deck": "Amazon Ads Agent unifies sponsored ads, full-funnel campaigns and programmatic display/video/audio around conversational AI, while adding MCP connectivity and natural-language planning, optimization and analytics.",
+    "url": "https://advertising.amazon.com/library/news/amazon-ads-agent",
+    "source": "Amazon Ads",
+    "when": "29 Sep 2026"
   },
-  "note": "Editorial filter: only developments with practical relevance to digital marketing, performance marketing, SEO, analytics, ecommerce, CRO, creative production or automation.",
+  "note": "Editorial filter: developments from the latest 24–48 hours where possible. Confirmed launches and platform changes are prioritized; commentary and early signals are labeled separately.",
   "ticker": [
-    "AI agents",
-    "ChatGPT Ads",
-    "Google AI Max",
+    "Amazon Ads Agent",
     "Meta Muse",
-    "Microsoft AI Max",
+    "OpenAI Dots",
+    "Microsoft Ads + HubSpot",
+    "TikTok One API",
     "AI Search",
     "Agentic commerce",
-    "Marketing automation"
+    "MCP for Ads"
   ],
   "sections": [
     {
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "OpenAI tests Sponsored Agents for ChatGPT Ads",
-          "summary": "OpenAI is testing sponsored agents that let people start a conversation with a business-sponsored agent after clicking an ad. It is also adding prompt-based ad creation and new AI creative capabilities in Ads Manager.",
+          "title": "OpenAI launches always-on Dots for ongoing work",
+          "summary": "WHAT: OpenAI introduced Dots, persistent agents with a cloud computer, connected apps and recurring work. WHY: Marketing teams can move from one-off prompts to agents that continuously monitor and execute workflows. USE: Give a Dot responsibility for a daily competitor/news scan, campaign QA queue or reporting checklist, with human approval for consequential actions. TOOL: ChatGPT Dots. STATUS: Confirmed product launch.",
           "source": "OpenAI",
-          "when": "16 Sep 2026",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai/"
+          "when": "30 Sep 2026",
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
         },
         {
-          "title": "Meta launches an enterprise AI platform around agents",
-          "summary": "Meta says its new enterprise platform will bring Muse, Meta Business Agent, Muse API and Muse Code to businesses and developers. This expands the potential role of AI agents from consumer assistance into business operations and marketing workflows.",
-          "source": "Meta",
-          "when": "28 Sep 2026",
-          "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/"
-        },
-        {
-          "title": "Meta expands Muse into small-business workflows",
-          "summary": "Muse for Small Business can connect tools such as Shopify, Canva, Klaviyo and Slack plus business accounts, with approval controls before anything publishes, sends or spends. This makes cross-tool AI workflow automation more accessible to smaller teams.",
+          "title": "Meta expands Muse into connected small-business workflows",
+          "summary": "WHAT: Muse for Small Business connects tools including Shopify, Klaviyo, Canva, Slack and business accounts, while requiring approval before publishing, sending or spending. WHY: An agent can work across marketing, commerce and operations instead of living inside one app. USE: Connect ecommerce, CRM and creative tools to research customers, prepare campaigns and surface follow-ups for approval. TOOL: Meta Muse. STATUS: Confirmed product update.",
           "source": "Meta",
           "when": "29 Sep 2026",
           "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/"
+        },
+        {
+          "title": "Meta packages Muse, Business Agent and Muse API for enterprises",
+          "summary": "WHAT: Meta launched Meta Enterprise Platform around Muse, Meta Business Agent, Muse API and Muse Code. WHY: Agencies and brands can increasingly treat Meta's AI capabilities as building blocks for business workflows. USE: Explore agent-assisted campaign operations, customer support and internal marketing automation where APIs and permissions permit. TOOL: Meta Enterprise Platform. STATUS: Confirmed announcement.",
+          "source": "Meta",
+          "when": "28 Sep 2026",
+          "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/"
         }
       ]
     },
@@ -49,18 +49,18 @@
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Google expands AI Max briefing and reporting",
-          "summary": "Google is expanding AI Brief to additional languages and introducing reporting that connects search terms, creative assets and landing pages in one AI Max journey view. The change is aimed at improving visibility into AI-driven Search performance.",
+          "title": "Google's AI Max reporting connects search terms, assets and landing pages",
+          "summary": "WHAT: Google is expanding AI Max reporting to provide more visibility across the search term, creative asset and landing-page journey. WHY: Automation is harder to audit when query-to-ad-to-LP relationships are opaque. USE: Use the journey view during weekly QA to identify mismatched intent, weak assets and landing pages that need refinement. TOOL: Google Ads AI Max. STATUS: Confirmed product update.",
           "source": "Google Ads",
           "when": "23 Sep 2026",
           "url": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/"
         },
         {
-          "title": "Google highlights Gemini Omni for on-brand video ads",
-          "summary": "Google Ads is highlighting Gemini Omni for creating on-brand video assets faster. The development points toward tighter integration between generative creative production and campaign asset workflows.",
-          "source": "Google Ads",
-          "when": "28 Sep 2026",
-          "url": "https://business.google.com/us/accelerate/announcements/"
+          "title": "Google continues building ads for AI Mode and conversational Search",
+          "summary": "WHAT: Google is testing Gemini-powered ad formats in AI Mode, including conversational discovery and AI-assisted product guidance. WHY: Search advertising is moving beyond a keyword-and-SERP interaction toward richer decision support. USE: Prepare structured product/service information, strong landing pages and assets that can support conversational evaluation. TOOL: Google Search AI Mode and Google Ads. STATUS: Confirmed testing; availability varies.",
+          "source": "Google",
+          "when": "20 May 2026",
+          "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
         }
       ]
     },
@@ -68,8 +68,8 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "Meta connects Muse with business tools and accounts",
-          "summary": "Meta's small-business Muse rollout can connect multiple work and marketing tools plus Facebook and Instagram business accounts. The practical implication is a move toward AI agents that can coordinate marketing operations rather than only generate copy.",
+          "title": "Meta's AI stack is moving closer to campaign operations",
+          "summary": "WHAT: Muse can connect to Facebook and Instagram business accounts alongside commerce, CRM and creative tools. WHY: The same agent can potentially understand business context across creative, customer and ad workflows. USE: Test an approval-based workflow that turns business goals into campaign research, creative drafts and operational checklists rather than allowing autonomous publishing. TOOL: Meta Muse + Meta business accounts. STATUS: Confirmed rollout.",
           "source": "Meta",
           "when": "29 Sep 2026",
           "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/"
@@ -80,18 +80,44 @@
       "name": "Microsoft Ads",
       "stories": [
         {
-          "title": "Microsoft AI Max for Search reaches all advertisers",
-          "summary": "Microsoft says AI Max combines search-term matching, text customization and final URL expansion for Search campaigns. It is designed to capture more conversational intent while giving advertisers reporting and controls to guide the automation.",
+          "title": "Microsoft Advertising brings campaign revenue data into HubSpot",
+          "summary": "WHAT: Microsoft Advertising is now available in HubSpot so CRM data can be used to reach high-value audiences and connect campaigns with pipeline and revenue. WHY: Lead-gen optimization can move beyond form fills toward downstream business outcomes. USE: Map qualified-lead and revenue stages into reporting before changing bidding or budget decisions. TOOL: Microsoft Advertising + HubSpot. STATUS: Confirmed product update.",
           "source": "Microsoft Advertising",
-          "when": "27 Aug 2026",
-          "url": "https://www.about.ads.microsoft.com/en/blog/post/august-2026/reimagining-search-campaigns-for-the-ai-era-with-ai-max"
+          "when": "30 Sep 2026",
+          "url": "https://www.about.ads.microsoft.com/en/blog/post/september-2026/less-busywork-more-growth-what-new-in-microsoft-advertising-this-september"
         },
         {
-          "title": "Microsoft Advertising MCP connects ad data to AI assistants",
-          "summary": "Microsoft says its Advertising MCP server can connect live advertising data to AI assistants such as Microsoft 365 Copilot, ChatGPT and Claude for reporting, audits and keyword research. This creates a practical path toward agentic account-management workflows while retaining human review.",
+          "title": "Microsoft raises LinkedIn company-list limits to 10,000 accounts",
+          "summary": "WHAT: Advertisers can now add up to 10,000 company names per LinkedIn company list, up from 1,000, for supported Search and Audience campaigns. WHY: B2B teams can operationalize much larger account-based marketing lists. USE: Build segmented target-account lists by industry, tier or sales stage and test them against broader prospecting. TOOL: Microsoft Advertising + LinkedIn profile targeting. STATUS: Confirmed product update.",
           "source": "Microsoft Advertising",
-          "when": "31 Aug 2026",
-          "url": "https://www.about.ads.microsoft.com/en/blog/post/august-2026/ai-max-for-search-and-other-product-news-for-august-2026"
+          "when": "30 Sep 2026",
+          "url": "https://www.about.ads.microsoft.com/en/blog/post/september-2026/less-busywork-more-growth-what-new-in-microsoft-advertising-this-september"
+        },
+        {
+          "title": "Microsoft makes optimization experiments generally available",
+          "summary": "WHAT: Controlled experiments are now generally available for Search, Shopping, Audience and Performance Max campaigns. WHY: Automated bidding and targeting need structured testing rather than assumption-based rollouts. USE: Test one material change at a time, compare against the original campaign, then apply a validated winner. TOOL: Microsoft Advertising Optimization Experiments. STATUS: Confirmed availability.",
+          "source": "Microsoft Advertising",
+          "when": "30 Sep 2026",
+          "url": "https://www.about.ads.microsoft.com/en/blog/post/september-2026/less-busywork-more-growth-what-new-in-microsoft-advertising-this-september"
+        },
+        {
+          "title": "Microsoft extends the SOAP-to-REST API migration deadline",
+          "summary": "WHAT: Microsoft will keep new features available in both SOAP and REST until SOAP is deprecated on 31 Jan 2027. WHY: Agencies with custom reporting, automation or bid-management integrations have more migration time but should not delay indefinitely. USE: Inventory SOAP dependencies, migrate critical jobs to REST, and regression-test reporting before the final deadline. TOOL: Microsoft Advertising REST API. STATUS: Confirmed API policy change.",
+          "source": "Microsoft Advertising",
+          "when": "30 Sep 2026",
+          "url": "https://www.about.ads.microsoft.com/en/blog/post/september-2026/less-busywork-more-growth-what-new-in-microsoft-advertising-this-september"
+        }
+      ]
+    },
+    {
+      "name": "TikTok Ads",
+      "stories": [
+        {
+          "title": "TikTok One Content Suite API turns creator content into Spark Ads",
+          "summary": "WHAT: TikTok says ShopMy Spotlights can use the TikTok One Content Suite API to turn high-performing affiliate creator content into Spark Ads. WHY: Creator-content discovery and paid amplification are becoming more programmatic. USE: Identify proven creator assets, obtain permissions, then scale the strongest content into paid campaigns instead of producing every ad from scratch. TOOL: TikTok One Content Suite API + Spark Ads. STATUS: Confirmed partner/API announcement.",
+          "source": "TikTok for Business",
+          "when": "30 Sep 2026",
+          "url": "https://ads.tiktok.com/business/en-US/blog"
         }
       ]
     },
@@ -99,9 +125,16 @@
       "name": "Search & SEO",
       "stories": [
         {
-          "title": "Google documents new structured-data changes",
-          "summary": "Google Search Central's September documentation updates include a new creator property for VideoObject and expanded documentation for local business queries in aggregator and supplier units. These changes matter for teams maintaining structured data and search eligibility.",
+          "title": "Google Search Central holds a Deep Dive Europe session on AI-era Search",
+          "summary": "WHAT: Google Search Central's Deep Dive Europe took place on 30 Sep, with Search-focused sessions from Google's team. WHY: First-party guidance remains important as AI Search, structured data and SERP behavior evolve. USE: Treat Google documentation and Search Central guidance as the source of truth before changing technical SEO or AEO workflows based on third-party speculation. TOOL: Google Search Central. STATUS: Confirmed event; specific session takeaways should be verified against published guidance.",
           "source": "Google Search Central",
+          "when": "30 Sep 2026",
+          "url": "https://developers.google.com/search/events"
+        },
+        {
+          "title": "Google's September spam update remains a live SEO monitoring item",
+          "summary": "WHAT: Google's September 2026 spam update began rolling out on 24 Sep. WHY: Ranking volatility during a core search-system change can be mistaken for site-specific technical problems. USE: Segment organic traffic by query type, landing page and country, and wait for the rollout to complete before making major reactive SEO changes. TOOL: Google Search Console. STATUS: Confirmed Google update; industry reporting is monitoring impact.",
+          "source": "Google Search",
           "when": "24 Sep 2026",
           "url": "https://developers.google.com/search/updates"
         }
@@ -111,11 +144,11 @@
       "name": "Analytics",
       "stories": [
         {
-          "title": "Google AI Max reporting moves toward journey visibility",
-          "summary": "The new AI Max reporting view is designed to connect the search term that triggered an ad, the creative asset shown and the landing page reached. For performance teams, this could make AI-driven Search easier to audit at the query-to-landing-page level.",
-          "source": "Google Ads",
-          "when": "23 Sep 2026",
-          "url": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/"
+          "title": "OpenAI Ads API adds selectable attribution windows and time basis",
+          "summary": "WHAT: OpenAI's Advertiser API changelog says all four Insights endpoints now support selectable click/view attribution windows and time basis; omitted settings default to 30-day click, 1-day view and ad-event time. WHY: API-based reporting can change when conversion totals are defined differently. USE: Lock attribution settings explicitly in dashboards and compare historical reports carefully before calling a trend a performance change. TOOL: OpenAI Ads Advertiser API. STATUS: Confirmed API update.",
+          "source": "OpenAI Developers",
+          "when": "30 Sep 2026",
+          "url": "https://developers.openai.com/ads/api-overview"
         }
       ]
     },
@@ -123,18 +156,11 @@
       "name": "Creative AI & Design",
       "stories": [
         {
-          "title": "Google Ads pushes Gemini Omni into video asset creation",
-          "summary": "Google's September 28 Ads announcement highlights Gemini Omni for creating on-brand video ads. The opportunity is faster creative iteration, provided brand controls and human review remain part of the workflow.",
-          "source": "Google Ads",
-          "when": "28 Sep 2026",
-          "url": "https://business.google.com/us/accelerate/announcements/"
-        },
-        {
-          "title": "OpenAI adds AI creative tools to Ads Manager",
-          "summary": "OpenAI says its Ads Manager is gaining new AI creative tools alongside prompt-based ad creation in ChatGPT Work. This brings creative generation closer to campaign-building workflows.",
-          "source": "OpenAI",
-          "when": "16 Sep 2026",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai/"
+          "title": "Amazon Ads adds AI-assisted creative production to Full-Funnel Campaigns",
+          "summary": "WHAT: Amazon's Full-Funnel Campaigns can generate additional images and TV-ready video assets when needed, with advertiser approval before launch. WHY: Media planning and creative production are converging inside the buying workflow. USE: Test AI-generated variants for prospecting while keeping brand review and final approval human-controlled. TOOL: Amazon Ads Agent / Full-Funnel Campaigns. STATUS: Confirmed open beta in the US.",
+          "source": "Amazon Ads",
+          "when": "29 Sep 2026",
+          "url": "https://advertising.amazon.com/resources/whats-new/full-funnel-campaigns-from-discovery-to-sales"
         }
       ]
     },
@@ -142,11 +168,18 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "Meta turns its AI stack into business tooling",
-          "summary": "Meta is packaging agents, APIs and coding capabilities for businesses and developers through its new enterprise platform. Agencies could use these capabilities as building blocks for operational automations, subject to access, permissions and review controls.",
-          "source": "Meta",
-          "when": "28 Sep 2026",
-          "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/"
+          "title": "Amazon Ads launches an MCP Server Lite for agent workflows",
+          "summary": "WHAT: Amazon Ads announced an MCP Server (Lite) that helps agents discover and invoke advertising capabilities without loading the full toolset upfront. WHY: MCP can become a standard bridge between marketing data and AI agents. USE: Explore a read-only campaign-analysis agent first, then add tightly scoped actions with approval gates. TOOL: Amazon Ads MCP Server (Lite). STATUS: Confirmed announcement.",
+          "source": "Amazon Ads",
+          "when": "29 Sep 2026",
+          "url": "https://advertising.amazon.com/library/news/unboxed-2026-news-announcements"
+        },
+        {
+          "title": "Microsoft Advertising's REST migration becomes a key automation deadline",
+          "summary": "WHAT: Microsoft extended the SOAP deprecation deadline to 31 Jan 2027 while keeping new features in both APIs temporarily. WHY: Reporting, automation and internal tooling that still depend on SOAP need a migration plan. USE: Create a dependency inventory now and test REST equivalents in parallel rather than waiting for the cutoff. TOOL: Microsoft Advertising API / SDK. STATUS: Confirmed policy update.",
+          "source": "Microsoft Advertising",
+          "when": "30 Sep 2026",
+          "url": "https://www.about.ads.microsoft.com/en/blog/post/september-2026/less-busywork-more-growth-what-new-in-microsoft-advertising-this-september"
         }
       ]
     },
@@ -154,11 +187,25 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "Salesforce reports agentic search becoming a larger shopping entry point",
-          "summary": "Salesforce says agentic search as the first step in the purchase journey grew 200% year over year in its latest commerce research. It also reports that traffic referred from AI chats grew substantially faster than overall traffic, reinforcing the need to measure AI-originated discovery.",
-          "source": "Salesforce",
-          "when": "30 Sep 2026",
-          "url": "https://www.salesforce.com/ap/news/press-releases/2026/09/shoppings-new-first-step-agentic-search-grows-200-as-purchase-journeys-start-in-ai-chats/?bc=OTH"
+          "title": "Amazon opens Full-Funnel Campaigns in the US",
+          "summary": "WHAT: Full-Funnel Campaigns is in open beta for US Amazon sellers, using one budget and an AI optimization engine across sponsored ads, display, video and streaming TV. WHY: Retail media is moving toward cross-format orchestration rather than isolated campaign management. USE: Test it as an incremental prospecting layer with a defined ROAS or sales-growth guardrail while preserving existing campaigns. TOOL: Amazon Ads Agent / Full-Funnel Campaigns. STATUS: Confirmed open beta.",
+          "source": "Amazon Ads",
+          "when": "29 Sep 2026",
+          "url": "https://advertising.amazon.com/resources/whats-new/full-funnel-campaigns-from-discovery-to-sales"
+        },
+        {
+          "title": "Amazon introduces Branded Conversations for AI shopping",
+          "summary": "WHAT: Branded Conversations lets brands provide expertise that Alexa for Shopping can use in product conversations, extending Sponsored Brands prompts into deeper AI-assisted shopping dialogue. WHY: Product discovery can increasingly happen inside an AI conversation rather than a traditional results page. USE: Prepare structured product expertise, differentiators and complementary-product guidance that an AI shopping assistant can use accurately. TOOL: Amazon Ads / Alexa for Shopping. STATUS: Confirmed announcement.",
+          "source": "Amazon Ads",
+          "when": "29 Sep 2026",
+          "url": "https://advertising.amazon.com/library/news/branded-conversations-review-requests"
+        },
+        {
+          "title": "Amazon launches Sponsored Services for local service providers",
+          "summary": "WHAT: Sponsored Services uses AI intent detection to connect Amazon customers with local and online service providers and supports outcomes such as quote requests, calls and ordering. WHY: Retail-media intent signals are expanding into service lead generation. USE: Local businesses can evaluate Amazon as an additional demand-capture channel when their services align with relevant product or shopping moments. TOOL: Amazon Ads Sponsored Services. STATUS: Confirmed launch announcement.",
+          "source": "Amazon Ads",
+          "when": "29 Sep 2026",
+          "url": "https://advertising.amazon.com/resources/whats-new/sponsored-services-capture-demand-now"
         }
       ]
     }

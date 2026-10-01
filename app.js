@@ -1,8 +1,26 @@
 const dataUrl='data.json';
 const fallbackDataUrl='https://raw.githubusercontent.com/yogeshp05/ai-marketing-daily/main/data.json';
-const topicImage=(title,section='')=>{const q=(section+' '+title).toLowerCase();let tags='marketing,technology,ai';if(/microsoft|bing|linkedin/.test(q))tags='microsoft,technology,business';else if(/meta|facebook|instagram/.test(q))tags='social-media,technology,business';else if(/amazon|shopping|ecommerce/.test(q))tags='ecommerce,shopping,technology';else if(/google|search|seo/.test(q))tags='search,technology,marketing';else if(/tiktok|creator/.test(q))tags='social-media,creator,technology';else if(/openai|agent|mcp/.test(q))tags='artificial-intelligence,technology,computer';return 'https://loremflickr.com/1200/700/'+tags+'?lock='+encodeURIComponent(title).slice(0,60)};
-const imageFor=(image,title,section)=>image||topicImage(title,section);
-const safeImage=(src,alt,cls='')=>src?'<img class="'+cls+'" src="'+src+'" alt="'+alt+'" loading="lazy" onerror="this.onerror=null;this.style.display=\'none\'">':'';
+
+const escapeXml=(s='')=>s.replace(/[<>&'"]/g,m=>({'<':'&lt;','>':'&gt;','&':'&amp;',"'":'&apos;','"':'&quot;'}[m]));
+const fallbackImage=(title='',section='')=>{
+  const label=section||'AI MARKETING';
+  const text=(title||'Daily intelligence').slice(0,70);
+  const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#334155"/></linearGradient></defs>
+  <rect width="1200" height="700" fill="url(#g)"/>
+  <circle cx="980" cy="130" r="210" fill="none" stroke="#94a3b8" stroke-opacity=".25" stroke-width="2"/>
+  <circle cx="980" cy="130" r="140" fill="none" stroke="#94a3b8" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M760 430 L900 290 L1010 380 L1120 230" fill="none" stroke="#e2e8f0" stroke-width="5" opacity=".65"/>
+  <text x="70" y="100" font-family="Arial,sans-serif" font-size="28" letter-spacing="5" fill="#cbd5e1">${escapeXml(label.toUpperCase())}</text>
+  <text x="70" y="250" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="white">${escapeXml(text)}</text>
+  <text x="70" y="610" font-family="Arial,sans-serif" font-size="24" fill="#cbd5e1">AI MARKETING DAILY</text>
+  </svg>`;
+  return 'data:image/svg+xml;charset=UTF-8,'+encodeURIComponent(svg);
+};
+const topicImage=(title,section='')=>fallbackImage(title,section);
+const imageFor=(image,title,section)=>image||fallbackImage(title,section);
+const safeImage=(src,alt,cls='',fallback='')=>src?'<img class="'+cls+'" src="'+src+'" alt="'+alt+'" loading="lazy" onerror="this.onerror=null;this.src=\''+fallback+'\'">':'';
+
 async function loadData(){
   try{
     const r=await fetch(dataUrl+'?v='+Date.now(),{cache:'no-store'});
@@ -24,7 +42,12 @@ async function init(){
   const leadImage=document.getElementById('leadImage');
   if(leadImage){
     const src=imageFor(d.lead.image,d.lead.title,'Lead Story');
-    if(src){leadImage.src=src;leadImage.alt=d.lead.title;leadImage.hidden=false;}
+    if(src){
+      leadImage.src=src;
+      leadImage.alt=d.lead.title;
+      leadImage.hidden=false;
+      leadImage.onerror=()=>{leadImage.onerror=null;leadImage.src=fallbackImage(d.lead.title,'Lead Story');};
+    }
   }
   document.getElementById('note').textContent=d.note;
   document.getElementById('nav').innerHTML=d.sections.map(s=>'<a href="#'+slug(s.name)+'">'+s.name+'</a>').join('');
@@ -33,7 +56,7 @@ async function init(){
 }
 function story(s){
   const img=imageFor(s.image,s.title,s.section||'AI Marketing');
-  return '<article class="story">'+safeImage(img,s.title,'story-image')+'<div class="meta">'+s.source+' · '+s.when+'</div><h4><a href="'+s.url+'" target="_blank" rel="noopener">'+s.title+'</a></h4><p>'+s.summary+'</p></article>';
+  return '<article class="story">'+safeImage(img,s.title,'story-image',fallbackImage(s.title,s.section||'AI Marketing'))+'<div class="meta">'+s.source+' · '+s.when+'</div><h4><a href="'+s.url+'" target="_blank" rel="noopener">'+s.title+'</a></h4><p>'+s.summary+'</p></article>';
 }
 function slug(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')}
 init().catch(error=>{

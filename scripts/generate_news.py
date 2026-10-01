@@ -121,12 +121,12 @@ def fetch_og_image(url):
                 return ""
             raw=response.read(500000).decode("utf-8",errors="ignore")
         patterns=[
-            r'<meta[^>]+property=["\\'](?:og:image|og:image:url)["\\'][^>]+content=["\\']([^"\\']+)["\\']',
-            r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+property=["\\'](?:og:image|og:image:url)["\\']',
-            r'<meta[^>]+name=["\\'](?:twitter:image|twitter:image:src)["\\'][^>]+content=["\\']([^"\\']+)["\\']',
-            r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+name=["\\'](?:twitter:image|twitter:image:src)["\\']',
-            r'<link[^>]+rel=["\\']image_src["\\'][^>]+href=["\\']([^"\\']+)["\\']',
-            r'<link[^>]+href=["\\']([^"\\']+)["\\'][^>]+rel=["\\']image_src["\\']'
+            r"""<meta[^>]+property=["'](?:og:image|og:image:url)["'][^>]+content=["']([^"']+)["']""",
+            r"""<meta[^>]+content=["']([^"']+)["'][^>]+property=["'](?:og:image|og:image:url)["']""",
+            r"""<meta[^>]+name=["'](?:twitter:image|twitter:image:src)["'][^>]+content=["']([^"']+)["']""",
+            r"""<meta[^>]+content=["']([^"']+)["'][^>]+name=["'](?:twitter:image|twitter:image:src)["']""",
+            r"""<link[^>]+rel=["']image_src["'][^>]+href=["']([^"']+)["']""",
+            r"""<link[^>]+href=["']([^"']+)["'][^>]+rel=["']image_src["']"""
         ]
         for pattern in patterns:
             match=re.search(pattern,raw,flags=re.I)
@@ -242,6 +242,7 @@ Return only the requested structured JSON. Use exact source URLs from your web r
 
     payload = json.loads(response.output_text)
     payload = validate(payload)
+    payload = add_images(payload)
     payload["generated_at"] = NOW_IST.isoformat()
     payload["engine"] = {
         "model": MODEL,

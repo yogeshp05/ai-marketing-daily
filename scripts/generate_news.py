@@ -23,9 +23,10 @@ CATEGORIES = [
     "Google Ads",
     "Meta Ads",
     "Microsoft Ads",
+    "TikTok Ads",
     "Search & SEO",
     "Analytics",
-    "Creative AI",
+    "Creative AI & Design",
     "MarTech & Automation",
     "Ecommerce",
 ]
@@ -51,8 +52,8 @@ SCHEMA = {
         "ticker": {"type": "array", "items": {"type": "string"}, "minItems": 4, "maxItems": 10},
         "sections": {
             "type": "array",
-            "minItems": 9,
-            "maxItems": 9,
+            "minItems": 10,
+            "maxItems": 10,
             "items": {
                 "type": "object",
                 "additionalProperties": False,
@@ -172,7 +173,7 @@ def validate(payload):
     if payload.get("date") != NOW_IST.strftime("%-d %B %Y"):
         raise ValueError(f"Unexpected edition date: {payload.get('date')}")
     if len(payload.get("sections", [])) != len(CATEGORIES):
-        raise ValueError("Expected exactly 9 sections")
+        raise ValueError("Expected exactly 10 sections")
 
     names = [s.get("name") for s in payload["sections"]]
     if names != CATEGORIES:

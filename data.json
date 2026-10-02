@@ -1,5 +1,5 @@
 {
-  "date": "1 October 2026",
+  "date": "2 October 2026",
   "lead": {
     "title": "Amazon Ads turns its ad platform into an agentic media-buying system",
     "deck": "Amazon Ads Agent unifies sponsored ads, full-funnel campaigns and programmatic display/video/audio around conversational AI, while adding MCP connectivity and natural-language planning, optimization and analytics.",
@@ -7,7 +7,7 @@
     "source": "Amazon Ads",
     "when": "29 Sep 2026"
   },
-  "note": "Editorial filter: developments from the latest 24–48 hours where possible. Confirmed launches and platform changes are prioritized; commentary and early signals are labeled separately.",
+  "note": "Manually published from the latest saved research after automated generation ran out of API credits. Coverage includes developments announced through 30 September; some background items are older than the preferred 24–48-hour window and are retained for context.",
   "ticker": [
     "Amazon Ads Agent",
     "Meta Muse",

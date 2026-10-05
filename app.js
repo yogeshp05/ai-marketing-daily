@@ -52,8 +52,9 @@ async function init(){
   document.getElementById('note').textContent=d.note;
   document.getElementById('nav').innerHTML=d.sections.map(s=>'<a href="#'+slug(s.name)+'">'+s.name+'</a>').join('');
   document.getElementById('ticker').textContent=d.ticker.join(' • ');
-  document.getElementById('sections').innerHTML=d.sections.map(s=>'<section class="section" id="'+slug(s.name)+'"><h3>'+s.name+'</h3><div class="grid">'+(s.stories||[]).map(st=>story({...st,section:s.name})).join('')+'</div></section>').join('');
+  document.getElementById('sections').innerHTML=d.sections.map(s=>'<section class="section" id="'+slug(s.name)+'"><h3>'+s.name+'</h3><div class="grid">'+(s.stories||[]).map(st=>story({...st,section:s.name})).join('')+'</div></section>').join('')+summarySection(d.summary);
 }
+function summarySection(s){ if(!s) return ''; return '<section class="section summary-section" id="what-s-actually-new"><h3>'+s.title+'</h3><p class="summary-intro">'+s.intro+'</p>'+(s.topics||[]).map(t=>'<article class="story summary-topic"><div class="meta">'+t.status+'</div><h4>'+t.topic+'</h4><p><strong>Common context:</strong> '+t.common_context+'</p><ul>'+(t.unique_points||[]).map(p=>'<li><strong>'+p.source+' · '+p.when+':</strong> '+p.point+' <a href="'+p.url+'" target="_blank" rel="noopener">Source</a></li>').join('')+'</ul><p><strong>Bottom line:</strong> '+t.bottom_line+'</p></article>').join('')+'</section>'; }
 function story(s){
   const img=imageFor(s.image,s.title,s.section||'AI Marketing');
   return '<article class="story">'+safeImage(img,s.title,'story-image',fallbackImage(s.title,s.section||'AI Marketing'))+'<div class="meta">'+s.source+' · '+s.when+'</div><h4><a href="'+s.url+'" target="_blank" rel="noopener">'+s.title+'</a></h4><p>'+s.summary+'</p></article>';

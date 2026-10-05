@@ -50,6 +50,43 @@ SCHEMA = {
         },
         "note": {"type": "string"},
         "ticker": {"type": "array", "items": {"type": "string"}, "minItems": 4, "maxItems": 10},
+        "summary": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "title": {"type": "string"},
+                "intro": {"type": "string"},
+                "topics": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "properties": {
+                            "topic": {"type": "string"},
+                            "status": {"type": "string"},
+                            "common_context": {"type": "string"},
+                            "unique_points": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "additionalProperties": false,
+                                    "properties": {
+                                        "source": {"type": "string"},
+                                        "when": {"type": "string"},
+                                        "point": {"type": "string"},
+                                        "url": {"type": "string"}
+                                    },
+                                    "required": ["source", "when", "point", "url"]
+                                }
+                            },
+                            "bottom_line": {"type": "string"}
+                        },
+                        "required": ["topic", "status", "common_context", "unique_points", "bottom_line"]
+                    }
+                }
+            },
+            "required": ["title", "intro", "topics"]
+        },
         "sections": {
             "type": "array",
             "minItems": 10,
@@ -80,7 +117,7 @@ SCHEMA = {
             },
         },
     },
-    "required": ["date", "lead", "note", "ticker", "sections"],
+    "required": ["date", "lead", "note", "ticker", "sections", "summary"],
 }
 
 SYSTEM = """You are the editor of AI Marketing Daily, a specialist daily newspaper for digital and performance marketers.

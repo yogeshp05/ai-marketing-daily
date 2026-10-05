@@ -142,6 +142,14 @@ Hard rules:
 - "when" should be a compact date such as "30 Sep 2026" or "29 Sep 2026".
 - Select one lead story that has the broadest practical significance for digital/performance marketing.
 - Keep the entire edition concise: normally 1-3 strong stories per category, maximum 4.
+
+Cross-source synthesis requirement:
+- At the END of every edition, create a "Summary — What’s Actually New" section.
+- Cluster multiple articles covering the same underlying development.
+- Suppress repeated/common facts and extract only incremental information from each source: new capabilities, connectors, rollout details, pricing, adoption evidence, limitations, tests, dates, partnerships, technical architecture or independently reported implications.
+- Clearly distinguish confirmed facts from commentary or early testing.
+- Include source URLs for each unique point.
+- Do not fabricate differences when only one meaningful source exists; state that the topic has limited independent coverage instead.
 """
 
 def clean_url(value):

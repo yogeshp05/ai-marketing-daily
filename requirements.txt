@@ -1,1 +1,1 @@
-openai>=1.109.0,<2
+# AI Marketing Daily uses Python standard library only; no API credits required.\n

@@ -52,7 +52,7 @@ SCHEMA = {
         "ticker": {"type": "array", "items": {"type": "string"}, "minItems": 4, "maxItems": 10},
         "summary": {
             "type": "object",
-            "additionalProperties": false,
+            "additionalProperties": False,
             "properties": {
                 "title": {"type": "string"},
                 "intro": {"type": "string"},
@@ -60,7 +60,7 @@ SCHEMA = {
                     "type": "array",
                     "items": {
                         "type": "object",
-                        "additionalProperties": false,
+                        "additionalProperties": False,
                         "properties": {
                             "topic": {"type": "string"},
                             "status": {"type": "string"},
@@ -69,7 +69,7 @@ SCHEMA = {
                                 "type": "array",
                                 "items": {
                                     "type": "object",
-                                    "additionalProperties": false,
+                                    "additionalProperties": False,
                                     "properties": {
                                         "source": {"type": "string"},
                                         "when": {"type": "string"},

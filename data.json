@@ -1,1 +1,459 @@
-{"date":"6 October 2026","author":"Yogesh Raghupati","lead":{"title":"OpenAI Adds Visual Ads to ChatGPT and Expands Conversion Measurement","deck":"OpenAI will test image-based sponsored placements during ChatGPT image generation in the U.S. later this month, while adding measurement integrations with Hightouch, Tealium and LiveRamp.","url":"https://openai.com/index/new-chatgpt-ads-format-and-measurement/","source":"OpenAI","when":"5 Oct 2026","image":""},"note":"Confirmed product announcements are separated from broader commentary. This edition prioritizes actionable developments and uses primary sources wherever available. Research window: approximately the last 24–48 hours, with a small number of directly relevant recent platform updates included for context.","ticker":["OpenAI: visual ChatGPT ads + expanded measurement","TikTok: agentic advertising updates across discovery, action and measurement","TikTok Ad Network now generally available for U.S. targeting","Amazon Ads: agentic buying experience, Branded Conversations and Full-Funnel Campaigns","Meta Muse: connected business tools, analytics and ad accounts","Microsoft: AI Economy playbook for AI discovery, GEO and agent-ready marketing"],"sections":[{"name":"AI & Agents","stories":[{"title":"TikTok Unveils AI-Powered Updates for Advertisers","summary":"TikTok announced agentic solutions spanning discovery, intent, action and measurement. The practical shift is toward AI systems that help move users from questions and exploration toward action, rather than treating AI only as a creative-generation layer.","source":"TikTok","when":"5 Oct 2026","url":"https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes","image":""},{"title":"Amazon Ads Agent Unifies the Buying Experience","summary":"Amazon says its Ads Agent brings Sponsored Ads, Full-Funnel Campaigns and DVA+ into a unified buying experience, with conversational AI now in expanded closed beta. Marketers can use the agent to ask questions, get recommendations and take advertising actions through natural dialogue.","source":"Amazon Ads","when":"30 Sep 2026","url":"https://advertising.amazon.com/library/news/unboxed-2026-news-announcements","image":""},{"title":"Meta Expands Muse for Small Business With Business Connectors","summary":"Muse can connect Facebook and Instagram business accounts plus tools including Shopify, Canva, Klaviyo, Slack, Stripe and Notion. Meta says nothing publishes, sends or spends without approval. A practical use is asking Muse to analyze campaigns and draft the next campaign using connected business context.","source":"Meta","when":"29 Sep 2026","url":"https://about.fb.com/news/2026/09/introducing-muse-small-business/","image":""}]},{"name":"Google Ads","stories":[{"title":"Google Ads: No New Major Product Announcement in the Last 24 Hours","summary":"No clearly confirmed major Google Ads product launch surfaced in the current 24-hour primary-source scan. The Google Ads status dashboard currently shows an active Google Ad Manager incident, not a Google Ads/Search outage.","source":"Google Ads","when":"6 Oct 2026","url":"https://ads.google.com/status/publisher/","image":""}]},{"name":"Meta Ads","stories":[{"title":"Muse Connects Business Context Directly to Meta Ad Accounts","summary":"The important incremental point in Meta's Muse rollout is the connection between the agent and Facebook/Instagram business analytics and Meta ad accounts. This makes campaign analysis and planning part of a broader agent workflow instead of a standalone ads task.","source":"Meta","when":"29 Sep 2026","url":"https://about.fb.com/news/2026/09/introducing-muse-small-business/","image":""}]},{"name":"Microsoft Ads","stories":[{"title":"Microsoft Frames AI Marketing Around AI Discovery and Agentic Selection","summary":"Microsoft's AI Economy guidance emphasizes that brands now need to be discoverable and accurately represented inside AI answers, not only ranked in conventional search. Its stack includes Clarity/GEO insights, agent-ready feeds, Brand Agents, Web IQ and AI Max.","source":"Microsoft Advertising","when":"Current platform guidance","url":"https://about.ads.microsoft.com/en/resources/discover/insights/ai-economy","image":""}]},{"name":"TikTok Ads","stories":[{"title":"TikTok Ad Network Is Now Generally Available for U.S. Targeting","summary":"TikTok says TikTok Ad Network, formerly Pangle, is now generally available for advertisers targeting the U.S. This expands TikTok's inventory opportunity beyond TikTok itself and is worth evaluating separately for incremental reach and performance.","source":"TikTok for Business","when":"5 Oct 2026","url":"https://ads.tiktok.com/business/en-US/blog/category/Announcements","image":""}]},{"name":"Search & SEO","stories":[{"title":"AI Discovery Is Becoming a Distinct Optimization Layer","summary":"Microsoft's current AI Economy guidance makes the operational implication explicit: marketers need to understand how AI systems represent, cite and recommend their brands. This strengthens the case for GEO monitoring, structured product/business information and agent-readable feeds alongside traditional SEO.","source":"Microsoft Advertising","when":"Current platform guidance","url":"https://about.ads.microsoft.com/en/resources/discover/insights/ai-economy","image":""}]},{"name":"Analytics","stories":[{"title":"OpenAI Expands ChatGPT Ads Measurement Partnerships","summary":"OpenAI is adding integrations with Hightouch, Tealium and LiveRamp so advertisers can send conversion data from existing systems into ChatGPT Ads. This moves the channel toward compatibility with existing measurement stacks.","source":"OpenAI","when":"5 Oct 2026","url":"https://openai.com/index/new-chatgpt-ads-format-and-measurement/","image":""}]},{"name":"Creative AI & Design","stories":[{"title":"OpenAI Tests Visual Sponsored Ads During ChatGPT Image Generation","summary":"The new format will initially appear during image generation, with sponsored product/service imagery kept separate from the user's generated image. Ads are clearly labeled and OpenAI says they do not influence ChatGPT answers.","source":"OpenAI","when":"5 Oct 2026","url":"https://openai.com/index/new-chatgpt-ads-format-and-measurement/","image":""}]},{"name":"MarTech & Automation","stories":[{"title":"Marketing Agents Are Moving From Suggestions Toward Actions","summary":"Across OpenAI, Meta, TikTok and Amazon, the notable shift is from AI that generates recommendations to AI that can operate within connected marketing workflows. The near-term implication is to audit permissions, approvals, data connections and human-review points before delegating campaign actions.","source":"AI Marketing Daily analysis","when":"6 Oct 2026","url":"https://about.fb.com/news/2026/09/introducing-muse-small-business/","image":""}]},{"name":"Ecommerce","stories":[{"title":"Amazon Branded Conversations Keep Brands Inside AI Shopping Dialogues","summary":"Amazon is developing Branded Conversations for Alexa for Shopping so brands can explain product differences, answer follow-up questions and recommend complementary products inside an ongoing shopping dialogue. This is a meaningful move from keyword/product advertising toward conversational commerce.","source":"Amazon Ads","when":"30 Sep 2026","url":"https://advertising.amazon.com/library/news/unboxed-2026-news-announcements","image":""}]}],"summary":{"title":"Summary — What’s Actually New","intro":"Repeated coverage is compressed here so the edition emphasizes incremental developments rather than repeating the same headline across multiple sources.","topics":[{"topic":"OpenAI Ads","status":"Confirmed product update","common_context":"ChatGPT advertising is expanding.","unique_points":[{"source":"OpenAI","when":"5 Oct 2026","point":"The new visual format is initially tied to image generation and will be tested in the U.S. later this month.","url":"https://openai.com/index/new-chatgpt-ads-format-and-measurement/"},{"source":"OpenAI","when":"5 Oct 2026","point":"Measurement expands through Hightouch, Tealium and LiveRamp integrations for conversion data.","url":"https://openai.com/index/new-chatgpt-ads-format-and-measurement/"}],"bottom_line":"For performance teams, measurement interoperability may be more strategically important than the new creative format."},{"topic":"TikTok AI Advertising","status":"Confirmed product update","common_context":"TikTok is adding more AI and agentic capabilities to advertising.","unique_points":[{"source":"TikTok","when":"5 Oct 2026","point":"The announcement positions agentic solutions across the customer journey, not just creative generation.","url":"https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes"},{"source":"TikTok for Business","when":"5 Oct 2026","point":"TikTok Ad Network is now generally available for U.S. targeting.","url":"https://ads.tiktok.com/business/en-US/blog/category/Announcements"}],"bottom_line":"Test the network expansion and agentic workflows as separate hypotheses; do not assume more AI automatically means better ROAS."},{"topic":"Meta Muse","status":"Confirmed product update + market commentary","common_context":"Muse is being positioned as an AI agent for business.","unique_points":[{"source":"Meta","when":"29 Sep 2026","point":"Muse can connect Meta business accounts and a broad set of operational tools, while requiring approval before publishing, sending or spending.","url":"https://about.fb.com/news/2026/09/introducing-muse-small-business/"}],"bottom_line":"The important marketing development is connected context and cross-tool execution, not simply another chatbot interface."}]},"generated_at":"2026-10-06T09:42:00+05:30","engine":{"model":"none","research":"Manual web research + primary-source verification","window":"approximately last 24–48 hours","api_credits_required":false}}
+{
+  "date": "6 October 2026",
+  "lead": {
+    "title": "Breaker Launches Newsletter MCP + API for AI Workflows and RealClick™ for Verified Metrics - StreetInsider",
+    "deck": "Breaker Launches Newsletter MCP + API for AI Workflows and RealClick™ for Verified Metrics StreetInsider. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ1ZNcnNIRFh1TmJnOG9Ebi00V0pzZFhXR1R6RVd5dkhCbU9wZ0lRV3JlZEhpZTgzSDVNWmJMUHhNWXhYMnNsR1Z2dXU1ajlKeXRNTGNBYTh6akx6SFBfYU9Ia3BaZGR3Ty1DczRBM19QOW9fSUtTNDVGMW9PajgyUVRKclBYUW8zR0hMVlc0ZmtjdTdoa3JjcURuV3hfeUZfa3ZxUlIwNF9EWV84Q09SRFRmLWk1Y1QwbDBNN0xnRHlNQ0dQcHBESHN0cnR6YlJWR20tQnZXWHZfUFdDcVhiQUVMWVBsSUtrVTVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "StreetInsider",
+    "when": "5 Oct 2026",
+    "image": ""
+  },
+  "note": "Edition generated from recent RSS news coverage. Primary/official sources are prioritized when surfaced by the feeds; verify important changes at the linked source.",
+  "ticker": [
+    "TikTok expands AI push with shopping, search and ad automation - Performance Marketing World",
+    "Breaker Launches Newsletter MCP + API for AI Workflows and RealClick™ for Verified Metrics - StreetInsider",
+    "Enso to acquire two marketing firms for up to $25 million to bring AI agents into advertising - calcalistech.com",
+    "Vulnerability was discovered in Meta’s Muse AI agent before launch and hastily fixed - media - Українські Національні Новини (УНН)",
+    "Researchers Uncover AI Agent Fleet Targeting Alibaba's Amap - Dataconomy",
+    "EvaSpeaks Launches Omnichannel AI Platform for Qualified Leads - martechcube.com",
+    "Mixpanel launches Agent Intelligence to track AI agents - IT Brief UK",
+    "Google Is Fighting SERP Tracking. AI Agents May Make It Worse - Search Engine Journal"
+  ],
+  "sections": [
+    {
+      "name": "AI & Agents",
+      "stories": [
+        {
+          "title": "Enso to acquire two marketing firms for up to $25 million to bring AI agents into advertising - calcalistech.com",
+          "summary": "Enso to acquire two marketing firms for up to $25 million to bring AI agents into advertising calcalistech.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "calcalistech.com",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00MVd5al9QTElLbTRGUV9wZHI5bGlSUXliTC1EUUdYNzI1MDFZcVRkSnJWT1U1bkg3UmJNdVhQcXVDbGtZR0I4QWt5NWI1SGVRNGdQSWtTMG5LLWJ5WWFVb2hfZ045dGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Vulnerability was discovered in Meta’s Muse AI agent before launch and hastily fixed - media - Українські Національні Новини (УНН)",
+          "summary": "Vulnerability was discovered in Meta’s Muse AI agent before launch and hastily fixed - media Українські Національні Новини (УНН). For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Українські Національні Новини (УНН)",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEZfaUJkYnVPTXlZWHZTdEdQS0FKemtFVEY5UXBzRHFpTDYwS3VXNW5YWUtnamItM09sMjlqclA4V0NmVEthNDg0cE85LW1kelVYWG9KSS00NnBrR2lpZFBZVExpeEVBMmpFcWxrcmlRbXJlbFhCYkI5OFNOWUU4MWg2dHhDS0VvZDNqdW9LYTNyNkNjdDFIZXZZWnNkdk9JVHcyd2VYOVo5Uk5lY3dFdndqZnfSAbMBQVVfeXFMTkE2Y2VHTWtyWmE4VkNtTHNPT2xRYnNTbTdURmpQS3E0Q0FXZ1I0UVFma3EwcFFXeVo5cjhBN3MySzNiSlgwd0YzU0FpN1Z2bTlqZDhTNWp1VEkwRnJRVlNGRXJkNWRwTGpYVVFYMnpCS0J3dGppRnB5a3g3WWxieldXb0VJYmM1V01fVWZFd2FfSmk4cVEyVDZiOWRhVXBMbUp6cGRLaHdOczNKclpQMGxMOGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Researchers Uncover AI Agent Fleet Targeting Alibaba's Amap - Dataconomy",
+          "summary": "Researchers Uncover AI Agent Fleet Targeting Alibaba's Amap Dataconomy. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Dataconomy",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUo3OUJRUmFya3FCeGNDS3J1WW01NDNTa2dheHNBYlpYWWpvamlROU5UUFA2R1hZcjNfOG45SFgwS2cxUjFQV3JqcHh2aHFmbVpfZEVQclYyLXpvb0wxMEozS0ExLTRYUTRnZTRLbU9Ma3VNVVZ4ZWhuOHMyTzdjQnBfRENNV1llcjB5aExORl9OMU12T3NIaA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Mixpanel launches Agent Intelligence to track AI agents - IT Brief UK",
+          "summary": "Mixpanel launches Agent Intelligence to track AI agents IT Brief UK. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "IT Brief UK",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1Z2S2k2c1Vmc2R6cF9kbWZtUGsyeFZaWkhobWJsUXB2MVkyM29MR3pManNHRmhyREhVRzFIZGxpYkJXdmxNdmFRb2JNcVJoeFoyNkdCcUhLX3NIY194S0o0cW5qSm9rSHdPendoZURETUF1QnBRNXpzYU5IX1c3a1NBdVdSUnpVSm4w?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Google Ads",
+      "stories": [
+        {
+          "title": "Guardrails for Google Ads AI - Practical Ecommerce",
+          "summary": "Guardrails for Google Ads AI Practical Ecommerce. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Practical Ecommerce",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RUEwcm45bTBFZUNldzB3M0dNdVJGWHUtSFp0WHVnM1lzMWlRVFJfYmstLWxhN2ttbGsxUU81dEItUDg5Yy1meEc5R0ltRGhsZElMRXFFMGtSdm9oU0duY3hzZTBHelYzTXFDLUFxNjU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "About the AI campaign localisation tool for search campaigns (beta) - Google Help",
+          "summary": "About the AI campaign localisation tool for search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NMmtpRW96OTNfa2hmYW1XalZIS2xNZ0dhbWNGOUZVX0tJd3JuYllVMkczV3FRWHIxaFUxdFN0MHItZ3o0dU1hVmR5N1JKSkJ5ZmZEUTBXX2dzcDg2am0xdWxId01UNkp4VXNGRlhjUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/WMF_Reading%2C_PM%2C_Design_Research%2C_Wikidata_May_2018_Quarterly_Check-In.pdf/page1-1280px-WMF_Reading%2C_PM%2C_Design_Research%2C_Wikidata_May_2018_Quarterly_Check-In.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "title": "Google Ads will auto-apply website coupons to some campaigns from October 12 - PPC Land",
+          "summary": "Google Ads will auto-apply website coupons to some campaigns from October 12 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2pnakNFeS1jaHR5RE1uLTdRZFFxZHZkV0liZ201Z19TYmdqLTZCUUVHUDgtYlZPV2hCRE5PSlhScklCVWpudkxLWXU5MkpHVVcyQ2xoMGZDeEtyZmlXbUNPM1duZlRPVU5UM1l0OUF3enBSY0JIbjRCOWhLQjZiVzVkYTcyVXNtYVpsMXQ4aW01T3UyRVU4V0Zn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Meta Ads",
+      "stories": [
+        {
+          "title": "Meta Gives Small Businesses Their Own Muse AI Agent (2026) - ALM Corp",
+          "summary": "Meta Gives Small Businesses Their Own Muse AI Agent (2026) ALM Corp. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "ALM Corp",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHVlc2MwRktVem9IcC1tZFY2dkVxOFNDQTNYbmdCS1JDbjBWOU1LR1NFeXk1NnJMaVRtXzVid3I1WVpOUEJMdzF2N3ZURDdJNTNXS2VKRUFKZFhZM2VEWlg0aDhhSUM5YVBlX2JKN3VRb1dsclR1b0Vnci0tdTlxeVpmbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Meta's Muse can skip ads yet still shape Instagram ads, MBI argues - PPC Land",
+          "summary": "Meta's Muse can skip ads yet still shape Instagram ads, MBI argues PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMmpDQWlzS0lnVUxDTzhPSTJzcEowa20tc18teVYyZ2xXNFluYXlYWnJrMEN0U29zVlNQVTlJRF9DZFYyVHdfdTVham9DRVhSXzRvcks2MW5SRXZLdXBjenBMaDJPVHVwSDc2UXI2U3pGVDlOSU1SUjJHalJwNjRjQ2hmT2I1SWd5OUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Jefferies Sees Bigger Meta Stock Opportunity Few Price In - TradingView",
+          "summary": "Jefferies Sees Bigger Meta Stock Opportunity Few Price In TradingView. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "TradingView",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWhlUkNYVHhzaDU0V1NGVUg0alZuNlNmN3RGTVdrRVlKQ2hrNnRDUS1MTTY1eE1zN2liUWxNVWdzQ2xxajdRZ2I2RU9LOVZleGE5dTItWnRValZSZEFhSjhhLTBpT09Fcnk1OTlQQnhqOGF2UWx1SkVveGRsWnkxQ09DMUFlMjJWOG9WLWZJcnE4Y1JmX3FEeEc4VEFadlFUSnE4OWFsRTV6VlozTnI3SHhrbEFIbnNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Ads",
+      "stories": []
+    },
+    {
+      "name": "TikTok Ads",
+      "stories": [
+        {
+          "title": "TikTok expands AI push with shopping, search and ad automation - Performance Marketing World",
+          "summary": "TikTok expands AI push with shopping, search and ad automation Performance Marketing World. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Performance Marketing World",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGc5MWo1cW8wUC0xRk5EZU1RcF9NZ2U4R1o4OEtKYms5TFYzYjJYQU53bmFYNUZVelE3akp1TUJhc3VjdjMtam4xOUpnTzFSQ1Z1SUVVa0NxMWNvODUwVjZzRHlrdHg1QVhleXQ4NFFydE1Qd2FLWWFmOGpqcWo4TklYUE5Ibng5TUdObDE3ZDE5UU9sbmJLZHI4SHV0XzhPOWtYMW5IT1NWMUhvWHI0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "TikTok Debuts AI Shopping Assistant and Quick Checkout Feature for Direct Brand Purchases - Tech Times",
+          "summary": "TikTok Debuts AI Shopping Assistant and Quick Checkout Feature for Direct Brand Purchases Tech Times. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Tech Times",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVnhHQmwwYk1YeDFFWkxzUHBOS2RiZkxlQlFsV1NvNHQycGFyRDBmV2ZMR0pISlR1eVluc2EzWVJ2WC1wNmNhMTJYeHdmLWRCem1hczlsZXU2RlYyWGtZcVNyTzE0SVhsWVRYYS0zTk5TYVlGYkVYTzdmV0E3V3ZLVDZXa2Npcm1WSWRBUTdDWGVHcmRzYUw4ZlJzdTZRZ0RmTklWTERHSnA5MHBleVVELVh2Q2hGQU1iZzFnQ01CZTlhRHRhUmtxRTRyeHdWSTY1M1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "From Discovery to Decision: How Agentic Solutions Guide Intent and Drive Action | TikTok For Business Blog - TikTok",
+          "summary": "From Discovery to Decision: How Agentic Solutions Guide Intent and Drive Action | TikTok For Business Blog TikTok. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "TikTok",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OSzZiYlZPbkZCSV91S3o1Rk0yRUxTbWtrc3p5QXdDby13eWJDN1FLRUttTEpudHJ0UXFlTjJjZjF6eXNYSnZTNldYYjFkcV84MWY3UVM5NGVLV2dNRkhadnIyMk5xazFiOUppSklwYVpCSFZZNFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "TikTok opens ad network of nearly 400,000 apps to US advertisers - PPC Land",
+          "summary": "TikTok opens ad network of nearly 400,000 apps to US advertisers PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQkt5S2lqLUZ1ckwzaHczUmlCRlBCRldPSzdyTkV1SjltZVdRWWdrZk15NnNpQlh3cXY5WUtnQ2l4STBjLXRueUNxUXAtalBBVDhmNnZpZXBHSEJ1UTYyZUtTX2M0RXJfVTdUbU9hQWdzOE54ZEhTT1NrSG9oYk81ellZQVdwSjJoLVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Search & SEO",
+      "stories": [
+        {
+          "title": "Google Is Fighting SERP Tracking. AI Agents May Make It Worse - Search Engine Journal",
+          "summary": "AI Agents May Make It Worse Search Engine Journal. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "Search Engine Journal",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkxGZlN1UzNPVHk0a1hfN3h6bGNLaDFfV090S1BpOUpRenhyQ3QzbTRldVViUldVOVRtR1hDaWlZSVNsNjFVbUl0QU5KVXFiNjFTLVB5bXpGOFNhX1lvRG1rVElOeXJPYWx3cmhIa2pybkVHQm4yNjdvUVZ5aUs3VXBQUm9fb0Z0SHFkc0RyaklfUzFBbFJLdFdLUTdYUnZvVHd5V1lEUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google updates its guidelines: review of AI-created content and main content quality are key to SEO - Marketing4eCommerce",
+          "summary": "Google updates its guidelines: review of AI-created content and main content quality are key to SEO Marketing4eCommerce. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "Marketing4eCommerce",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9laDhYV3VOVkFlbFdBVUFkbi1pNnNRMU9CWWxBWmJVMkZLWE5nVzB0bEJpSHNqVUQ2dlVSVmlybFllN0oyOWx6eGxEMFFGX0hla2hfeV9FdFJsbkNXcnRmdmhyemdKTGJGV2NsY0FR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google Search Spam Updates Use AI To Find AI Spam & More - Search Engine Roundtable",
+          "summary": "Google Search Spam Updates Use AI To Find AI Spam & More Search Engine Roundtable. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "Search Engine Roundtable",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sSFlZZG1rOV9qNnBSYTlmWDZwN3cwdzQzVnlGUFZHX0dXbVdHRkx6Y0Q1RGtIZkJOTlRWUHc5Q0F2Y3lhYTJ0RkNzYjBpcXFITkxzZEh1MnlDci05bzl5Uy1oaUlSeFYxQXFwc2Zjc28ybEVvbEhUcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "How DTC SEO Agency Is Specializing in Telehealth, Telemeds, and SEO & AI Search - StreetInsider",
+          "summary": "How DTC SEO Agency Is Specializing in Telehealth, Telemeds, and SEO & AI Search StreetInsider. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "StreetInsider",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVRvU081Z1gxck8wNG41c050azI2ejZxQ2NVSkF1RXIxME1ubXZ2TXBKZGt4cjROdWFQblotQlFaQTBobk1hZmRxcHBzZDdwejhGZTRRVUVnSkZYdVpDSnRkdHBZYUZZdG9MV1dvdFBvZWRkVGZTdEpRZGxBZEJoU2dLc2gzaG9odXFkTG8xQjlSMDNIWDhmSk53dlpCZk44MFpyUmRYZW1Gb29XRjEyZlpHOTVzNTYxbWd3aG5yMmFvWk1wTk1YbkotcHl3eHRwTmln?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Analytics",
+      "stories": [
+        {
+          "title": "OpenAI will test visual ads in ChatGPT while U.S. users generate images - BetaNews",
+          "summary": "OpenAI will test visual ads in ChatGPT while U.S. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "BetaNews",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tSG1kU04xMXdXNDZJTmhWRmhPMHNoNTJCZ3ktLUpZYkFxMVYxQXhJU0hSSUhPckRmVjVhdGVOUUEzNkpkWV9LZThmd21VaEE5eVNobHVpdnUyd1VPSVlqeklHQVNkcGFDalNPMkw4Q1JTUTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "OpenAI Expands ChatGPT Monetization With Visual Ads And Branding Tools - TradingView",
+          "summary": "OpenAI Expands ChatGPT Monetization With Visual Ads And Branding Tools TradingView. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "TradingView",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYTJkR2VQQlBfQ3dhZDlRTEN0MURmbFVtanoyb3ZXYmxqUnFYblFZbGNXa0JsbEU0ajh3ZzVqNEVXQnF4c2JOMS1fdEQ0Rkswd3lCeGROcExkOVdqeGhZdkZKV1FvU3ZzZlJsWWJmYmJvLUlsaDV0WDhmSXpBNVVWcHRJakcwVFExSlRUX1ItckYxcWdNSWc0RmJrOFhURnp1c1dnM1lGN1c5RVJaZkV5VEFrVmZzNk13ZGNBVEV5SmhZUWRXdjN4bXVhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "OpenAI Introduces Visual ChatGPT Ad Format and Expanded Measurement - Unite.AI",
+          "summary": "OpenAI Introduces Visual ChatGPT Ad Format and Expanded Measurement Unite.AI. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "Unite.AI",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDZFUTNNUXVaUV9sNUg0eVR2aHVRSzBDZG4yM0tESkEzMXNNWWppZU9ZLVJTV0g2WEMyQ3o0MlpYME5oMGVyZEhnV0pBQTRpa0RCWm9Zck5kVWRHVlNEMHhyMDRCQUloRlFwU2VsWS1sT2tOd0R4ZE85b3NXSlZja002b3JyMFJRb2owWG9DS3BXd2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Building advertising for the way people use AI - openai.com",
+          "summary": "Building advertising for the way people use AI openai.com. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "openai.com",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTGpFWUV6LXBPamVmUVVuZktVbi13bVZaVUg3NEdQWjdjcXZpNXVBNDNlRGIzRmV0ZUlBYTIzeXV1VmZBMXh0NnpkTGpCYmJrUFFhanBwY0lKVFctYWNLLUNpRzdtOXktbVVFa0x6Ry1zQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Creative AI & Design",
+      "stories": []
+    },
+    {
+      "name": "MarTech & Automation",
+      "stories": [
+        {
+          "title": "Breaker Launches Newsletter MCP + API for AI Workflows and RealClick™ for Verified Metrics - StreetInsider",
+          "summary": "Breaker Launches Newsletter MCP + API for AI Workflows and RealClick™ for Verified Metrics StreetInsider. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "StreetInsider",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ1ZNcnNIRFh1TmJnOG9Ebi00V0pzZFhXR1R6RVd5dkhCbU9wZ0lRV3JlZEhpZTgzSDVNWmJMUHhNWXhYMnNsR1Z2dXU1ajlKeXRNTGNBYTh6akx6SFBfYU9Ia3BaZGR3Ty1DczRBM19QOW9fSUtTNDVGMW9PajgyUVRKclBYUW8zR0hMVlc0ZmtjdTdoa3JjcURuV3hfeUZfa3ZxUlIwNF9EWV84Q09SRFRmLWk1Y1QwbDBNN0xnRHlNQ0dQcHBESHN0cnR6YlJWR20tQnZXWHZfUFdDcVhiQUVMWVBsSUtrVTVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "EvaSpeaks Launches Omnichannel AI Platform for Qualified Leads - martechcube.com",
+          "summary": "EvaSpeaks Launches Omnichannel AI Platform for Qualified Leads martechcube.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "martechcube.com",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZlBhb09tNWo5NUQxNEFhS2FSN0o2Z09HYlB2aVRJOU5qc0hWa25vdDJWYjJwZkdqRVB3QmNjaXFlQmp6enRUZWdSNE1lUk1XakYydVNfS1A2bUtYTk1yT3M3WHp4LTZNTnZjMy1aOVBRZHJrMkh4MUpiZTNwZ3dkcjlYTUdET0N3a0d6eVJ5QjEwZjdkUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Mixpanel Announced the Introduction of Agent Intelligence - martechcube.com",
+          "summary": "Mixpanel Announced the Introduction of Agent Intelligence martechcube.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "martechcube.com",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNFg1c1V3UTVZbm5ELXpvNEZfeU1xNVI0aDRsTFRxOThGbm1DMWhCTlFmdkdjbnB6dm4tU2JkYXVlOXlVUmg2dnNzMi1nazU4Vmc2N0NHUXhWYmh1SzNzMm1nSnBwSkRQZmN1UUxFbnBIbHBEZWtOMzRBSHlENGp4UWIzelNhZEgxYmJfQ0wxVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "ZoomInfo Unveils Agent Teams, Powered by the Acquisition of DoubleO.ai - martechcube.com",
+          "summary": "ZoomInfo Unveils Agent Teams, Powered by the Acquisition of DoubleO.ai martechcube.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "martechcube.com",
+          "when": "5 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdm92Y1M2WVhuSUtRWXZWUG0yMklTdFRiaTVvZnV0NXkwai1lTWhWS18zM1JITmFpSFl4MjVNRGZhdWJOZFlQMEgwRExyaXpEYjZ3WmVrczU4YnFPSkctLVkxS2tHbG9BRnhJVGxERl9PdVpaaHlfRU0yaVhqMlB2cS1ub3Q3ZUFDemt5eEtNVDNrcVViLWg2V0RHeGwtVXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Ecommerce",
+      "stories": [
+        {
+          "title": "Ad-driven profit, agent-driven shopping: AI agents may split the basket, and the ad rupee with it - StoryBoard 18",
+          "summary": "Ad-driven profit, agent-driven shopping: AI agents may split the basket, and the ad rupee with it StoryBoard 18. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "StoryBoard 18",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZTV5cFZRVFB6OU5BWXNVR3g1Q0lwVlNUNjgwbk1EcDVLQVNVLUlkdzNDdnozZTUzRjduY2t2VE9Sbk5kbU91SnFiUzZ0eS1UVjdHRlAwZlNadnNxS0h2X0pabUo4WUN1d0owV1U5Tk93c2NwSnlubDl2NS0yeUZRbURNZEhmSHlFcHRnNU5wRWtTTElHWFgzTy00YnMxdjBvMGROOG1JUjU3YWpwRV9MZ3FvaDFrSEhz0gG-AUFVX3lxTE56ZmNydlJtX0tOQWktTHV4Y3RDS1hubjk0dmFKWDNVTThzSmFral9JM0FvcUVyVXZJeVJmMlViYUZodVJseFlYZnZtNmdfWHUzUVNldkpybU5GZ2E4ZmE3VWdvMlVEQ1YyTmU1Q2UtR0dOU2ZlVmZNTllMTE5wRkxiWVctMUFyX0N6NDdlYWdSZ01sZXhvanY5MjZjN0d1S0hMMjRTQ2ZkclRBZGhUYjNuY2l3NHNGSHZFelFYUHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "TikTok Debuts AI Shopping Assistant and Quick Checkout Feature for Direct Brand Purchases - Tech Times",
+          "summary": "TikTok Debuts AI Shopping Assistant and Quick Checkout Feature for Direct Brand Purchases Tech Times. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Tech Times",
+          "when": "6 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVnhHQmwwYk1YeDFFWkxzUHBOS2RiZkxlQlFsV1NvNHQycGFyRDBmV2ZMR0pISlR1eVluc2EzWVJ2WC1wNmNhMTJYeHdmLWRCem1hczlsZXU2RlYyWGtZcVNyTzE0SVhsWVRYYS0zTk5TYVlGYkVYTzdmV0E3V3ZLVDZXa2Npcm1WSWRBUTdDWGVHcmRzYUw4ZlJzdTZRZ0RmTklWTERHSnA5MHBleVVELVh2Q2hGQU1iZzFnQ01CZTlhRHRhUmtxRTRyeHdWSTY1M1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "title": "Summary — What’s Actually New",
+    "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
+    "topics": [
+      {
+        "topic": "TikTok Debuts AI Shopping Assistant and Quick Checkout Feature for Direct Brand Purchases - Tech Times",
+        "status": "Cross-source coverage",
+        "common_context": "TikTok Debuts AI Shopping Assistant and Quick Checkout Feature for Direct Brand Purchases Tech Times",
+        "unique_points": [
+          {
+            "source": "Tech Times",
+            "when": "6 Oct 2026",
+            "point": "TikTok Debuts AI Shopping Assistant and Quick Checkout Feature for Direct Brand Purchases Tech Times",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVnhHQmwwYk1YeDFFWkxzUHBOS2RiZkxlQlFsV1NvNHQycGFyRDBmV2ZMR0pISlR1eVluc2EzWVJ2WC1wNmNhMTJYeHdmLWRCem1hczlsZXU2RlYyWGtZcVNyTzE0SVhsWVRYYS0zTk5TYVlGYkVYTzdmV0E3V3ZLVDZXa2Npcm1WSWRBUTdDWGVHcmRzYUw4ZlJzdTZRZ0RmTklWTERHSnA5MHBleVVELVh2Q2hGQU1iZzFnQ01CZTlhRHRhUmtxRTRyeHdWSTY1M1E?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Performance Marketing World",
+            "when": "5 Oct 2026",
+            "point": "TikTok expands AI push with shopping, search and ad automation Performance Marketing World",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGc5MWo1cW8wUC0xRk5EZU1RcF9NZ2U4R1o4OEtKYms5TFYzYjJYQU53bmFYNUZVelE3akp1TUJhc3VjdjMtam4xOUpnTzFSQ1Z1SUVVa0NxMWNvODUwVjZzRHlrdHg1QVhleXQ4NFFydE1Qd2FLWWFmOGpqcWo4TklYUE5Ibng5TUdObDE3ZDE5UU9sbmJLZHI4SHV0XzhPOWtYMW5IT1NWMUhvWHI0?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Building advertising for the way people use AI - openai.com",
+        "status": "Cross-source coverage",
+        "common_context": "Building advertising for the way people use AI openai.com",
+        "unique_points": [
+          {
+            "source": "openai.com",
+            "when": "5 Oct 2026",
+            "point": "Building advertising for the way people use AI openai.com",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTGpFWUV6LXBPamVmUVVuZktVbi13bVZaVUg3NEdQWjdjcXZpNXVBNDNlRGIzRmV0ZUlBYTIzeXV1VmZBMXh0NnpkTGpCYmJrUFFhanBwY0lKVFctYWNLLUNpRzdtOXktbVVFa0x6Ry1zQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "calcalistech.com",
+            "when": "5 Oct 2026",
+            "point": "Enso to acquire two marketing firms for up to $25 million to bring AI agents into advertising calcalistech.com",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00MVd5al9QTElLbTRGUV9wZHI5bGlSUXliTC1EUUdYNzI1MDFZcVRkSnJWT1U1bkg3UmJNdVhQcXVDbGtZR0I4QWt5NWI1SGVRNGdQSWtTMG5LLWJ5WWFVb2hfZ045dGc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Vulnerability was discovered in Meta’s Muse AI agent before launch and hastily fixed - media - Українські Національні Новини (УНН)",
+        "status": "Cross-source coverage",
+        "common_context": "Vulnerability was discovered in Meta’s Muse AI agent before launch and hastily fixed - media Українські Національні Новини (УНН)",
+        "unique_points": [
+          {
+            "source": "Українські Національні Новини (УНН)",
+            "when": "6 Oct 2026",
+            "point": "Vulnerability was discovered in Meta’s Muse AI agent before launch and hastily fixed - media Українські Національні Новини (УНН)",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEZfaUJkYnVPTXlZWHZTdEdQS0FKemtFVEY5UXBzRHFpTDYwS3VXNW5YWUtnamItM09sMjlqclA4V0NmVEthNDg0cE85LW1kelVYWG9KSS00NnBrR2lpZFBZVExpeEVBMmpFcWxrcmlRbXJlbFhCYkI5OFNOWUU4MWg2dHhDS0VvZDNqdW9LYTNyNkNjdDFIZXZZWnNkdk9JVHcyd2VYOVo5Uk5lY3dFdndqZnfSAbMBQVVfeXFMTkE2Y2VHTWtyWmE4VkNtTHNPT2xRYnNTbTdURmpQS3E0Q0FXZ1I0UVFma3EwcFFXeVo5cjhBN3MySzNiSlgwd0YzU0FpN1Z2bTlqZDhTNWp1VEkwRnJRVlNGRXJkNWRwTGpYVVFYMnpCS0J3dGppRnB5a3g3WWxieldXb0VJYmM1V01fVWZFd2FfSmk4cVEyVDZiOWRhVXBMbUp6cGRLaHdOczNKclpQMGxMOGs?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "ALM Corp",
+            "when": "5 Oct 2026",
+            "point": "Meta Gives Small Businesses Their Own Muse AI Agent (2026) ALM Corp",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHVlc2MwRktVem9IcC1tZFY2dkVxOFNDQTNYbmdCS1JDbjBWOU1LR1NFeXk1NnJMaVRtXzVid3I1WVpOUEJMdzF2N3ZURDdJNTNXS2VKRUFKZFhZM2VEWlg0aDhhSUM5YVBlX2JKN3VRb1dsclR1b0Vnci0tdTlxeVpmbw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Mixpanel launches Agent Intelligence to track AI agents - IT Brief UK",
+        "status": "Cross-source coverage",
+        "common_context": "Mixpanel launches Agent Intelligence to track AI agents IT Brief UK",
+        "unique_points": [
+          {
+            "source": "IT Brief UK",
+            "when": "6 Oct 2026",
+            "point": "Mixpanel launches Agent Intelligence to track AI agents IT Brief UK",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1Z2S2k2c1Vmc2R6cF9kbWZtUGsyeFZaWkhobWJsUXB2MVkyM29MR3pManNHRmhyREhVRzFIZGxpYkJXdmxNdmFRb2JNcVJoeFoyNkdCcUhLX3NIY194S0o0cW5qSm9rSHdPendoZURETUF1QnBRNXpzYU5IX1c3a1NBdVdSUnpVSm4w?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "StoryBoard 18",
+            "when": "6 Oct 2026",
+            "point": "Ad-driven profit, agent-driven shopping: AI agents may split the basket, and the ad rupee with it StoryBoard 18",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZTV5cFZRVFB6OU5BWXNVR3g1Q0lwVlNUNjgwbk1EcDVLQVNVLUlkdzNDdnozZTUzRjduY2t2VE9Sbk5kbU91SnFiUzZ0eS1UVjdHRlAwZlNadnNxS0h2X0pabUo4WUN1d0owV1U5Tk93c2NwSnlubDl2NS0yeUZRbURNZEhmSHlFcHRnNU5wRWtTTElHWFgzTy00YnMxdjBvMGROOG1JUjU3YWpwRV9MZ3FvaDFrSEhz0gG-AUFVX3lxTE56ZmNydlJtX0tOQWktTHV4Y3RDS1hubjk0dmFKWDNVTThzSmFral9JM0FvcUVyVXZJeVJmMlViYUZodVJseFlYZnZtNmdfWHUzUVNldkpybU5GZ2E4ZmE3VWdvMlVEQ1YyTmU1Q2UtR0dOU2ZlVmZNTllMTE5wRkxiWVctMUFyX0N6NDdlYWdSZ01sZXhvanY5MjZjN0d1S0hMMjRTQ2ZkclRBZGhUYjNuY2l3NHNGSHZFelFYUHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "martechcube.com",
+            "when": "5 Oct 2026",
+            "point": "Mixpanel Announced the Introduction of Agent Intelligence martechcube.com",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNFg1c1V3UTVZbm5ELXpvNEZfeU1xNVI0aDRsTFRxOThGbm1DMWhCTlFmdkdjbnB6dm4tU2JkYXVlOXlVUmg2dnNzMi1nazU4Vmc2N0NHUXhWYmh1SzNzMm1nSnBwSkRQZmN1UUxFbnBIbHBEZWtOMzRBSHlENGp4UWIzelNhZEgxYmJfQ0wxVQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "martechcube.com",
+            "when": "5 Oct 2026",
+            "point": "ZoomInfo Unveils Agent Teams, Powered by the Acquisition of DoubleO.ai martechcube.com",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdm92Y1M2WVhuSUtRWXZWUG0yMklTdFRiaTVvZnV0NXkwai1lTWhWS18zM1JITmFpSFl4MjVNRGZhdWJOZFlQMEgwRExyaXpEYjZ3WmVrczU4YnFPSkctLVkxS2tHbG9BRnhJVGxERl9PdVpaaHlfRU0yaVhqMlB2cS1ub3Q3ZUFDemt5eEtNVDNrcVViLWg2V0RHeGwtVXM?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "About the AI campaign localisation tool for search campaigns (beta) - Google Help",
+        "status": "Cross-source coverage",
+        "common_context": "About the AI campaign localisation tool for search campaigns (beta) Google Help",
+        "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "6 Oct 2026",
+            "point": "About the AI campaign localisation tool for search campaigns (beta) Google Help",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NMmtpRW96OTNfa2hmYW1XalZIS2xNZ0dhbWNGOUZVX0tJd3JuYllVMkczV3FRWHIxaFUxdFN0MHItZ3o0dU1hVmR5N1JKSkJ5ZmZEUTBXX2dzcDg2am0xdWxId01UNkp4VXNGRlhjUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "6 Oct 2026",
+            "point": "Google Ads will auto-apply website coupons to some campaigns from October 12 PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2pnakNFeS1jaHR5RE1uLTdRZFFxZHZkV0liZ201Z19TYmdqLTZCUUVHUDgtYlZPV2hCRE5PSlhScklCVWpudkxLWXU5MkpHVVcyQ2xoMGZDeEtyZmlXbUNPM1duZlRPVU5UM1l0OUF3enBSY0JIbjRCOWhLQjZiVzVkYTcyVXNtYVpsMXQ4aW01T3UyRVU4V0Zn?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "6 Oct 2026",
+            "point": "TikTok opens ad network of nearly 400,000 apps to US advertisers PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQkt5S2lqLUZ1ckwzaHczUmlCRlBCRldPSzdyTkV1SjltZVdRWWdrZk15NnNpQlh3cXY5WUtnQ2l4STBjLXRueUNxUXAtalBBVDhmNnZpZXBHSEJ1UTYyZUtTX2M0RXJfVTdUbU9hQWdzOE54ZEhTT1NrSG9oYk81ellZQVdwSjJoLVE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Search Engine Journal",
+            "when": "6 Oct 2026",
+            "point": "AI Agents May Make It Worse Search Engine Journal",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkxGZlN1UzNPVHk0a1hfN3h6bGNLaDFfV090S1BpOUpRenhyQ3QzbTRldVViUldVOVRtR1hDaWlZSVNsNjFVbUl0QU5KVXFiNjFTLVB5bXpGOFNhX1lvRG1rVElOeXJPYWx3cmhIa2pybkVHQm4yNjdvUVZ5aUs3VXBQUm9fb0Z0SHFkc0RyaklfUzFBbFJLdFdLUTdYUnZvVHd5V1lEUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "OpenAI will test visual ads in ChatGPT while U.S. users generate images - BetaNews",
+        "status": "Cross-source coverage",
+        "common_context": "OpenAI will test visual ads in ChatGPT while U.S.",
+        "unique_points": [
+          {
+            "source": "BetaNews",
+            "when": "6 Oct 2026",
+            "point": "OpenAI will test visual ads in ChatGPT while U.S.",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tSG1kU04xMXdXNDZJTmhWRmhPMHNoNTJCZ3ktLUpZYkFxMVYxQXhJU0hSSUhPckRmVjVhdGVOUUEzNkpkWV9LZThmd21VaEE5eVNobHVpdnUyd1VPSVlqeklHQVNkcGFDalNPMkw4Q1JTUTQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "TradingView",
+            "when": "6 Oct 2026",
+            "point": "OpenAI Expands ChatGPT Monetization With Visual Ads And Branding Tools TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYTJkR2VQQlBfQ3dhZDlRTEN0MURmbFVtanoyb3ZXYmxqUnFYblFZbGNXa0JsbEU0ajh3ZzVqNEVXQnF4c2JOMS1fdEQ0Rkswd3lCeGROcExkOVdqeGhZdkZKV1FvU3ZzZlJsWWJmYmJvLUlsaDV0WDhmSXpBNVVWcHRJakcwVFExSlRUX1ItckYxcWdNSWc0RmJrOFhURnp1c1dnM1lGN1c5RVJaZkV5VEFrVmZzNk13ZGNBVEV5SmhZUWRXdjN4bXVhWQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Unite.AI",
+            "when": "5 Oct 2026",
+            "point": "OpenAI Introduces Visual ChatGPT Ad Format and Expanded Measurement Unite.AI",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDZFUTNNUXVaUV9sNUg0eVR2aHVRSzBDZG4yM0tESkEzMXNNWWppZU9ZLVJTV0g2WEMyQ3o0MlpYME5oMGVyZEhnV0pBQTRpa0RCWm9Zck5kVWRHVlNEMHhyMDRCQUloRlFwU2VsWS1sT2tOd0R4ZE85b3NXSlZja002b3JyMFJRb2owWG9DS3BXd2M?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      }
+    ]
+  },
+  "generated_at": "2026-10-06T16:12:37.893911+05:30",
+  "engine": {
+    "model": "none",
+    "research": "Google News RSS + source-page metadata",
+    "window": "approximately last 36 hours",
+    "api_credits_required": false
+  }
+}

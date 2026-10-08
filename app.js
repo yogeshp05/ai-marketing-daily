@@ -66,10 +66,14 @@ async function init(){
   document.getElementById('ticker').textContent=d.ticker.join(' • ');
   document.getElementById('sections').innerHTML=d.sections.map(s=>'<section class="section" id="'+slug(s.name)+'"><h3>'+s.name+'</h3><div class="grid">'+(s.stories||[]).map(st=>story({...st,section:s.name})).join('')+'</div></section>').join('')+summarySection(d.summary);
 }
-function summarySection(s){ if(!s) return ''; return '<section class="section summary-section" id="what-s-actually-new"><h3>'+s.title+'</h3><p class="summary-intro">'+s.intro+'</p>'+(s.topics||[]).map(t=>'<article class="story summary-topic"><div class="meta">'+t.status+'</div><h4>'+t.topic+'</h4><p><strong>Common context:</strong> '+t.common_context+'</p><ul>'+(t.unique_points||[]).map(p=>'<li><strong>'+p.source+' · '+p.when+':</strong> '+p.point+' <a href="'+p.url+'" target="_blank" rel="noopener">Source</a></li>').join('')+'</ul><p><strong>Bottom line:</strong> '+t.bottom_line+'</p></article>').join('')+'</section>'; }
+function safeText(v){ return String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m])); }
+function summarySection(s){ if(!s) return ''; return '<section class="section summary-section" id="what-s-actually-new"><h3>'+safeText(s.title)+'</h3><p class="summary-intro">'+safeText(s.intro)+'</p>'+(s.topics||[]).map(t=>'<article class="story summary-topic"><div class="meta">'+safeText(t.status)+'</div><h4>'+safeText(t.topic)+'</h4><p><strong>Common context:</strong> '+safeText(t.common_context)+'</p><ul>'+(t.unique_points||[]).map(p=>{const item=typeof p==='string'?p:p.point||''; const source=typeof p==='object'&&p.source?p.source:''; const when=typeof p==='object'&&p.when?p.when:''; const url=typeof p==='object'&&p.url?p.url:''; return '<li>'+((source||when)?'<strong>'+safeText([source,when].filter(Boolean).join(' · '))+':</strong> ':'')+safeText(item)+(url?' <a href="'+url+'" target="_blank" rel="noopener">Source</a>':'')+'</li>';}).join('')+'</ul><p><strong>Bottom line:</strong> '+safeText(t.bottom_line)+'</p></article>').join('')+'</section>'; }
 function story(s){
   const img=imageFor(s.image,s.title,s.section||'AI Marketing');
-  return '<article class="story">'+safeImage(img,s.title,'story-image',fallbackImage(s.title,s.section||'AI Marketing'))+'<div class="meta">'+s.source+' · '+s.when+'</div><h4><a href="'+s.url+'" target="_blank" rel="noopener">'+s.title+'</a></h4><p>'+s.summary+'</p></article>';
+  const body=s.summary||s.what||'';
+  const why=s.why||'';
+  const use=s.use_case||'';
+  return '<article class="story">'+safeImage(img,s.title,'story-image',fallbackImage(s.title,s.section||'AI Marketing'))+'<div class="meta">'+safeText(s.source||'AI Marketing Daily')+' · '+safeText(s.when||'')+'</div><h4><a href="'+(s.url||'#')+'" target="_blank" rel="noopener">'+safeText(s.title||'Untitled story')+'</a></h4><p><strong>What happened:</strong> '+safeText(body)+'</p>'+(why?'<p><strong>Why it matters:</strong> '+safeText(why)+'</p>':'')+(use?'<p><strong>Practical use case:</strong> '+safeText(use)+'</p>':'')+'</article>';
 }
 function slug(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')}
 init().catch(error=>{

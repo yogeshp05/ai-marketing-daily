@@ -2,22 +2,34 @@ const dataUrl='data.json';
 const fallbackDataUrl='https://raw.githubusercontent.com/yogeshp05/ai-marketing-daily/main/data.json';
 
 const escapeXml=(s='')=>s.replace(/[<>&'"]/g,m=>({'<':'&lt;','>':'&gt;','&':'&amp;',"'":'&apos;','"':'&quot;'}[m]));
+const wrapTitle=(title='',maxChars=27,maxLines=3)=>{
+  const words=String(title||'Daily intelligence').split(/\\s+/).filter(Boolean);
+  const lines=[]; let line='';
+  for(const word of words){
+    const next=line?line+' '+word:word;
+    if(next.length>maxChars && line){ lines.push(line); line=word; if(lines.length===maxLines-1) break; } else line=next;
+  }
+  if(lines.length<maxLines && line) lines.push(line);
+  const original=String(title||'Daily intelligence');
+  if(lines.length && lines.join(' ').length<original.length){ lines[lines.length-1]=lines[lines.length-1].slice(0,Math.max(1,maxChars-1))+'…'; }
+  return lines;
+};
 const fallbackImage=(title='',section='')=>{
   const label=section||'AI MARKETING';
-  const text=(title||'Daily intelligence').slice(0,70);
-  const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#334155"/></linearGradient></defs>
-  <rect width="1200" height="700" fill="url(#g)"/>
-  <circle cx="980" cy="130" r="210" fill="none" stroke="#94a3b8" stroke-opacity=".25" stroke-width="2"/>
-  <circle cx="980" cy="130" r="140" fill="none" stroke="#94a3b8" stroke-opacity=".18" stroke-width="2"/>
-  <path d="M760 430 L900 290 L1010 380 L1120 230" fill="none" stroke="#e2e8f0" stroke-width="5" opacity=".65"/>
-  <text x="70" y="100" font-family="Arial,sans-serif" font-size="28" letter-spacing="5" fill="#cbd5e1">${escapeXml(label.toUpperCase())}</text>
-  <text x="70" y="250" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="white">${escapeXml(text)}</text>
-  <text x="70" y="610" font-family="Arial,sans-serif" font-size="24" fill="#cbd5e1">AI MARKETING DAILY</text>
-  </svg>`;
+  const lines=wrapTitle(title,27,3);
+  const tspans=lines.map((line,i)=>'<tspan x="70" dy="'+(i===0?0:68)+'">'+escapeXml(line)+'</tspan>').join('');
+  const svg='<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">'+
+  '<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#334155"/></linearGradient></defs>'+
+  '<rect width="1200" height="700" fill="url(#g)"/>'+
+  '<circle cx="980" cy="130" r="210" fill="none" stroke="#94a3b8" stroke-opacity=".25" stroke-width="2"/>'+
+  '<circle cx="980" cy="130" r="140" fill="none" stroke="#94a3b8" stroke-opacity=".18" stroke-width="2"/>'+
+  '<path d="M760 430 L900 290 L1010 380 L1120 230" fill="none" stroke="#e2e8f0" stroke-width="5" opacity=".65"/>'+
+  '<text x="70" y="100" font-family="Arial,sans-serif" font-size="28" letter-spacing="5" fill="#cbd5e1">'+escapeXml(label.toUpperCase())+'</text>'+
+  '<text x="70" y="225" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="white">'+tspans+'</text>'+
+  '<text x="70" y="610" font-family="Arial,sans-serif" font-size="24" fill="#cbd5e1">AI MARKETING DAILY</text>'+
+  '</svg>';
   return 'data:image/svg+xml;charset=UTF-8,'+encodeURIComponent(svg);
-};
-const topicImage=(title,section='')=>fallbackImage(title,section);
+};const topicImage=(title,section='')=>fallbackImage(title,section);
 const imageFor=(image,title,section)=>image||fallbackImage(title,section);
 const safeImage=(src,alt,cls='',fallback='')=>src?'<img class="'+cls+'" src="'+src+'" alt="'+alt+'" loading="lazy" onerror="this.onerror=null;this.src=\''+fallback+'\'">':'';
 

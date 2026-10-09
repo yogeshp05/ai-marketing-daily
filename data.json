@@ -1,59 +1,36 @@
 {
-  "date": "8 October 2026",
+  "date": "9 October 2026",
+  "author": "Yogesh Raghupati",
   "lead": {
-    "title": "Nous Research confirms $1.5 billion valuation and launches business AI agents - Startup Fortune",
-    "deck": "Nous Research confirms $1.5 billion valuation and launches business AI agents Startup Fortune. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONExNejVBY196WDFpM25GM1lXT21ZUkJ2dDdfd0JSWVE3cjhkbkRoelFLb3VfTmIxdF9QWm5CeUgyOHRIbkZ0QVJCVlcxYWJqMkJDVHpNb0NzRC1mbHNlbkh4NHJXVmZUQV9NaXNuWUcwUVJSNG0tbm5tYkxBZ1FpNzZPSk1TRU82WGJaSGZlY0pMN0owUVdYWXV1b2pTSDV1dUpDbFd3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "Startup Fortune",
+    "title": "AI moves from recommendations to execution — but marketers need stronger controls",
+    "deck": "This edition’s clearest shift: workplace agents can now carry multi-step work across tools, while ad platforms are making AI-assisted campaign building and measurement more actionable. The opportunity is speed; the requirement is reviewable permissions, reliable measurement and human approval.",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+    "source": "Google Cloud Blog",
     "when": "8 Oct 2026",
-    "image": ""
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini.max-2000x2000.png"
   },
-  "note": "Edition generated from recent RSS news coverage. Primary/official sources are prioritized when surfaced by the feeds; verify important changes at the linked source.",
+  "note": "9 October 2026 edition. Prioritises developments reported on 8–9 October and recent platform announcements with direct implications for paid media, measurement and marketing operations. Distinguishes confirmed product announcements from industry analysis.",
   "ticker": [
-    "Nous Research confirms $1.5 billion valuation and launches business AI agents - Startup Fortune",
-    "AI agent emailed hundreds of researchers for help, raising questions over autonomy - The Daily Star",
-    "Case study: AI search is changing how media and marketing businesses get found - The Media Online",
-    "Meta adds new AI tools to detect child exploitation in ads - Marketing-Interactive",
-    "ASUS ProArt RTX Spark Windows PCs Available for Immediate Pre-Order Today, Delivering Integrated Ecosystem of AI Agents and Creative Apps - markets.businessinsider.com",
-    "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters - The Register",
-    "Google Ads adds new AI Max columns for deeper campaign analysis - Search Engine Land",
-    "Meta’s Muse AI Agent Is Now Available on iPad - iThinkDifferent"
+    "Google Cloud introduces a universal Gemini work agent",
+    "Google Ads adds AI Max ad-copy previews before opt-in",
+    "Conversion Lift expands to eligible Search and Performance Max campaigns",
+    "New AI Max columns expose more campaign settings in reporting",
+    "Meta tests conversational campaign workflows and scheduled alerts",
+    "Industry leaders stress human accountability for AI-generated advertising"
   ],
   "sections": [
     {
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Nous Research confirms $1.5 billion valuation and launches business AI agents - Startup Fortune",
-          "summary": "Nous Research confirms $1.5 billion valuation and launches business AI agents Startup Fortune. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Startup Fortune",
-          "when": "8 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONExNejVBY196WDFpM25GM1lXT21ZUkJ2dDdfd0JSWVE3cjhkbkRoelFLb3VfTmIxdF9QWm5CeUgyOHRIbkZ0QVJCVlcxYWJqMkJDVHpNb0NzRC1mbHNlbkh4NHJXVmZUQV9NaXNuWUcwUVJSNG0tbm5tYkxBZ1FpNzZPSk1TRU82WGJaSGZlY0pMN0owUVdYWXV1b2pTSDV1dUpDbFd3?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "AI agent emailed hundreds of researchers for help, raising questions over autonomy - The Daily Star",
-          "summary": "AI agent emailed hundreds of researchers for help, raising questions over autonomy The Daily Star. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Daily Star",
-          "when": "8 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2cxcEd1WEl0TUtIeUFFR3lHb0N6NVVDdF9sMVFSWVFpczMyd3dyaHpyY0xqN2JucXAzdlZXZDdSTVphRzZudDZWOFhYcTBFdE1PejFnSWo5ODE0MzRyTVVyWmFtdll5dGNlV0REeGNzQ2ttd0VVWG1JTjdrNWVOYWFqZ1ZMY2RnclN3d2pjeGVGZmVBNnNMQWVWcTYtOUQ3cVNTdWtFd1dZM1U1M0xLVDRNS0pwSV84cWFQQjd2YUJTaDMtWEVKc3RLTWU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "ASUS ProArt RTX Spark Windows PCs Available for Immediate Pre-Order Today, Delivering Integrated Ecosystem of AI Agents and Creative Apps - markets.businessinsider.com",
-          "summary": "ASUS ProArt RTX Spark Windows PCs Available for Immediate Pre-Order Today, Delivering Integrated Ecosystem of AI Agents and Creative Apps markets.businessinsider.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "markets.businessinsider.com",
-          "when": "8 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVFFHSXFTRG54T0ZVaUZwc1p5cDFUSHpzSENfVHdjQU5CcDhUWGp6TFc3MTZIVWYtOUNhRFk0SGFIbUZzbS1TWHlDN0hrUk9abkdEUi1MQmNkaDV4d2lOb2IyTlN3NGNPMXpQZ3M4MTF3UnRVM2tMeFFEdEppNEdJeHR5dFRMQXdjVUlhV09zWmV3aWlTOVJ4eWk2ckc3SzQyZ0dRSmZ2Nm9QUzB3TTNJZWJGdy1ZblRrUHROWHJMNXdsakVBb3hiWTJNek9tSlRXdE43TUdxYkJyaXliakhoanY4aDhaVFhnWTJxQ1Jxc0w5RkN2R0lwUWg1VTZKQ2hNdUk3SkNyMFdGRnpjMFREODFjWEVCUGpLWjlKcnRqRDU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters - The Register",
-          "summary": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters The Register. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Register",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdldCZWVraDhsNlpyYWdfRm80YmpyVERNZHh1bEJOVWwxSlkweDZhMG5IZmx1ZmlIOFVkNUVOTXk3MXNaT2luSU94M1UzQ1dCeHo3cWdpczVTYmdmSUlLX2Z0VV9Xdy1sQXVpMlVMbHRWNVl4M3pxTVVrbXhEMXI4c1VIR2ZkR014d3VqLWtORG1QQURwSXB5eElFdVZDNmpKRGUtZlpCdUZpalJlbEFpWDQtNDZNWnpDZU56N3BCTVRUZmoyRzUwMg?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "title": "Google Cloud introduces a universal Gemini agent for work",
+          "summary": "Google Cloud announced a single work agent that can plan multi-step tasks, use tools and business systems, create content and code, and return completed work. It can run persistent tasks, coordinate specialist sub-agents and connect with enterprise systems, including MCP servers.",
+          "why": "This is a move beyond chat-based assistance toward delegated workflows with memory, integrations and governance. For marketing teams, it could connect research, reporting, spreadsheet analysis and presentation drafting without repeatedly moving context between tools.",
+          "use_case": "Pilot a read-only workflow that compiles campaign performance from approved sources, drafts a weekly narrative in Sheets or Docs, and prepares a review deck. Keep publishing, budget edits and client-facing sends behind human approval.",
+          "source": "Google Cloud Blog",
+          "when": "8 Oct 2026 · Official announcement",
+          "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini.max-2000x2000.png"
         }
       ]
     },
@@ -61,35 +38,33 @@
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Google Ads adds new AI Max columns for deeper campaign analysis - Search Engine Land",
-          "summary": "Google Ads adds new AI Max columns for deeper campaign analysis Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnFkLWJwcXhRdkRpVjZPb000RTF5UGZ5eXlqTFNacTFVdnJLRjBMTElSXzRuRjc4RXNjcFFpSjhTTHpVa1hyU21ZdURDUUpXZUtDSGl5TDNtcWhMUjh4ZnViZnczbUZQbVZwVFp5VVVvaVZ4WVNoYzdiUGNKNUFFZWZqNi01b19DOE11b2h5TVFvNi1NNkJLLUZmUmt2RC00?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Stop letting AI make your marketing decisions - Search Engine Land",
-          "summary": "Stop letting AI make your marketing decisions Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmZFbHp2U2FpbjI1b3RsY2FodmFNTV9sam9qaE9zZUNzOEpTMWUyTU5RZUN1VXpGcm1IWTYycXUySjNVM01SNkVCSzBYM0tpeTE2N1NWendmR2FkMDNsTEtMNTJqLTRJVWRucGx3YjJoN0ZCT2UxUnZqQjcyUDdPRlZTZGl2V0d1?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google September 2026 spam update done rolling out - Search Engine Land",
-          "summary": "Google September 2026 spam update done rolling out Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "Google Ads previews AI Max headlines and descriptions before opt-in",
+          "summary": "Advertisers can preview up to 10 AI-generated headlines and descriptions based on a landing page before enabling AI Max text customisation. Google generates the examples after the advertiser enters a final URL, and the preview appears in the Asset optimisation section during campaign creation or editing.",
+          "why": "Teams can assess message fit and brand risk before activating generated copy, rather than discovering the output only after opting in.",
+          "use_case": "Preview assets for high-spend campaigns and check factual claims, offers, location relevance, brand voice and landing-page alignment. Record approved and rejected patterns before rolling out more broadly.",
           "source": "Search Engine Land",
           "when": "8 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://searchengineland.com/google-ads-lets-advertisers-preview-ai-max-generated-ad-copy-before-opting-in",
           "image": ""
         },
         {
-          "title": "Google opens Conversion Lift to Search and Performance Max - Search Engine Land",
-          "summary": "Google opens Conversion Lift to Search and Performance Max Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "Conversion Lift becomes self-serve for eligible Search and Performance Max campaigns",
+          "summary": "Google is expanding user-based Conversion Lift studies to Search and Performance Max. Eligible advertisers can set up incrementality studies without first going through a Google representative. Reported thresholds include at least 1,000 observed conversions and a minimum participating-campaign budget of $5,000; availability can vary by account.",
+          "why": "Attribution reports show which touchpoints receive credit; lift studies help estimate whether ads generated additional conversions that would not otherwise have happened.",
+          "use_case": "For sufficiently large accounts, test whether branded Search or PMax creates incremental leads or purchases. Choose a frequent, reliable conversion action and plan for holdout groups before interpreting results.",
           "source": "Search Engine Land",
           "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb25ENEhLal81RkJKREViWjRaRmdjSUVYZUhHYzlSc2l2cUlsQWpuMXhyakx0Wml0MF9JNXZWUktnMHNNOGxhaEJRQzh2TUFKSVBaMl8wdXVzQW1KRVEteThWVXhNQ1lhU0ZGcVB5bm1BS3RhWmFMRlgyaE9pRFA1UEpJaDFXSFAwRjVZLTA3cHVrd19tSWhZUkZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://searchengineland.com/google-opens-conversion-lift-to-search-and-performance-max",
+          "image": ""
+        },
+        {
+          "title": "New AI Max reporting columns reveal more campaign settings",
+          "summary": "Google Ads is rolling out columns for Locations of interest, Optimized targeting and Brand inclusions, making these settings easier to compare within reporting views.",
+          "why": "The columns do not change AI Max delivery, but they make it easier to audit which controls are active and investigate differences between campaign performance.",
+          "use_case": "Add the columns to audit templates and compare campaign settings alongside CPA, conversion value and search-term insights. Treat the rollout as gradual; columns may not yet appear in every account.",
+          "source": "Search Engine Land",
+          "when": "7 Oct 2026",
+          "url": "https://searchengineland.com/google-ads-adds-new-ai-max-columns-for-deeper-campaign-analysis",
           "image": ""
         }
       ]
@@ -98,222 +73,28 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "Meta adds new AI tools to detect child exploitation in ads - Marketing-Interactive",
-          "summary": "Meta adds new AI tools to detect child exploitation in ads Marketing-Interactive. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Marketing-Interactive",
-          "when": "8 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalhqcVdMQWJ0MHJ6SXRXa19UTzFUTGpRTGtZU2x4MjFQTERTbk5veGhSRUhXc2Z2dng2bmJGb0UzTGVrd280bm43Z2wwWjJzUGt1bjFRQklZLTBrcmlWVFhwR1ZaMzU5aTgwNEh2S3A0UGFkTGlPNVYxbk9BeVdlSkRpVGRTYlg0c0c1emdpTDk0S2tKcDlwcDZiM2I?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta’s Muse AI Agent Is Now Available on iPad - iThinkDifferent",
-          "summary": "Meta’s Muse AI Agent Is Now Available on iPad iThinkDifferent. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "iThinkDifferent",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnSHc1ZE5jeVBFUXZwWnV6bE8xdmFnZG9pUXJPeEMxNEhGMTZrMUs3QUUzMF9pQWFXYlBJbVJhYkpDRU5iTWJ0bmY0Y29kTkxuZkhfVVotbFNnRnlGUkk0WU9FdzI2SGVTelBHZFlhMEFwcFdpTGE5N1hR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta unveils agentic AI capabilities in Ads Manager to automate campaign execution - Adgully.com",
-          "summary": "Meta unveils agentic AI capabilities in Ads Manager to automate campaign execution Adgully.com. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Adgully.com",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVd3eGJGblg1Yk5tS3BxSEx5UDd2ZE50eEx1VFlWdjB6X2xrU2VlRjJuaDV4UHl1YjZzWGlZaGI4NFRrU0VRMnNxUFZqV2pHRGtMaDJFWWVZMzM5YWQybV9qam82eXFuVGZKSmZHMVJvcUVfdXVqU0lNdUtvaHFjangtZWljZXdKMzZXdzlqZ21BdG1zSWNTTzN1U05uVXZxWWZ4OXllbzJGQl9xTjZVS1hSY1h5bUxa?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta introduces new AI-powered tools at Advertising Week - Social Media Today",
-          "summary": "Meta introduces new AI-powered tools at Advertising Week Social Media Today. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Social Media Today",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTJvQzZrX012RUFZanlZVDNfdFFfMmFwak5xQ19vblhaelRxMC1KSElGd1UzalBrRFMwbXR4M3lIOG8yc3k1MXJDX180Y3lqNmY5M1pKSHNQbGVkMUFqT1VhQlBmUThKTE9YR2JBWVl2MmRYZUkzS3VsYndjSzFYdXVhXzRlQzBPRDktaTlzNlRTN3dPaVpIRjNESG9zQTladF9TUA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Meta expands conversational campaign workflows and scheduled tasks in testing",
+          "summary": "Meta says its Business AI assistant is gaining deeper business context, while tests allow marketers to plan, create and optimise campaigns, schedule tasks and set alerts through conversational requests. Meta also says Ads Creative Studio is expanding to more marketers and its Ads MCP server supports additional workflows, including uploading and previewing creative and analysing performance.",
+          "why": "The important operational change is not just AI-generated copy: parts of campaign setup and recurring monitoring are moving into conversational and agent-connected workflows. Meta says agent-prepared work can arrive as a draft in Ads Manager, keeping a review step in the flow.",
+          "use_case": "Test on a low-risk campaign with draft-only actions first. Require approval for targeting, budget, creative publication and other material changes; log what the assistant changed and compare recommendations with account data.",
+          "source": "Meta Newsroom",
+          "when": "6 Oct 2026 · Official announcement",
+          "url": "https://about.fb.com/ltam/news/2026/10/advertising-week-new-york-2026-nuevas-capacidades-de-ia-para-guiar-campanas-y-llegar-a-los-clientes/",
           "image": ""
         }
       ]
     },
     {
-      "name": "Microsoft Ads",
+      "name": "Marketing Strategy & Governance",
       "stories": [
         {
-          "title": "Microsoft unveils Windows Copilot on local files and sandboxed AI agents - Pasquale Pillitteri",
-          "summary": "Microsoft unveils Windows Copilot on local files and sandboxed AI agents Pasquale Pillitteri. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Pasquale Pillitteri",
-          "when": "8 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZk9wY3FWQng0M3BMaHV0Mi1jd1dnMDQ1alFuS2RMTEE1bDUxLTRzczNQWlJ3eXBIUHU5bmEzS0Zmdi1yaHpFR0VGMlRXWV8xWnhtMUxRd2dOVGdOcUZiLTRlY2lZTG5yeGZRLTY2Z0RHblltNm1NODJDTDV3TFRhcl93NDRvOU1HMHBNcE1lbFcyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "AI Economy for Marketers - Microsoft",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Microsoft",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UcGo2NXJGb19JQnRjamRXTmFJSmUwZHlVY2puVjkzUkkxRjN4ZXhDUlhNb21tR2RfeDNJR1FTbnVkRElKdEdiYkE5OXhMaGFjTWQtVlFIRGU2WlZlQnRxSXZEazZqd2Y2YVNPNl9KbE9lT2NCMzU3Z3paWlFpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Mozilla_-_Internet_Health_Report_2019.pdf/page1-500px-Mozilla_-_Internet_Health_Report_2019.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        }
-      ]
-    },
-    {
-      "name": "TikTok Ads",
-      "stories": [
-        {
-          "title": "TikTok Takes Its Ads Beyond TikTok With Agentic AI - WeRSM",
-          "summary": "TikTok Takes Its Ads Beyond TikTok With Agentic AI WeRSM. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "WeRSM",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44OFRqcTUzVUFLeUpLdlFLSW8xRXRLeVM4LV9HQ0NtdWlkcTZuTXBUWjllQ0dSbVFkc1UyNzFmb0h1WEQwRkFUbWhtUHp1VkJFRzBMTEQtMUliRDU5MlgzeEJjUXlVTTlsLWln?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "TikTok Expands AI Video Generation Tools in Symphony Ad Suite - TechJuice",
-          "summary": "TikTok Expands AI Video Generation Tools in Symphony Ad Suite TechJuice. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "TechJuice",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLV9oVzM5a3RwSUFlbFhrUXpNaUJuX3ItbmQ2LXQyaE5aT1pfTVg2M0xUbGFzRjFVaF9GV3VrNkhMa09JR0JyeGx3cktfaEdsdnY4T3JkdC1QSjVEU29TTlhLOUtUSTQ2M0RzVEU3S2E3WHZNMzdLOWF1SW1MSkY0ZTJBN051SXlMNHo4X25UbTBfbUg0VVB3bktiMVlOMTBtQVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "TikTok Ad Network Has to Prove Its Reach to Agency Buyers - https://www.thekeyword.co/",
-          "summary": "TikTok Ad Network Has to Prove Its Reach to Agency Buyers https://www.thekeyword.co/. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "https://www.thekeyword.co/",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwUlEwTEdyNDBaRnFobVAxQTBkOFU1V0lIVUwyUmlMMTJTbThEcUN4NWpZLWtVanpZM1J4MVpYLU90QzlZRjAtZXdtbWVnQ05BZlZ4TXhOSloyMmhJLWFfckJzWFBBRXczRzlRZmJYZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "TikTok opens 400,000-app ad network to U.S. brands - ContentGrip",
-          "summary": "TikTok opens 400,000-app ad network to U.S. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "ContentGrip",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YZmZrQi13RzVlV0I5SHBDMUp5TzlZLVViQURHMGs1ekg5bnQ2a1dpLThFX1djSERQN0VBcmlKV2N5UVFVbFg4VnAyRU4xVzB0dFlXTmZXTEVqTHctbDNMd28yQ19PRHdJNmkzMi13?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "name": "Search & SEO",
-      "stories": [
-        {
-          "title": "Case study: AI search is changing how media and marketing businesses get found - The Media Online",
-          "summary": "Case study: AI search is changing how media and marketing businesses get found The Media Online. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
-          "source": "The Media Online",
-          "when": "8 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWkxZEpjZmxDazExc0R0RzEyZnV4VXEwblVJOXdRTUZBVmQwRTdXbWhEQnFVbkZEWEhZLU1jVUU4NjM5WlJJaTVGS3RxQkFEdFBjMUVucEhWdDdrVzNUQVNMc1lCTHpObE5ucFlUZkl0cEUwWFN2OFczRnVjN05ZRWtVOGpQald1OGxyMmJVc1Jvdy1TRDByV0wtTVFOYzJRMWVWRnZwQVFWNlFGM3JSdkhseWREZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/DIGITAL_INFRASTRUCTURE%27S_CONNECTION_BETWEEN_CITIZENS_AND_THE_CULTIVATION_OF_HOMELAND_SECURITY_TERRAIN_%28IA_digitalinfrastru1094564085%29.pdf/page1-960px-DIGITAL_INFRASTRUCTURE%27S_CONNECTION_BETWEEN_CITIZENS_AND_THE_CULTIVATION_OF_HOMELAND_SECURITY_TERRAIN_%28IA_digitalinfrastru1094564085%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "title": "Google Ads adds new AI Max columns for deeper campaign analysis - Search Engine Land",
-          "summary": "Google Ads adds new AI Max columns for deeper campaign analysis Search Engine Land. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
-          "source": "Search Engine Land",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnFkLWJwcXhRdkRpVjZPb000RTF5UGZ5eXlqTFNacTFVdnJLRjBMTElSXzRuRjc4RXNjcFFpSjhTTHpVa1hyU21ZdURDUUpXZUtDSGl5TDNtcWhMUjh4ZnViZnczbUZQbVZwVFp5VVVvaVZ4WVNoYzdiUGNKNUFFZWZqNi01b19DOE11b2h5TVFvNi1NNkJLLUZmUmt2RC00?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Stop letting AI make your marketing decisions - Search Engine Land",
-          "summary": "Stop letting AI make your marketing decisions Search Engine Land. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
-          "source": "Search Engine Land",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmZFbHp2U2FpbjI1b3RsY2FodmFNTV9sam9qaE9zZUNzOEpTMWUyTU5RZUN1VXpGcm1IWTYycXUySjNVM01SNkVCSzBYM0tpeTE2N1NWendmR2FkMDNsTEtMNTJqLTRJVWRucGx3YjJoN0ZCT2UxUnZqQjcyUDdPRlZTZGl2V0d1?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google September 2026 spam update done rolling out - Search Engine Land",
-          "summary": "Google September 2026 spam update done rolling out Search Engine Land. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
-          "source": "Search Engine Land",
-          "when": "8 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "name": "Analytics",
-      "stories": [
-        {
-          "title": "OpenAI Debuts Decisions API for Near Real-Time Classification, Up to 10x Faster Than GPT-6 Luna - BigGo Finance",
-          "summary": "OpenAI Debuts Decisions API for Near Real-Time Classification, Up to 10x Faster Than GPT-6 Luna BigGo Finance. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "BigGo Finance",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wSHhGZTVQanlNLUF2LVpQUFRlemlETXFoZzEtc2YxeHU5aE9sWndsOVNsWWo0Y21kdmhRWFpVWTZVVWd3LTRuWVowRmNmSUYwWEtveHh0ZU5YZ3NuSHd4aUk4ZldtcmVyREhMT3ctMmFIaXdwY1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Weight Watchers' ChatGPT Ads CPA ran 15.3% below benchmark, DV says - PPC Land",
-          "summary": "Weight Watchers' ChatGPT Ads CPA ran 15.3% below benchmark, DV says PPC Land. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "PPC Land",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGZPM2c2eWZBSE50VXVnMWIyWk55NDFqNFprSmNWaHVkSnZpMkNSeWl4VmF4QVh0NUdXLVJ6aE1rTlYtUXBZd2FMUTdJMUJrYXFzVDlBbFEzR3hDY2V5ejI3b24zaDhMbEFVQVZnR3NDaWlQeWVOb09vYnM0bndKSWRrNmtSb1k4NFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google Changes What Counts as a View in Demand Gen Display Ads - ALM Corp",
-          "summary": "Google Changes What Counts as a View in Demand Gen Display Ads ALM Corp. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "ALM Corp",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHUtdEdoazVaVEhkY1prRGx5R0Z3Ti0xQjFfVTBSNHdfb2V6dUJ2eVVkRVVEOWhhMEE0VDdSNnVUeXhLeHQyX3FfNlk0VlZSQUF5bEM0dExLQkF4d1hjTUk4MVhlOVZPemJLYWdwYk92OThPdFI0OHdVSWotQ0dFZG1ITzNRUG9sbE5j?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "X Updates Its Video Composer With a Cleaner Layout and Grok Captions - ALM Corp",
-          "summary": "X Updates Its Video Composer With a Cleaner Layout and Grok Captions ALM Corp. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "ALM Corp",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaTNmRE1rSUJ1WVFneFdOaW96aUtsUUxucDd6ZDBpZzEzVlFycUpCLUlJbElYS1U4RmM5VE5JenlxNXpmS1pzSkdvajBmMTdGTnNTYWxUck8wRFl0bVZ6Ynp3bEtVRTdHSjVsZjJlS1FyV1ZROHNUdkIxMDVCQVJkcGxxUGc0QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "name": "Creative AI & Design",
-      "stories": [
-        {
-          "title": "Text-to-vector AI Software (2026): CorelDRAW's New AI Vector Generation in the September Update Reviewed by Consumer365 - Yahoo Finance",
-          "summary": "Text-to-vector AI Software (2026): CorelDRAW's New AI Vector Generation in the September Update Reviewed by Consumer365 Yahoo Finance. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Yahoo Finance",
-          "when": "8 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTdHczcyZC0yWnRKVE1VaTBiTUdEYUJJYk5iYjJlZlZkclVKS1ExTEM2dHRvTWRGTTV0Q2EtNGlvbzNqZk9ubC1OMFllbm5hd2FObXdzSV9fYmxpWHBFZHQzQzBTdGJRQjFOSTcxTDNXc2xpb3ZBMGJuUEUxY1BJa2xBeVA3YlhqbXNaU3kwcnVKc0dwQmFV?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "I Tested 13 AI Image Generators — Here Are the Results - www.perfectcorp.com",
-          "summary": "I Tested 13 AI Image Generators — Here Are the Results www.perfectcorp.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "www.perfectcorp.com",
-          "when": "8 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUkwYlJCYXFOeUVkbUZPVlJXbGFwZlJOUlc5ZTVYS2VGaUVCNmlDUURaSzdVYkZRRkFYdDJBeVRBZXk1TTI2a3JmaHEtSURDZFlCSjNNeVdocXhBRnhTQnpqVkR2Nml6LWZ2NTByWEhfbTF0RVZTSUNPNnd2Y2FhXzMzTUVtYXBFWVU1Vg?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "name": "MarTech & Automation",
-      "stories": [
-        {
-          "title": "Aurora Mobile's GPTBots.ai Showcases Enterprise AI Agent Methodologies at Hong Kong Agentic AI Solution Day - Media OutReach Newswire",
-          "summary": "Aurora Mobile's GPTBots.ai Showcases Enterprise AI Agent Methodologies at Hong Kong Agentic AI Solution Day Media OutReach Newswire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Media OutReach Newswire",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZUNHMHItZEJpaFdRS19JVWNrUm9ibHpnX3NsOWhualFiRV85MEd6d1Jodk95NEVrck9FYkRHSzdhaVRmY0x0VWF2SFItWjNiMURYNVd5bVZqSHhzbW5uSlBITE92QkFGVk5ZS1Zmc3hKWEhXNHRRNEN5OE9KYnFGTjdRcFZhSm4wUTRZVklfVi1WXzI3MlRrSnNwM0pUWms2RTQxM0Y1STVQcDdaNjdVYlQ1bGt4RGkyb1RWWDdwSlNYN1lsMko1TUVXMXAzdHQ3ZC0yX3NSSGdIS1BYSjg5Snd2MFA3NzRIX2hscW9KMDE4NE9Id2hsMjdWSkozOW9i?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "name": "Ecommerce",
-      "stories": [
-        {
-          "title": "AI agents are ready to shop but Indian ecommerce is still not ready to let them in - StoryBoard 18",
-          "summary": "AI agents are ready to shop but Indian ecommerce is still not ready to let them in StoryBoard 18. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "StoryBoard 18",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1hNYjJtVU80RmJDVXp3VWhpRVh5TUhiVzd5Y1B3X1JNUzFaQ0Z5US1KSUNNOWtYWU1DT3IzZmxDTU9GbVJaTGNJSVBlcEE5YnpGNFNDdi1FUU1ybWtxeWNkc1lOV2ttZzZpaVpmeUlySWVaS1hIRGI3TlJZdFFFcHEtX21sU2RTM0Q1NWl1LXRqXzZyMzV3UVlOZlZZUWpTMElBdjcxUGZMT0ZiSWxyY2xkTUJOVThKME9j0gG7AUFVX3lxTE9zWE1iMm1VTzRGYkNVendVaGlFWHlNSGJXN3ljUHdfUk1TMVpDRnlRLUpJQ005a1hZTUNPcjNmbENNT0ZtUlpMY0lJUGVwQTliekY0U0N2LUVRTXJta3F5Y2RzWU5Xa21nNmlpWmZ5SXJJZVpLWEhEYjdOUll0UUVwcS1fbWxTZFMzRDU1aXUtdGpfNnIzNXdRWU5mVllRalMwSUF2NzFQZkxPRmJJbHJjbGRNQk5VOEowT2M?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "New Ecommerce Tools: October 7, 2026 - Practical Ecommerce",
-          "summary": "New Ecommerce Tools: October 7, 2026 Practical Ecommerce. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Practical Ecommerce",
-          "when": "7 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJWFU5WTdQUHZvRjlzRE80ZC1uNnRmQUVpZGVHb25kZXQ0eHpMNmktWWFHU0FBNEx4c21TYzhJVHZaS0dWUm1jX2RNak5nekZoU3pDNTNBY0RIX2N1M2VYTWFSN0FvajUwalhYazJqQVpac2xpaHBnRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Industry leaders argue AI advertising needs human accountability, not just automation",
+          "summary": "A new industry discussion examines the growing use of agents by Meta, Walmart and Amazon for planning, creating and optimising advertising. The central concerns are disclosure when synthetic content could mislead, bias checks, creative integrity, brand safety and clear human accountability.",
+          "why": "As automated systems gain more influence over creative and campaign decisions, a fast workflow is not enough: teams need clear ownership for what is published and how it affects customers.",
+          "use_case": "Create a lightweight AI-ad review checklist covering factual claims, synthetic-media disclosure where applicable, brand safety, audience suitability, platform-policy compliance and a named human approver.",
+          "source": "Financial Express",
+          "when": "9 Oct 2026 · Industry analysis",
+          "url": "https://www.financialexpress.com/business/brandwagon/keeping-advertising-human/4357085/",
           "image": ""
         }
       ]
@@ -321,67 +102,89 @@
   ],
   "summary": {
     "title": "Summary — What’s Actually New",
-    "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
+    "intro": "The common theme is AI moving closer to execution. These are the distinct changes worth tracking today, rather than repeating the same broad ‘AI is transforming marketing’ claim.",
     "topics": [
       {
-        "topic": "Google September 2026 spam update done rolling out - Search Engine Land",
-        "status": "Cross-source coverage",
-        "common_context": "Google September 2026 spam update done rolling out Search Engine Land",
+        "topic": "Google’s workplace agent",
+        "status": "Confirmed · Official announcement",
+        "common_context": "A general-purpose AI agent can help with knowledge work and content creation.",
+        "unique_points": [
+          {
+            "source": "Google Cloud Blog",
+            "when": "8 Oct 2026",
+            "point": "The agent is designed for persistent, multi-step work across tools and enterprise systems, with scheduled or event-triggered tasks and coordination between specialist sub-agents.",
+            "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
+          },
+          {
+            "source": "Google Cloud Blog",
+            "when": "8 Oct 2026",
+            "point": "Governance is part of the announcement: individual agent identities, role-based permissions, audit trails, sandboxing and a policy-enforcing Agent Gateway.",
+            "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
+          }
+        ],
+        "bottom_line": "For marketing operations, evaluate integrations and permissions as carefully as model quality. Start with low-risk reporting workflows and preserve approval gates."
+      },
+      {
+        "topic": "Google Ads AI Max",
+        "status": "Confirmed · Reporting and preview updates",
+        "common_context": "Google is adding more visibility and review options around AI-assisted Search campaigns.",
         "unique_points": [
           {
             "source": "Search Engine Land",
             "when": "8 Oct 2026",
-            "point": "Google September 2026 spam update done rolling out Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Advertisers can preview up to 10 generated headlines and descriptions from a final URL before enabling text customisation.",
+            "url": "https://searchengineland.com/google-ads-lets-advertisers-preview-ai-max-generated-ad-copy-before-opting-in"
           },
           {
-            "source": "Yahoo Finance",
-            "when": "8 Oct 2026",
-            "point": "Text-to-vector AI Software (2026): CorelDRAW's New AI Vector Generation in the September Update Reviewed by Consumer365 Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTdHczcyZC0yWnRKVE1VaTBiTUdEYUJJYk5iYjJlZlZkclVKS1ExTEM2dHRvTWRGTTV0Q2EtNGlvbzNqZk9ubC1OMFllbm5hd2FObXdzSV9fYmxpWHBFZHQzQzBTdGJRQjFOSTcxTDNXc2xpb3ZBMGJuUEUxY1BJa2xBeVA3YlhqbXNaU3kwcnVKc0dwQmFV?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Marketing-Interactive",
-            "when": "8 Oct 2026",
-            "point": "Meta adds new AI tools to detect child exploitation in ads Marketing-Interactive",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalhqcVdMQWJ0MHJ6SXRXa19UTzFUTGpRTGtZU2x4MjFQTERTbk5veGhSRUhXc2Z2dng2bmJGb0UzTGVrd280bm43Z2wwWjJzUGt1bjFRQklZLTBrcmlWVFhwR1ZaMzU5aTgwNEh2S3A0UGFkTGlPNVYxbk9BeVdlSkRpVGRTYlg0c0c1emdpTDk0S2tKcDlwcDZiM2I?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "PPC Land",
+            "source": "Search Engine Land",
             "when": "7 Oct 2026",
-            "point": "Weight Watchers' ChatGPT Ads CPA ran 15.3% below benchmark, DV says PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGZPM2c2eWZBSE50VXVnMWIyWk55NDFqNFprSmNWaHVkSnZpMkNSeWl4VmF4QVh0NUdXLVJ6aE1rTlYtUXBZd2FMUTdJMUJrYXFzVDlBbFEzR3hDY2V5ejI3b24zaDhMbEFVQVZnR3NDaWlQeWVOb09vYnM0bndKSWRrNmtSb1k4NFE?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Separate reporting columns expose Locations of interest, Optimized targeting and Brand inclusions; these add audit visibility but do not change delivery behaviour.",
+            "url": "https://searchengineland.com/google-ads-adds-new-ai-max-columns-for-deeper-campaign-analysis"
           }
         ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+        "bottom_line": "Use the preview for pre-launch copy QA and the new columns for ongoing configuration audits. These are complementary controls, not a substitute for performance monitoring."
       },
       {
-        "topic": "ASUS ProArt RTX Spark Windows PCs Available for Immediate Pre-Order Today, Delivering Integrated Ecosystem of AI Agents and Creative Apps - markets.businessinsider.com",
-        "status": "Cross-source coverage",
-        "common_context": "ASUS ProArt RTX Spark Windows PCs Available for Immediate Pre-Order Today, Delivering Integrated Ecosystem of AI Agents and Creative Apps markets.businessinsider.com",
+        "topic": "Incrementality measurement for Search and PMax",
+        "status": "Reported rollout · Account eligibility varies",
+        "common_context": "Conversion Lift compares outcomes between exposed users and a holdout group to estimate incremental impact.",
         "unique_points": [
           {
-            "source": "markets.businessinsider.com",
-            "when": "8 Oct 2026",
-            "point": "ASUS ProArt RTX Spark Windows PCs Available for Immediate Pre-Order Today, Delivering Integrated Ecosystem of AI Agents and Creative Apps markets.businessinsider.com",
-            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVFFHSXFTRG54T0ZVaUZwc1p5cDFUSHpzSENfVHdjQU5CcDhUWGp6TFc3MTZIVWYtOUNhRFk0SGFIbUZzbS1TWHlDN0hrUk9abkdEUi1MQmNkaDV4d2lOb2IyTlN3NGNPMXpQZ3M4MTF3UnRVM2tMeFFEdEppNEdJeHR5dFRMQXdjVUlhV09zWmV3aWlTOVJ4eWk2ckc3SzQyZ0dRSmZ2Nm9QUzB3TTNJZWJGdy1ZblRrUHROWHJMNXdsakVBb3hiWTJNek9tSlRXdE43TUdxYkJyaXliakhoanY4aDhaVFhnWTJxQ1Jxc0w5RkN2R0lwUWg1VTZKQ2hNdUk3SkNyMFdGRnpjMFREODFjWEVCUGpLWjlKcnRqRDU?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Pasquale Pillitteri",
-            "when": "8 Oct 2026",
-            "point": "Microsoft unveils Windows Copilot on local files and sandboxed AI agents Pasquale Pillitteri",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZk9wY3FWQng0M3BMaHV0Mi1jd1dnMDQ1alFuS2RMTEE1bDUxLTRzczNQWlJ3eXBIUHU5bmEzS0Zmdi1yaHpFR0VGMlRXWV8xWnhtMUxRd2dOVGdOcUZiLTRlY2lZTG5yeGZRLTY2Z0RHblltNm1NODJDTDV3TFRhcl93NDRvOU1HMHBNcE1lbFcyUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "Search Engine Land",
+            "when": "7 Oct 2026",
+            "point": "Eligible advertisers can set up user-based Conversion Lift studies for Search and Performance Max without first contacting a Google representative; the report cites thresholds of 1,000 observed conversions and a $5,000 minimum participating-campaign budget.",
+            "url": "https://searchengineland.com/google-opens-conversion-lift-to-search-and-performance-max"
           }
         ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+        "bottom_line": "For accounts meeting the thresholds, consider incrementality testing where attribution alone cannot answer whether Search or PMax created additional conversions."
+      },
+      {
+        "topic": "Meta’s conversational campaign workflows",
+        "status": "Confirmed announcement with some features in testing",
+        "common_context": "Meta is expanding AI assistance for campaign and creative workflows.",
+        "unique_points": [
+          {
+            "source": "Meta Newsroom",
+            "when": "6 Oct 2026",
+            "point": "The announcement includes scheduled tasks and alerts for recurring work such as performance monitoring, weekly summaries and budget-review reminders.",
+            "url": "https://about.fb.com/ltam/news/2026/10/advertising-week-new-york-2026-nuevas-capacidades-de-ia-para-guiar-campanas-y-llegar-a-los-clientes/"
+          },
+          {
+            "source": "Meta Newsroom",
+            "when": "6 Oct 2026",
+            "point": "Meta says its Ads MCP workflow can upload creative, preview ads as they appear on Facebook and Instagram, and analyse performance; agent-prepared work can arrive as a draft in Ads Manager.",
+            "url": "https://about.fb.com/ltam/news/2026/10/advertising-week-new-york-2026-nuevas-capacidades-de-ia-para-guiar-campanas-y-llegar-a-los-clientes/"
+          }
+        ],
+        "bottom_line": "The useful test is whether these workflows reduce repetitive work while keeping budget, targeting and publishing decisions reviewable."
       }
     ]
   },
-  "generated_at": "2026-10-08T16:22:22.508225+05:30",
+  "generated_at": "2026-10-09T10:00:00+05:30",
   "engine": {
-    "model": "none",
-    "research": "Google News RSS + source-page metadata",
-    "window": "approximately last 36 hours",
+    "model": "manual editorial update",
+    "research": "Web research with official announcements and specialist marketing coverage",
+    "window": "9 October 2026 edition; prioritises developments from 8–9 October and recent platform announcements",
     "api_credits_required": false
   }
 }

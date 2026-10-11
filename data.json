@@ -1,1 +1,261 @@
-{"date":"11 October 2026","author":"Yogesh Raghupati","lead":{"title":"Google Ads adds automatic text overlays to Demand Gen video ads","deck":"A new Demand Gen setting can place campaign text over video. Review the control and rendered assets before scaling: overlays can obscure visuals or surface outdated offers.","url":"https://searchengineland.com/google-ads-adds-automatic-text-overlays-to-demand-gen-video-ads-494885","source":"Search Engine Land","when":"9 Oct 2026","image":""},"note":"Editorial window: 9–11 October, plus material 8 October announcements still affecting current operations. Platform updates, third-party reporting, research findings and company-reported metrics are distinguished; verify account-level availability before acting.","ticker":["Google Ads adds automatic text overlays to Demand Gen video ads","Display & Video 360 Structured Data Files v11 is generally available","Meta blocks TikTok and ByteDance ads in seven markets","Google Cloud introduces a Gemini agent for workplace tasks","Anthropic reports unintended actions in Claude evaluations","AI Overviews appear on more tracked brand-name searches","Meesho details its AI stack and voice-shopping agent"],"sections":[{"name":"AI & Agents","stories":[{"title":"Google Cloud introduces a Gemini agent for workplace tasks","summary":"Google Cloud Gemini agent — Reuters reports it can plan tasks, use tools and business systems, and return work in documents, email or developer environments. Reported integrations include Workspace, Microsoft 365 and Slack.","why":"Agents can help with multi-step research and reporting, but need controlled access to business systems.","use_case":"Pilot with approved exports and draft-only outputs; review before client emails or live campaign edits.","source":"Reuters","when":"8 Oct 2026","url":"https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/","image":""},{"title":"Anthropic reports unintended actions in Claude evaluations","summary":"Claude — an official Anthropic report describes evaluation cases where the model took actions beyond what was intended. Anthropic said the cases had minimal real-world impact and, to its knowledge, did not involve customer data.","why":"Agent actions can have consequences when connected to forms, ad accounts or CRM systems.","use_case":"Start read-only; log tool calls and require approval for submissions, budget edits and publishing.","source":"Anthropic","when":"9 Oct 2026","url":"https://www.anthropic.com/news/investigating-unintended-model-actions","image":""}]},{"name":"Google Ads","stories":[{"title":"Google Ads adds automatic text overlays to Demand Gen video ads","summary":"Google Ads Demand Gen — Search Engine Land reports a new setting that overlays existing campaign text on video. It appeared enabled by default in some accounts; verify the setting in your own account.","why":"Overlays can help sound-off viewing but may obscure products or show expired offers.","use_case":"Preview renders and check offer dates, safe areas and brand styling.","source":"Search Engine Land","when":"9 Oct 2026","url":"https://searchengineland.com/google-ads-adds-automatic-text-overlays-to-demand-gen-video-ads-494885","image":""},{"title":"Display & Video 360 Structured Data Files v11 is generally available","summary":"DV360 — Google's official release expands lookalike targeting, adds Business Chain proximity targeting and revises YouTube vendor columns. Versions earlier than v10 sunset in January 2027.","why":"Bulk-upload scripts and campaign tools may need schema updates.","use_case":"Test exports/imports, update mappings and plan migration before the sunset.","source":"Google Ads Developer Blog","when":"8 Oct 2026","url":"https://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html","image":""}]},{"name":"Meta Ads","stories":[{"title":"Meta blocks TikTok and ByteDance ads in seven markets","summary":"Meta Ads — Reuters reports that Meta confirmed a ban on ByteDance ads on Facebook and Instagram in the US, Canada, Egypt, Indonesia, Japan, Thailand and Vietnam. Third-party ads linking to ByteDance properties may also be affected.","why":"Meta campaigns sending traffic to TikTok destinations may face disapproval in affected markets.","use_case":"Audit active ads by target market and final URL; confirm edge cases with Meta.","source":"Reuters","when":"9 Oct 2026","url":"https://www.reuters.com/business/media-telecom/meta-bans-tiktok-advertising-its-apps-bloomberg-news-reports-2026-10-08/","image":""}]},{"name":"Microsoft Ads","stories":[]},{"name":"TikTok Ads","stories":[]},{"name":"Search & SEO","stories":[{"title":"AI Overviews appear on more tracked brand-name searches","summary":"Google Search AI Overviews — Search Engine Journal reports Ahrefs found an Overview on 63 of 100 usable US brand-name queries by 30 Sep, up from 5 of 98 on 1 Jul. The data does not measure click impact or brand-site citations.","why":"AI Overview presence is not the same as being cited or losing traffic.","use_case":"Track brand queries, cited sources, Search Console clicks and conversions separately.","source":"Search Engine Journal","when":"9 Oct 2026","url":"https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/","image":""}]},{"name":"Analytics","stories":[]},{"name":"Creative AI & Design","stories":[]},{"name":"MarTech & Automation","stories":[]},{"name":"Ecommerce","stories":[{"title":"Meesho details its AI stack and voice-shopping agent","summary":"Meesho ecommerce AI — trade-press analysis of its FY26 annual report describes BharatMLStack across discovery, advertising, cataloguing and support. Meesho reports 1.5 million first-month Vaani users and a 22% conversion lift among adopters; company-reported figures.","why":"Voice and local-language shopping tools may help customers who struggle with typed search and filters.","use_case":"Test conversational discovery with a holdout; compare add-to-cart, checkout completion and support contacts.","source":"Express Computer","when":"10 Oct 2026","url":"https://www.expresscomputer.in/exclusives/inside-meeshos-big-ai-bet-why-indias-most-downloaded-shopping-app-is-betting-on-infrastructure/139744/","image":""}]}],"summary":{"title":"Summary — What’s Actually New","intro":"Separate platform updates from research and company-reported outcomes; focus on what operators should verify next.","topics":[{"topic":"Advertising automation","status":"Distinct platform updates","common_context":"Google is adding controls in different parts of its advertising stack.","unique_points":[{"source":"Search Engine Land","when":"9 Oct 2026","point":"Demand Gen can overlay existing text on video; observed defaults may vary by account.","url":"https://searchengineland.com/google-ads-adds-automatic-text-overlays-to-demand-gen-video-ads-494885"},{"source":"Google Ads Developer Blog","when":"8 Oct 2026","point":"DV360 SDF v11 revises targeting and file columns; versions before v10 sunset in January 2027.","url":"https://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html"}],"bottom_line":"Preview creative outputs and test bulk-file imports separately."},{"topic":"Agentic AI needs operational controls","status":"Reported launch and official report","common_context":"Workplace agents can act across tools, so permissions and review matter.","unique_points":[{"source":"Reuters","when":"8 Oct 2026","point":"Google's Gemini agent is designed to plan tasks and use workplace systems.","url":"https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/"},{"source":"Anthropic","when":"9 Oct 2026","point":"Anthropic reported unintended actions in model evaluations.","url":"https://www.anthropic.com/news/investigating-unintended-model-actions"}],"bottom_line":"Start with draft-only or read-only workflows; gate external actions behind approval."},{"topic":"AI search and commerce measurement","status":"Research and company-reported results","common_context":"AI visibility and shopping-agent metrics need context before they guide budgets.","unique_points":[{"source":"Search Engine Journal","when":"9 Oct 2026","point":"Ahrefs' panel found AI Overviews on 63 of 100 usable brand-name queries by 30 September; click impact and citations were not measured.","url":"https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/"},{"source":"Express Computer","when":"10 Oct 2026","point":"Meesho reports 1.5 million first-month Vaani users and a 22% conversion lift among adopters; company-reported.","url":"https://www.expresscomputer.in/exclusives/inside-meeshos-big-ai-bet-why-indias-most-downloaded-shopping-app-is-betting-on-infrastructure/139744/"}],"bottom_line":"Track citations and conversions directly; validate commerce pilots with controlled measurement."}]},"generated_at":"2026-10-11T10:15:24+05:30","engine":{"model":"none","research":"Fresh web research; primary announcements prioritized with reputable reporting","window":"9–11 Oct 2026; material 8 Oct announcements included where relevant","api_credits_required":false}}
+{
+  "date": "11 October 2026",
+  "lead": {
+    "title": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] - https://tech-insider.org/",
+    "deck": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] https://tech-insider.org/. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mRWZ0d084cjgycktsYU1SMjRqQUYtX2FGZkVLZ09JRl9QYTBOVVdyeFdZSU1sS1FYM2o3VVI5OExhbEctckhDMGtKYm9DTU1LVzZwUjBsSVpzbFZ2VFozUnpFTjRzRkpUdFJyLVlaaU5VSmpBdWo2dXRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "https://tech-insider.org/",
+    "when": "10 Oct 2026",
+    "image": ""
+  },
+  "note": "Edition generated from recent RSS news coverage. Primary/official sources are prioritized when surfaced by the feeds; verify important changes at the linked source.",
+  "ticker": [
+    "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility - FinancialContent",
+    "Google Pushes AI Agents Deeper Into the Workplace as Competition for Business Automation Intensifies - www.strategicrevenue.com",
+    "Grow and Convert Introduces Personalized GEO Strategy to Help B2B SaaS Companies Get Mentioned in AI Search - StreetInsider",
+    "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] - https://tech-insider.org/",
+    "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch - Investing.com",
+    "Tenable Field CTO on the implications of AI agent escapes and how they can be regulated - TechRadar",
+    "AI agents are going rogue — here's what you need to know if you use ChatGPT, Gemini or Claude - Tom's Guide",
+    "Meta’s Muse Agent Aims to Enhance Small Business Operations with Approval Processes - RS Web Solutions"
+  ],
+  "sections": [
+    {
+      "name": "AI & Agents",
+      "stories": [
+        {
+          "title": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] - https://tech-insider.org/",
+          "summary": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] https://tech-insider.org/. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "https://tech-insider.org/",
+          "when": "10 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mRWZ0d084cjgycktsYU1SMjRqQUYtX2FGZkVLZ09JRl9QYTBOVVdyeFdZSU1sS1FYM2o3VVI5OExhbEctckhDMGtKYm9DTU1LVzZwUjBsSVpzbFZ2VFozUnpFTjRzRkpUdFJyLVlaaU5VSmpBdWo2dXRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch - Investing.com",
+          "summary": "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch Investing.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Investing.com",
+          "when": "10 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVlRZbTNlNWUwVEZoOFBpcHNlYlJlVEpEVFpsc0VWdWNNam84YVJlZGNsRnlFdHp3THNKRTBwTXZBMXdUVWM4N1ZyN3R0Y2hlbml1NTcyVE9xMnhjYVBsSTMyYTZUX0tSbXIwOWVsWF8tSVV1WFo1bWlNeko2TXBzYTc4cWVFbkNFWTJmSi0tNjVjaEdDRGpsSHcxeXNsTzdZTXhlMmhfLUVLd2lYeDY2UzlzVGxOTzVfSV9NbHlSN2FpczNlYi16QUZZYlA0eWZj?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Tenable Field CTO on the implications of AI agent escapes and how they can be regulated - TechRadar",
+          "summary": "Tenable Field CTO on the implications of AI agent escapes and how they can be regulated TechRadar. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "TechRadar",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOclhYRmlUd1pVQXlLbXJRZVdqVWhpZ0VCcGUxcUg3VGxqZWx3SmVDU25INFJZZTRObC02LWlUcHJFWEgtakJIVGtyUmZVdXc3VW95SmxiZl8zRGtPMUJkeFBUOXFXOVdpSjZ6c05PZ1dMaHY1ekpsd0dhSzRUWGk3NGtZeDdFbEtKVkU2aktTNUs2MndKMGZkWnlPb1NFSW5ORG5YdTRBM215cXd0MFJDU0ZUR3JRY3dZblBKck9pU1pQanVRTGliSkhyMDB5dWJUMWxmVjFzY2hpQ2VrQmYxd2JmNTdJVkVWY0taUUxNMFMxR1EwRmFfcnhnR1cwLW05UzVXZFJ3UjhPY0F1UUFv?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "AI agents are going rogue — here's what you need to know if you use ChatGPT, Gemini or Claude - Tom's Guide",
+          "summary": "AI agents are going rogue — here's what you need to know if you use ChatGPT, Gemini or Claude Tom's Guide. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Tom's Guide",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd202RmQ4dGZjU0V4RVNubk5zb29lMHd1SFh2UURqdUtmSEprVkgweUJfQmM3RnJrWElPVlJYMVZkQjFGZUVZV29aU0RrMVl0TE91SExleU9uWHJpSVk4NUZHRDd6dGZFblBaZ3FZOEhYMVlFczFNcnVWcGt1MF82UzZOYi0wUkRGN2Z4WVUxUUFJdnpMYUJ6Nnk3UktMVWVjUDk2dEFVMXJrY19qekozazZGRlJ5UG5rTVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Google Ads",
+      "stories": [
+        {
+          "title": "About the AI campaign localisation tool for search campaigns (beta) - Google Help",
+          "summary": "About the AI campaign localisation tool for search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "10 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NMmtpRW96OTNfa2hmYW1XalZIS2xNZ0dhbWNGOUZVX0tJd3JuYllVMkczV3FRWHIxaFUxdFN0MHItZ3o0dU1hVmR5N1JKSkJ5ZmZEUTBXX2dzcDg2am0xdWxId01UNkp4VXNGRlhjUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/WMF_Reading%2C_PM%2C_Design_Research%2C_Wikidata_May_2018_Quarterly_Check-In.pdf/page1-1280px-WMF_Reading%2C_PM%2C_Design_Research%2C_Wikidata_May_2018_Quarterly_Check-In.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "title": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
+          "summary": "About the AI campaign localization tool for Search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "10 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PRTliMEZwX0c3c0dNbGRSRDJ4VE9rZngwaXBNR0V6VERjQzdBd2pvRl9rN1RhbVBxU2hyMldsVzlobHhhOF9idXZWbjVOb1kxWlY3LWViSFdTa3U3aThYUG1uaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Meta Ads",
+      "stories": [
+        {
+          "title": "Meta’s Muse Agent Aims to Enhance Small Business Operations with Approval Processes - RS Web Solutions",
+          "summary": "Meta’s Muse Agent Aims to Enhance Small Business Operations with Approval Processes RS Web Solutions. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "RS Web Solutions",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3FhNFpYYzB0TjRkNGhKYUhWYTBXc2RjT1J0MG52a2ZLWldXdDVCeDU3SFVJWnFZLWFEekZBQ2FnNGZJYm1xUDlmSlNDS214ejd0MUluZ2hGZjFyOU9xNnlIdG00SVdkRzJkR1B6dXNPZGNIZXJVN0xjYjlIODA3SXpJWndIS0JIb0RKVTE5bGNQd1E1RFBoUzlZUXMxMGNwQzUweGo5MHRLQjZmLWg2MnRKYUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Meta Platforms (META) Bars Rival Ads in Seven Countries While Backing $1.8 Billion AI Push - Simply Wall Street",
+          "summary": "Meta Platforms (META) Bars Rival Ads in Seven Countries While Backing $1.8 Billion AI Push Simply Wall Street. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Simply Wall Street",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVy12WGl4bE9vajJwdFBXLUdCaWI0ZWdjTkVvZWl2cGVDR0lqUWptMVppcjNyUExVVnlGbHUzWk5pUGxMSjNiOG03c0hBMEx1WGs1YjNpeV95Vk1ZenI5Ymd5dl9DSW1BNEJ0dEJ1d0cxTHpvMmh0LW1YVnA2R2pvYkFrUkhHSm5Qazk2VHVZbF9QLVpFOHNwSm15RnhMYTc3cS03VzhPWWdsNVllcnB1aGQ3MTJ2RFBKSi1wSWFPTkZKMGpyU1ZnN9IBzgFBVV95cUxPRVVCdGRQYU5tTFBXbnZWdjhINGdqYXRRTzJxZUxIdHdjRVgxYllTU0ltVDN2UzI4ckg2RUNpZklkdmRVd1lHdlRGdEwybXVpQ1c4RmUyQmNhVjUzRFBBQmprRjFmamJfQkxyQXYyZFJpbXhpUk1kS1lMcFJvbXM0Z3o3SHJmdno2emhRWWo3bV90NV9ndUJpWTRNLVU2UXpvREx2bTEtdXJQUUd2bDRFYmhfSWl1aVNPTXV6YlRVOExSdWQxNW8wWDdfT2Q1Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Ads",
+      "stories": [
+        {
+          "title": "AI Economy for Marketers - Microsoft",
+          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Microsoft",
+          "when": "10 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UcGo2NXJGb19JQnRjamRXTmFJSmUwZHlVY2puVjkzUkkxRjN4ZXhDUlhNb21tR2RfeDNJR1FTbnVkRElKdEdiYkE5OXhMaGFjTWQtVlFIRGU2WlZlQnRxSXZEazZqd2Y2YVNPNl9KbE9lT2NCMzU3Z3paWlFpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Mozilla_-_Internet_Health_Report_2019.pdf/page1-500px-Mozilla_-_Internet_Health_Report_2019.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    {
+      "name": "TikTok Ads",
+      "stories": []
+    },
+    {
+      "name": "Search & SEO",
+      "stories": [
+        {
+          "title": "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility - FinancialContent",
+          "summary": "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility FinancialContent. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "FinancialContent",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNb2RPOHdSMURHSXZVQWRPZ1NHRVdUR2hMWjdzb2ZYc1FIenByMFFfRUdTMXlvQlJTY0lZdnE5Rms5RFRSeW91dzhISU95MWhNTndPRlZ0TEN4Y1dTWHV5TmZLR1BMb0FCMC1kNUd3UDhMUG1FcEhGdmVBOTFDQ3lPVFFMVFR4dl9nTUZCSnhocklXak9kOEZhMHZyYzZNaXNnc2p5dG0tUWxPZzlnZGl6QkZaSXlUOUdvZl9uUThVUmpoVzdTdV9lTTJaRVEybVBRWmxDUnFHdGdJaVcyTG1SU1duZl9aZ1BvMnJfV21mU0M3cU9qdEFud201N0lCNVZ4eVFhTWNad1pvQVJOcGRQT3lod2VuUVk5bUtnbVJpcldWQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Grow and Convert Introduces Personalized GEO Strategy to Help B2B SaaS Companies Get Mentioned in AI Search - StreetInsider",
+          "summary": "Grow and Convert Introduces Personalized GEO Strategy to Help B2B SaaS Companies Get Mentioned in AI Search StreetInsider. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "StreetInsider",
+          "when": "10 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTWl0aDFqazJUUGhuYjVzT2t0cVNtT1Y0YXRwbnR6b3hxZlZxNURISng2ZHpuOUZUU3Rka2g5TFVLQ2ZTc2tuUXcxcmJ3NjYzM0dQRjFLZ2txb2hrX012TlBrODhQZjhVR005b2lqVmdPbnhUbzFaUmVvX0FidVJJRmVuZXJHSlpIaUF0cFVWd3M0b3RYRHpfeE45blgwckMxeGVmRHpBMDZrQ2QxQWdiUndjaTFyYy14QlJIV3FJUkI4NGcwak9NNDlNMk5uYVlLYVVjZ2FZU1RPaXVPNzVJUWFDTXNzeTY2OGpqTlpNS0Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google SEO vs ChatGPT Search Changes: Local Business Guide Released - FinancialContent",
+          "summary": "Google SEO vs ChatGPT Search Changes: Local Business Guide Released FinancialContent. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "FinancialContent",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDg3eE1Ua0VsM1VrWXlwSEhXS1hpR3RYUHpmTFltalJsaG9MZEExVjZtaWFGX3lCckd4OC1KdHhTMWRrUW8tQ1hCTEFMMVBjMnYyNU0zTXdtWkFZanp0aG1SYTRIQUNGMUR4M2wzTWRTRzdoV09NU2pHRjZJTHFxbzY3SFkyNHNIRnFYY1BRdWpNaHZSNGlxQU40aGlucXo3aWNtMkJ6WnFQd0pWU2t3OF9CNFp5Y0tZb01PSnhvZ2xTaEx5djdTcUJFWFI1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "SEO Isn’t Dying. It’s Finally Being Marked Properly - Vocal",
+          "summary": "It’s Finally Being Marked Properly Vocal. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "Vocal",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzVVFXZjNxdlF5LTBvS0g1blllWmVrY2c0MDlQUm5NWGROaWtER0tSNkUwSUY3X0N0eXBpTk14U1M3UHh4UjFybExCSG9YaEU2cE9rZFRVbHVEc19lQkdtbWV1SU51Y3FDQ3VDaEdBQ3hIRzVtUmZERTBVSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Analytics",
+      "stories": []
+    },
+    {
+      "name": "Creative AI & Design",
+      "stories": []
+    },
+    {
+      "name": "MarTech & Automation",
+      "stories": [
+        {
+          "title": "Google Pushes AI Agents Deeper Into the Workplace as Competition for Business Automation Intensifies - www.strategicrevenue.com",
+          "summary": "Google Pushes AI Agents Deeper Into the Workplace as Competition for Business Automation Intensifies www.strategicrevenue.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "www.strategicrevenue.com",
+          "when": "10 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb2I1R01fSnYxdUFKSm9NbWk0cERqYmR4TDVhX21mTzdjaWtHbDNCWlNOdjI5UV82enVGVDNFOXpVbDliTXhoaHRzMXdLaTY3Z2g2dV8tQ3NFY3VvNDI3a00zR01CQTBDV1AzRnJsaVlIQWotZGtsd0dFemN2ajA2SVNsbXJfTy1DcVBfUzBxUnNLM3FIY2syU1R3UkVvR1BXTl94V2VHeXRlYmVWSWVESjNtbUxaT3pfbFpJV00xUzFEVFVQeXlsZlY2LWNIZEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Ecommerce",
+      "stories": []
+    }
+  ],
+  "summary": {
+    "title": "Summary — What’s Actually New",
+    "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
+    "topics": [
+      {
+        "topic": "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility - FinancialContent",
+        "status": "Cross-source coverage",
+        "common_context": "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility FinancialContent",
+        "unique_points": [
+          {
+            "source": "FinancialContent",
+            "when": "11 Oct 2026",
+            "point": "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility FinancialContent",
+            "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNb2RPOHdSMURHSXZVQWRPZ1NHRVdUR2hMWjdzb2ZYc1FIenByMFFfRUdTMXlvQlJTY0lZdnE5Rms5RFRSeW91dzhISU95MWhNTndPRlZ0TEN4Y1dTWHV5TmZLR1BMb0FCMC1kNUd3UDhMUG1FcEhGdmVBOTFDQ3lPVFFMVFR4dl9nTUZCSnhocklXak9kOEZhMHZyYzZNaXNnc2p5dG0tUWxPZzlnZGl6QkZaSXlUOUdvZl9uUThVUmpoVzdTdV9lTTJaRVEybVBRWmxDUnFHdGdJaVcyTG1SU1duZl9aZ1BvMnJfV21mU0M3cU9qdEFud201N0lCNVZ4eVFhTWNad1pvQVJOcGRQT3lod2VuUVk5bUtnbVJpcldWQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "FinancialContent",
+            "when": "11 Oct 2026",
+            "point": "Google SEO vs ChatGPT Search Changes: Local Business Guide Released FinancialContent",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDg3eE1Ua0VsM1VrWXlwSEhXS1hpR3RYUHpmTFltalJsaG9MZEExVjZtaWFGX3lCckd4OC1KdHhTMWRrUW8tQ1hCTEFMMVBjMnYyNU0zTXdtWkFZanp0aG1SYTRIQUNGMUR4M2wzTWRTRzdoV09NU2pHRjZJTHFxbzY3SFkyNHNIRnFYY1BRdWpNaHZSNGlxQU40aGlucXo3aWNtMkJ6WnFQd0pWU2t3OF9CNFp5Y0tZb01PSnhvZ2xTaEx5djdTcUJFWFI1UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Grow and Convert Introduces Personalized GEO Strategy to Help B2B SaaS Companies Get Mentioned in AI Search - StreetInsider",
+        "status": "Cross-source coverage",
+        "common_context": "Grow and Convert Introduces Personalized GEO Strategy to Help B2B SaaS Companies Get Mentioned in AI Search StreetInsider",
+        "unique_points": [
+          {
+            "source": "StreetInsider",
+            "when": "10 Oct 2026",
+            "point": "Grow and Convert Introduces Personalized GEO Strategy to Help B2B SaaS Companies Get Mentioned in AI Search StreetInsider",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTWl0aDFqazJUUGhuYjVzT2t0cVNtT1Y0YXRwbnR6b3hxZlZxNURISng2ZHpuOUZUU3Rka2g5TFVLQ2ZTc2tuUXcxcmJ3NjYzM0dQRjFLZ2txb2hrX012TlBrODhQZjhVR005b2lqVmdPbnhUbzFaUmVvX0FidVJJRmVuZXJHSlpIaUF0cFVWd3M0b3RYRHpfeE45blgwckMxeGVmRHpBMDZrQ2QxQWdiUndjaTFyYy14QlJIV3FJUkI4NGcwak9NNDlNMk5uYVlLYVVjZ2FZU1RPaXVPNzVJUWFDTXNzeTY2OGpqTlpNS0Y?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "10 Oct 2026",
+            "point": "About the AI campaign localisation tool for search campaigns (beta) Google Help",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NMmtpRW96OTNfa2hmYW1XalZIS2xNZ0dhbWNGOUZVX0tJd3JuYllVMkczV3FRWHIxaFUxdFN0MHItZ3o0dU1hVmR5N1JKSkJ5ZmZEUTBXX2dzcDg2am0xdWxId01UNkp4VXNGRlhjUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "10 Oct 2026",
+            "point": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PRTliMEZwX0c3c0dNbGRSRDJ4VE9rZngwaXBNR0V6VERjQzdBd2pvRl9rN1RhbVBxU2hyMldsVzlobHhhOF9idXZWbjVOb1kxWlY3LWViSFdTa3U3aThYUG1uaw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] - https://tech-insider.org/",
+        "status": "Cross-source coverage",
+        "common_context": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] https://tech-insider.org/",
+        "unique_points": [
+          {
+            "source": "https://tech-insider.org/",
+            "when": "10 Oct 2026",
+            "point": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] https://tech-insider.org/",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mRWZ0d084cjgycktsYU1SMjRqQUYtX2FGZkVLZ09JRl9QYTBOVVdyeFdZSU1sS1FYM2o3VVI5OExhbEctckhDMGtKYm9DTU1LVzZwUjBsSVpzbFZ2VFozUnpFTjRzRkpUdFJyLVlaaU5VSmpBdWo2dXRn?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Investing.com",
+            "when": "10 Oct 2026",
+            "point": "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVlRZbTNlNWUwVEZoOFBpcHNlYlJlVEpEVFpsc0VWdWNNam84YVJlZGNsRnlFdHp3THNKRTBwTXZBMXdUVWM4N1ZyN3R0Y2hlbml1NTcyVE9xMnhjYVBsSTMyYTZUX0tSbXIwOWVsWF8tSVV1WFo1bWlNeko2TXBzYTc4cWVFbkNFWTJmSi0tNjVjaEdDRGpsSHcxeXNsTzdZTXhlMmhfLUVLd2lYeDY2UzlzVGxOTzVfSV9NbHlSN2FpczNlYi16QUZZYlA0eWZj?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      }
+    ]
+  },
+  "generated_at": "2026-10-11T15:46:09.553723+05:30",
+  "engine": {
+    "model": "none",
+    "research": "Google News RSS + source-page metadata",
+    "window": "approximately last 36 hours",
+    "api_credits_required": false
+  }
+}

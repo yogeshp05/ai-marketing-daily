@@ -1,38 +1,39 @@
 {
   "date": "12 October 2026",
   "lead": {
-    "title": "Google Ads API change takes effect today: YouTube responsive ads need a business name and logo",
-    "deck": "A developer-side requirement can break ad uploads if parent advertiser defaults are missing. Audit your Google Ads Editor and Structured Data File workflows before the next bulk upload.",
-    "url": "https://ads-developers.googleblog.com/2026/",
+    "title": "DV360 branding requirement takes effect today",
+    "deck": "Check parent-advertiser business name and logo defaults before uploading YouTube responsive ads through Structured Data Files.",
+    "url": "https://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html",
     "source": "Google Ads Developer Blog",
     "when": "Effective 12 Oct 2026",
     "image": ""
   },
-  "note": "What's actually new: today's actionable change is an upload requirement, while the other stories focus on agent permissions and AI-search crawler delivery. We found few clearly dated, marketing-specific launches in the last 24–48 hours; older items are labeled by their actual announcement dates rather than presented as breaking news.",
+  "note": "The lead is an official integration requirement effective today. Profound's 11 October release is the newest product announcement. Earlier developments are clearly dated; vendor-reported results are not presented as independent guarantees.",
   "ticker": [
-    "Effective today: Google Ads requires business name and logo defaults for certain YouTube responsive ad uploads",
-    "AI search visibility: Profound introduces Dynamic Bot Rendering for AI crawlers",
-    "Meta Muse for Small Business connects business context and ad accounts, with approval before actions",
-    "Google Ads AI campaign localisation can create a separate translated campaign—review budgets and landing pages"
+    "DV360 branding requirement effective today",
+    "Profound announces AI crawler rendering",
+    "Meta expands AI creative workflows",
+    "Meesho reports AI across commerce operations",
+    "Tinuiti opens measurement data to compatible agents"
   ],
   "sections": [
     {
-      "name": "Google Ads & Marketing APIs",
+      "name": "Google Ads, DV360 & APIs",
       "stories": [
         {
-          "title": "Effective today: business name and logo required for YouTube responsive ad uploads",
-          "summary": "WHAT HAPPENED: Google Ads Developer Blog says that starting 12 October 2026, creating or updating YouTube responsive ads requires a business name and logo when defaults are not already assigned to the parent advertiser. This can affect Ad Structured Data File uploads. WHY IT MATTERS: Bulk workflows may fail or require remediation if advertiser-level branding defaults are absent. PRACTICAL USE: Before the next upload, check parent advertiser defaults, validate the feed/Structured Data File, and test a small batch. TOOL/PLATFORM: Google Ads, Ad Structured Data Files, YouTube responsive ads. STATUS: Confirmed developer notice; effective today.",
+          "title": "Business name and logo required for certain YouTube responsive ad uploads",
+          "summary": "WHAT: From 12 October, Google's developer notice requires a business name and logo if parent-advertiser defaults are absent. WHY: Bulk uploads may fail. USE: Audit advertiser defaults and test a small batch. STATUS: Confirmed official requirement.",
           "source": "Google Ads Developer Blog",
-          "when": "Effective 12 Oct 2026",
-          "url": "https://ads-developers.googleblog.com/2026/",
+          "when": "12 Oct 2026",
+          "url": "https://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html",
           "image": ""
         },
         {
-          "title": "Google Ads AI campaign localisation: translate campaigns, but audit market economics",
-          "summary": "WHAT HAPPENED: Google documents a beta that creates a new Search campaign from an eligible English (US) campaign, translating text assets and keywords, helping adapt text in images, and offering landing-page translation options. The original campaign remains unchanged and the new campaign defaults to paused. WHY IT MATTERS: It may reduce manual setup for supported markets, but copied bids and budgets are not currency-converted. PRACTICAL USE: Pilot one market; review translations, legal claims, keyword intent, landing-page quality, location targeting, currency, and budget before activation. TOOL/PLATFORM: Google Ads AI campaign localisation. STATUS: Confirmed Google Help documentation; beta availability and language eligibility apply.",
-          "source": "Google Ads Help",
-          "when": "Official documentation; beta",
-          "url": "https://support.google.com/google-ads/answer/17218209?hl=en-GB",
+          "title": "Display & Video 360 Structured Data Files v11 is generally available",
+          "summary": "WHAT: Google's 8 October release expands lookalike targeting, adds Business Chain proximity targeting and updates YouTube vendor columns. WHY: Bulk-trafficking templates may need updates; versions before v10 are deprecated and scheduled to sunset in January 2027. USE: Test uploads and update column mappings. STATUS: Official release.",
+          "source": "Google Ads Developer Blog",
+          "when": "8 Oct 2026",
+          "url": "https://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html",
           "image": ""
         }
       ]
@@ -42,36 +43,57 @@
       "stories": [
         {
           "title": "Profound introduces Dynamic Bot Rendering for AI crawlers",
-          "summary": "WHAT HAPPENED: Profound announced Dynamic Bot Rendering on 11 October, describing a service that detects AI bots and serves them a rendered version of a site's pages while leaving the human experience unchanged. WHY IT MATTERS: Rendering and crawl accessibility can affect whether AI search systems can interpret site content; this is a vendor product announcement, not proof of improved citations or rankings. PRACTICAL USE: Before considering deployment, test representative URLs, compare crawler-visible content with the user page, review bot access rules, and measure any change in AI referral/citation visibility. TOOL/PLATFORM: Profound; AI search visibility and technical SEO. STATUS: Vendor announcement; performance impact not independently established.",
+          "summary": "WHAT: On 11 October, Profound announced rendered page delivery for supported AI bots when content is hidden behind JavaScript or interactions. WHY: Crawlers may miss product and comparison details. USE: Compare bot and human views, verify content and policy compliance, then monitor crawl logs. STATUS: Vendor announcement; citations are not guaranteed.",
           "source": "Profound",
           "when": "11 Oct 2026",
-          "url": "https://www.tryprofound.com/blog",
+          "url": "https://www.tryprofound.com/blog/introducing-dynamic-bot-rendering",
           "image": ""
         }
       ]
     },
     {
-      "name": "Meta Ads & Small Business Agents",
+      "name": "Meta Ads & Creative Automation",
       "stories": [
         {
-          "title": "Meta Muse for Small Business connects business tools and Meta ad accounts",
-          "summary": "WHAT HAPPENED: Meta's 29 September announcement, updated on 8 October, describes Muse connectors for tools including Canva, Shopify, Klaviyo, Slack and business accounts on Facebook and Instagram. Meta says actions that publish, send or spend require approval. WHY IT MATTERS: A connected agent could help combine campaign, content, customer and sales context, but access scopes and approval controls remain important. PRACTICAL USE: Ask it to summarize campaign and sales performance and draft next week's campaign; verify recommendations and keep publishing/spend approval manual. TOOL/PLATFORM: Meta Muse for Small Business, Facebook and Instagram business accounts. STATUS: Confirmed Meta announcement; availability is currently limited to the US and Canada per the announcement.",
+          "title": "Meta expands creative studio, campaign-assistant tests and AI video tools",
+          "summary": "WHAT: Meta's 6 October update describes broader Ads Creative Studio access, AI video generation and tests for assistant-led campaign workflows. WHY: Creative iteration may speed up, while availability varies by feature. USE: Test image-to-video variations and retain approvals for budgets, targeting and publishing. STATUS: Official Meta announcement.",
           "source": "Meta Newsroom",
-          "when": "Announced 29 Sep; updated 8 Oct 2026",
-          "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
+          "when": "6 Oct 2026",
+          "url": "https://about.fb.com/ltam/news/2026/10/advertising-week-new-york-2026-nuevas-capacidades-de-ia-para-guiar-campanas-y-llegar-a-los-clientes/",
+          "image": ""
+        },
+        {
+          "title": "Meta blocks ByteDance and TikTok-linked ads in seven markets",
+          "summary": "WHAT: Reuters reported on 8 October that Meta barred ByteDance ads in the US, Canada, Egypt, Indonesia, Japan, Thailand and Vietnam, including third-party ads linking to TikTok properties there. WHY: Campaigns may be rejected in affected markets. USE: Audit destinations by country and prepare alternatives; do not assume the restriction is global. STATUS: Reuters report citing Meta.",
+          "source": "Reuters",
+          "when": "8 Oct; updated 9 Oct 2026",
+          "url": "https://www.reuters.com/business/media-telecom/meta-bans-tiktok-advertising-its-apps-2026-10-08/",
           "image": ""
         }
       ]
     },
     {
-      "name": "Agentic Workflows & Governance",
+      "name": "Ecommerce & Applied AI",
       "stories": [
         {
-          "title": "Practical takeaway: put approval gates around agents that touch marketing systems",
-          "summary": "WHAT HAPPENED: This is editorial guidance, not a new product launch. As marketing tools add connected agents, account access can expose campaign settings, customer data, creative assets and spend controls to automated actions. WHY IT MATTERS: A wrong edit or message can affect budgets, compliance and customer trust. PRACTICAL USE: Start with read-only reporting; grant least-privilege access; log actions; sandbox changes; require human approval for publishing, budget changes, audience edits and customer communications. TOOL/PLATFORM: Any agent connected to ad platforms, CRM, ecommerce or creative tools. STATUS: Commentary / operational recommendation, not breaking news.",
-          "source": "AI Marketing Daily editorial",
-          "when": "Analysis · 12 Oct 2026",
-          "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
+          "title": "Meesho's FY26 disclosures show AI across discovery, ads and voice commerce",
+          "summary": "WHAT: An Express Computer analysis published 10 October describes Meesho's AI stack for discovery, advertising, fraud prevention and support, plus voice shopping agent Vaani and seller agent Chorus. WHY: AI is being embedded across commerce operations, not just chat. USE: Test regional-language voice discovery and measure conversion, returns and support cost against a control group. STATUS: Secondary reporting from company disclosures; results are company-reported.",
+          "source": "Express Computer",
+          "when": "10 Oct 2026",
+          "url": "https://www.expresscomputer.in/exclusives/inside-meeshos-big-ai-bet-why-indias-most-downloaded-shopping-app-is-betting-on-infrastructure/139744/",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Measurement & Agentic Workflows",
+      "stories": [
+        {
+          "title": "Tinuiti opens cross-channel measurement data to compatible AI agents via MCP",
+          "summary": "WHAT: Tinuiti announced its Bliss Point MCP Server on 6 October, exposing approved normalized media and measurement data to compatible AI tools, subject to client permissions. WHY: A unified data layer can reduce manual reconciliation. USE: Start with read-only pacing summaries and anomaly alerts; validate outputs against platform reports. STATUS: Vendor announcement; access depends on permissions.",
+          "source": "Tinuiti",
+          "when": "5–6 Oct 2026",
+          "url": "https://tinuiti.com/about/news/tinuiti-unveils-bliss-point-mcp-server-pioneering-open-measurement-access-for-ai-agents/",
           "image": ""
         }
       ]

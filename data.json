@@ -1,102 +1,276 @@
 {
   "date": "12 October 2026",
   "lead": {
-    "title": "DV360 branding requirement takes effect today",
-    "deck": "Check parent-advertiser business name and logo defaults before uploading YouTube responsive ads through Structured Data Files.",
-    "url": "https://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html",
-    "source": "Google Ads Developer Blog",
-    "when": "Effective 12 Oct 2026",
+    "title": "Guideline Announced the Launch of New AI Ingestion Agent - MarTech Cube",
+    "deck": "Guideline Announced the Launch of New AI Ingestion Agent MarTech Cube. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUlqejQ2QmdJckh3UURIOW5fZVg0Q3hlVHVRT0Jwc3lYMzV3dWlaTmtYazNWbTBoOGZ6Vkkxd3JaRUVob2dGajRUdnBfRW1FdEpFSnZ5VllHUHhsaWU1bGhIMGFvOXgwRnAwUF91VnVFbmFYQzVuLS1tQVhOOEliZGVPTzdLRFdpSm0wakdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "MarTech Cube",
+    "when": "12 Oct 2026",
     "image": ""
   },
-  "note": "The lead is an official integration requirement effective today. Profound's 11 October release is the newest product announcement. Earlier developments are clearly dated; vendor-reported results are not presented as independent guarantees.",
+  "note": "Edition generated from recent RSS news coverage. Primary/official sources are prioritized when surfaced by the feeds; verify important changes at the linked source.",
   "ticker": [
-    "DV360 branding requirement effective today",
-    "Profound announces AI crawler rendering",
-    "Meta expands AI creative workflows",
-    "Meesho reports AI across commerce operations",
-    "Tinuiti opens measurement data to compatible agents"
+    "Guideline Announced the Launch of New AI Ingestion Agent - MarTech Cube",
+    "Your AI agent is only as safe as the packages it downloads - CyberScoop",
+    "MAS updates safeguards for AI agent-driven financial transactions - Singapore Business Review",
+    "Epoch AI Study: AI Research Agents Overstate Their Own Results and Remain Far From Working Independently - eGamers.io",
+    "AI agent teams waste massive tokens for barely measurable quality gains, research finds - The Decoder",
+    "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility - FinancialContent",
+    "Google Is Hiring To Generate AI Content For Discover - Search Engine Journal",
+    "Explaining search terms report - PPC Land"
   ],
   "sections": [
     {
-      "name": "Google Ads, DV360 & APIs",
+      "name": "AI & Agents",
       "stories": [
         {
-          "title": "Business name and logo required for certain YouTube responsive ad uploads",
-          "summary": "WHAT: From 12 October, Google's developer notice requires a business name and logo if parent-advertiser defaults are absent. WHY: Bulk uploads may fail. USE: Audit advertiser defaults and test a small batch. STATUS: Confirmed official requirement.",
-          "source": "Google Ads Developer Blog",
+          "title": "Your AI agent is only as safe as the packages it downloads - CyberScoop",
+          "summary": "Your AI agent is only as safe as the packages it downloads CyberScoop. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "CyberScoop",
           "when": "12 Oct 2026",
-          "url": "https://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11dUpET1ZOTl9MaTN5UG9EbmRKdnBFU3d3YTdmTXdIV0pTR3BFLXgwTE5nMVRybE1sMFlOQWFYZmJhMGVudGNKRVo4UEdhQTdybGtRVU1KWk5TTnVoQjlReXJMVUJUUlR0ZU9CVjlhdnNMeWdDQlBqWg?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Display & Video 360 Structured Data Files v11 is generally available",
-          "summary": "WHAT: Google's 8 October release expands lookalike targeting, adds Business Chain proximity targeting and updates YouTube vendor columns. WHY: Bulk-trafficking templates may need updates; versions before v10 are deprecated and scheduled to sunset in January 2027. USE: Test uploads and update column mappings. STATUS: Official release.",
-          "source": "Google Ads Developer Blog",
-          "when": "8 Oct 2026",
-          "url": "https://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html",
+          "title": "MAS updates safeguards for AI agent-driven financial transactions - Singapore Business Review",
+          "summary": "MAS updates safeguards for AI agent-driven financial transactions Singapore Business Review. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Singapore Business Review",
+          "when": "12 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUE1T0tqWTZCbWZRRnRycnFDNEdjTkNzcFNfNlJzS0tSd0pITXpaMGNSN1FobENDZklsVGZzc05EZGZCN1B1X0s3Y2NrY1FnajlyM1Jrdy1tLUw4XzVMM2xNYkhlTjFTQ0Z2X2JwQVI3S0M1S0RDand0QW5VcE9OSWktaU9iQTVDa2dPTVdEd1NJQ25IZzFHb0lVbnV2UVg4TlJGNjd3OA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        }
-      ]
-    },
-    {
-      "name": "AI Search & SEO",
-      "stories": [
+        },
         {
-          "title": "Profound introduces Dynamic Bot Rendering for AI crawlers",
-          "summary": "WHAT: On 11 October, Profound announced rendered page delivery for supported AI bots when content is hidden behind JavaScript or interactions. WHY: Crawlers may miss product and comparison details. USE: Compare bot and human views, verify content and policy compliance, then monitor crawl logs. STATUS: Vendor announcement; citations are not guaranteed.",
-          "source": "Profound",
+          "title": "Epoch AI Study: AI Research Agents Overstate Their Own Results and Remain Far From Working Independently - eGamers.io",
+          "summary": "Epoch AI Study: AI Research Agents Overstate Their Own Results and Remain Far From Working Independently eGamers.io. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "eGamers.io",
+          "when": "12 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON0tJclUtdGpVYXdFdDRNOVJiMDd4MGZfeGVIOThRSS0zUmw1Wkp1aU5XNEVWc0VzMFhjNDN2b0JSV21aZmJkODl1elg2QnpEeXR4OWxIQkh2b3JHQXRPNzhLb3pib1lIbFV3UHJfcUJJUkV1REN3c1o1VHJ0bDQybV93NVpCLWNNOXBjNHJEWnVmTVYyNnVubkYxSEJ4ZEh1LVp5TGcxR3V1SnRlY0MyMURhQWtEUzlpYVVfQ05sUVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds - The Decoder",
+          "summary": "AI agent teams waste massive tokens for barely measurable quality gains, research finds The Decoder. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Decoder",
           "when": "11 Oct 2026",
-          "url": "https://www.tryprofound.com/blog/introducing-dynamic-bot-rendering",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb3RZaFRjTFFieVEtb3A0RXV1RGdSeThGVlBBRTI5Z0l5cENUOGs4THg2Tlh4YTExekNiRlB6Ulk5c2tPYlhBNXJKVWNQbW5UUFNLdllQbE4yQkQtMlRETFRtVGVYeExSQzdzZ3M0TWYzdG5Qc20tOWNubU5UTjRLVHQycktJRHp3ZXVhVzVIaGJMX3NDWDViT08wcE9nUnBHSzRLOGo0cFZ4c1BxYi1FRg?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
     },
     {
-      "name": "Meta Ads & Creative Automation",
+      "name": "Google Ads",
       "stories": [
         {
-          "title": "Meta expands creative studio, campaign-assistant tests and AI video tools",
-          "summary": "WHAT: Meta's 6 October update describes broader Ads Creative Studio access, AI video generation and tests for assistant-led campaign workflows. WHY: Creative iteration may speed up, while availability varies by feature. USE: Test image-to-video variations and retain approvals for budgets, targeting and publishing. STATUS: Official Meta announcement.",
-          "source": "Meta Newsroom",
-          "when": "6 Oct 2026",
-          "url": "https://about.fb.com/ltam/news/2026/10/advertising-week-new-york-2026-nuevas-capacidades-de-ia-para-guiar-campanas-y-llegar-a-los-clientes/",
+          "title": "Explaining search terms report - PPC Land",
+          "summary": "Explaining search terms report PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "12 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VY0NPTnk4b3BrQjVTV3NBeFZjSUlpNnlYa1cydzJnMmdVUFdkLWV4VDZkbXNpSmJpOVh0S2hvTWdPNWdaOWtUQlNJcVlxdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cooperative_economic_insect_report_%28IA_cooperativeecono811unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono811unit%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    {
+      "name": "Meta Ads",
+      "stories": [
+        {
+          "title": "Meta Platforms (NASDAQ: META) Muse AI Agent Holds A Crucial Monetization Edge Over Pure-Play Rivals - Foreign Policy Journal",
+          "summary": "Meta Platforms (NASDAQ: META) Muse AI Agent Holds A Crucial Monetization Edge Over Pure-Play Rivals Foreign Policy Journal. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Foreign Policy Journal",
+          "when": "12 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWnVsQ1l6RWlFZ09ERmZYUmZocXpWaTRZTjlsU0FVYk1Pd01iUG9pYlo4d0d4NHdBMDQyUG1LUVBLZTdubUstYWtwR3dyUWVZUnV0WDY3eDZ0c2FfZjhWRXF4bHhlT1ZCbWE3LUZPajlGV2EyTFl0OUctRnpGT3gyZlhEbHV6REdWZnE2ZnpydHZVY2YyVTUzOGpzV0EtbnMzQzhncTdlNGQwYWt1TXFBYk9yUjJzM3U3NHlGNjBwRDVJQUJLekpJZjExSXJrMF9jeXA4d29vRm9LazcwV3c?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Meta blocks ByteDance and TikTok-linked ads in seven markets",
-          "summary": "WHAT: Reuters reported on 8 October that Meta barred ByteDance ads in the US, Canada, Egypt, Indonesia, Japan, Thailand and Vietnam, including third-party ads linking to TikTok properties there. WHY: Campaigns may be rejected in affected markets. USE: Audit destinations by country and prepare alternatives; do not assume the restriction is global. STATUS: Reuters report citing Meta.",
-          "source": "Reuters",
-          "when": "8 Oct; updated 9 Oct 2026",
-          "url": "https://www.reuters.com/business/media-telecom/meta-bans-tiktok-advertising-its-apps-2026-10-08/",
+          "title": "Meta's Muse agent gains access to ad accounts and 15 business tools - PPC Land",
+          "summary": "Meta's Muse agent gains access to ad accounts and 15 business tools PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2hfNWRRTnZ2eTlRQ2I0TlBOVjk0NTlqczRjX2dKbU5wMUZUaW80Wm9LUXpNa0tRbm5IcFQ2Q1pQSkZsc21DNm53a1hzSkgybHNiSkZnZm1na2p3bnlsUHdDa1pGcUE3SExiei1WWEVfblNtR0VoRy1FYTNBdjhVMmtXUFpIbHhRTkxUUA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Meta’s Muse AI Agent #1 in App Store Charts, Consumer Trust Will Determine Its Future - USA Herald",
+          "summary": "Meta’s Muse AI Agent #1 in App Store Charts, Consumer Trust Will Determine Its Future USA Herald. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "USA Herald",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm85OWRhYWlNWWVfSVJ3eDZqRWI4NmMtVVcxN3hkejdOaWlEc2lVclIxQnhlbTljQTh6NXNnUmRXV0I2LVd5T2RIOE9oUmd1eldITzliU0FZWHdjNGtIZk5DZS15bXVuaEU0S1pIOHd4TG9OT0pRcVFRQ0ZoRXk4STFqMVFzcHFiU01abFVUNVBPcjVYdy1aMTdhY08yZU1YWW56Ujh6SFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Meta’s Muse Agent Aims to Enhance Small Business Operations with Approval Processes - RS Web Solutions",
+          "summary": "Meta’s Muse Agent Aims to Enhance Small Business Operations with Approval Processes RS Web Solutions. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "RS Web Solutions",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3FhNFpYYzB0TjRkNGhKYUhWYTBXc2RjT1J0MG52a2ZLWldXdDVCeDU3SFVJWnFZLWFEekZBQ2FnNGZJYm1xUDlmSlNDS214ejd0MUluZ2hGZjFyOU9xNnlIdG00SVdkRzJkR1B6dXNPZGNIZXJVN0xjYjlIODA3SXpJWndIS0JIb0RKVTE5bGNQd1E1RFBoUzlZUXMxMGNwQzUweGo5MHRLQjZmLWg2MnRKYUE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
     },
     {
-      "name": "Ecommerce & Applied AI",
+      "name": "Microsoft Ads",
       "stories": [
         {
-          "title": "Meesho's FY26 disclosures show AI across discovery, ads and voice commerce",
-          "summary": "WHAT: An Express Computer analysis published 10 October describes Meesho's AI stack for discovery, advertising, fraud prevention and support, plus voice shopping agent Vaani and seller agent Chorus. WHY: AI is being embedded across commerce operations, not just chat. USE: Test regional-language voice discovery and measure conversion, returns and support cost against a control group. STATUS: Secondary reporting from company disclosures; results are company-reported.",
-          "source": "Express Computer",
-          "when": "10 Oct 2026",
-          "url": "https://www.expresscomputer.in/exclusives/inside-meeshos-big-ai-bet-why-indias-most-downloaded-shopping-app-is-betting-on-infrastructure/139744/",
+          "title": "Explaining search terms report - PPC Land",
+          "summary": "Explaining search terms report PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "12 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VY0NPTnk4b3BrQjVTV3NBeFZjSUlpNnlYa1cydzJnMmdVUFdkLWV4VDZkbXNpSmJpOVh0S2hvTWdPNWdaOWtUQlNJcVlxdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cooperative_economic_insect_report_%28IA_cooperativeecono811unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono811unit%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    {
+      "name": "TikTok Ads",
+      "stories": []
+    },
+    {
+      "name": "Search & SEO",
+      "stories": [
+        {
+          "title": "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility - FinancialContent",
+          "summary": "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility FinancialContent. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "FinancialContent",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNb2RPOHdSMURHSXZVQWRPZ1NHRVdUR2hMWjdzb2ZYc1FIenByMFFfRUdTMXlvQlJTY0lZdnE5Rms5RFRSeW91dzhISU95MWhNTndPRlZ0TEN4Y1dTWHV5TmZLR1BMb0FCMC1kNUd3UDhMUG1FcEhGdmVBOTFDQ3lPVFFMVFR4dl9nTUZCSnhocklXak9kOEZhMHZyYzZNaXNnc2p5dG0tUWxPZzlnZGl6QkZaSXlUOUdvZl9uUThVUmpoVzdTdV9lTTJaRVEybVBRWmxDUnFHdGdJaVcyTG1SU1duZl9aZ1BvMnJfV21mU0M3cU9qdEFud201N0lCNVZ4eVFhTWNad1pvQVJOcGRQT3lod2VuUVk5bUtnbVJpcldWQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google Is Hiring To Generate AI Content For Discover - Search Engine Journal",
+          "summary": "Google Is Hiring To Generate AI Content For Discover Search Engine Journal. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "Search Engine Journal",
+          "when": "12 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVW1kYlktXy1JelpJOFpZa0QwUHk5akltaUxXQ25kaTdXVHlfeDVUX2xIMTB6VGFJeVpHRjAwUEJ4TzFBZUs5MjRmZjlOaHhkOE5UaU82aFk4clo4OUFwWjcwcG43QVk3aXZ4Nm5CTE14eEE0cDU4dFlsbDRzc3FjdEdTYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google Search Console Performance Report Extremely Delayed - Search Engine Roundtable",
+          "summary": "Google Search Console Performance Report Extremely Delayed Search Engine Roundtable. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "Search Engine Roundtable",
+          "when": "11 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkRGUVl5ZGlXdTQ2UHhHYWRoSExhbXZHU0FxTG1uSTg4bFFxdXpOblVKNzBpTFNPNTdoNUttVzRoUVhJVnBXUFliUlNYdUtFUHBWUkoyVkE4VEZMZUkzektmWnA3TmFwMmo0LXNQX0FMTllocjNaOUxDaTQ5SjBxUFhvcER1WnRvYUdCdGtlSGlidw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
     },
     {
-      "name": "Measurement & Agentic Workflows",
+      "name": "Analytics",
       "stories": [
         {
-          "title": "Tinuiti opens cross-channel measurement data to compatible AI agents via MCP",
-          "summary": "WHAT: Tinuiti announced its Bliss Point MCP Server on 6 October, exposing approved normalized media and measurement data to compatible AI tools, subject to client permissions. WHY: A unified data layer can reduce manual reconciliation. USE: Start with read-only pacing summaries and anomaly alerts; validate outputs against platform reports. STATUS: Vendor announcement; access depends on permissions.",
-          "source": "Tinuiti",
-          "when": "5–6 Oct 2026",
-          "url": "https://tinuiti.com/about/news/tinuiti-unveils-bliss-point-mcp-server-pioneering-open-measurement-access-for-ai-agents/",
+          "title": "Explaining key event - PPC Land",
+          "summary": ". For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "PPC Land",
+          "when": "12 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9VVU9CUk5KWjV1SUZFMmpzQ1U1VXdJMTM1R2R1TDlWMVB4VGJ4b3RpSWVWdXZsNzlvT2l5RXo2amo?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
+    },
+    {
+      "name": "Creative AI & Design",
+      "stories": []
+    },
+    {
+      "name": "MarTech & Automation",
+      "stories": [
+        {
+          "title": "Guideline Announced the Launch of New AI Ingestion Agent - MarTech Cube",
+          "summary": "Guideline Announced the Launch of New AI Ingestion Agent MarTech Cube. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "MarTech Cube",
+          "when": "12 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUlqejQ2QmdJckh3UURIOW5fZVg0Q3hlVHVRT0Jwc3lYMzV3dWlaTmtYazNWbTBoOGZ6Vkkxd3JaRUVob2dGajRUdnBfRW1FdEpFSnZ5VllHUHhsaWU1bGhIMGFvOXgwRnAwUF91VnVFbmFYQzVuLS1tQVhOOEliZGVPTzdLRFdpSm0wakdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Ecommerce",
+      "stories": []
     }
-  ]
+  ],
+  "summary": {
+    "title": "Summary — What’s Actually New",
+    "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
+    "topics": [
+      {
+        "topic": "Google Is Hiring To Generate AI Content For Discover - Search Engine Journal",
+        "status": "Cross-source coverage",
+        "common_context": "Google Is Hiring To Generate AI Content For Discover Search Engine Journal",
+        "unique_points": [
+          {
+            "source": "Search Engine Journal",
+            "when": "12 Oct 2026",
+            "point": "Google Is Hiring To Generate AI Content For Discover Search Engine Journal",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVW1kYlktXy1JelpJOFpZa0QwUHk5akltaUxXQ25kaTdXVHlfeDVUX2xIMTB6VGFJeVpHRjAwUEJ4TzFBZUs5MjRmZjlOaHhkOE5UaU82aFk4clo4OUFwWjcwcG43QVk3aXZ4Nm5CTE14eEE0cDU4dFlsbDRzc3FjdEdTYw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Search Engine Roundtable",
+            "when": "11 Oct 2026",
+            "point": "Google Search Console Performance Report Extremely Delayed Search Engine Roundtable",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkRGUVl5ZGlXdTQ2UHhHYWRoSExhbXZHU0FxTG1uSTg4bFFxdXpOblVKNzBpTFNPNTdoNUttVzRoUVhJVnBXUFliUlNYdUtFUHBWUkoyVkE4VEZMZUkzektmWnA3TmFwMmo0LXNQX0FMTllocjNaOUxDaTQ5SjBxUFhvcER1WnRvYUdCdGtlSGlidw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Explaining search terms report - PPC Land",
+        "status": "Cross-source coverage",
+        "common_context": "Explaining search terms report PPC Land",
+        "unique_points": [
+          {
+            "source": "PPC Land",
+            "when": "12 Oct 2026",
+            "point": "Explaining search terms report PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VY0NPTnk4b3BrQjVTV3NBeFZjSUlpNnlYa1cydzJnMmdVUFdkLWV4VDZkbXNpSmJpOVh0S2hvTWdPNWdaOWtUQlNJcVlxdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "12 Oct 2026",
+            "point": "Explaining key event - PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9VVU9CUk5KWjV1SUZFMmpzQ1U1VXdJMTM1R2R1TDlWMVB4VGJ4b3RpSWVWdXZsNzlvT2l5RXo2amo?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Meta Platforms (NASDAQ: META) Muse AI Agent Holds A Crucial Monetization Edge Over Pure-Play Rivals - Foreign Policy Journal",
+        "status": "Cross-source coverage",
+        "common_context": "Meta Platforms (NASDAQ: META) Muse AI Agent Holds A Crucial Monetization Edge Over Pure-Play Rivals Foreign Policy Journal",
+        "unique_points": [
+          {
+            "source": "Foreign Policy Journal",
+            "when": "12 Oct 2026",
+            "point": "Meta Platforms (NASDAQ: META) Muse AI Agent Holds A Crucial Monetization Edge Over Pure-Play Rivals Foreign Policy Journal",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWnVsQ1l6RWlFZ09ERmZYUmZocXpWaTRZTjlsU0FVYk1Pd01iUG9pYlo4d0d4NHdBMDQyUG1LUVBLZTdubUstYWtwR3dyUWVZUnV0WDY3eDZ0c2FfZjhWRXF4bHhlT1ZCbWE3LUZPajlGV2EyTFl0OUctRnpGT3gyZlhEbHV6REdWZnE2ZnpydHZVY2YyVTUzOGpzV0EtbnMzQzhncTdlNGQwYWt1TXFBYk9yUjJzM3U3NHlGNjBwRDVJQUJLekpJZjExSXJrMF9jeXA4d29vRm9LazcwV3c?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "11 Oct 2026",
+            "point": "Meta's Muse agent gains access to ad accounts and 15 business tools PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2hfNWRRTnZ2eTlRQ2I0TlBOVjk0NTlqczRjX2dKbU5wMUZUaW80Wm9LUXpNa0tRbm5IcFQ2Q1pQSkZsc21DNm53a1hzSkgybHNiSkZnZm1na2p3bnlsUHdDa1pGcUE3SExiei1WWEVfblNtR0VoRy1FYTNBdjhVMmtXUFpIbHhRTkxUUA?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "USA Herald",
+            "when": "11 Oct 2026",
+            "point": "Meta’s Muse AI Agent #1 in App Store Charts, Consumer Trust Will Determine Its Future USA Herald",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm85OWRhYWlNWWVfSVJ3eDZqRWI4NmMtVVcxN3hkejdOaWlEc2lVclIxQnhlbTljQTh6NXNnUmRXV0I2LVd5T2RIOE9oUmd1eldITzliU0FZWHdjNGtIZk5DZS15bXVuaEU0S1pIOHd4TG9OT0pRcVFRQ0ZoRXk4STFqMVFzcHFiU01abFVUNVBPcjVYdy1aMTdhY08yZU1YWW56Ujh6SFU?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "RS Web Solutions",
+            "when": "11 Oct 2026",
+            "point": "Meta’s Muse Agent Aims to Enhance Small Business Operations with Approval Processes RS Web Solutions",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3FhNFpYYzB0TjRkNGhKYUhWYTBXc2RjT1J0MG52a2ZLWldXdDVCeDU3SFVJWnFZLWFEekZBQ2FnNGZJYm1xUDlmSlNDS214ejd0MUluZ2hGZjFyOU9xNnlIdG00SVdkRzJkR1B6dXNPZGNIZXJVN0xjYjlIODA3SXpJWndIS0JIb0RKVTE5bGNQd1E1RFBoUzlZUXMxMGNwQzUweGo5MHRLQjZmLWg2MnRKYUE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      }
+    ]
+  },
+  "generated_at": "2026-10-12T16:45:44.305454+05:30",
+  "engine": {
+    "model": "none",
+    "research": "Google News RSS + source-page metadata",
+    "window": "approximately last 36 hours",
+    "api_credits_required": false
+  }
 }

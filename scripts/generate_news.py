@@ -351,7 +351,7 @@ def build_cross_source_summary(all_items):
 def fetch_og_image(url):
     try:
         request = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; AI-Marketing-Daily/1.0)"})
-        with urlopen(request, timeout=12, context=ssl.create_default_context()) as response:
+        with urlopen(request, timeout=6, context=ssl.create_default_context()) as response:
             if "text/html" not in response.headers.get("content-type", ""):
                 return ""
             raw = response.read(500000).decode("utf-8", errors="ignore")
@@ -390,14 +390,20 @@ def fetch_relevant_image(title, source=""):
     return ""
 
 def add_images(payload):
+    # Keep frequent refreshes fast: fetch article artwork for the lead and top story per section.
+    # The frontend already has a graceful generated fallback for stories without an image.
+    items = [payload["lead"]]
+    for section in payload["sections"]:
+        stories = section.get("stories", [])
+        for idx, story in enumerate(stories):
+            story["image"] = ""
+            if idx == 0:
+                items.append(story)
     cache = {}
-    items = [payload["lead"]] + [story for section in payload["sections"] for story in section["stories"]]
     for item in items:
         url = clean_url(item.get("url"))
         if url not in cache:
             cache[url] = fetch_og_image(url) if url else ""
-            if not cache[url]:
-                cache[url] = fetch_relevant_image(item.get("title", ""), item.get("source", ""))
         item["image"] = cache[url]
     return payload
 

@@ -13,11 +13,11 @@
     "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
     "Search and filter for budgets now available - The GitHub Blog",
     "Google Ads lets advertisers limit Display and partner spend by percentage - PPC Land",
+    "Daily Search Forum Recap: October 14, 2026 - Search Engine Roundtable",
+    "The EU’s next chapter in AI is agentic - OpenAI",
     "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
     "Introducing Topics Portfolio (Beta) in AI Performance - Bing Blogs",
-    "Guide your campaign spending with new priority and allocation features - blog.google",
-    "Google Rolls Out Priority Allocations For Ad Campaigns 10/14/2026 - MediaPost",
-    "The Future of Performance Marketing Beyond Clicks and Conversions - MarkHub24"
+    "Facebook Advertising Announcements: Page 5,152 - Facebook"
   ],
   "sections": [
     {
@@ -40,19 +40,19 @@
           "image": ""
         },
         {
+          "title": "Daily Search Forum Recap: October 14, 2026 - Search Engine Roundtable",
+          "summary": "Daily Search Forum Recap: October 14, 2026 Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Roundtable",
+          "when": "14 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zcHZTS0xtQWFwcnptakJ2aU5JcnJsSWJ2bXAySmJtcnN1dmp1UV9GVVVtNF85MW1lSE0tbG9RQnQ0SHlBb3d0MXBTMExDMnFUR1JiLXE1NGUwd3RXLU0wOVFFNmFRTkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Guide your campaign spending with new priority and allocation features - blog.google",
           "summary": "Guide your campaign spending with new priority and allocation features blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "blog.google",
           "when": "14 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnlvTmMydjF2VnRFV2J5QUFUNGRuZHItMU5VVnhkcmd4QVM0VEc0dHJUeThsb0VnNzYxLUc0a2RCWWlVOHl4WHlWZnJIaFVlX1J2R3VkaDNieWZWZHZVUlFFOU1jOUktZXpieFdKYnI4YXNORThSVDdZZE9oVG1UUlBaSzVXcW9iaHVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google Rolls Out Priority Allocations For Ad Campaigns 10/14/2026 - MediaPost",
-          "summary": "Google Rolls Out Priority Allocations For Ad Campaigns 10/14/2026 MediaPost. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "MediaPost",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTE85RGFFRk5YTnJ3WE5nZWNUZFV6OVRvZ2hJbGtOYmUzV19ERFpqMnlramlkb2lCUFM3SlZ1RjlhNHJldV9OVTJxSnMzdS16NEhsVUhaaExya2VQY0dhVndVdU5ZcDc5b1d5NGd2Uldvd242RzkzZFQxcjJYTlZFUElrQTVmdU5CSC1pM0o3aVVrclRqdXZVUF9BMFNVUzg1YW9va2VGd2pQY01aaHlxYTNiaWlOVWFkSUdCOXpJWURlUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -64,6 +64,14 @@
     {
       "name": "Meta Ads",
       "stories": [
+        {
+          "title": "Facebook Advertising Announcements: Page 5,152 - Facebook",
+          "summary": "Facebook Advertising Announcements: Page 5,152 Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Facebook",
+          "when": "13 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5OXRFVFhhZHRFZ1Vwajlhbi1NYUdCTmRDTlh1dFFTbHdOZmdKdTdRSTZhSVo1bWRYa0dSQlAwU2JwUVcxZUFiZ2tDc1Vadi10c04yUEprR1ljc1BXeGNiSWZQUDdRNjZkekFfWHBTV1ZHdjNJVVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook - Facebook",
           "summary": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -101,7 +109,16 @@
     },
     {
       "name": "Analytics",
-      "stories": []
+      "stories": [
+        {
+          "title": "How startups can evaluate marketing measurement tools as they scale - Startups Magazine",
+          "summary": "How startups can evaluate marketing measurement tools as they scale Startups Magazine. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "Startups Magazine",
+          "when": "14 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkRaeWRSQmxiT09DanZpcVBXZE5lMERrdjFUS3lWamdycnlTeWFpNHNrc3NsbVh6RFJSUnpYYTExYktZZmJSTTE0WktVelo2WGtXUE5pNG9Gb1V0bFZLeTRzWlp6MkNMWFhfQjBSTGpFN0d1ZnBRXzczeUV3aTljYXBvc3FoT3drbkl1R184VnZIRUxDdU1ibVdiMWxWbTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
     },
     {
       "name": "AI & Agents",
@@ -123,11 +140,11 @@
           "image": ""
         },
         {
-          "title": "Explaining client library - PPC Land",
-          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "PPC Land",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmNldLYnkwM3ZMdUZLRlJucTNhZm03dFZCaGNlMXBRRnRwWk9HaEozN2wyRURYcGlycGwtN3B4Z3BqSThPZ0cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Preparing for the 2026 US midterms - Anthropic",
+          "summary": "Preparing for the 2026 US midterms Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Anthropic",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -144,10 +161,18 @@
       "name": "Creative AI & Design",
       "stories": [
         {
+          "title": "The EU’s next chapter in AI is agentic - OpenAI",
+          "summary": "The EU’s next chapter in AI is agentic OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "14 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Higgsfield takes AI video from 1 minute to over 10 - OpenAI",
           "summary": "Higgsfield takes AI video from 1 minute to over 10 OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "OpenAI",
-          "when": "13 Oct 2026",
+          "when": "14 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
@@ -193,36 +218,36 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnlvTmMydjF2VnRFV2J5QUFUNGRuZHItMU5VVnhkcmd4QVM0VEc0dHJUeThsb0VnNzYxLUc0a2RCWWlVOHl4WHlWZnJIaFVlX1J2R3VkaDNieWZWZHZVUlFFOU1jOUktZXpieFdKYnI4YXNORThSVDdZZE9oVG1UUlBaSzVXcW9iaHVR?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
+            "source": "MediaPost",
+            "when": "14 Oct 2026",
+            "point": "Google Unveils New Marketer 'Controls' For Campaign Spending 10/14/2026 MediaPost",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3JVdWJoS25yZ2c4Y2R3Z0R0QVJ5X2JjOGx0SmpnOXRIQ09lMGxTNFJBSDNwT3VTemRQalFrYl9ncVlKQ0gzNDV4Q2JIZXlrTmFuWnlld2JfMTVsbmhSWE9CYkNDelhnUUkyd055U3VvOXp4eXRnbU9nWDdEMEstczFTYkswU28tVjdReGwxQmhSQ0lNTkxlU190cDhRd3dyUkQ4ZTY4ZEtFaTR2UXc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
             "source": "Search Engine Land",
             "when": "14 Oct 2026",
             "point": "Google Ads introduces channel prioritization and budget allocation controls Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDBoYWQ4TUhTX21Qek1PcjlPOXNraXp2V1cycTRMdjZOOXhRVmZ2S3dHMGxwR1RLaGJFclpFU0NyODZ3SGVDRlFfTDFIM25LU2RKY0poaGNvTVJkUVRVbTFqZUZXVkdFaDU3MkI2djUzd1kwQmJFVU42ZGRWRkJZbnVmR1dPWjdhUVVzVnpBLTgwLWtkWC1yVG9xVFRVcWljOGViMGVpdVBtSlB0cko3Xw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "MediaPost",
-            "when": "14 Oct 2026",
-            "point": "Google Rolls Out Priority Allocations For Ad Campaigns 10/14/2026 MediaPost",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTE85RGFFRk5YTnJ3WE5nZWNUZFV6OVRvZ2hJbGtOYmUzV19ERFpqMnlramlkb2lCUFM3SlZ1RjlhNHJldV9OVTJxSnMzdS16NEhsVUhaaExya2VQY0dhVndVdU5ZcDc5b1d5NGd2Uldvd242RzkzZFQxcjJYTlZFUElrQTVmdU5CSC1pM0o3aVVrclRqdXZVUF9BMFNVUzg1YW9va2VGd2pQY01aaHlxYTNiaWlOVWFkSUdCOXpJWURlUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "GitHub App improvements for least privilege and management - The GitHub Blog",
+        "topic": "Gemini 4 Argon in GitHub Copilot - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "GitHub App improvements for least privilege and management The GitHub Blog",
+        "common_context": "Gemini 4 Argon in GitHub Copilot The GitHub Blog",
         "unique_points": [
-          {
-            "source": "The GitHub Blog",
-            "when": "14 Oct 2026",
-            "point": "GitHub App improvements for least privilege and management The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWJsb1Y3UENFck5kbWNndGlfSlAxeXdmei1yTi1zUjlZdEctdnBQYmF2QWJpcV9CMkhrSEZiUm5OMDVpZFlLOXN5aFhQT0lyM1VULTJkdUJiQ0N6Vk8tZ25kZjYwODNseFRRSnp2cWpyMnU4djVfRHNQMzZyWHZYekdVWnBtRGdaXzJMa1J5N2s3Xy1nUXU2Y1ZaUlU5UUcyS3c?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
           {
             "source": "The GitHub Blog",
             "when": "14 Oct 2026",
             "point": "Gemini 4 Argon in GitHub Copilot The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdW83SVlUWUZTQTIxbEJZc0dTYUhMcXdVTF9iRmtWVTh3WUtZZ05NTTR4UXF2QjQ5Qy14MDdGQ2d4NzZHOTdQNHJiUDc0ZG1RTG5IMEYwbHU5ekJ4cTE5ZmVTSXVvZFcxOGg2WFBpU2V3X1hWNmpnMEI5YXhaWFE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "13 Oct 2026",
+            "point": "Audit GitHub Code Quality finding dismissals and reopenings The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc21oZ0I0OF9jeUthZWJPZllsZVZXdzJpODBJN1JnLU5rTWJYWUg5RlprRWZRUERvNTZ3X3ZWZ2FQcmtfRG90TzNuc2FnRHFEbTUwNVlfN245U3c1R01BYk9Jell3VndvOHVLWVVhd1R0ZURPQnRaR1pwaWM0aFpiemhfRWhtcWlqYlpoQzNVcW9sVUJyeG51V0x2c1Y5cDNtd2d3?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "The GitHub Blog",

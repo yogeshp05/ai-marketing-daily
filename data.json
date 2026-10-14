@@ -1,70 +1,59 @@
 {
-  "date": "14 October 2026",
+  "date": "15 October 2026",
   "lead": {
-    "title": "Shopify expands product discovery to more AI shopping agents",
-    "deck": "Shopify is opening access to its product catalog to a broader range of AI agents, with shoppers linking agents through the Shop app and approving purchases through Shop Pay. Reported today; based on media coverage, not yet independently confirmed here from a Shopify primary announcement.",
-    "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+    "title": "Conga adds an MCP server to bring commercial data into AI assistants",
+    "deck": "Conga’s 14 October release introduces an MCP server for accessing contracts, quotes, obligations and approvals through compatible assistants, alongside 90+ AiMe tools and 19 skills. Confirmed vendor announcement.",
+    "url": "https://conga.com/resources/blog/conga-october-2026-release"
   },
-  "note": "Edition for 14 October 2026. Confirmed platform announcements are labeled separately from media-reported developments and analysis. What's Actually New: avoid repeating the same Google Ads API cadence announcement across sections.",
+  "note": "Edition for 15 October 2026. Prioritize developments published on 14 October and avoid repeating yesterday’s Facebook recommendation controls, Muse Wonder models, Google Ads API release cadence or Shopify catalog report. Confirmed vendor announcements and research are separated from third-party reporting and editorial interpretation.",
   "ticker": [
-    "Shopify expands catalog access to AI shopping agents — media-reported",
-    "Meta adds natural-language controls for Facebook Feed and Reels — confirmed",
-    "Google Ads API moves to twice-monthly releases from v26 — confirmed",
-    "Meta introduces Muse Wonder agent models — confirmed"
+    "Conga announces MCP connectivity for commercial data and AI workflows — confirmed",
+    "OpenAI publishes research on agentic AI adoption among EU businesses and SMBs — confirmed research",
+    "Publicis says AI-powered marketing demand supported Q3 growth — Reuters reporting"
   ],
   "sections": [
     {
-      "name": "Agentic Commerce & Ecommerce",
+      "name": "Agentic AI, MCP & Workflow Automation",
       "stories": [
         {
-          "title": "Shopify reportedly opens its catalog to more AI shopping agents",
-          "summary": "WHAT HAPPENED: The Verge reports Shopify is expanding access to its catalog of more than a billion listings to a wider range of AI agents. Shoppers connect agents through the Shop app; checkout uses Shop Pay and requires user approval. STATUS: Media-reported; verify rollout and eligibility with Shopify before implementation.",
-          "why": "Product discovery and purchase journeys may increasingly happen inside AI assistants rather than on merchant storefronts alone. Catalog quality, availability, product attributes and checkout friction become even more important.",
-          "use_case": "Audit product titles, variant data, inventory accuracy, shipping details and structured product information; monitor how AI-referred sessions and conversions are attributed.",
-          "tool": "Shopify, Shop app, Shop Pay; agentic commerce",
-          "source": "The Verge",
+          "title": "Conga launches an MCP server to connect commercial data with AI assistants",
+          "summary": "WHAT HAPPENED: In its 14 October release, Conga announced a new Model Context Protocol (MCP) server that lets teams use Microsoft Copilot, Claude and other compatible assistants to retrieve Conga information such as contracts, quotes, obligations and approvals through natural language. Conga also says its AiMe offering now spans 90+ tools and 19 skills. STATUS: Confirmed vendor announcement; actual access may depend on product, configuration and customer permissions.",
+          "why": "MCP connectivity is becoming a practical bridge between AI assistants and business systems. For marketing and revenue operations, the opportunity is to query commercial context without manually switching between tools, while preserving permissions and approval controls.",
+          "use_case": "For a B2B team, prototype a read-only workflow that summarizes approved quote terms or flags missing contract approvals before a campaign or customer offer goes live. Keep write actions behind human approval.",
+          "tool": "Conga MCP Server; Conga AiMe; Microsoft Copilot; Claude; MCP-compatible assistants",
+          "source": "Conga",
           "when": "14 Oct 2026",
-          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+          "url": "https://conga.com/resources/blog/conga-october-2026-release"
         }
       ]
     },
     {
-      "name": "Social Platforms & Audience Signals",
+      "name": "AI Adoption & Business Research",
       "stories": [
         {
-          "title": "Facebook adds natural-language controls for Feed and Reels recommendations",
-          "summary": "WHAT HAPPENED: Meta says users can describe interests in their own words to shape recommendations in Facebook Feed and Reels, with ranking systems adapting to that feedback. STATUS: Confirmed product announcement from Meta on 13 October.",
-          "why": "It is another signal that user-declared interests and recommendation systems are evolving. Marketers should not assume this changes ad targeting rules directly; the announcement concerns content recommendations.",
-          "use_case": "Review organic content themes and audience feedback, then test clear topic-led creative and measure qualified engagement rather than treating the feature as a new paid-targeting option.",
-          "tool": "Facebook Feed and Reels; Meta recommendation systems",
-          "source": "Meta Newsroom",
+          "title": "OpenAI reports rapid growth in agentic AI use among EU small businesses",
+          "summary": "WHAT HAPPENED: OpenAI published new Economic Research on 14 October examining agentic AI use across European enterprises and small businesses. It reports that agentic weekly active users in its EU SMB sample grew 8.1× since May, and that Codex and ChatGPT Work account for more than half of output tokens in its EU ChatGPT Enterprise sample. STATUS: Confirmed research published by OpenAI; these figures describe OpenAI’s observed sample and should not be treated as universal market-wide adoption rates.",
+          "why": "The findings suggest some businesses are moving from using AI only for answers toward delegating multi-step work. Marketers can use this as a signal to test bounded workflows, but should measure reliability and business outcomes rather than adoption alone.",
+          "use_case": "Choose one repeatable workflow—such as summarizing campaign reports, drafting a weekly performance narrative, or assembling a QA checklist. Define approved inputs, require source links, and keep budget changes, client communications and publishing behind human review.",
+          "tool": "OpenAI Economic Research; ChatGPT Enterprise; Codex; ChatGPT Work",
+          "source": "OpenAI",
+          "when": "14 Oct 2026",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic/"
+        }
+      ]
+    },
+    {
+      "name": "Marketing Industry & Agency Signals",
+      "stories": [
+        {
+          "title": "Publicis points to AI-powered marketing demand in its Q3 growth",
+          "summary": "WHAT HAPPENED: Reuters reported on 13 October that Publicis reaffirmed its full-year outlook after Q3 organic revenue grew 5%, above the company-provided 4.8% consensus. Publicis attributed growth in part to client demand for AI-powered marketing and its combination of consumer data with AI analytics. STATUS: Secondary reporting on company results and executive comments, not a new marketing-platform feature launch.",
+          "why": "The signal is commercial rather than technical: clients are paying for data-informed, AI-enabled campaign planning. Agencies should connect AI initiatives to measurable outcomes instead of presenting automation as a goal by itself.",
+          "use_case": "When proposing an AI workflow, document the baseline time or cost, the marketing decision it improves, the KPI expected to move, the data permissions required, and the human QA step. Review impact after a controlled pilot.",
+          "tool": "Publicis data and AI analytics approach; agency marketing operations",
+          "source": "Reuters",
           "when": "13 Oct 2026",
-          "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
-        },
-        {
-          "title": "Meta introduces Muse Wonder models for agentic tasks",
-          "summary": "WHAT HAPPENED: Meta announced Muse Wonder and Muse Wonder Full for personal and professional agentic tasks. Meta says Muse Wonder is available through Meta Model API and Muse Code; access differs by product. STATUS: Confirmed announcement dated 12 October.",
-          "why": "Marketing technology teams can evaluate another model family for multi-step assistance, but should compare reliability, data handling, cost and tool permissions against current systems before adoption.",
-          "use_case": "Prototype a read-only assistant that summarizes campaign exports or drafts a QA checklist; require human review before any account changes or customer-facing output.",
-          "tool": "Meta Model API; Muse Code; Muse Wonder",
-          "source": "Meta Newsroom",
-          "when": "12 Oct 2026",
-          "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"
-        }
-      ]
-    },
-    {
-      "name": "Google Ads & Marketing APIs",
-      "stories": [
-        {
-          "title": "Google Ads API moves to two releases per month starting with v26",
-          "summary": "WHAT HAPPENED: Google says the API will move to two releases per month from v26. Four major releases per year remain; other releases are minor and add non-breaking features. STATUS: Confirmed by Google's developer blog on 12 October.",
-          "why": "Internal reporting, bid-management and campaign QA tools may need to adapt to a faster feature cadence, while teams should continue tracking version sunset dates and compatibility.",
-          "use_case": "Assign an owner to monitor release notes twice monthly, test integrations in staging, and document version migration and sunset dates.",
-          "tool": "Google Ads API; internal automation and reporting integrations",
-          "source": "Google Ads Developer Blog",
-          "when": "12 Oct 2026",
-          "url": "https://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html"
+          "url": "https://www.reuters.com/business/publicis-reaffirms-outlook-ai-powered-marketing-demand-drives-quarterly-growth-2026-10-13/"
         }
       ]
     },
@@ -72,77 +61,71 @@
       "name": "What's Actually New",
       "stories": [
         {
-          "title": "Separate confirmed platform changes from broader agentic-commerce commentary",
-          "summary": "The most actionable confirmed changes in this edition are Meta's natural-language controls for Facebook recommendations, Meta's Muse model announcement, and Google's faster Ads API cadence. Shopify's broader agent access is included as a media-reported development, not as a fully verified primary-source launch.",
-          "why": "Distinguishing confirmed releases from reported rollout details prevents teams from changing client workflows based on assumptions.",
-          "use_case": "For every platform change, log the announcement date, source type, availability status, affected products/regions, and the next validation step before updating SOPs.",
-          "tool": "Editorial verification checklist",
-          "source": "Meta Newsroom; Google Ads Developer Blog; The Verge",
-          "when": "14 Oct 2026",
-          "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
+          "title": "Three distinct signals: system connectivity, real-world agent use, and commercial demand",
+          "summary": "Conga’s release is a product update: an MCP connection plus expanded AiMe tools. OpenAI’s publication is adoption research, not a new model or feature launch. Publicis coverage is an earnings and demand signal, not a platform announcement. These items are kept separate to avoid implying that they describe the same development.",
+          "why": "Marketers need to distinguish what can be implemented now from evidence about broader adoption and from business commentary.",
+          "use_case": "Classify each AI story as product availability, research, reported business result, or commentary. Record the release date, access requirements, evidence source, relevant KPI and next validation step before changing SOPs.",
+          "tool": "Editorial verification and AI workflow evaluation checklist",
+          "source": "Conga; OpenAI; Reuters",
+          "when": "15 Oct 2026",
+          "url": "https://conga.com/resources/blog/conga-october-2026-release"
         }
       ]
     }
   ],
   "summary": {
     "title": "Summary — What's Actually New",
-    "intro": "Four distinct developments; duplicate coverage of the Google Ads API release schedule is consolidated. Media-reported rollout details are explicitly labeled.",
+    "intro": "This edition contains one confirmed commercial-AI product release, one primary-source adoption study, and one media-reported agency business signal. These are different kinds of evidence, not duplicate versions of a single announcement.",
     "topics": [
       {
-        "topic": "Agentic commerce",
-        "status": "Media-reported",
-        "common_context": "Broader AI-agent access to Shopify catalog and checkout",
+        "topic": "MCP and business workflow integration",
+        "status": "Confirmed vendor announcement",
+        "common_context": "Conga’s October platform release",
         "unique_points": [
           {
-            "source": "The Verge",
+            "source": "Conga",
             "when": "14 Oct 2026",
-            "point": "Reported expansion of catalog access beyond a limited set of partner agents, with user-approved checkout through Shop Pay.",
-            "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+            "point": "A new MCP server connects Conga commercial data to compatible AI assistants; AiMe is described as offering more than 90 tools and 19 skills.",
+            "url": "https://conga.com/resources/blog/conga-october-2026-release"
           }
         ],
-        "bottom_line": "Treat as a commerce signal; confirm merchant eligibility and rollout details with Shopify before making technical changes."
+        "bottom_line": "Pilot read-only retrieval first, check permission boundaries, and require human approval for consequential actions."
       },
       {
-        "topic": "Meta product updates",
-        "status": "Confirmed",
-        "common_context": "Separate consumer recommendation controls from model availability",
+        "topic": "Agentic AI adoption",
+        "status": "Confirmed research; sample-specific findings",
+        "common_context": "OpenAI Economic Research on EU businesses",
         "unique_points": [
           {
-            "source": "Meta Newsroom",
+            "source": "OpenAI",
+            "when": "14 Oct 2026",
+            "point": "OpenAI reports 8.1× growth in agentic weekly active users in its EU SMB sample since May; this is not a universal market estimate.",
+            "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic/"
+          }
+        ],
+        "bottom_line": "Use the research as a reason to test bounded agent workflows, not as proof that every business is seeing the same adoption curve."
+      },
+      {
+        "topic": "AI-enabled agency services",
+        "status": "Secondary reporting",
+        "common_context": "Publicis Q3 performance and client demand",
+        "unique_points": [
+          {
+            "source": "Reuters",
             "when": "13 Oct 2026",
-            "point": "People can express interests in natural language to shape Facebook Feed and Reels recommendations.",
-            "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
-          },
-          {
-            "source": "Meta Newsroom",
-            "when": "12 Oct 2026",
-            "point": "Muse Wonder model family announced for agentic tasks, with access through Meta's developer and coding products.",
-            "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"
+            "point": "Reuters reported 5% Q3 organic revenue growth at Publicis and cited demand for AI-powered marketing among the drivers.",
+            "url": "https://www.reuters.com/business/publicis-reaffirms-outlook-as-ai-powered-marketing-demand-drives-quarterly-growth-2026-10-13/"
           }
         ],
-        "bottom_line": "One update concerns content recommendations; the other concerns AI model tooling. Do not conflate either with a new paid-ad targeting control."
-      },
-      {
-        "topic": "Google Ads API cadence",
-        "status": "Confirmed",
-        "common_context": "Twice-monthly releases starting with v26",
-        "unique_points": [
-          {
-            "source": "Google Ads Developer Blog",
-            "when": "12 Oct 2026",
-            "point": "Two releases per month, while retaining four major releases annually and sunset schedules.",
-            "url": "https://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html"
-          }
-        ],
-        "bottom_line": "Update monitoring and integration testing cadence; no immediate migration should be assumed without checking version notes."
+        "bottom_line": "Frame AI proposals around measurable business outcomes, with a baseline, controlled pilot and quality safeguards."
       }
     ]
   },
-  "generated_at": "2026-10-14T19:07:00+05:30",
+  "generated_at": "2026-10-15T00:32:00+05:30",
   "engine": {
     "model": "none",
-    "research": "Web research prioritizing primary announcements; secondary reporting labeled",
-    "window": "approximately last 24–48 hours",
+    "research": "Web research prioritizing primary announcements and research; secondary reporting labeled",
+    "window": "Prioritized 14 October 2026 and the latest relevant 24–48 hours; older report dated 13 October included only as a distinct industry signal",
     "api_credits_required": false
   }
 }

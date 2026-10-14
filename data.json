@@ -1,320 +1,148 @@
 {
   "date": "14 October 2026",
   "lead": {
-    "title": "Amperity launches Pér AI agent for marketing workflows - IT Brief UK",
-    "deck": "Amperity launches Pér AI agent for marketing workflows IT Brief UK. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnJtN1ZuRUJ2WmJCamV6MmI1Zi13bWhWWGhsamZBTktfc1FKWkp2TzdrRm5UMXU2Tjc1NVhnVDVtMkxjLU5NN3FwUEJGZlVzV1U4TnBaekJIWTFLNnRKYXgwc0JfY2FzejJjc2FtRFVaRmltR3lCNjhOUlBVMVFhZUE4RG9ycXl4Y3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "IT Brief UK",
-    "when": "13 Oct 2026",
-    "image": ""
+    "title": "Shopify expands product discovery to more AI shopping agents",
+    "deck": "Shopify is opening access to its product catalog to a broader range of AI agents, with shoppers linking agents through the Shop app and approving purchases through Shop Pay. Reported today; based on media coverage, not yet independently confirmed here from a Shopify primary announcement.",
+    "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
   },
-  "note": "Edition generated from recent RSS news coverage. Primary/official sources are prioritized when surfaced by the feeds; verify important changes at the linked source.",
+  "note": "Edition for 14 October 2026. Confirmed platform announcements are labeled separately from media-reported developments and analysis. What's Actually New: avoid repeating the same Google Ads API cadence announcement across sections.",
   "ticker": [
-    "Amperity launches Pér AI agent for marketing workflows - IT Brief UK",
-    "ROI Amplified Launches AI Visibility Audit as AI Search Reshapes How Buyers Find Companies - Macau Business",
-    "City launches after hours AI agent pilot program - My Grande Prairie Now",
-    "Workday Partners with Anthropic to Make HR and Finance AI Agent \"Sana\" Available Within Claude - BigGo Finance",
-    "American Express Introduces Intent Intelligence Framework to Secure AI Agent Purchases - AI Insider",
-    "Google Ads API moves to twice-monthly releases starting with v26 - Search Engine Land",
-    "Google Ads adds Search terms and ad combinations report for AI Max - Search Engine Land",
-    "Google Ads Data Strength Best Practices Updated - Search Engine Roundtable"
+    "Shopify expands catalog access to AI shopping agents — media-reported",
+    "Meta adds natural-language controls for Facebook Feed and Reels — confirmed",
+    "Google Ads API moves to twice-monthly releases from v26 — confirmed",
+    "Meta introduces Muse Wonder agent models — confirmed"
   ],
   "sections": [
     {
-      "name": "AI & Agents",
+      "name": "Agentic Commerce & Ecommerce",
       "stories": [
         {
-          "title": "Amperity launches Pér AI agent for marketing workflows - IT Brief UK",
-          "summary": "Amperity launches Pér AI agent for marketing workflows IT Brief UK. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "IT Brief UK",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnJtN1ZuRUJ2WmJCamV6MmI1Zi13bWhWWGhsamZBTktfc1FKWkp2TzdrRm5UMXU2Tjc1NVhnVDVtMkxjLU5NN3FwUEJGZlVzV1U4TnBaekJIWTFLNnRKYXgwc0JfY2FzejJjc2FtRFVaRmltR3lCNjhOUlBVMVFhZUE4RG9ycXl4Y3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "City launches after hours AI agent pilot program - My Grande Prairie Now",
-          "summary": "City launches after hours AI agent pilot program My Grande Prairie Now. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "My Grande Prairie Now",
+          "title": "Shopify reportedly opens its catalog to more AI shopping agents",
+          "summary": "WHAT HAPPENED: The Verge reports Shopify is expanding access to its catalog of more than a billion listings to a wider range of AI agents. Shoppers connect agents through the Shop app; checkout uses Shop Pay and requires user approval. STATUS: Media-reported; verify rollout and eligibility with Shopify before implementation.",
+          "why": "Product discovery and purchase journeys may increasingly happen inside AI assistants rather than on merchant storefronts alone. Catalog quality, availability, product attributes and checkout friction become even more important.",
+          "use_case": "Audit product titles, variant data, inventory accuracy, shipping details and structured product information; monitor how AI-referred sessions and conversions are attributed.",
+          "tool": "Shopify, Shop app, Shop Pay; agentic commerce",
+          "source": "The Verge",
           "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXhwTnp4S0FXendFamlXSFRQY0c2dWNQRlowRkNuRHU5cHh5ckUwZWxqWTVuRHpwLS1nOEhQVkx2Qy02cXJoNzhUcVJUQmVHYlJOc0FsNTVpdDBXSVlxNi1pYWd5NURlNVc2R25kTkxxblZRMU1EMm11NXUtUDBubHI1QzlHdlMzTkJNOHBfVWFEQk1YUTBOcHkxUGpDZGQzQm1iZW0yS2N2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Workday Partners with Anthropic to Make HR and Finance AI Agent \"Sana\" Available Within Claude - BigGo Finance",
-          "summary": "Workday Partners with Anthropic to Make HR and Finance AI Agent \"Sana\" Available Within Claude BigGo Finance. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "BigGo Finance",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50NHhIdm5lNl9ZazZKcE5vQVlaVEM4SkVvTTZ2UVBmM0NqQkVFalVJal9YaUdpSHRHUThJckpreHJYM2xtLXA0OFc4OF84eV9LSUNreWxfSXB0Q1FEZ3JZWjA1YVJGNTJPYXk3LUxsSWhNRDFvWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "American Express Introduces Intent Intelligence Framework to Secure AI Agent Purchases - AI Insider",
-          "summary": "American Express Introduces Intent Intelligence Framework to Secure AI Agent Purchases AI Insider. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "AI Insider",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLWVIUTRtZ1ZucTRpdGlYenpVQkRPVlRrNDdpRXB0Qm93amFNb1Q4ZnNWZDBhdXpfMHFITFQtZ0thUktYeER0ckFSTk5CVjZwMnFQT1pWSjZLY3lIM0dkMnBjUzg0bklfRG00UG05MlFsT3VTQnlVdWR6ckNfSkZ4cVNia1E1WWNBdDIxX2R2WmlfQ1hWbTJtRzA5emZkLWRnUHJURDZPNWtTbzlpX2sweEsxRWlhVERmZWFKT3FLSzdXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
         }
       ]
     },
     {
-      "name": "Google Ads",
+      "name": "Social Platforms & Audience Signals",
       "stories": [
         {
-          "title": "Google Ads API moves to twice-monthly releases starting with v26 - Search Engine Land",
-          "summary": "Google Ads API moves to twice-monthly releases starting with v26 Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
+          "title": "Facebook adds natural-language controls for Feed and Reels recommendations",
+          "summary": "WHAT HAPPENED: Meta says users can describe interests in their own words to shape recommendations in Facebook Feed and Reels, with ranking systems adapting to that feedback. STATUS: Confirmed product announcement from Meta on 13 October.",
+          "why": "It is another signal that user-declared interests and recommendation systems are evolving. Marketers should not assume this changes ad targeting rules directly; the announcement concerns content recommendations.",
+          "use_case": "Review organic content themes and audience feedback, then test clear topic-led creative and measure qualified engagement rather than treating the feature as a new paid-targeting option.",
+          "tool": "Facebook Feed and Reels; Meta recommendation systems",
+          "source": "Meta Newsroom",
           "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHFGbVJYMEJULTdBUzgxN0JrUkNCMHFBRGl6UEp0akxtTTdqbEVpQThfQWJVZDVpUTFnYk93RVZtVkh1WlpqY25DTlRhWmExejBES2dfYU14YVZDbmQ5eHNKaVF5ZmtPd3VHUHh4N3pLeEROeTZqYjJMelhsZTNYRWQtTXMwemxJLWhqSHJZeC1iRHdNQlNOem13RkF6NmxEU1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
         },
         {
-          "title": "Google Ads adds Search terms and ad combinations report for AI Max - Search Engine Land",
-          "summary": "Google Ads adds Search terms and ad combinations report for AI Max Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2pSRmZHQXEzRWx1VUFwTnQ2NEJQX3lsVEJxcHBHTXlSck83SllnZnh1RkdjLVNXQWRWWXJXbm9nZXN2ZjVtME9Ec0o4dFplRU5LRmhQRGlJQUduZDlvZ0R4WUR2XzlTVVRqQ3E4c2FyRTN1aFJyN2dMaVZaMGJROW1WMUg1Qk5HbDBQVXFrSUw3NnYtYlBVMDlFNjhMbzJHZGZ1ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google Ads Data Strength Best Practices Updated - Search Engine Roundtable",
-          "summary": "Google Ads Data Strength Best Practices Updated Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Roundtable",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNnFJTTdYdUtWNEdOV1NEMDctSFJTeUtPSUJ2MHlqalk4X09idGo0TVF2M01JNkhzTUtJaW9WUGJHem9GXzVIR2JVRlVUQWlmN0NlMkdoM2dJWmJoMjkxYWtINEVkWVI0ZG1hdnZhN25xR3JaYkR1dkRsWEFFdGN5d0ktWnlwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Why ‘earned autonomy’ is the sweet spot for AI and customer loyalty in 2027 - Search Engine Land",
-          "summary": "Why ‘earned autonomy’ is the sweet spot for AI and customer loyalty in 2027 Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFdIakIyOXJFdXFaajM2X0hpRnozZkNjaXc2WGRhdXZuSU1ITVZ5ajBoMmpTOGVmcUZwenIwVF9GZmRJWDB2WWxsWjM4QmVJVU1heEZhaDQ5QWs5OFZIMVlEaE9zYUQtWTlhNjU4bWZPYzhKTHdIcXJWaS02NzZYdi1ELUFscUdpVW13THlJTDVQcmNzRndKQVRTTlNYZ2VKTmgtV2VyRWQySkI1Q0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "title": "Meta introduces Muse Wonder models for agentic tasks",
+          "summary": "WHAT HAPPENED: Meta announced Muse Wonder and Muse Wonder Full for personal and professional agentic tasks. Meta says Muse Wonder is available through Meta Model API and Muse Code; access differs by product. STATUS: Confirmed announcement dated 12 October.",
+          "why": "Marketing technology teams can evaluate another model family for multi-step assistance, but should compare reliability, data handling, cost and tool permissions against current systems before adoption.",
+          "use_case": "Prototype a read-only assistant that summarizes campaign exports or drafts a QA checklist; require human review before any account changes or customer-facing output.",
+          "tool": "Meta Model API; Muse Code; Muse Wonder",
+          "source": "Meta Newsroom",
+          "when": "12 Oct 2026",
+          "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"
         }
       ]
     },
     {
-      "name": "Meta Ads",
+      "name": "Google Ads & Marketing APIs",
       "stories": [
         {
-          "title": "Sizing up Meta’s push into the crowded world of enterprise AI - Marketing Brew",
-          "summary": "Sizing up Meta’s push into the crowded world of enterprise AI Marketing Brew. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Marketing Brew",
+          "title": "Google Ads API moves to two releases per month starting with v26",
+          "summary": "WHAT HAPPENED: Google says the API will move to two releases per month from v26. Four major releases per year remain; other releases are minor and add non-breaking features. STATUS: Confirmed by Google's developer blog on 12 October.",
+          "why": "Internal reporting, bid-management and campaign QA tools may need to adapt to a faster feature cadence, while teams should continue tracking version sunset dates and compatibility.",
+          "use_case": "Assign an owner to monitor release notes twice monthly, test integrations in staging, and document version migration and sunset dates.",
+          "tool": "Google Ads API; internal automation and reporting integrations",
+          "source": "Google Ads Developer Blog",
+          "when": "12 Oct 2026",
+          "url": "https://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html"
+        }
+      ]
+    },
+    {
+      "name": "What's Actually New",
+      "stories": [
+        {
+          "title": "Separate confirmed platform changes from broader agentic-commerce commentary",
+          "summary": "The most actionable confirmed changes in this edition are Meta's natural-language controls for Facebook recommendations, Meta's Muse model announcement, and Google's faster Ads API cadence. Shopify's broader agent access is included as a media-reported development, not as a fully verified primary-source launch.",
+          "why": "Distinguishing confirmed releases from reported rollout details prevents teams from changing client workflows based on assumptions.",
+          "use_case": "For every platform change, log the announcement date, source type, availability status, affected products/regions, and the next validation step before updating SOPs.",
+          "tool": "Editorial verification checklist",
+          "source": "Meta Newsroom; Google Ads Developer Blog; The Verge",
           "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HYmNsQ1MtZlY0S0Myc2xvMjNmaG5BZW5XM1NoTENqYllaUkJ5cXF4UEtEbkhjX0lxU2puaVVUOXNCRU1iSl9HZHJxNk9BenhBZjh5Zzk5dFFKa0RPOWZtT3VURUR5SGtjdl9FRnl3?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta blocks ByteDance ads across key markets - ContentGrip",
-          "summary": "Meta blocks ByteDance ads across key markets ContentGrip. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "ContentGrip",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMmotbTE1Z2gzeFViV1lIVktrSkFocjRZVzZVT2ZXbzYxMGh3RkZZTi1RMzBhdXFSeXJ3TzFUUU9qUnEydDNQYmViSVFlZWg5dmZnMmlVMlFUNGRkSWo5VFBn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta Previews AI-Powered Ad Displays, Creator Offerings At NewFronts 03/30/2026 - MediaPost",
-          "summary": "Meta Previews AI-Powered Ad Displays, Creator Offerings At NewFronts 03/30/2026 MediaPost. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "MediaPost",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTFVfeUpOVXJUUHBUWEVXbllmTzJzUFRuWnFiRl9mU1dqNE1zUnEwbzlobktvS1lpSnRtNlk2V1RodVJ6QS1iSkRheFpkZ2NrMVFPZ2htU2lvNHR3X0ZIQVdLcmhDa0JxbmFuU21NUl9kTXpuYlhqbTZHNEhud2UtbFpsX1JpcExpRHFnRm9idm5renQ2SDlxdmZQZVZRYU8zOE5UOHRBckIzSWZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta Blocks TikTok Ads on Facebook and Instagram in Seven Countries - TechRepublic",
-          "summary": "Meta Blocks TikTok Ads on Facebook and Instagram in Seven Countries TechRepublic. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "TechRepublic",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNald1X3BBOGFlYWgxVmpGa1VVbENxNXV6OWhNRzZGc0FiYlVRLU81Qm1FRGpoanYwVXM4T014VUtWNG0tVjFZWGlTaFJaZzl6NE93ZXpGOUx2MDRXNWMtR0dLUExIUFhTZVhqb0xja2NDVkEyM3RidmF4bHpweWVzOVdxNjI?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
         }
       ]
-    },
-    {
-      "name": "Microsoft Ads",
-      "stories": [
-        {
-          "title": "Explaining client library - PPC Land",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmNldLYnkwM3ZMdUZLRlJucTNhZm03dFZCaGNlMXBRRnRwWk9HaEozN2wyRURYcGlycGwtN3B4Z3BqSThPZ0cw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "AI Economy for Marketers - Microsoft",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Microsoft",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UcGo2NXJGb19JQnRjamRXTmFJSmUwZHlVY2puVjkzUkkxRjN4ZXhDUlhNb21tR2RfeDNJR1FTbnVkRElKdEdiYkE5OXhMaGFjTWQtVlFIRGU2WlZlQnRxSXZEazZqd2Y2YVNPNl9KbE9lT2NCMzU3Z3paWlFpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "name": "TikTok Ads",
-      "stories": []
-    },
-    {
-      "name": "Search & SEO",
-      "stories": [
-        {
-          "title": "ROI Amplified Launches AI Visibility Audit as AI Search Reshapes How Buyers Find Companies - Macau Business",
-          "summary": "ROI Amplified Launches AI Visibility Audit as AI Search Reshapes How Buyers Find Companies Macau Business. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
-          "source": "Macau Business",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGpBRkczSll5U1VZRnJ0RExrMXBVd29nZUR3TTRrM0p5c19aVG9BUkExM3NiNEFhaGMyd3I0RHJTaXNKTGF2LVVRQmVxcGUwbXU5MjdWbGYtY1QzNWx1NnB0cUVqc0ZvRmhSeEJOeEFud1FkSmwyVnd6clFwZ0p1M1hFekNPMGN1cFlQbE1lRjNMRUNtaWRpOVZpWHNma3hCcnJGbW1GaHhRd1FoSnQ0V1VJS1pSU3ZI?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google Ads API moves to twice-monthly releases starting with v26 - Search Engine Land",
-          "summary": "Google Ads API moves to twice-monthly releases starting with v26 Search Engine Land. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
-          "source": "Search Engine Land",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHFGbVJYMEJULTdBUzgxN0JrUkNCMHFBRGl6UEp0akxtTTdqbEVpQThfQWJVZDVpUTFnYk93RVZtVkh1WlpqY25DTlRhWmExejBES2dfYU14YVZDbmQ5eHNKaVF5ZmtPd3VHUHh4N3pLeEROeTZqYjJMelhsZTNYRWQtTXMwemxJLWhqSHJZeC1iRHdNQlNOem13RkF6NmxEU1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google Ads adds Search terms and ad combinations report for AI Max - Search Engine Land",
-          "summary": "Google Ads adds Search terms and ad combinations report for AI Max Search Engine Land. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
-          "source": "Search Engine Land",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2pSRmZHQXEzRWx1VUFwTnQ2NEJQX3lsVEJxcHBHTXlSck83SllnZnh1RkdjLVNXQWRWWXJXbm9nZXN2ZjVtME9Ec0o4dFplRU5LRmhQRGlJQUduZDlvZ0R4WUR2XzlTVVRqQ3E4c2FyRTN1aFJyN2dMaVZaMGJROW1WMUg1Qk5HbDBQVXFrSUw3NnYtYlBVMDlFNjhMbzJHZGZ1ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Gargle Expands Dental Marketing Insights to Help Practices Measure Visibility Across Google and AI Search - PR Newswire",
-          "summary": "Gargle Expands Dental Marketing Insights to Help Practices Measure Visibility Across Google and AI Search PR Newswire. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
-          "source": "PR Newswire",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRTRGQkpXQWFJU3dKc3V5aklwQUl2YVpsbUN5b19hLVppMGtSNW13ajNqZ1pDeVFiRlg0UjBSZUNPd0pLUFdIZkR4UXIzZHlrZWVPTGdBY1ZZWFlQa0QzNnJwbmE3MTJ2emxvNU40eEhvb09xNlRXWHJreXRWNkZsR2V2aXlGRmhfSno3VW05ckQwQk9nNFJrWllpTzMtVFJaYnowamVZMlZXQmo2b193UWY2a3dDYk5uWUNiOHhFX1hqTFpBSkdtVWxkX2dkUTdtNXJMY09YalNwZjFnOEZaWjloQU9wRVhPdkEwRFdOQVVXcjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "name": "Analytics",
-      "stories": [
-        {
-          "title": "5 Things AI Agents Can Already Do That Most Marketers Still Do Manually - Exchange4Media",
-          "summary": "5 Things AI Agents Can Already Do That Most Marketers Still Do Manually Exchange4Media. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "Exchange4Media",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRmpSREhTMWJMbXhxRURUdkYzZTdwNDBrZWVYSlM0N2dGUUZma1pxS2VvY2tVeDRXN2UtUjhoTGp4OU02aXF3TF83cEsxTzh0QlBJN3JIVFlfRS1GbW1TdWVWbDV1SVNXVHctTWpTNkNtT1prVnB4QWNoOEtsNFJXZjRzY0RMY2NjM3RwakVhUzROQVN2VjU3d25NNlBZSGZCbDdwRW5HemJubFVMaXZ2LW5hbmN0SmVjX3dBTnlyN1JNaGFGWWNIbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Product Analytics Market To 2035: AI-Driven Personalization Fuels Expansion - News and Statistics - IndexBox",
-          "summary": "Product Analytics Market To 2035: AI-Driven Personalization Fuels Expansion - News and Statistics IndexBox. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "IndexBox",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnVTSEE1Y2dESHVZeVFmVC16VG9hSGZzd1NxcXY1a0tSaHRjTzVzNGFkSWN1V01WajdtWEFGLTI0RlZUOWNDNVNmbVkxYXB6Yjc1TzFXeVhjOU9UWXdTMjBPZFZvZDFuclRBX1FRS3FOSEFkOG10REhzY1Rlb0lKakhTNWdlaHp1bU93aXpIM1lWVmxJdm00RkZuSlBWQ2lTZHViRzQwYjJyNUIyZXNBbWtZOVZDektEbEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google claims 20% Demand Gen conversion uplift from tag gateway setups - PPC Land",
-          "summary": "Google claims 20% Demand Gen conversion uplift from tag gateway setups PPC Land. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "PPC Land",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcjJneS05a01FQ3RBNWFXRGtSc1VsMFgzWDhMR3gteW1aeGtoMDV0R0haLVpabFRNdklWT2RtQ0RYcEZvS3lMaTJfRm45TmY2Mm81azMxNE9MVkNGRTdOdkhmSlRxTVpMcDhfRzdJZk5RMWxTUF90RURScnNfa2dJcldDT1lNQllFY1BsenZxWDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Explaining AI referral traffic - PPC Land",
-          "summary": "Explaining AI referral traffic PPC Land. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "PPC Land",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyRFR3eUhRdnZDSTYwQUFUQi1YbjFoaXo5U2hJN2JHMVZEMU52alFPTFJEQkJvVXhKaXVnYzVaMWE4eUcxbFdhMFluV2hoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "name": "Creative AI & Design",
-      "stories": []
-    },
-    {
-      "name": "MarTech & Automation",
-      "stories": [
-        {
-          "title": "5 Things AI Agents Can Already Do That Most Marketers Still Do Manually - Exchange4Media",
-          "summary": "5 Things AI Agents Can Already Do That Most Marketers Still Do Manually Exchange4Media. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Exchange4Media",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRmpSREhTMWJMbXhxRURUdkYzZTdwNDBrZWVYSlM0N2dGUUZma1pxS2VvY2tVeDRXN2UtUjhoTGp4OU02aXF3TF83cEsxTzh0QlBJN3JIVFlfRS1GbW1TdWVWbDV1SVNXVHctTWpTNkNtT1prVnB4QWNoOEtsNFJXZjRzY0RMY2NjM3RwakVhUzROQVN2VjU3d25NNlBZSGZCbDdwRW5HemJubFVMaXZ2LW5hbmN0SmVjX3dBTnlyN1JNaGFGWWNIbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "name": "Ecommerce",
-      "stories": []
     }
   ],
   "summary": {
-    "title": "Summary — What’s Actually New",
-    "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
+    "title": "Summary — What's Actually New",
+    "intro": "Four distinct developments; duplicate coverage of the Google Ads API release schedule is consolidated. Media-reported rollout details are explicitly labeled.",
     "topics": [
       {
-        "topic": "City launches after hours AI agent pilot program - My Grande Prairie Now",
-        "status": "Cross-source coverage",
-        "common_context": "City launches after hours AI agent pilot program My Grande Prairie Now",
+        "topic": "Agentic commerce",
+        "status": "Media-reported",
+        "common_context": "Broader AI-agent access to Shopify catalog and checkout",
         "unique_points": [
           {
-            "source": "My Grande Prairie Now",
+            "source": "The Verge",
             "when": "14 Oct 2026",
-            "point": "City launches after hours AI agent pilot program My Grande Prairie Now",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXhwTnp4S0FXendFamlXSFRQY0c2dWNQRlowRkNuRHU5cHh5ckUwZWxqWTVuRHpwLS1nOEhQVkx2Qy02cXJoNzhUcVJUQmVHYlJOc0FsNTVpdDBXSVlxNi1pYWd5NURlNVc2R25kTkxxblZRMU1EMm11NXUtUDBubHI1QzlHdlMzTkJNOHBfVWFEQk1YUTBOcHkxUGpDZGQzQm1iZW0yS2N2Zw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "IT Brief UK",
-            "when": "13 Oct 2026",
-            "point": "Amperity launches Pér AI agent for marketing workflows IT Brief UK",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnJtN1ZuRUJ2WmJCamV6MmI1Zi13bWhWWGhsamZBTktfc1FKWkp2TzdrRm5UMXU2Tjc1NVhnVDVtMkxjLU5NN3FwUEJGZlVzV1U4TnBaekJIWTFLNnRKYXgwc0JfY2FzejJjc2FtRFVaRmltR3lCNjhOUlBVMVFhZUE4RG9ycXl4Y3c?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Reported expansion of catalog access beyond a limited set of partner agents, with user-approved checkout through Shop Pay.",
+            "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
           }
         ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+        "bottom_line": "Treat as a commerce signal; confirm merchant eligibility and rollout details with Shopify before making technical changes."
       },
       {
-        "topic": "Meta blocks ByteDance ads across key markets - ContentGrip",
-        "status": "Cross-source coverage",
-        "common_context": "Meta blocks ByteDance ads across key markets ContentGrip",
+        "topic": "Meta product updates",
+        "status": "Confirmed",
+        "common_context": "Separate consumer recommendation controls from model availability",
         "unique_points": [
           {
-            "source": "ContentGrip",
-            "when": "14 Oct 2026",
-            "point": "Meta blocks ByteDance ads across key markets ContentGrip",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMmotbTE1Z2gzeFViV1lIVktrSkFocjRZVzZVT2ZXbzYxMGh3RkZZTi1RMzBhdXFSeXJ3TzFUUU9qUnEydDNQYmViSVFlZWg5dmZnMmlVMlFUNGRkSWo5VFBn?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "PPC Land",
-            "when": "14 Oct 2026",
-            "point": "Google claims 20% Demand Gen conversion uplift from tag gateway setups PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcjJneS05a01FQ3RBNWFXRGtSc1VsMFgzWDhMR3gteW1aeGtoMDV0R0haLVpabFRNdklWT2RtQ0RYcEZvS3lMaTJfRm45TmY2Mm81azMxNE9MVkNGRTdOdkhmSlRxTVpMcDhfRzdJZk5RMWxTUF90RURScnNfa2dJcldDT1lNQllFY1BsenZxWDQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
+            "source": "Meta Newsroom",
             "when": "13 Oct 2026",
-            "point": "Google Ads API moves to twice-monthly releases starting with v26 Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHFGbVJYMEJULTdBUzgxN0JrUkNCMHFBRGl6UEp0akxtTTdqbEVpQThfQWJVZDVpUTFnYk93RVZtVkh1WlpqY25DTlRhWmExejBES2dfYU14YVZDbmQ5eHNKaVF5ZmtPd3VHUHh4N3pLeEROeTZqYjJMelhsZTNYRWQtTXMwemxJLWhqSHJZeC1iRHdNQlNOem13RkF6NmxEU1E?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "People can express interests in natural language to shape Facebook Feed and Reels recommendations.",
+            "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
           },
           {
-            "source": "Search Engine Land",
-            "when": "13 Oct 2026",
-            "point": "Google Ads adds Search terms and ad combinations report for AI Max Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2pSRmZHQXEzRWx1VUFwTnQ2NEJQX3lsVEJxcHBHTXlSck83SllnZnh1RkdjLVNXQWRWWXJXbm9nZXN2ZjVtME9Ec0o4dFplRU5LRmhQRGlJQUduZDlvZ0R4WUR2XzlTVVRqQ3E4c2FyRTN1aFJyN2dMaVZaMGJROW1WMUg1Qk5HbDBQVXFrSUw3NnYtYlBVMDlFNjhMbzJHZGZ1ZA?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "Meta Newsroom",
+            "when": "12 Oct 2026",
+            "point": "Muse Wonder model family announced for agentic tasks, with access through Meta's developer and coding products.",
+            "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"
           }
         ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+        "bottom_line": "One update concerns content recommendations; the other concerns AI model tooling. Do not conflate either with a new paid-ad targeting control."
+      },
+      {
+        "topic": "Google Ads API cadence",
+        "status": "Confirmed",
+        "common_context": "Twice-monthly releases starting with v26",
+        "unique_points": [
+          {
+            "source": "Google Ads Developer Blog",
+            "when": "12 Oct 2026",
+            "point": "Two releases per month, while retaining four major releases annually and sunset schedules.",
+            "url": "https://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html"
+          }
+        ],
+        "bottom_line": "Update monitoring and integration testing cadence; no immediate migration should be assumed without checking version notes."
       }
     ]
   },
-  "generated_at": "2026-10-14T14:28:52.993320+05:30",
+  "generated_at": "2026-10-14T19:07:00+05:30",
   "engine": {
     "model": "none",
-    "research": "Google News RSS + source-page metadata",
-    "window": "approximately last 36 hours",
+    "research": "Web research prioritizing primary announcements; secondary reporting labeled",
+    "window": "approximately last 24–48 hours",
     "api_credits_required": false
   }
 }

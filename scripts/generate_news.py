@@ -18,75 +18,111 @@ NOW_IST = NOW_UTC.astimezone(IST)
 WINDOW = NOW_UTC - timedelta(hours=36)
 
 CATEGORIES = [
-    "AI & Agents",
     "Google Ads",
-    "Meta Ads",
     "Microsoft Ads",
+    "Meta Ads",
+    "Amazon Ads",
     "TikTok Ads",
+    "LinkedIn Ads",
     "Search & SEO",
     "Analytics",
+    "AI & Agents",
     "Creative AI & Design",
     "MarTech & Automation",
     "Ecommerce",
 ]
 
-QUERIES = {
-    "AI & Agents": [
-        '"AI agent" marketing OR advertising OR business',
-        'generative AI agents APIs MCP marketing',
-        'OpenAI OR Anthropic OR Google AI OR Meta AI OR Microsoft AI agent',
-    ],
+# Mandatory official-source searches run before broader discovery.
+# Google News RSS is a discovery/indexing layer, not a guarantee of real-time or exhaustive coverage.
+OFFICIAL_SOURCE_QUERIES = {
     "Google Ads": [
-        'Google Ads update OR announcement OR AI Max',
-        'site:blog.google/products/ads-commerce Google Ads',
-        'site:support.google.com/google-ads "2026" AI',
-    ],
-    "Meta Ads": [
-        'Meta Ads update OR announcement OR advertising AI',
-        'Meta Muse marketing business agent',
-        'site:about.fb.com/news advertising AI Meta',
+        'site:blog.google/products/ads-commerce/ Google Ads OR Demand Gen OR Performance Max OR AI Max',
+        'site:ads-developers.googleblog.com Google Ads API release',
+        'site:support.google.com/google-ads/ announcement OR feature OR update',
+        'site:blog.google/products/marketingplatform/ Display & Video 360 OR measurement',
     ],
     "Microsoft Ads": [
-        'Microsoft Advertising update OR announcement AI Max',
-        'Microsoft Advertising MCP agent',
-        'site:about.ads.microsoft.com advertising AI',
+        'site:about.ads.microsoft.com/en/blog Microsoft Advertising update OR AI OR ads',
+        'site:learn.microsoft.com/advertising/ release notes API',
+    ],
+    "Meta Ads": [
+        'site:facebook.com/business/news Meta ads advertising update',
+        'site:about.fb.com/news/ advertising business AI',
+        'site:developers.facebook.com/blog/ Marketing API OR Conversions API',
+    ],
+    "Amazon Ads": [
+        'site:advertising.amazon.com/resources/whats-new Amazon Ads',
+        'site:advertising.amazon.com/resources/library advertising AI measurement',
     ],
     "TikTok Ads": [
-        'TikTok Ads update OR announcement AI advertising',
-        'TikTok One Content Suite API',
-        'site:ads.tiktok.com/business advertising AI',
+        'site:ads.tiktok.com/business/en/blog/ TikTok ads update OR Smart+ OR AI',
+        'site:ads.tiktok.com/help/ advertising update',
+    ],
+    "LinkedIn Ads": [
+        'site:business.linkedin.com/advertise/ads/product-updates LinkedIn Ads',
+        'site:linkedin.com/business/marketing/blog advertising product update',
+        'site:learn.microsoft.com/linkedin/marketing/ API release',
     ],
     "Search & SEO": [
-        'Google Search update OR AI search SEO',
-        'AI Overviews OR AI Mode SEO search update',
-        'site:developers.google.com/search "2026" update',
+        'site:developers.google.com/search/blog Google Search AI update',
+        'site:blogs.bing.com/webmaster/ Bing AI search update',
+        'site:status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history Google Search ranking update',
     ],
     "Analytics": [
-        'marketing analytics attribution conversion AI update',
-        'GA4 analytics measurement update 2026',
-        'advertising attribution API update',
+        'site:support.google.com/analytics/answer/9164320 Google Analytics release notes',
+        'site:blog.google/products/marketingplatform/analytics/ GA4 measurement update',
+        'site:support.google.com/tagmanager/answer/4620708 tag manager update',
+    ],
+    "AI & Agents": [
+        'site:openai.com/news/ AI agent OR model OR business',
+        'site:anthropic.com/news Claude agent OR model OR tools',
+        'site:blog.google/technology/ai/ AI agents OR Gemini',
+        'site:ai.meta.com/blog/ AI model OR agent',
+        'site:blogs.microsoft.com/ai/ Copilot agents',
+        'site:modelcontextprotocol.io MCP release OR specification',
+        'site:github.blog/changelog/ Copilot agent OR AI',
     ],
     "Creative AI & Design": [
-        'AI creative advertising image video design update',
-        'generative video ads creative AI launch',
-        'AI design tool marketing update',
+        'site:openai.com/index/ image OR video generation',
+        'site:blog.google/technology/google-labs/ video OR image generation',
+        'AI creative advertising image video design tool launch',
     ],
     "MarTech & Automation": [
+        'site:hubspot.com/new AI marketing automation',
+        'site:salesforce.com/releases/ marketing AI agent',
+        'site:developers.facebook.com/docs/whatsapp/ WhatsApp Business Platform update',
         'marketing automation AI MCP API update',
-        'CRM martech AI agent announcement',
-        'workflow automation AI agents marketing',
     ],
     "Ecommerce": [
-        'ecommerce AI agents shopping advertising update',
+        'site:advertising.amazon.com/resources/whats-new ecommerce advertising AI',
+        'site:shopify.com/editions AI commerce shopping',
+        'site:shopify.dev/changelog/ commerce API update',
         'agentic commerce retail AI announcement',
-        'Amazon Ads ecommerce AI update',
     ],
+}
+
+# Wider industry discovery is deliberately a second pass.
+DISCOVERY_QUERIES = {
+    "Google Ads": ['Google Ads update announcement AI Max Demand Gen budget allocation', 'Google Ads channel prioritization budget allocation measurement'],
+    "Microsoft Ads": ['Microsoft Advertising update announcement AI advertising'],
+    "Meta Ads": ['Meta Ads update announcement advertising AI'],
+    "Amazon Ads": ['Amazon Ads update announcement retail media AI'],
+    "TikTok Ads": ['TikTok Ads update announcement AI advertising'],
+    "LinkedIn Ads": ['LinkedIn Ads product update B2B advertising AI'],
+    "Search & SEO": ['AI search SEO update Google Bing search visibility'],
+    "Analytics": ['marketing analytics attribution conversion measurement update'],
+    "AI & Agents": ['AI agent marketing advertising business APIs MCP', 'OpenAI Anthropic Google AI Meta AI Microsoft AI launch'],
+    "Creative AI & Design": ['AI creative advertising image video design update', 'generative video ads creative AI launch'],
+    "MarTech & Automation": ['marketing automation AI MCP API update CRM martech agent'],
+    "Ecommerce": ['ecommerce AI agents shopping advertising update', 'agentic commerce retail AI announcement'],
 }
 
 TRUSTED_DOMAINS = (
     "blog.google", "support.google.com", "developers.google.com",
-    "about.ads.microsoft.com", "learn.microsoft.com",
-    "about.fb.com", "ads.tiktok.com", "advertising.amazon.com",
+    "about.ads.microsoft.com", "learn.microsoft.com", "business.linkedin.com", "linkedin.com",
+    "about.fb.com", "facebook.com", "developers.facebook.com", "ads.tiktok.com", "advertising.amazon.com",
+    "ads-developers.googleblog.com", "blog.google", "developers.google.com", "support.google.com",
+    "hubspot.com", "salesforce.com", "shopify.com", "shopify.dev", "modelcontextprotocol.io", "github.blog",
     "openai.com", "anthropic.com", "perplexity.ai",
     "reuters.com", "techcrunch.com", "axios.com", "wsj.com",
     "searchengineland.com", "searchenginejournal.com", "martech.org",
@@ -105,7 +141,18 @@ def source_name(url, fallback="News"):
         "support.google.com": "Google",
         "developers.google.com": "Google",
         "about.ads.microsoft.com": "Microsoft Advertising",
-        "learn.microsoft.com": "Microsoft Advertising",
+        "learn.microsoft.com": "Microsoft / Platform Documentation",
+        "business.linkedin.com": "LinkedIn Marketing Solutions",
+        "linkedin.com": "LinkedIn",
+        "ads-developers.googleblog.com": "Google Ads Developer Blog",
+        "facebook.com": "Meta for Business",
+        "developers.facebook.com": "Meta for Developers",
+        "hubspot.com": "HubSpot",
+        "salesforce.com": "Salesforce",
+        "shopify.com": "Shopify",
+        "shopify.dev": "Shopify Developers",
+        "modelcontextprotocol.io": "Model Context Protocol",
+        "github.blog": "GitHub",
         "about.fb.com": "Meta",
         "ads.tiktok.com": "TikTok",
         "advertising.amazon.com": "Amazon Ads",
@@ -371,10 +418,31 @@ def validate(payload):
 
 def main():
     collected = {category: [] for category in CATEGORIES}
-    for category, queries in QUERIES.items():
+    audit = []
+    # Pass 1: mandatory official-source searches.
+    for category, queries in OFFICIAL_SOURCE_QUERIES.items():
         for query in queries:
-            collected[category].extend(fetch_feed_items(query))
-        collected[category] = dedupe(collected[category])[:4]
+            items = fetch_feed_items(query)
+            collected[category].extend(items)
+            audit.append({
+                "category": category, "query": query,
+                "method": "official-domain Google News RSS discovery",
+                "candidate_count": len(items),
+                "status": "results_found" if items else "zero_results_or_search_failure",
+            })
+    # Pass 2: broader discovery after official sources.
+    for category, queries in DISCOVERY_QUERIES.items():
+        for query in queries:
+            items = fetch_feed_items(query)
+            collected[category].extend(items)
+            audit.append({
+                "category": category, "query": query,
+                "method": "broader Google News RSS discovery",
+                "candidate_count": len(items),
+                "status": "results_found" if items else "zero_results_or_search_failure",
+            })
+    for category in CATEGORIES:
+        collected[category] = dedupe(collected[category])[:6]
 
     stories_by_category = {}
     all_items = []
@@ -402,7 +470,7 @@ def main():
             "source": lead_story["source"],
             "when": lead_story["when"],
         },
-        "note": "Edition generated from recent RSS news coverage. Primary/official sources are prioritized when surfaced by the feeds; verify important changes at the linked source.",
+        "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
         "ticker": [x["title"] for x in all_story_items[:8]],
         "sections": [
             {"name": category, "stories": stories_by_category[category][:4]}
@@ -412,9 +480,19 @@ def main():
         "generated_at": NOW_IST.isoformat(),
         "engine": {
             "model": "none",
-            "research": "Google News RSS + source-page metadata",
-            "window": "approximately last 36 hours",
+            "research": "official-domain Google News RSS searches first, then broader news discovery and source-page metadata",
+            "window": "rolling 36 hours; no minimum story age",
+            "refresh_target": "every 15 minutes; scheduled runs may be delayed",
             "api_credits_required": False,
+        },
+        "coverage_audit": {
+            "generated_at": NOW_IST.isoformat(),
+            "total_queries": len(audit),
+            "official_source_queries": sum(1 for x in audit if x["method"] == "official-domain Google News RSS discovery"),
+            "queries_with_candidates": sum(1 for x in audit if x["candidate_count"] > 0),
+            "queries_without_candidates": sum(1 for x in audit if x["candidate_count"] == 0),
+            "warning": "A zero-result query may mean no indexed stories or a search failure; it does not prove the source published nothing.",
+            "checks": audit,
         },
     }
 
@@ -428,6 +506,7 @@ def main():
     DATA_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     count = len([x for s in payload["sections"] for x in s["stories"]])
     print(f"Published {count} stories for {payload['date']} without an AI API dependency")
+    print(f"Coverage audit: {payload['coverage_audit']['total_queries']} queries; {payload['coverage_audit']['queries_with_candidates']} returned candidates")
 
 if __name__ == "__main__":
     main()

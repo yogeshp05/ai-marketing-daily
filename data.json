@@ -77,14 +77,14 @@
       "name": "What's Actually New",
       "stories": [
         {
-          "title": "Three distinct signals: system connectivity, real-world agent use, and commercial demand",
-          "summary": "Conga’s release is a product update: an MCP connection plus expanded AiMe tools. OpenAI’s publication is adoption research, not a new model or feature launch. Publicis coverage is an earnings and demand signal, not a platform announcement. These items are kept separate to avoid implying that they describe the same development.",
-          "why": "Marketers need to distinguish what can be implemented now from evidence about broader adoption and from business commentary.",
-          "use_case": "Classify each AI story as product availability, research, reported business result, or commentary. Record the release date, access requirements, evidence source, relevant KPI and next validation step before changing SOPs.",
+          "title": "Four distinct signals: measurement tools, system connectivity, agent adoption and commercial demand",
+          "summary": "Google's Demand Gen Drop is a confirmed advertising and measurement update. Conga's MCP server is a product release for business-system connectivity. OpenAI's publication is adoption research, not a new model launch. Publicis coverage is an earnings and demand signal, not a platform announcement. These items are kept separate to avoid implying that they describe the same development.",
+          "why": "Marketers need both platform-specific updates they can assess in their accounts and broader evidence about AI adoption. Mixing product availability, research and business commentary can lead to incorrect implementation assumptions.",
+          "use_case": "Classify each story as a product update, research finding, reported business result or commentary. Record the release date, access requirements, evidence source, relevant KPI and next validation step before changing SOPs.",
           "tool": "Editorial verification and AI workflow evaluation checklist",
-          "source": "Conga; OpenAI; Reuters",
+          "source": "Google Ads & Commerce; Conga; OpenAI; Reuters",
           "when": "15 Oct 2026",
-          "url": "https://conga.com/resources/blog/conga-october-2026-release"
+          "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/"
         }
       ]
     }

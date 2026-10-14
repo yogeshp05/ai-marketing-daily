@@ -2,8 +2,8 @@ name: Publish AI Marketing Daily
 run-name: Publish AI Marketing Daily — ${{ github.event_name }}
 on:
   schedule:
-    # 09:00 IST = 03:30 UTC. GitHub scheduled workflows may start a few minutes late.
-    - cron: "30 3 * * *"
+    # Frequent refresh: every 15 minutes. GitHub Actions schedules can be delayed and are not real-time.
+    - cron: "*/15 * * * *"
   workflow_dispatch:
   push:
     paths:

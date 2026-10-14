@@ -2,8 +2,8 @@ name: Publish AI Marketing Daily
 run-name: Publish AI Marketing Daily — ${{ github.event_name }}
 on:
   schedule:
-    # Frequent refresh: every 15 minutes. GitHub Actions schedules can be delayed and are not real-time.
-    - cron: "*/15 * * * *"
+    # Frequent refresh: every 5 minutes. GitHub Actions schedules can be delayed and are not real-time.
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     paths:
@@ -32,6 +32,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Validate Python syntax
+        run: python -m py_compile scripts/generate_news.py
 
       - name: Research and write today's edition
         env:

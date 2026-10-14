@@ -39,3 +39,9 @@
     margin: 0 0 12px;
   }
 }
+
+/* Platform branding beside each section heading */
+.section-heading{display:flex;align-items:center;gap:11px;min-height:42px}
+.platform-logo{width:30px;height:30px;object-fit:contain;flex:0 0 30px;padding:3px;background:#fff;border:1px solid #e1ddd4;border-radius:7px}
+.section-heading span{display:inline-block}
+@media(max-width:760px){.section-heading{gap:9px}.platform-logo{width:27px;height:27px;flex-basis:27px}}

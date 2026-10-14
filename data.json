@@ -5,8 +5,9 @@
     "deck": "Conga’s 14 October release introduces an MCP server for accessing contracts, quotes, obligations and approvals through compatible assistants, alongside 90+ AiMe tools and 19 skills. Confirmed vendor announcement.",
     "url": "https://conga.com/resources/blog/conga-october-2026-release"
   },
-  "note": "Edition for 15 October 2026. Prioritize developments published on 14 October and avoid repeating yesterday’s Facebook recommendation controls, Muse Wonder models, Google Ads API release cadence or Shopify catalog report. Confirmed vendor announcements and research are separated from third-party reporting and editorial interpretation.",
+  "note": "Edition for 15 October 2026. Includes Google's 13 October Demand Gen Drop, missed in the initial edition and added in this correction. Confirmed platform announcements and research are separated from secondary reporting and editorial interpretation. Avoid repeating older stories unless a genuinely new increment exists.",
   "ticker": [
+    "Google announces October Demand Gen updates for data strength and measurement — confirmed",
     "Conga announces MCP connectivity for commercial data and AI workflows — confirmed",
     "OpenAI publishes research on agentic AI adoption among EU businesses and SMBs — confirmed research",
     "Publicis says AI-powered marketing demand supported Q3 growth — Reuters reporting"
@@ -58,6 +59,21 @@
       ]
     },
     {
+      "name": "Google Ads & Measurement",
+      "stories": [
+        {
+          "title": "Google's October Demand Gen Drop adds Data Strength Uplift metric",
+          "summary": "WHAT HAPPENED: Google announced its October Demand Gen updates on 13 October. Data Strength Uplift is launching in Google Ads to help advertisers understand conversion gains associated with their data setup. Google also announced that Data Manager is expanding to Display & Video 360 and Google Analytics, and that enhanced conversions will soon be available in those products. STATUS: Confirmed announcement from Google's official Ads & Commerce blog; rollout and availability may vary by feature.",
+          "why": "Demand Gen performance depends on the quality and completeness of conversion signals. The new metric can help teams investigate whether their measurement setup is contributing to campaign outcomes, while expanded data tools may simplify first-party data activation across Google's marketing stack.",
+          "use_case": "Review the Data Strength Uplift metric when it becomes available, audit Google tag and first-party data coverage, verify conversion actions and consent settings, and compare conversion volume and value before making budget or bidding changes. Treat Google's cited uplift figures as platform-reported averages, not a guaranteed result for every account.",
+          "tool": "Google Ads Demand Gen; Data Manager; Google Analytics; Display & Video 360; Google Tag Gateway",
+          "source": "Google Ads & Commerce",
+          "when": "13 Oct 2026",
+          "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/"
+        }
+      ]
+    },
+    {
       "name": "What's Actually New",
       "stories": [
         {
@@ -75,8 +91,22 @@
   ],
   "summary": {
     "title": "Summary — What's Actually New",
-    "intro": "This edition contains one confirmed commercial-AI product release, one primary-source adoption study, and one media-reported agency business signal. These are different kinds of evidence, not duplicate versions of a single announcement.",
+    "intro": "This edition contains a confirmed Google Ads measurement update, a commercial-AI product release, primary-source agentic AI adoption research, and a media-reported agency business signal. These are distinct types of evidence, not duplicate versions of a single announcement.",
     "topics": [
+      {
+        "topic": "Google Ads Demand Gen and measurement",
+        "status": "Confirmed Google announcement",
+        "common_context": "October Demand Gen Drop, published 13 October 2026",
+        "unique_points": [
+          {
+            "source": "Google Ads & Commerce",
+            "when": "13 Oct 2026",
+            "point": "Data Strength Uplift is launching in Google Ads; Data Manager is expanding to DV360 and Google Analytics, and enhanced conversions are planned for those products.",
+            "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/"
+          }
+        ],
+        "bottom_line": "Audit first-party data and conversion measurement, then use the metric when available to inform analysis; do not assume a platform-reported average uplift will apply to every account."
+      },
       {
         "topic": "MCP and business workflow integration",
         "status": "Confirmed vendor announcement",

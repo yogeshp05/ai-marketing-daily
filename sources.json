@@ -1,0 +1,182 @@
+{
+  "description": "Master source inventory for AI Marketing Daily. Official sources are checked first through domain-restricted news searches, then broader discovery. Source coverage is not guaranteed to be instant or exhaustive.",
+  "refresh_target_minutes": 15,
+  "rolling_window_hours": 36,
+  "official_sources": [
+    {
+      "name": "Google Ads & Commerce Blog",
+      "url": "https://blog.google/products/ads-commerce/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Google Ads Developer Blog",
+      "url": "https://ads-developers.googleblog.com/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Google Ads Help",
+      "url": "https://support.google.com/google-ads/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Google Marketing Platform Blog",
+      "url": "https://blog.google/products/marketingplatform/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Microsoft Advertising Blog",
+      "url": "https://about.ads.microsoft.com/en/blog",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Microsoft Advertising API release notes",
+      "url": "https://learn.microsoft.com/advertising/guides/release-notes?view=bingads-13",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Meta for Business",
+      "url": "https://www.facebook.com/business/news",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Meta Newsroom",
+      "url": "https://about.fb.com/news/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Meta for Developers",
+      "url": "https://developers.facebook.com/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Amazon Ads What's New",
+      "url": "https://advertising.amazon.com/resources/whats-new",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Amazon Ads API documentation",
+      "url": "https://advertising.amazon.com/API/docs/en-us",
+      "priority": "mandatory"
+    },
+    {
+      "name": "TikTok for Business Blog",
+      "url": "https://ads.tiktok.com/business/en/blog/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "TikTok for Business Help",
+      "url": "https://ads.tiktok.com/help/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "LinkedIn Ads Product Updates",
+      "url": "https://www.business.linkedin.com/advertise/ads/product-updates",
+      "priority": "mandatory"
+    },
+    {
+      "name": "LinkedIn Marketing Blog",
+      "url": "https://www.linkedin.com/business/marketing/blog",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Google Search Central Blog",
+      "url": "https://developers.google.com/search/blog",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Bing Webmaster Blog",
+      "url": "https://blogs.bing.com/webmaster/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Google Analytics release notes",
+      "url": "https://support.google.com/analytics/answer/9164320",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Google Tag Manager release notes",
+      "url": "https://support.google.com/tagmanager/answer/4620708",
+      "priority": "mandatory"
+    },
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Microsoft AI Blog",
+      "url": "https://blogs.microsoft.com/ai/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Meta AI Blog",
+      "url": "https://ai.meta.com/blog/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Model Context Protocol",
+      "url": "https://modelcontextprotocol.io/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/",
+      "priority": "mandatory"
+    },
+    {
+      "name": "Google Labs",
+      "url": "https://blog.google/technology/google-labs/",
+      "priority": "secondary"
+    },
+    {
+      "name": "HubSpot What's New",
+      "url": "https://www.hubspot.com/new",
+      "priority": "secondary"
+    },
+    {
+      "name": "Salesforce Releases",
+      "url": "https://www.salesforce.com/releases/",
+      "priority": "secondary"
+    },
+    {
+      "name": "Shopify Editions",
+      "url": "https://www.shopify.com/editions",
+      "priority": "secondary"
+    },
+    {
+      "name": "IAB",
+      "url": "https://www.iab.com/",
+      "priority": "secondary"
+    },
+    {
+      "name": "Reuters Technology",
+      "url": "https://www.reuters.com/technology/",
+      "priority": "secondary"
+    },
+    {
+      "name": "Search Engine Land",
+      "url": "https://searchengineland.com/",
+      "priority": "secondary"
+    },
+    {
+      "name": "AdExchanger",
+      "url": "https://www.adexchanger.com/",
+      "priority": "secondary"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "priority": "secondary"
+    }
+  ]
+}

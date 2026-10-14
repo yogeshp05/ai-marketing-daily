@@ -9,6 +9,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 from xml.etree import ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data.json"
@@ -224,6 +225,8 @@ def fetch_feed_items(query):
             "source": source,
             "published": published,
         })
+        if len(items) >= 5:
+            break
     return items
 
 def tokens(text):
@@ -416,28 +419,29 @@ def validate(payload):
         raise ValueError("Invalid lead source URL")
     return payload
 
+def run_research_query(task):
+    category, query, method = task
+    try:
+        items = fetch_feed_items(query)
+    except Exception:
+        items = []
+    return category, query, method, items
+
 def main():
     collected = {category: [] for category in CATEGORIES}
     audit = []
-    # Pass 1: mandatory official-source searches.
+    tasks = []
     for category, queries in OFFICIAL_SOURCE_QUERIES.items():
-        for query in queries:
-            items = fetch_feed_items(query)
-            collected[category].extend(items)
-            audit.append({
-                "category": category, "query": query,
-                "method": "official-domain Google News RSS discovery",
-                "candidate_count": len(items),
-                "status": "results_found" if items else "zero_results_or_search_failure",
-            })
-    # Pass 2: broader discovery after official sources.
+        tasks.extend((category, query, "official-domain Google News RSS discovery") for query in queries)
     for category, queries in DISCOVERY_QUERIES.items():
-        for query in queries:
-            items = fetch_feed_items(query)
+        tasks.extend((category, query, "broader Google News RSS discovery") for query in queries)
+
+    # Run bounded parallel searches so the frequent refresh schedule is practical.
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        for category, query, method, items in pool.map(run_research_query, tasks):
             collected[category].extend(items)
             audit.append({
-                "category": category, "query": query,
-                "method": "broader Google News RSS discovery",
+                "category": category, "query": query, "method": method,
                 "candidate_count": len(items),
                 "status": "results_found" if items else "zero_results_or_search_failure",
             })
@@ -477,22 +481,12 @@ def main():
             for category in CATEGORIES
         ],
         "summary": build_cross_source_summary(all_items),
-        "generated_at": NOW_IST.isoformat(),
         "engine": {
             "model": "none",
             "research": "official-domain Google News RSS searches first, then broader news discovery and source-page metadata",
             "window": "rolling 36 hours; no minimum story age",
             "refresh_target": "every 5 minutes; scheduled runs and search indexing may be delayed",
             "api_credits_required": False,
-        },
-        "coverage_audit": {
-            "generated_at": NOW_IST.isoformat(),
-            "total_queries": len(audit),
-            "official_source_queries": sum(1 for x in audit if x["method"] == "official-domain Google News RSS discovery"),
-            "queries_with_candidates": sum(1 for x in audit if x["candidate_count"] > 0),
-            "queries_without_candidates": sum(1 for x in audit if x["candidate_count"] == 0),
-            "warning": "A zero-result query may mean no indexed stories or a search failure; it does not prove the source published nothing.",
-            "checks": audit,
         },
     }
 
@@ -506,7 +500,12 @@ def main():
     DATA_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     count = len([x for s in payload["sections"] for x in s["stories"]])
     print(f"Published {count} stories for {payload['date']} without an AI API dependency")
-    print(f"Coverage audit: {payload['coverage_audit']['total_queries']} queries; {payload['coverage_audit']['queries_with_candidates']} returned candidates")
+    official_count = sum(1 for x in audit if x["method"] == "official-domain Google News RSS discovery")
+    found_count = sum(1 for x in audit if x["candidate_count"] > 0)
+    print(f"Coverage audit: {official_count} official-source queries and {len(audit)-official_count} discovery queries; {found_count}/{len(audit)} returned candidates.")
+    for item in audit:
+        print(f"[{item['status']}] {item['category']}: {item['query']} (candidates={item['candidate_count']})")
+    print("Audit caveat: zero results can mean no indexed story or a search failure; it does not prove there was no announcement.")
 
 if __name__ == "__main__":
     main()

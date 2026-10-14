@@ -482,7 +482,7 @@ def main():
             "model": "none",
             "research": "official-domain Google News RSS searches first, then broader news discovery and source-page metadata",
             "window": "rolling 36 hours; no minimum story age",
-            "refresh_target": "every 15 minutes; scheduled runs may be delayed",
+            "refresh_target": "every 5 minutes; scheduled runs and search indexing may be delayed",
             "api_credits_required": False,
         },
         "coverage_audit": {

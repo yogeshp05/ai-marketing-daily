@@ -1,28 +1,36 @@
 {
   "date": "15 October 2026",
   "lead": {
-    "title": "Announcing v26 of the Google Ads API - blog.google",
-    "deck": "Announcing v26 of the Google Ads API blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "blog.google",
+    "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
+    "deck": "Google Ads API v26 launches with Search Lift measurement and new campaign controls Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Search Engine Land",
     "when": "15 Oct 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
     "Announcing v26 of the Google Ads API - blog.google",
     "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
+    "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
+    "Daily Search Forum Recap: October 15, 2026 - Search Engine Roundtable",
     "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
     "Contentsquare expands analytics to AI agent journeys - ContentGrip",
-    "Google Ads lets advertisers cap Display spend, on a best-effort basis - PPC Land",
-    "Google Ads lets advertisers limit Display and partner spend by percentage - PPC Land",
-    "The EU’s next chapter in AI is agentic - OpenAI",
     "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
+        {
+          "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
+          "summary": "Google Ads API v26 launches with Search Lift measurement and new campaign controls Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Land",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Announcing v26 of the Google Ads API - blog.google",
           "summary": "Announcing v26 of the Google Ads API blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -40,19 +48,11 @@
           "image": ""
         },
         {
-          "title": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
-          "summary": "About the AI campaign localization tool for Search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
+          "title": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
+          "summary": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Land",
           "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google Ads lets advertisers cap Display spend, on a best-effort basis - PPC Land",
-          "summary": "Google Ads lets advertisers cap Display spend, on a best-effort basis PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObV9ldzBBU2VibEVCazFRSzlGbDdVaUFERkpzeVFJQzJETTJNcDJaSmN4Z1YtLURtUVlRUXVxQ3pzT0FydjJCZmdaaUpBOXBEcVVFYXlyQmh1LUdCVWplZVV2V05fVVJJSzJaNV92ZTBrdkNKSGlwaGROd1NCRjRKakZQZHRVbDZrcFpndlhEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -69,7 +69,23 @@
           "summary": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Facebook",
           "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSzNkbm5lVDEtbXJleTkwMnp0aENjNDh5VURJNkFUZVU3QkpmREJNZUNvS044RjE4Ukx6ZjUzQVFSUHpkVFR0ek5kWXpLMlZMb29NaXpURVZlcnVQRkRnRHJyNkJQeDFvTVhUQUl4RW9OVERzMFIwU2JvOU5GQ2xERXhubURKTldMOFJWUmFaUkJ0VXJKNGR3QmRSa3Q1enlfWUo0SXozaWVIaldxTXlHazQ3bFZWU293Zl9CdTU4VHVJWHBkOXFDeU5qTkhBeEFTaUlrNHVITmtEWjZpdjNPOWUtX1LSAeQBQVVfeXFMTkszZG5uZVQxLW1yZXk5MDJ6dGhDYzQ4eVVESTZBVGVVN0JKZkRCTWVDb0tOOEYxOFJMemY1M0FRUlB6ZFRUdHpOZFl6SzJWTG9vTWl6VEVWZXJ1UEZEZ0RycjZCUHgxb01YVEFJeEVvTlREczBSMFNibzlORkNsREV4bm1ESk5XTDhSVlJhWlJCdFVySjRkd0JkUmt0NXp5X1lKNEl6M2llSGpXcU15R2s0N2xWVlNvd2ZfQnU1OFR1SVhwZDlxQ3lOak5IQXhBU2lJazR1SE5rRFo2aXYzTzllLV9S?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmxhcDBIbm1rZ09oUUUxbHIxVHhYYkl6R0pzQnBwOU5rejRPZEFKc044Yi1MTXRXSnNocldlSHRyMGNwRzY3NEhyTkI0cGhuRzd2cTMzR091ZmxpQU1lMVRuQTFubUpucV9rMHZMbkJ1aDByV0pKQTk2RlhaUnhoZHNoRVRSQlJSaFpsMVdmaU9Ra3QxSEQ1YnBwUF9yaG9RRGtvUWF4TC0yclBIenZ1cm04MXFxNTkyUUVNWVhKSk1yb2xqdVF5d1JqdGpPOHJnUmVwM3djWEhNZFg2Zlpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Insights: Facebook Advertising News: Page 4 - Facebook",
+          "summary": "Insights: Facebook Advertising News: Page 4 Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Facebook",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbEdvWUJ3SXRjQzNPNHEzemhKRWFZMkpId3NKcWNCSjRtMnhaTjRpM0xTUGZKeE5kTFJZUVpTZW9vZ19EOW1ZM1k1VV80NVQ4Q25raWdkNGtXNlBMck9rNDFKZ1NMZUdWWTZuNFJ1VDM5TllETm1vTGpMTlBQMkJsQjVGUlNpV2poUUR1V3FZcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses - Facebook",
+          "summary": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Facebook",
+          "when": "14 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY1cxNmFCSmxjMzBXWWZCWDdFVE0zX1BLTDBKMU11OGQwNnQ4VktYWENmd094cFZEMWRENElkV3cwYUZxQ1JLYlpZTUkzUENSQkRYaHNpdnBUZHFJNEEtaHdLUjhFUm5VYkxqNVpOMFhIZm8zVXBuRGI2U0ZWQnB1WjRWNzMta29hLTVoa3RoRDRvNUhCa0RVeHk0eVVTR2RveTNoV0E4cEEtSjRpVlNodmJRRHBseDRaQjNuX1pCSDVMSVV6N0HSAcsBQVVfeXFMT0hIa010a1E3UUlQazFNd1oxcDJXQ2VDQjhBd2ZXTDAzWW45WXZkaGFuZjhsZXBvYWdBN3V2VzB6N2V5Y1owcko0NWpBX29Yb1VvUmxmVlpYYzd6QjVmc1dJSWd1VFdfUDdxNHZzbHNuendyd3BLbmI4MnhvamdlaHFZMWRyRWpUT3dPam9Jem5uQTMtYTgzZjNSNGtIeVpmTi0tdFI1TlRhVEZYVmM0a3B6U0tvVno2aXJjbkc4WVVCOWdGaTFuUXN1RTg?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -129,28 +145,12 @@
           "when": "14 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "GitHub App improvements for least privilege and management - The GitHub Blog",
-          "summary": "GitHub App improvements for least privilege and management The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWJsb1Y3UENFck5kbWNndGlfSlAxeXdmei1yTi1zUjlZdEctdnBQYmF2QWJpcV9CMkhrSEZiUm5OMDVpZFlLOXN5aFhQT0lyM1VULTJkdUJiQ0N6Vk8tZ25kZjYwODNseFRRSnp2cWpyMnU4djVfRHNQMzZyWHZYekdVWnBtRGdaXzJMa1J5N2s3Xy1nUXU2Y1ZaUlU5UUcyS3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
     {
       "name": "Creative AI & Design",
       "stories": [
-        {
-          "title": "The EU’s next chapter in AI is agentic - OpenAI",
-          "summary": "The EU’s next chapter in AI is agentic OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "SentinelOne cuts malware analysis from weeks to hours - OpenAI",
           "summary": "SentinelOne cuts malware analysis from weeks to hours OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -164,6 +164,14 @@
     {
       "name": "MarTech & Automation",
       "stories": [
+        {
+          "title": "Precisely Connects AI Assistants to SAP - - Enterprise Times",
+          "summary": "Precisely Connects AI Assistants to SAP - Enterprise Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Enterprise Times",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF83VDRnMGhTTWVNbnRmUHUxTTRkemdydlVnUWxNeFpsbUNOMzkzbmtYUXdHMlhpSktrZ1ZvSGhEdUZxajZtZjBndnpqTmlaSWhHeEw1akxsbkppc1lycC1jY01rME4wLVVJaHB5NmQzeUJOZlhfWU9sYjQtc0J3WnRmRUhoNmZ0YmZHaWhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Revenue Growth Agent Unveils Model Context Protocol Connector - MarTech Cube",
           "summary": "Revenue Growth Agent Unveils Model Context Protocol Connector MarTech Cube. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -184,6 +192,14 @@
           "when": "14 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEllWEtyMWdBeDNBMF9LNjUzSUhnT1V1TUFUMk1vbzljc1NWMlM3VGF6bDZiemFqYlNiamJUM1RJNk5LaFBzSXpYeU83X2loODBfUUwtQXZlYmI3N3hURGVkTHpqaEJfY1RBT2NWdnF4d0pRTXlzTTdtTV9lRzRJYnQ2Sm9NTXUxTkNEVDM5MVhzTHhxTlpYbE1ZeHFYS0hlSG9FLUpjRU5EdEM0cnEzU0NaeFQ3dzd2LVpaRVdXVUF4bVJJeUFWUU1PeTgyRzRuNlV0RDI5UnhGaWJULVpRNDJIVUlnT1lSVlY0NDI4blFpVmhDYjZCUld1WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Checkout footer visibility now applies to merchant-configurable content - Shopify Dev Docs",
+          "summary": "Checkout footer visibility now applies to merchant-configurable content Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Shopify Dev Docs",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWFVaUVJa3MwRERqWGNVWU1XaXlSMmJxbmNvVm1fLVhXRGlfT1FObmJFOElJa1o3N0NWRlpDeU00cWZ4T18zOWw4aG96TGNtTmhPVHlCLVIwZ2ZaazJFbkNzWmdhTkE5aFBKLVZpWTJsaDdBR1loRmJnVG15V01vbkwzQWhtb0FLZk96VGdYVEk3M3Q5VjZmN1lndS1rWHZvcmc4NUIxWGtNSTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     }
@@ -193,33 +209,33 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
+        "topic": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
         "status": "Cross-source coverage",
-        "common_context": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
+        "common_context": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
         "unique_points": [
+          {
+            "source": "Search Engine Land",
+            "when": "15 Oct 2026",
+            "point": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Search Engine Roundtable",
+            "when": "15 Oct 2026",
+            "point": "Daily Search Forum Recap: October 15, 2026 Search Engine Roundtable",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Dc0R1NGxZamxoZEtseVpfZzFsZmpuOWNWSktkb1lfQk05cEJGc0lQZ1pxVXEtUThJcm1QRE5OMDdWbXBKLU1HTFlkSk5odnBMajJQWGNWWUdmQUlXSTkzWnNwM1pYclE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Search Engine Land",
+            "when": "15 Oct 2026",
+            "point": "Google Ads API v26 launches with Search Lift measurement and new campaign controls Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Google Help",
             "when": "15 Oct 2026",
             "point": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "PPC Land",
-            "when": "15 Oct 2026",
-            "point": "Google Ads lets advertisers cap Display spend, on a best-effort basis PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObV9ldzBBU2VibEVCazFRSzlGbDdVaUFERkpzeVFJQzJETTJNcDJaSmN4Z1YtLURtUVlRUXVxQ3pzT0FydjJCZmdaaUpBOXBEcVVFYXlyQmh1LUdCVWplZVV2V05fVVJJSzJaNV92ZTBrdkNKSGlwaGROd1NCRjRKakZQZHRVbDZrcFpndlhEdw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "WeRSM",
-            "when": "15 Oct 2026",
-            "point": "Google Ads Adds Channel Priority and Budget Controls WeRSM",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmExcXBJSW5icjNGUGNEVk85d0s4Y3ZJMk1CVnVNVnV4cVVScy1tSmp4R3FuanF6SDFnSDUzbDcxZ0t2Z1NsRVE1Vi1tZWhpNjQyNWExZGFNWEJxWmtfYTRLbHA5QjYtV3B2X3hmZWVyc240WG5xXzhGaXdIQ2FmampHbFRpUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "blog.google",
-            "when": "15 Oct 2026",
-            "point": "Announcing v26 of the Google Ads API blog.google",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

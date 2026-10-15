@@ -16,8 +16,8 @@
     "Daily Search Forum Recap: October 14, 2026 - Search Engine Roundtable",
     "The EU’s next chapter in AI is agentic - OpenAI",
     "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
-    "Introducing Topics Portfolio (Beta) in AI Performance - Bing Blogs",
-    "SentinelOne cuts malware analysis from weeks to hours - OpenAI"
+    "Add shopping and Shop Pay checkout to any agent with Shop MCP - Shopify Dev Docs",
+    "Introducing Topics Portfolio (Beta) in AI Performance - Bing Blogs"
   ],
   "sections": [
     {
@@ -65,11 +65,11 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook - Facebook",
-          "summary": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance - Facebook",
+          "summary": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Facebook",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IVU55eHJoSkk5SGl3RUJyb1FzUmhaVGkzMW1aN3dPM3dfZ1UtYy1MaVV6SGhPdGJEeW0yZExLWUNLdWN6S3hUcjBFZTllZERpVEV6STlrZzZhQkpYeU90aV92VVZCVEVxaE5hbEtBNTlnOG9naWltbHln0gF_QVVfeXFMUDQ1UDMwczh3STAzdzJmNFE5ckNkeUtNUUlFVTIyazFXcWVodld4MmRZRkRLeUhLMHdtSkNIbGlQc3VVMXdKczUtLVRFUmw5Nmgza2E2cVBuZWstQzBCVzRkZHYxNTN0TG1mZlpiZ0MtYjhTMnFDWGthSnIwdlRvcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmxhcDBIbm1rZ09oUUUxbHIxVHhYYkl6R0pzQnBwOU5rejRPZEFKc044Yi1MTXRXSnNocldlSHRyMGNwRzY3NEhyTkI0cGhuRzd2cTMzR091ZmxpQU1lMVRuQTFubUpucV9rMHZMbkJ1aDByV0pKQTk2RlhaUnhoZHNoRVRSQlJSaFpsMVdmaU9Ra3QxSEQ1YnBwUF9yaG9RRGtvUWF4TC0yclBIenZ1cm04MXFxNTkyUUVNWVhKSk1yb2xqdVF5d1JqdGpPOHJnUmVwM3djWEhNZFg2Zlpn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -192,6 +192,14 @@
           "when": "14 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEllWEtyMWdBeDNBMF9LNjUzSUhnT1V1TUFUMk1vbzljc1NWMlM3VGF6bDZiemFqYlNiamJUM1RJNk5LaFBzSXpYeU83X2loODBfUUwtQXZlYmI3N3hURGVkTHpqaEJfY1RBT2NWdnF4d0pRTXlzTTdtTV9lRzRJYnQ2Sm9NTXUxTkNEVDM5MVhzTHhxTlpYbE1ZeHFYS0hlSG9FLUpjRU5EdEM0cnEzU0NaeFQ3dzd2LVpaRVdXVUF4bVJJeUFWUU1PeTgyRzRuNlV0RDI5UnhGaWJULVpRNDJIVUlnT1lSVlY0NDI4blFpVmhDYjZCUld1WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Add shopping and Shop Pay checkout to any agent with Shop MCP - Shopify Dev Docs",
+          "summary": "Add shopping and Shop Pay checkout to any agent with Shop MCP Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Shopify Dev Docs",
+          "when": "14 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmY1SXI2ZGkwd00xNFJoSktMcG1pZjA4T2c5SEFoVXI2OGQ4UW91N0Nyb3FIUGVmOFMwMU9hLWxkVE5HSEpVaXFXd215MkZib3gtTndKeHFWb3RTb3QwcGQ4TWcxODVrZUwtdVU5bWpuQVRaX2gtdVRhWWJhRGlsNm16U1BDSEE3Q2lERnFJVG0wQkxtakhzaDNkQzRyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     }
@@ -201,10 +209,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Announcing v26 of the Google Ads API - blog.google",
+        "topic": "Google Ads Adds Channel Priority and Budget Controls - WeRSM",
         "status": "Cross-source coverage",
-        "common_context": "Announcing v26 of the Google Ads API blog.google",
+        "common_context": "Google Ads Adds Channel Priority and Budget Controls WeRSM",
         "unique_points": [
+          {
+            "source": "WeRSM",
+            "when": "15 Oct 2026",
+            "point": "Google Ads Adds Channel Priority and Budget Controls WeRSM",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmExcXBJSW5icjNGUGNEVk85d0s4Y3ZJMk1CVnVNVnV4cVVScy1tSmp4R3FuanF6SDFnSDUzbDcxZ0t2Z1NsRVE1Vi1tZWhpNjQyNWExZGFNWEJxWmtfYTRLbHA5QjYtV3B2X3hmZWVyc240WG5xXzhGaXdIQ2FmampHbFRpUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "blog.google",
             "when": "15 Oct 2026",
@@ -222,12 +236,6 @@
             "when": "14 Oct 2026",
             "point": "Guide your campaign spending with new priority and allocation features blog.google",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnlvTmMydjF2VnRFV2J5QUFUNGRuZHItMU5VVnhkcmd4QVM0VEc0dHJUeThsb0VnNzYxLUc0a2RCWWlVOHl4WHlWZnJIaFVlX1J2R3VkaDNieWZWZHZVUlFFOU1jOUktZXpieFdKYnI4YXNORThSVDdZZE9oVG1UUlBaSzVXcW9iaHVR?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "MediaPost",
-            "when": "14 Oct 2026",
-            "point": "Google Unveils New Marketer 'Controls' For Campaign Spending 10/14/2026 MediaPost",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3JVdWJoS25yZ2c4Y2R3Z0R0QVJ5X2JjOGx0SmpnOXRIQ09lMGxTNFJBSDNwT3VTemRQalFrYl9ncVlKQ0gzNDV4Q2JIZXlrTmFuWnlld2JfMTVsbmhSWE9CYkNDelhnUUkyd055U3VvOXp4eXRnbU9nWDdEMEstczFTYkswU28tVjdReGwxQmhSQ0lNTkxlU190cDhRd3dyUkQ4ZTY4ZEtFaTR2UXc?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -254,12 +262,6 @@
             "when": "13 Oct 2026",
             "point": "Audit GitHub Code Quality finding dismissals and reopenings The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc21oZ0I0OF9jeUthZWJPZllsZVZXdzJpODBJN1JnLU5rTWJYWUg5RlprRWZRUERvNTZ3X3ZWZ2FQcmtfRG90TzNuc2FnRHFEbTUwNVlfN245U3c1R01BYk9Jell3VndvOHVLWVVhd1R0ZURPQnRaR1pwaWM0aFpiemhfRWhtcWlqYlpoQzNVcW9sVUJyeG51V0x2c1Y5cDNtd2d3?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "13 Oct 2026",
-            "point": "Secret scanning blocks Anthropic keys by default, adds Salesforce The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1RYNVJJX19jYlNTVlhFSGRxY1lCbzFSXzZWT3V1cGRZem0tY1JFaFpaMVNyTVhTMzFFV2pqNERJSXNmV25aRnJXQWd4S0gtcmZZRV9vd1VVZDkxSl9ORTU0UVNDS0RfelUxNlpzaUcwUGtqREcxbXh4N1lPTE1za3dfaHZtT2NjLUNuOVBiODRLcHdXUW03MUVrc1dFMjV4VGctYU1XM0hNQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

@@ -1,28 +1,36 @@
 {
   "date": "15 October 2026",
   "lead": {
-    "title": "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
-    "deck": "Google Ads introduces channel prioritization and budget allocation controls Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDBoYWQ4TUhTX21Qek1PcjlPOXNraXp2V1cycTRMdjZOOXhRVmZ2S3dHMGxwR1RLaGJFclpFU0NyODZ3SGVDRlFfTDFIM25LU2RKY0poaGNvTVJkUVRVbTFqZUZXVkdFaDU3MkI2djUzd1kwQmJFVU42ZGRWRkJZbnVmR1dPWjdhUVVzVnpBLTgwLWtkWC1yVG9xVFRVcWljOGViMGVpdVBtSlB0cko3Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "Search Engine Land",
-    "when": "14 Oct 2026",
+    "title": "Announcing v26 of the Google Ads API - blog.google",
+    "deck": "Announcing v26 of the Google Ads API blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "blog.google",
+    "when": "15 Oct 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Announcing v26 of the Google Ads API - blog.google",
     "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
-    "Search and filter for budgets now available - The GitHub Blog",
     "Google Ads lets advertisers limit Display and partner spend by percentage - PPC Land",
     "Daily Search Forum Recap: October 14, 2026 - Search Engine Roundtable",
     "The EU’s next chapter in AI is agentic - OpenAI",
     "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
     "Introducing Topics Portfolio (Beta) in AI Performance - Bing Blogs",
-    "Facebook Advertising Announcements: Page 5,152 - Facebook"
+    "SentinelOne cuts malware analysis from weeks to hours - OpenAI"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
+        {
+          "title": "Announcing v26 of the Google Ads API - blog.google",
+          "summary": "Announcing v26 of the Google Ads API blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "blog.google",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
           "summary": "Google Ads introduces channel prioritization and budget allocation controls Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -46,14 +54,6 @@
           "when": "14 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zcHZTS0xtQWFwcnptakJ2aU5JcnJsSWJ2bXAySmJtcnN1dmp1UV9GVVVtNF85MW1lSE0tbG9RQnQ0SHlBb3d0MXBTMExDMnFUR1JiLXE1NGUwd3RXLU0wOVFFNmFRTkk?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "Guide your campaign spending with new priority and allocation features - blog.google",
-          "summary": "Guide your campaign spending with new priority and allocation features blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "blog.google",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnlvTmMydjF2VnRFV2J5QUFUNGRuZHItMU5VVnhkcmd4QVM0VEc0dHJUeThsb0VnNzYxLUc0a2RCWWlVOHl4WHlWZnJIaFVlX1J2R3VkaDNieWZWZHZVUlFFOU1jOUktZXpieFdKYnI4YXNORThSVDdZZE9oVG1UUlBaSzVXcW9iaHVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -64,14 +64,6 @@
     {
       "name": "Meta Ads",
       "stories": [
-        {
-          "title": "Facebook Advertising Announcements: Page 5,152 - Facebook",
-          "summary": "Facebook Advertising Announcements: Page 5,152 Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5OXRFVFhhZHRFZ1Vwajlhbi1NYUdCTmRDTlh1dFFTbHdOZmdKdTdRSTZhSVo1bWRYa0dSQlAwU2JwUVcxZUFiZ2tDc1Vadi10c04yUEprR1ljc1BXeGNiSWZQUDdRNjZkekFfWHBTV1ZHdjNJVVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook - Facebook",
           "summary": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -124,22 +116,6 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Search and filter for budgets now available - The GitHub Blog",
-          "summary": "Search and filter for budgets now available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkFva0FqV0c3OS1ZZGZCeGFMQ3B2YzZCZ202TGdrYW5XWnp1NnExWHU2czNOSWdMQ3ZsYU5STnZOS01SdWdGQWZRc0RUbWI0N1BqQTJ3RDJQMzJUbDhEUGpIWXNsZWNRWmdhQ1NPYlVvWC1vdlZLM3UteG82YURJVHVDVm9vV3J1ZlhneUZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Code scanning AI Scan metrics in security overview - The GitHub Blog",
-          "summary": "Code scanning AI Scan metrics in security overview The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0pyeVo0NzF5NWVRaWQtYkZWWXJGZXRsNC1FeEk2cmJTb1JlRVFVU3d3V2xvVWhDS0tfRmF4TzJRN0x4QnJ5M01JcGVsd1V2SS1qcVowcTFxc2c1VHBkZ3BqTHVhb2dtOEl0UkVPQ29FaTRGMEVyNldSS2lCNE41T0N4NHpjYTlIdHl0cUtRbGIxejhmRmVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Preparing for the 2026 US midterms - Anthropic",
           "summary": "Preparing for the 2026 US midterms Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Anthropic",
@@ -153,6 +129,22 @@
           "source": "Anthropic",
           "when": "14 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "GitHub App improvements for least privilege and management - The GitHub Blog",
+          "summary": "GitHub App improvements for least privilege and management The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "14 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWJsb1Y3UENFck5kbWNndGlfSlAxeXdmei1yTi1zUjlZdEctdnBQYmF2QWJpcV9CMkhrSEZiUm5OMDVpZFlLOXN5aFhQT0lyM1VULTJkdUJiQ0N6Vk8tZ25kZjYwODNseFRRSnp2cWpyMnU4djVfRHNQMzZyWHZYekdVWnBtRGdaXzJMa1J5N2s3Xy1nUXU2Y1ZaUlU5UUcyS3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Gemini 4 Argon in GitHub Copilot - The GitHub Blog",
+          "summary": "Gemini 4 Argon in GitHub Copilot The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "14 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdW83SVlUWUZTQTIxbEJZc0dTYUhMcXdVTF9iRmtWVTh3WUtZZ05NTTR4UXF2QjQ5Qy14MDdGQ2d4NzZHOTdQNHJiUDc0ZG1RTG5IMEYwbHU5ekJ4cTE5ZmVTSXVvZFcxOGg2WFBpU2V3X1hWNmpnMEI5YXhaWFE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -169,10 +161,18 @@
           "image": ""
         },
         {
+          "title": "SentinelOne cuts malware analysis from weeks to hours - OpenAI",
+          "summary": "SentinelOne cuts malware analysis from weeks to hours OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "14 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbGxlYk5TUUh6Y0dzR01PeVFaOUxMNGNIeXdtSjhzTG55WGVwdTVqYWZ0bjg3WFFxdmJuSTFBeEh2RjJ0RlNPajlYSkpSQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Higgsfield takes AI video from 1 minute to over 10 - OpenAI",
           "summary": "Higgsfield takes AI video from 1 minute to over 10 OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "OpenAI",
-          "when": "14 Oct 2026",
+          "when": "13 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
@@ -201,10 +201,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Google Ads lets advertisers limit Display and partner spend by percentage - PPC Land",
+        "topic": "Announcing v26 of the Google Ads API - blog.google",
         "status": "Cross-source coverage",
-        "common_context": "Google Ads lets advertisers limit Display and partner spend by percentage PPC Land",
+        "common_context": "Announcing v26 of the Google Ads API blog.google",
         "unique_points": [
+          {
+            "source": "blog.google",
+            "when": "15 Oct 2026",
+            "point": "Announcing v26 of the Google Ads API blog.google",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "PPC Land",
             "when": "14 Oct 2026",
@@ -222,21 +228,21 @@
             "when": "14 Oct 2026",
             "point": "Google Unveils New Marketer 'Controls' For Campaign Spending 10/14/2026 MediaPost",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3JVdWJoS25yZ2c4Y2R3Z0R0QVJ5X2JjOGx0SmpnOXRIQ09lMGxTNFJBSDNwT3VTemRQalFrYl9ncVlKQ0gzNDV4Q2JIZXlrTmFuWnlld2JfMTVsbmhSWE9CYkNDelhnUUkyd055U3VvOXp4eXRnbU9nWDdEMEstczFTYkswU28tVjdReGwxQmhSQ0lNTkxlU190cDhRd3dyUkQ4ZTY4ZEtFaTR2UXc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
-            "when": "14 Oct 2026",
-            "point": "Google Ads introduces channel prioritization and budget allocation controls Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDBoYWQ4TUhTX21Qek1PcjlPOXNraXp2V1cycTRMdjZOOXhRVmZ2S3dHMGxwR1RLaGJFclpFU0NyODZ3SGVDRlFfTDFIM25LU2RKY0poaGNvTVJkUVRVbTFqZUZXVkdFaDU3MkI2djUzd1kwQmJFVU42ZGRWRkJZbnVmR1dPWjdhUVVzVnpBLTgwLWtkWC1yVG9xVFRVcWljOGViMGVpdVBtSlB0cko3Xw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Gemini 4 Argon in GitHub Copilot - The GitHub Blog",
+        "topic": "GitHub App improvements for least privilege and management - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "Gemini 4 Argon in GitHub Copilot The GitHub Blog",
+        "common_context": "GitHub App improvements for least privilege and management The GitHub Blog",
         "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "14 Oct 2026",
+            "point": "GitHub App improvements for least privilege and management The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWJsb1Y3UENFck5kbWNndGlfSlAxeXdmei1yTi1zUjlZdEctdnBQYmF2QWJpcV9CMkhrSEZiUm5OMDVpZFlLOXN5aFhQT0lyM1VULTJkdUJiQ0N6Vk8tZ25kZjYwODNseFRRSnp2cWpyMnU4djVfRHNQMzZyWHZYekdVWnBtRGdaXzJMa1J5N2s3Xy1nUXU2Y1ZaUlU5UUcyS3c?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "The GitHub Blog",
             "when": "14 Oct 2026",
@@ -252,14 +258,8 @@
           {
             "source": "The GitHub Blog",
             "when": "13 Oct 2026",
-            "point": "Search and filter for budgets now available The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkFva0FqV0c3OS1ZZGZCeGFMQ3B2YzZCZ202TGdrYW5XWnp1NnExWHU2czNOSWdMQ3ZsYU5STnZOS01SdWdGQWZRc0RUbWI0N1BqQTJ3RDJQMzJUbDhEUGpIWXNsZWNRWmdhQ1NPYlVvWC1vdlZLM3UteG82YURJVHVDVm9vV3J1ZlhneUZR?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "13 Oct 2026",
-            "point": "Code scanning AI Scan metrics in security overview The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0pyeVo0NzF5NWVRaWQtYkZWWXJGZXRsNC1FeEk2cmJTb1JlRVFVU3d3V2xvVWhDS0tfRmF4TzJRN0x4QnJ5M01JcGVsd1V2SS1qcVowcTFxc2c1VHBkZ3BqTHVhb2dtOEl0UkVPQ29FaTRGMEVyNldSS2lCNE41T0N4NHpjYTlIdHl0cUtRbGIxejhmRmVR?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Secret scanning blocks Anthropic keys by default, adds Salesforce The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1RYNVJJX19jYlNTVlhFSGRxY1lCbzFSXzZWT3V1cGRZem0tY1JFaFpaMVNyTVhTMzFFV2pqNERJSXNmV25aRnJXQWd4S0gtcmZZRV9vd1VVZDkxSl9ORTU0UVNDS0RfelUxNlpzaUcwUGtqREcxbXh4N1lPTE1za3dfaHZtT2NjLUNuOVBiODRLcHdXUW03MUVrc1dFMjV4VGctYU1XM0hNQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

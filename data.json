@@ -1,58 +1,45 @@
 {
   "date": "15 October 2026",
   "lead": {
-    "title": "Announcing v26 of the Google Ads API - blog.google",
-    "deck": "Announcing v26 of the Google Ads API blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "blog.google",
-    "when": "15 Oct 2026",
+    "title": "Google Ads adds channel prioritization and budget allocation",
+    "deck": "CONFIRMED PRODUCT UPDATE — Google Ads is rolling out channel priorities and percentage-based caps for lower-priority inventory. Review Search Partners and Display settings now; the existing Search-plus-Display allocation setup changes in February 2027.",
+    "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
+    "source": "Google Ads & Commerce Blog",
+    "when": "14 Oct 2026",
     "image": ""
   },
-  "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
+  "note": "15 October 2026 edition. Confirmed changes link to official documentation; company-reported performance figures are attributed. Practical use cases are editorial analysis, not guarantees. Empty sections indicate no additional verified primary-source update was included.",
   "ticker": [
-    "Announcing v26 of the Google Ads API - blog.google",
-    "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
-    "Google Ads lets advertisers limit Display and partner spend by percentage - PPC Land",
-    "Daily Search Forum Recap: October 14, 2026 - Search Engine Roundtable",
-    "The EU’s next chapter in AI is agentic - OpenAI",
-    "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
-    "Introducing Topics Portfolio (Beta) in AI Performance - Bing Blogs",
-    "SentinelOne cuts malware analysis from weeks to hours - OpenAI"
+    "Google Ads adds channel prioritization and budget allocation",
+    "Google Ads API v26 adds breaking changes and measurement fields",
+    "Meta describes a unified Generative Ads Model across ad surfaces",
+    "Adobe documents read-only MCP access for Customer Journey Analytics",
+    "Google launches Gemini 4 Argon for complex multi-step work"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Announcing v26 of the Google Ads API - blog.google",
-          "summary": "Announcing v26 of the Google Ads API blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "blog.google",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Google Ads adds channel prioritization and budget allocation",
+          "summary": "CONFIRMED • 14 Oct 2026. Google is rolling out High/Low channel priorities and best-effort daily-budget caps for low-priority inventory across Search, Shopping, PMax and Demand Gen. PMax/Demand Gen group Search, YouTube, Maps, Gmail and Discover as “Google channels.”",
+          "why": "This creates a middle ground between unrestricted partner inventory and switching it off. The existing Search-plus-Display allocation setup changes in February 2027.",
+          "use_case": "Audit eligible Search campaigns; compare channel spend and qualified conversions before testing caps. Google documents a 50% Low-priority Display allocation to preserve the current setup.",
+          "status": "CONFIRMED • Official product update",
+          "source": "Google Ads & Commerce Blog",
+          "when": "14 Oct 2026",
+          "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
           "image": ""
         },
         {
-          "title": "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
-          "summary": "Google Ads introduces channel prioritization and budget allocation controls Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
+          "title": "Google Ads API v26 adds breaking changes and measurement fields",
+          "summary": "CONFIRMED • Version 26 released 14 Oct. Local Services PMax creation now requires country_code and listing_id; enhanced_conversions_for_leads_enabled is replaced by enablement_setting. The release also adds message-lead conversion support and Search Lift reporting fields.",
+          "why": "API changes can break scripts, dashboards and connectors or cause them to misread conversion settings. Most relevant to teams maintaining Google Ads integrations.",
+          "use_case": "Test Local Services PMax payloads, Enhanced Conversions reads and Search Lift queries before upgrading; update field mappings and error handling.",
+          "status": "CONFIRMED • Official API release",
+          "source": "Google Ads API Release Notes",
           "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDBoYWQ4TUhTX21Qek1PcjlPOXNraXp2V1cycTRMdjZOOXhRVmZ2S3dHMGxwR1RLaGJFclpFU0NyODZ3SGVDRlFfTDFIM25LU2RKY0poaGNvTVJkUVRVbTFqZUZXVkdFaDU3MkI2djUzd1kwQmJFVU42ZGRWRkJZbnVmR1dPWjdhUVVzVnpBLTgwLWtkWC1yVG9xVFRVcWljOGViMGVpdVBtSlB0cko3Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google Ads lets advertisers limit Display and partner spend by percentage - PPC Land",
-          "summary": "Google Ads lets advertisers limit Display and partner spend by percentage PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeGxCaXRHMXUxOFdnVGMtNjV6Mk1EbDlsdzBWajdjQmlVOF9mNlRHa1VST0ZOTWtibXE2ZTBHd3ZwRHg0Vjgzd1BWUVlhcDJ5Y29pVFB3YktYU0x0SFl1WklPLXhlMkRmZUVuelpDSVZnNm8tNlVMYjJ6MDZReUxPNi02aU9yVDhDMkE3dUxhTUlpRTFHWVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Daily Search Forum Recap: October 14, 2026 - Search Engine Roundtable",
-          "summary": "Daily Search Forum Recap: October 14, 2026 Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Roundtable",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zcHZTS0xtQWFwcnptakJ2aU5JcnJsSWJ2bXAySmJtcnN1dmp1UV9GVVVtNF85MW1lSE0tbG9RQnQ0SHlBb3d0MXBTMExDMnFUR1JiLXE1NGUwd3RXLU0wOVFFNmFRTkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://developers.google.com/google-ads/api/docs/release-notes",
           "image": ""
         }
       ]
@@ -65,11 +52,14 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook - Facebook",
-          "summary": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
+          "title": "Meta describes a unified Generative Ads Model across ad surfaces",
+          "summary": "CONFIRMED • Meta’s 13 Oct engineering post describes GEM as a central recommendation model learning across Facebook, Instagram, Reels and other surfaces. Meta reports 18.9% conversion improvement and 12% CTR improvement; these are Meta-reported aggregate figures, not account-level guarantees.",
+          "why": "This is a platform-side ranking change, not a new Ads Manager control. Do not assume aggregate figures predict results for an individual account.",
+          "use_case": "Keep conversion signals clean, test varied creative concepts and assess results by objective and placement. Don’t change bids solely because of this post.",
+          "status": "CONFIRMED • Official engineering disclosure; figures are Meta-reported",
+          "source": "Engineering at Meta",
           "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IVU55eHJoSkk5SGl3RUJyb1FzUmhaVGkzMW1aN3dPM3dfZ1UtYy1MaVV6SGhPdGJEeW0yZExLWUNLdWN6S3hUcjBFZTllZERpVEV6STlrZzZhQkpYeU90aV92VVZCVEVxaE5hbEtBNTlnOG9naWltbHln0gF_QVVfeXFMUDQ1UDMwczh3STAzdzJmNFE5ckNkeUtNUUlFVTIyazFXcWVodld4MmRZRkRLeUhLMHdtSkNIbGlQc3VVMXdKczUtLVRFUmw5Nmgza2E2cVBuZWstQzBCVzRkZHYxNTN0TG1mZlpiZ0MtYjhTMnFDWGthSnIwdlRvcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
           "image": ""
         }
       ]
@@ -88,26 +78,20 @@
     },
     {
       "name": "Search & SEO",
-      "stories": [
-        {
-          "title": "Introducing Topics Portfolio (Beta) in AI Performance - Bing Blogs",
-          "summary": "Introducing Topics Portfolio (Beta) in AI Performance Bing Blogs. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
-          "source": "Bing Blogs",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGlLdTh5emdiWUZpeUVKbUVURThsSERyYnc4elpiYkxaTld2ZnpMaVBsYXlBcGhFT2djUUdhRllFUVRHN3JMVmFBSFVRdE4xZFIycTk5Nm1hekpZVDJWbW03anhUTUdaQnRQODJQbG5vSW9HNHdnNWVnejloVDVEazZiOXkxZTh1dm5HUnZlYlE3MUo1RVFMRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Analytics",
       "stories": [
         {
-          "title": "How startups can evaluate marketing measurement tools as they scale - Startups Magazine",
-          "summary": "How startups can evaluate marketing measurement tools as they scale Startups Magazine. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "Startups Magazine",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkRaeWRSQmxiT09DanZpcVBXZE5lMERrdjFUS3lWamdycnlTeWFpNHNrc3NsbVh6RFJSUnpYYTExYktZZmJSTTE0WktVelo2WGtXUE5pNG9Gb1V0bFZLeTRzWlp6MkNMWFhfQjBSTGpFN0d1ZnBRXzczeUV3aTljYXBvc3FoT3drbkl1R184VnZIRUxDdU1ibVdiMWxWbTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Adobe documents read-only MCP access for Customer Journey Analytics",
+          "summary": "CONFIRMED • Adobe’s release notes were updated 14 Oct. New MCP Read-only Access permits read-only tools without creating projects, segments or calculated metrics; full access is now named MCP Full Access. The notes also document Conversation Insights, whose rollout began 6 Oct, for analyzing prompts, responses and agent metadata via Web SDK.",
+          "why": "This gives analytics agents a safer read-only path and can connect AI-assistant interactions to customer-journey outcomes. Consent and retention still need review.",
+          "use_case": "Use read-only MCP access for routine reporting agents. Review consent and retention before collecting conversational metadata, then connect interactions to engagement and conversions.",
+          "status": "CONFIRMED • Official release notes; Conversation Insights rollout began 6 Oct",
+          "source": "Adobe Customer Journey Analytics Release Notes",
+          "when": "14 Oct 2026 (notes updated)",
+          "url": "https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest",
           "image": ""
         }
       ]
@@ -116,67 +100,21 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Preparing for the 2026 US midterms - Anthropic",
-          "summary": "Preparing for the 2026 US midterms Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Anthropic",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Singapore office and government MOU - Anthropic",
-          "summary": "Singapore office and government MOU Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Anthropic",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "GitHub App improvements for least privilege and management - The GitHub Blog",
-          "summary": "GitHub App improvements for least privilege and management The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWJsb1Y3UENFck5kbWNndGlfSlAxeXdmei1yTi1zUjlZdEctdnBQYmF2QWJpcV9CMkhrSEZiUm5OMDVpZFlLOXN5aFhQT0lyM1VULTJkdUJiQ0N6Vk8tZ25kZjYwODNseFRRSnp2cWpyMnU4djVfRHNQMzZyWHZYekdVWnBtRGdaXzJMa1J5N2s3Xy1nUXU2Y1ZaUlU5UUcyS3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Gemini 4 Argon in GitHub Copilot - The GitHub Blog",
-          "summary": "Gemini 4 Argon in GitHub Copilot The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdW83SVlUWUZTQTIxbEJZc0dTYUhMcXdVTF9iRmtWVTh3WUtZZ05NTTR4UXF2QjQ5Qy14MDdGQ2d4NzZHOTdQNHJiUDc0ZG1RTG5IMEYwbHU5ekJ4cTE5ZmVTSXVvZFcxOGg2WFBpU2V3X1hWNmpnMEI5YXhaWFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Google launches Gemini 4 Argon for complex multi-step work",
+          "summary": "CONFIRMED • Announced 13 Oct 2026. Gemini 4 Argon is available through Google’s API and selected Google AI products, depending on subscription. Google positions it for long-running reasoning, coding and document analysis; introductory API pricing is $2 per million input tokens and $10 per million output tokens through 30 Nov 2026.",
+          "why": "This can support multi-step research and code-assisted workflows, but is not a prebuilt Google Ads optimizer. Cost and output verification matter.",
+          "use_case": "Prototype with sanitized campaign exports to reconcile spend/conversions or draft a performance narrative; require human approval before account changes or publishing.",
+          "status": "CONFIRMED • Model launch; use case is editorial analysis",
+          "source": "Google for Developers",
+          "when": "13 Oct 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
           "image": ""
         }
       ]
     },
     {
       "name": "Creative AI & Design",
-      "stories": [
-        {
-          "title": "The EU’s next chapter in AI is agentic - OpenAI",
-          "summary": "The EU’s next chapter in AI is agentic OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "SentinelOne cuts malware analysis from weeks to hours - OpenAI",
-          "summary": "SentinelOne cuts malware analysis from weeks to hours OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbGxlYk5TUUh6Y0dzR01PeVFaOUxMNGNIeXdtSjhzTG55WGVwdTVqYWZ0bjg3WFFxdmJuSTFBeEh2RjJ0RlNPajlYSkpSQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Higgsfield takes AI video from 1 minute to over 10 - OpenAI",
-          "summary": "Higgsfield takes AI video from 1 minute to over 10 OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "13 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     },
     {
       "name": "MarTech & Automation",
@@ -184,93 +122,49 @@
     },
     {
       "name": "Ecommerce",
-      "stories": [
-        {
-          "title": "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
-          "summary": "The Three Key Pillars for Agentic Commerce Are Now in Place Coresight Research. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Coresight Research",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEllWEtyMWdBeDNBMF9LNjUzSUhnT1V1TUFUMk1vbzljc1NWMlM3VGF6bDZiemFqYlNiamJUM1RJNk5LaFBzSXpYeU83X2loODBfUUwtQXZlYmI3N3hURGVkTHpqaEJfY1RBT2NWdnF4d0pRTXlzTTdtTV9lRzRJYnQ2Sm9NTXUxTkNEVDM5MVhzTHhxTlpYbE1ZeHFYS0hlSG9FLUpjRU5EdEM0cnEzU0NaeFQ3dzd2LVpaRVdXVUF4bVJJeUFWUU1PeTgyRzRuNlV0RDI5UnhGaWJULVpRNDJIVUlnT1lSVlY0NDI4blFpVmhDYjZCUld1WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     }
   ],
   "summary": {
     "title": "Summary — What’s Actually New",
-    "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
+    "intro": "Confirmed product changes are separated from editorial implications. Duplicate coverage is collapsed; use cases are recommendations, not publisher claims.",
     "topics": [
       {
-        "topic": "Announcing v26 of the Google Ads API - blog.google",
-        "status": "Cross-source coverage",
-        "common_context": "Announcing v26 of the Google Ads API blog.google",
+        "topic": "Google Ads channel controls",
+        "status": "CONFIRMED • Official source • 14 Oct 2026",
+        "common_context": "Several outlets repeated one Google announcement, so it is represented once.",
         "unique_points": [
-          {
-            "source": "blog.google",
-            "when": "15 Oct 2026",
-            "point": "Announcing v26 of the Google Ads API blog.google",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "PPC Land",
-            "when": "14 Oct 2026",
-            "point": "Google Ads lets advertisers limit Display and partner spend by percentage PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeGxCaXRHMXUxOFdnVGMtNjV6Mk1EbDlsdzBWajdjQmlVOF9mNlRHa1VST0ZOTWtibXE2ZTBHd3ZwRHg0Vjgzd1BWUVlhcDJ5Y29pVFB3YktYU0x0SFl1WklPLXhlMkRmZUVuelpDSVZnNm8tNlVMYjJ6MDZReUxPNi02aU9yVDhDMkE3dUxhTUlpRTFHWVE?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "blog.google",
-            "when": "14 Oct 2026",
-            "point": "Guide your campaign spending with new priority and allocation features blog.google",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnlvTmMydjF2VnRFV2J5QUFUNGRuZHItMU5VVnhkcmd4QVM0VEc0dHJUeThsb0VnNzYxLUc0a2RCWWlVOHl4WHlWZnJIaFVlX1J2R3VkaDNieWZWZHZVUlFFOU1jOUktZXpieFdKYnI4YXNORThSVDdZZE9oVG1UUlBaSzVXcW9iaHVR?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "MediaPost",
-            "when": "14 Oct 2026",
-            "point": "Google Unveils New Marketer 'Controls' For Campaign Spending 10/14/2026 MediaPost",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3JVdWJoS25yZ2c4Y2R3Z0R0QVJ5X2JjOGx0SmpnOXRIQ09lMGxTNFJBSDNwT3VTemRQalFrYl9ncVlKQ0gzNDV4Q2JIZXlrTmFuWnlld2JfMTVsbmhSWE9CYkNDelhnUUkyd055U3VvOXp4eXRnbU9nWDdEMEstczFTYkswU28tVjdReGwxQmhSQ0lNTkxlU190cDhRd3dyUkQ4ZTY4ZEtFaTR2UXc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
+          "Low-priority inventory can have a best-effort daily-budget percentage cap.",
+          "PMax and Demand Gen group Search, YouTube, Maps, Gmail and Discover together.",
+          "Search campaigns with Display enabled need a February 2027 review; Google documents a 50% Low-priority Display allocation to preserve the current setup."
         ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+        "bottom_line": "Audit current settings and do not treat the cap as a hard spend guarantee."
       },
       {
-        "topic": "GitHub App improvements for least privilege and management - The GitHub Blog",
-        "status": "Cross-source coverage",
-        "common_context": "GitHub App improvements for least privilege and management The GitHub Blog",
+        "topic": "Meta GEM",
+        "status": "CONFIRMED • Meta-reported metrics",
+        "common_context": "A platform-side recommendation-model update, not an advertiser-facing control.",
         "unique_points": [
-          {
-            "source": "The GitHub Blog",
-            "when": "14 Oct 2026",
-            "point": "GitHub App improvements for least privilege and management The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWJsb1Y3UENFck5kbWNndGlfSlAxeXdmei1yTi1zUjlZdEctdnBQYmF2QWJpcV9CMkhrSEZiUm5OMDVpZFlLOXN5aFhQT0lyM1VULTJkdUJiQ0N6Vk8tZ25kZjYwODNseFRRSnp2cWpyMnU4djVfRHNQMzZyWHZYekdVWnBtRGdaXzJMa1J5N2s3Xy1nUXU2Y1ZaUlU5UUcyS3c?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "14 Oct 2026",
-            "point": "Gemini 4 Argon in GitHub Copilot The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdW83SVlUWUZTQTIxbEJZc0dTYUhMcXdVTF9iRmtWVTh3WUtZZ05NTTR4UXF2QjQ5Qy14MDdGQ2d4NzZHOTdQNHJiUDc0ZG1RTG5IMEYwbHU5ekJ4cTE5ZmVTSXVvZFcxOGg2WFBpU2V3X1hWNmpnMEI5YXhaWFE?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "13 Oct 2026",
-            "point": "Audit GitHub Code Quality finding dismissals and reopenings The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc21oZ0I0OF9jeUthZWJPZllsZVZXdzJpODBJN1JnLU5rTWJYWUg5RlprRWZRUERvNTZ3X3ZWZ2FQcmtfRG90TzNuc2FnRHFEbTUwNVlfN245U3c1R01BYk9Jell3VndvOHVLWVVhd1R0ZURPQnRaR1pwaWM0aFpiemhfRWhtcWlqYlpoQzNVcW9sVUJyeG51V0x2c1Y5cDNtd2d3?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "13 Oct 2026",
-            "point": "Secret scanning blocks Anthropic keys by default, adds Salesforce The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1RYNVJJX19jYlNTVlhFSGRxY1lCbzFSXzZWT3V1cGRZem0tY1JFaFpaMVNyTVhTMzFFV2pqNERJSXNmV25aRnJXQWd4S0gtcmZZRV9vd1VVZDkxSl9ORTU0UVNDS0RfelUxNlpzaUcwUGtqREcxbXh4N1lPTE1za3dfaHZtT2NjLUNuOVBiODRLcHdXUW03MUVrc1dFMjV4VGctYU1XM0hNQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
+          "Meta reports 18.9% conversion and 12% CTR improvement across surfaces/objectives; these are company-reported aggregate figures."
         ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+        "bottom_line": "Measure your own account performance; do not assume the same uplift."
+      },
+      {
+        "topic": "AI models and analytics agents",
+        "status": "CONFIRMED • Official model/release notes; marketing uses are editorial",
+        "common_context": "Gemini 4 Argon is a general-purpose model; Adobe’s update is about analytics access control.",
+        "unique_points": [
+          "Argon can support multi-step research/coding workflows; it is not a built-in ads optimizer.",
+          "Adobe’s read-only MCP permission reduces the risk of analytics agents altering reporting components."
+        ],
+        "bottom_line": "Use sanitized data, least-privilege access and human review before production actions."
       }
     ]
   },
   "engine": {
     "model": "none",
-    "research": "official-domain Google News RSS searches first, then broader news discovery and source-page metadata",
-    "window": "rolling 36 hours; no minimum story age",
-    "refresh_target": "every 5 minutes; scheduled runs and search indexing may be delayed",
+    "research": "Curated primary-source review; no generative API used",
+    "window": "14–15 Oct 2026",
     "api_credits_required": false
   }
 }

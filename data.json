@@ -11,9 +11,9 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
+    "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
     "Announcing v26 of the Google Ads API - blog.google",
     "AI Scan for pull requests generally available - The GitHub Blog",
-    "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
     "Daily Search Forum Recap: October 15, 2026 - Search Engine Roundtable",
     "Agentic autofix for code scanning alerts general availability - The GitHub Blog",
     "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
@@ -32,19 +32,19 @@
           "image": ""
         },
         {
+          "title": "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
+          "summary": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Land",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Announcing v26 of the Google Ads API - blog.google",
           "summary": "Announcing v26 of the Google Ads API blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "blog.google",
           "when": "15 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
-          "summary": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -59,7 +59,16 @@
     },
     {
       "name": "Microsoft Ads",
-      "stories": []
+      "stories": [
+        {
+          "title": "Earn your place on the holiday gift shortlist - Microsoft",
+          "summary": "Earn your place on the holiday gift shortlist Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Microsoft",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE1fX3ZBeFJJc3hoTjJpTVVMRFhGMm9yMTVkTkpHRHFBeTJ1Q1hYU1lHUkRPYV9TZ1VkYkU1VWxxWUtpLU1yZGxrWGtMWVV6UTJGamtMUG9pM0RYanVkcTdnbmJ5SVNEUnd0LVFNOXdaLWdTcE9iUnhFY2xURDgzVWV5OVlWY1Z1Z0NmN19SS0FLdWJ4QmY4Zm50OGlrTlNxMk9xblJvNm5BTzFGOVpZSEdwWVlldXJLcGhnSDZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
     },
     {
       "name": "Meta Ads",
@@ -69,7 +78,15 @@
           "summary": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Facebook",
           "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSzNkbm5lVDEtbXJleTkwMnp0aENjNDh5VURJNkFUZVU3QkpmREJNZUNvS044RjE4Ukx6ZjUzQVFSUHpkVFR0ek5kWXpLMlZMb29NaXpURVZlcnVQRkRnRHJyNkJQeDFvTVhUQUl4RW9OVERzMFIwU2JvOU5GQ2xERXhubURKTldMOFJWUmFaUkJ0VXJKNGR3QmRSa3Q1enlfWUo0SXozaWVIaldxTXlHazQ3bFZWU293Zl9CdTU4VHVJWHBkOXFDeU5qTkhBeEFTaUlrNHVITmtEWjZpdjNPOWUtX1LSAeQBQVVfeXFMTkszZG5uZVQxLW1yZXk5MDJ6dGhDYzQ4eVVESTZBVGVVN0JKZkRCTWVDb0tOOEYxOFJMemY1M0FRUlB6ZFRUdHpOZFl6SzJWTG9vTWl6VEVWZXJ1UEZEZ0RycjZCUHgxb01YVEFJeEVvTlREczBSMFNibzlORkNsREV4bm1ESk5XTDhSVlJhWlJCdFVySjRkd0JkUmt0NXp5X1lKNEl6M2llSGpXcU15R2s0N2xWVlNvd2ZfQnU1OFR1SVhwZDlxQ3lOak5IQXhBU2lJazR1SE5rRFo2aXYzTzllLV9S?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmxhcDBIbm1rZ09oUUUxbHIxVHhYYkl6R0pzQnBwOU5rejRPZEFKc044Yi1MTXRXSnNocldlSHRyMGNwRzY3NEhyTkI0cGhuRzd2cTMzR091ZmxpQU1lMVRuQTFubUpucV9rMHZMbkJ1aDByV0pKQTk2RlhaUnhoZHNoRVRSQlJSaFpsMVdmaU9Ra3QxSEQ1YnBwUF9yaG9RRGtvUWF4TC0yclBIenZ1cm04MXFxNTkyUUVNWVhKSk1yb2xqdVF5d1JqdGpPOHJnUmVwM3djWEhNZFg2Zlpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Insights: Facebook Advertising News: Page 4 - Facebook",
+          "summary": "Insights: Facebook Advertising News: Page 4 Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Facebook",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbEdvWUJ3SXRjQzNPNHEzemhKRWFZMkpId3NKcWNCSjRtMnhaTjRpM0xTUGZKeE5kTFJZUVpTZW9vZ19EOW1ZM1k1VV80NVQ4Q25raWdkNGtXNlBMck9rNDFKZ1NMZUdWWTZuNFJ1VDM5TllETm1vTGpMTlBQMkJsQjVGUlNpV2poUUR1V3FZcw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -109,14 +126,6 @@
           "when": "15 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UczFGZWkyM2FfZ2xLZmsyV3FSOGRsTVhNSkxLcHBPVkh0bDIwQ3pDOVdwODd3dVhuQ09SeURraXpFWTNldzFOSlRORklnZzNGVHNzSlFIX1FWeWUycFV4TVZ5dkdTVURwYmM4WU1UVWk0QWs1?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "How startups can evaluate marketing measurement tools as they scale - Startups Magazine",
-          "summary": "How startups can evaluate marketing measurement tools as they scale Startups Magazine. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "Startups Magazine",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkRaeWRSQmxiT09DanZpcVBXZE5lMERrdjFUS3lWamdycnlTeWFpNHNrc3NsbVh6RFJSUnpYYTExYktZZmJSTTE0WktVelo2WGtXUE5pNG9Gb1V0bFZLeTRzWlp6MkNMWFhfQjBSTGpFN0d1ZnBRXzczeUV3aTljYXBvc3FoT3drbkl1R184VnZIRUxDdU1ibVdiMWxWbTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -140,19 +149,19 @@
           "image": ""
         },
         {
-          "title": "Preparing for the 2026 US midterms - Anthropic",
-          "summary": "Preparing for the 2026 US midterms Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "title": "An update on independent evaluators - Anthropic",
+          "summary": "An update on independent evaluators Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Anthropic",
           "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Singapore office and government MOU - Anthropic",
-          "summary": "Singapore office and government MOU Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Anthropic",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November - The GitHub Blog",
+          "summary": "Upcoming deprecation of selected GitHub Copilot models in mid-November The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXJfWVlTbzcwRFM1LXZtejkyNWZTdzkxWXM1R24yQ1JJdm5ic2kwSmdBQ1NPZmQwVmZSb3pSOE1BcmZKek1jRVVHbDRMMS1yaEpFYWtmSG1wS2hGYnZfUnMzQWpjNHpRZUNEQnBxM1VhdVZEMkZOZHBoUE9yRjZ6aDI0V2FGZUhRNjZRcWRhX3JCYUlRcHpqVE9sQWJSYkgwT3B6dEdzMmtCTjBRS1BMUllR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -160,6 +169,14 @@
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "The latest AI-powered martech news and releases - MarTech",
+          "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "MarTech",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "SentinelOne cuts malware analysis from weeks to hours - OpenAI",
           "summary": "SentinelOne cuts malware analysis from weeks to hours OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -173,6 +190,14 @@
     {
       "name": "MarTech & Automation",
       "stories": [
+        {
+          "title": "The latest AI-powered martech news and releases - MarTech",
+          "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "MarTech",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Precisely Connects AI Assistants to SAP - - Enterprise Times",
           "summary": "Precisely Connects AI Assistants to SAP - Enterprise Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -195,11 +220,11 @@
           "image": ""
         },
         {
-          "title": "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
-          "summary": "The Three Key Pillars for Agentic Commerce Are Now in Place Coresight Research. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Coresight Research",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEllWEtyMWdBeDNBMF9LNjUzSUhnT1V1TUFUMk1vbzljc1NWMlM3VGF6bDZiemFqYlNiamJUM1RJNk5LaFBzSXpYeU83X2loODBfUUwtQXZlYmI3N3hURGVkTHpqaEJfY1RBT2NWdnF4d0pRTXlzTTdtTV9lRzRJYnQ2Sm9NTXUxTkNEVDM5MVhzTHhxTlpYbE1ZeHFYS0hlSG9FLUpjRU5EdEM0cnEzU0NaeFQ3dzd2LVpaRVdXVUF4bVJJeUFWUU1PeTgyRzRuNlV0RDI5UnhGaWJULVpRNDJIVUlnT1lSVlY0NDI4blFpVmhDYjZCUld1WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "The latest AI-powered martech news and releases - MarTech",
+          "summary": "The latest AI-powered martech news and releases MarTech. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "MarTech",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -226,21 +251,21 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "TikTok Ad Network Is Now Open to US Advertisers (2026) - ALM Corp",
+        "topic": "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
         "status": "Cross-source coverage",
-        "common_context": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp",
+        "common_context": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land",
         "unique_points": [
+          {
+            "source": "Search Engine Land",
+            "when": "15 Oct 2026",
+            "point": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "ALM Corp",
             "when": "15 Oct 2026",
             "point": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93VmtTWXJacFVhX1RXdnFmQmpERWhsQTRzQXhDTGs3c2hXTDVPdTBOSWdzV1djd1FfMWRCVDNXRF9WOFZndklQSWlwVlBINFdwdWxtVlpERjNPcFNaanhGTnVqSmMwZEtlTm1lNWRmdjhyWmcx?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
-            "when": "15 Oct 2026",
-            "point": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "Search Engine Roundtable",
@@ -258,10 +283,16 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "AI Scan for pull requests generally available - The GitHub Blog",
+        "topic": "Upcoming deprecation of selected GitHub Copilot models in mid-November - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "AI Scan for pull requests generally available The GitHub Blog",
+        "common_context": "Upcoming deprecation of selected GitHub Copilot models in mid-November The GitHub Blog",
         "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "16 Oct 2026",
+            "point": "Upcoming deprecation of selected GitHub Copilot models in mid-November The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXJfWVlTbzcwRFM1LXZtejkyNWZTdzkxWXM1R24yQ1JJdm5ic2kwSmdBQ1NPZmQwVmZSb3pSOE1BcmZKek1jRVVHbDRMMS1yaEpFYWtmSG1wS2hGYnZfUnMzQWpjNHpRZUNEQnBxM1VhdVZEMkZOZHBoUE9yRjZ6aDI0V2FGZUhRNjZRcWRhX3JCYUlRcHpqVE9sQWJSYkgwT3B6dEdzMmtCTjBRS1BMUllR?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "The GitHub Blog",
             "when": "15 Oct 2026",

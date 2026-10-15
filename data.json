@@ -1,5 +1,5 @@
 {
-  "date": "15 October 2026",
+  "date": "16 October 2026",
   "lead": {
     "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
     "deck": "Google Ads API v26 launches with Search Lift measurement and new campaign controls Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -12,12 +12,12 @@
   "ticker": [
     "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
     "Announcing v26 of the Google Ads API - blog.google",
-    "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
+    "AI Scan for pull requests generally available - The GitHub Blog",
     "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
     "Daily Search Forum Recap: October 15, 2026 - Search Engine Roundtable",
+    "Agentic autofix for code scanning alerts general availability - The GitHub Blog",
     "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
-    "Contentsquare expands analytics to AI agent journeys - ContentGrip",
-    "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research"
+    "Contentsquare expands analytics to AI agent journeys - ContentGrip"
   ],
   "sections": [
     {
@@ -40,19 +40,19 @@
           "image": ""
         },
         {
-          "title": "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
-          "summary": "Google Ads introduces channel prioritization and budget allocation controls Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDBoYWQ4TUhTX21Qek1PcjlPOXNraXp2V1cycTRMdjZOOXhRVmZ2S3dHMGxwR1RLaGJFclpFU0NyODZ3SGVDRlFfTDFIM25LU2RKY0poaGNvTVJkUVRVbTFqZUZXVkdFaDU3MkI2djUzd1kwQmJFVU42ZGRWRkJZbnVmR1dPWjdhUVVzVnpBLTgwLWtkWC1yVG9xVFRVcWljOGViMGVpdVBtSlB0cko3Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
           "summary": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Search Engine Land",
           "when": "15 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Daily Search Forum Recap: October 15, 2026 - Search Engine Roundtable",
+          "summary": "Daily Search Forum Recap: October 15, 2026 Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Roundtable",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Dc0R1NGxZamxoZEtseVpfZzFsZmpuOWNWSktkb1lfQk05cEJGc0lQZ1pxVXEtUThJcm1QRE5OMDdWbXBKLU1HTFlkSk5odnBMajJQWGNWWUdmQUlXSTkzWnNwM1pYclE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -69,23 +69,7 @@
           "summary": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Facebook",
           "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmxhcDBIbm1rZ09oUUUxbHIxVHhYYkl6R0pzQnBwOU5rejRPZEFKc044Yi1MTXRXSnNocldlSHRyMGNwRzY3NEhyTkI0cGhuRzd2cTMzR091ZmxpQU1lMVRuQTFubUpucV9rMHZMbkJ1aDByV0pKQTk2RlhaUnhoZHNoRVRSQlJSaFpsMVdmaU9Ra3QxSEQ1YnBwUF9yaG9RRGtvUWF4TC0yclBIenZ1cm04MXFxNTkyUUVNWVhKSk1yb2xqdVF5d1JqdGpPOHJnUmVwM3djWEhNZFg2Zlpn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Insights: Facebook Advertising News: Page 4 - Facebook",
-          "summary": "Insights: Facebook Advertising News: Page 4 Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbEdvWUJ3SXRjQzNPNHEzemhKRWFZMkpId3NKcWNCSjRtMnhaTjRpM0xTUGZKeE5kTFJZUVpTZW9vZ19EOW1ZM1k1VV80NVQ4Q25raWdkNGtXNlBMck9rNDFKZ1NMZUdWWTZuNFJ1VDM5TllETm1vTGpMTlBQMkJsQjVGUlNpV2poUUR1V3FZcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses - Facebook",
-          "summary": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY1cxNmFCSmxjMzBXWWZCWDdFVE0zX1BLTDBKMU11OGQwNnQ4VktYWENmd094cFZEMWRENElkV3cwYUZxQ1JLYlpZTUkzUENSQkRYaHNpdnBUZHFJNEEtaHdLUjhFUm5VYkxqNVpOMFhIZm8zVXBuRGI2U0ZWQnB1WjRWNzMta29hLTVoa3RoRDRvNUhCa0RVeHk0eVVTR2RveTNoV0E4cEEtSjRpVlNodmJRRHBseDRaQjNuX1pCSDVMSVV6N0HSAcsBQVVfeXFMT0hIa010a1E3UUlQazFNd1oxcDJXQ2VDQjhBd2ZXTDAzWW45WXZkaGFuZjhsZXBvYWdBN3V2VzB6N2V5Y1owcko0NWpBX29Yb1VvUmxmVlpYYzd6QjVmc1dJSWd1VFdfUDdxNHZzbHNuendyd3BLbmI4MnhvamdlaHFZMWRyRWpUT3dPam9Jem5uQTMtYTgzZjNSNGtIeVpmTi0tdFI1TlRhVEZYVmM0a3B6U0tvVno2aXJjbkc4WVVCOWdGaTFuUXN1RTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSzNkbm5lVDEtbXJleTkwMnp0aENjNDh5VURJNkFUZVU3QkpmREJNZUNvS044RjE4Ukx6ZjUzQVFSUHpkVFR0ek5kWXpLMlZMb29NaXpURVZlcnVQRkRnRHJyNkJQeDFvTVhUQUl4RW9OVERzMFIwU2JvOU5GQ2xERXhubURKTldMOFJWUmFaUkJ0VXJKNGR3QmRSa3Q1enlfWUo0SXozaWVIaldxTXlHazQ3bFZWU293Zl9CdTU4VHVJWHBkOXFDeU5qTkhBeEFTaUlrNHVITmtEWjZpdjNPOWUtX1LSAeQBQVVfeXFMTkszZG5uZVQxLW1yZXk5MDJ6dGhDYzQ4eVVESTZBVGVVN0JKZkRCTWVDb0tOOEYxOFJMemY1M0FRUlB6ZFRUdHpOZFl6SzJWTG9vTWl6VEVWZXJ1UEZEZ0RycjZCUHgxb01YVEFJeEVvTlREczBSMFNibzlORkNsREV4bm1ESk5XTDhSVlJhWlJCdFVySjRkd0JkUmt0NXp5X1lKNEl6M2llSGpXcU15R2s0N2xWVlNvd2ZfQnU1OFR1SVhwZDlxQ3lOak5IQXhBU2lJazR1SE5rRFo2aXYzTzllLV9S?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -96,7 +80,16 @@
     },
     {
       "name": "TikTok Ads",
-      "stories": []
+      "stories": [
+        {
+          "title": "TikTok Ad Network Is Now Open to US Advertisers (2026) - ALM Corp",
+          "summary": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "ALM Corp",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93VmtTWXJacFVhX1RXdnFmQmpERWhsQTRzQXhDTGs3c2hXTDVPdTBOSWdzV1djd1FfMWRCVDNXRF9WOFZndklQSWlwVlBINFdwdWxtVlpERjNPcFNaanhGTnVqSmMwZEtlTm1lNWRmdjhyWmcx?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
     },
     {
       "name": "LinkedIn Ads",
@@ -130,6 +123,22 @@
     {
       "name": "AI & Agents",
       "stories": [
+        {
+          "title": "AI Scan for pull requests generally available - The GitHub Blog",
+          "summary": "AI Scan for pull requests generally available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYU5iMUVqVVVSNmR4RUhJQ0JiSFpIb3NtN29oOEQwbWlBXzNZbExXeUktTk9abzliS05vVXJKZ1lQYXlBOFlvaVhOem8yWUg5UThTNTJRVUtKZlFQOENpdXNVMGxVcmwwNjd1RUg4c0ZBUFNvV0paUTBpRklQSHBGV096c0NNb0ZBb04xMEcydko?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Agentic autofix for code scanning alerts general availability - The GitHub Blog",
+          "summary": "Agentic autofix for code scanning alerts general availability The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3l3c1lyQUxmN2xoUEktcE1ldUVZODZWZVJBUFZzbGxRUkJIMGgtbmd4Y1lfNzlkckoyVTB6bDk0N1ZMSElXdVBzNlhlV0o3QVpXNC0zNDg1VGxIbTgwLVdfdlBKVXhTZGw0djFjZlpNcUtzOF9aRWRZNWU4ZUlzSldESE94TlJVUUdjNFcxaUZqS3BJS1JTbkctVEdVdGNyRGp4WC13?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Preparing for the 2026 US midterms - Anthropic",
           "summary": "Preparing for the 2026 US midterms Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -171,14 +180,6 @@
           "when": "15 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF83VDRnMGhTTWVNbnRmUHUxTTRkemdydlVnUWxNeFpsbUNOMzkzbmtYUXdHMlhpSktrZ1ZvSGhEdUZxajZtZjBndnpqTmlaSWhHeEw1akxsbkppc1lycC1jY01rME4wLVVJaHB5NmQzeUJOZlhfWU9sYjQtc0J3WnRmRUhoNmZ0YmZHaWhB?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "Revenue Growth Agent Unveils Model Context Protocol Connector - MarTech Cube",
-          "summary": "Revenue Growth Agent Unveils Model Context Protocol Connector MarTech Cube. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "MarTech Cube",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdHdGRDlvelhfclRkTFNobnc0alNuY00yNUFQM1VtTXN0dkdwclR5aVdMeEpBMDBGR1luT3V1SEVfcGJtclNvdzlLY25Gb05SYWhWMHdYZDgyRzJoUjNhRkRTZHdtVkpaMnNVd01mUERDVzJiR0VOTW5Xa3UxQVRXMHNPREx5VzRYNTd6RkIyX2xwMmw1?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -186,11 +187,27 @@
       "name": "Ecommerce",
       "stories": [
         {
+          "title": "Hydrogen 2026-10 is now available - Shopify Dev Docs",
+          "summary": "Hydrogen 2026-10 is now available Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Shopify Dev Docs",
+          "when": "14 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FRXJYVXJ4WDQtQWl0ZjFKbS13a0VHdkJ6YllQMkNQVS10STFuXzVHUWVsQ2lFTnhvVW5OdWJCZXhUVmtHcE9LME5IYmRHOS1kUG5BektrLWhNZzVjam1kOVZkNUY4MmlNOFA2UjRmc0pMd05IRWc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "The Three Key Pillars for Agentic Commerce Are Now in Place - Coresight Research",
           "summary": "The Three Key Pillars for Agentic Commerce Are Now in Place Coresight Research. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "Coresight Research",
           "when": "14 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEllWEtyMWdBeDNBMF9LNjUzSUhnT1V1TUFUMk1vbzljc1NWMlM3VGF6bDZiemFqYlNiamJUM1RJNk5LaFBzSXpYeU83X2loODBfUUwtQXZlYmI3N3hURGVkTHpqaEJfY1RBT2NWdnF4d0pRTXlzTTdtTV9lRzRJYnQ2Sm9NTXUxTkNEVDM5MVhzTHhxTlpYbE1ZeHFYS0hlSG9FLUpjRU5EdEM0cnEzU0NaeFQ3dzd2LVpaRVdXVUF4bVJJeUFWUU1PeTgyRzRuNlV0RDI5UnhGaWJULVpRNDJIVUlnT1lSVlY0NDI4blFpVmhDYjZCUld1WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Build with confidence: Shopify AI Toolkit's security check - Shopify Dev Docs",
+          "summary": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Shopify Dev Docs",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa05yLTlTTEQzQ281YXhqaFFaVXFvaE1OS3FaRnZtOWVkUE5hMXN1Tnl3ZlAwd3hTZlZhRGRxeFE1QnA3eW1aWGxnWFU2bzRCRU4yS2UzaTJld3NDbUUzV29ydEJsV2J0dHFFQzBWbzRnUC1PWnRLZkdNdlA2T0t4MnlpeHVsQ3I3ZzJPT2FKNXBrR19sV0tMTnQxZDhUZ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -209,10 +226,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
+        "topic": "TikTok Ad Network Is Now Open to US Advertisers (2026) - ALM Corp",
         "status": "Cross-source coverage",
-        "common_context": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
+        "common_context": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp",
         "unique_points": [
+          {
+            "source": "ALM Corp",
+            "when": "15 Oct 2026",
+            "point": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93VmtTWXJacFVhX1RXdnFmQmpERWhsQTRzQXhDTGs3c2hXTDVPdTBOSWdzV1djd1FfMWRCVDNXRF9WOFZndklQSWlwVlBINFdwdWxtVlpERjNPcFNaanhGTnVqSmMwZEtlTm1lNWRmdjhyWmcx?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Search Engine Land",
             "when": "15 Oct 2026",
@@ -230,12 +253,52 @@
             "when": "15 Oct 2026",
             "point": "Google Ads API v26 launches with Search Lift measurement and new campaign controls Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "AI Scan for pull requests generally available - The GitHub Blog",
+        "status": "Cross-source coverage",
+        "common_context": "AI Scan for pull requests generally available The GitHub Blog",
+        "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "15 Oct 2026",
+            "point": "AI Scan for pull requests generally available The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYU5iMUVqVVVSNmR4RUhJQ0JiSFpIb3NtN29oOEQwbWlBXzNZbExXeUktTk9abzliS05vVXJKZ1lQYXlBOFlvaVhOem8yWUg5UThTNTJRVUtKZlFQOENpdXNVMGxVcmwwNjd1RUg4c0ZBUFNvV0paUTBpRklQSHBGV096c0NNb0ZBb04xMEcydko?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Google Help",
+            "source": "The GitHub Blog",
             "when": "15 Oct 2026",
-            "point": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Agentic autofix for code scanning alerts general availability The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3l3c1lyQUxmN2xoUEktcE1ldUVZODZWZVJBUFZzbGxRUkJIMGgtbmd4Y1lfNzlkckoyVTB6bDk0N1ZMSElXdVBzNlhlV0o3QVpXNC0zNDg1VGxIbTgwLVdfdlBKVXhTZGw0djFjZlpNcUtzOF9aRWRZNWU4ZUlzSldESE94TlJVUUdjNFcxaUZqS3BJS1JTbkctVEdVdGNyRGp4WC13?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Build with confidence: Shopify AI Toolkit's security check - Shopify Dev Docs",
+        "status": "Cross-source coverage",
+        "common_context": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs",
+        "unique_points": [
+          {
+            "source": "Shopify Dev Docs",
+            "when": "15 Oct 2026",
+            "point": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa05yLTlTTEQzQ281YXhqaFFaVXFvaE1OS3FaRnZtOWVkUE5hMXN1Tnl3ZlAwd3hTZlZhRGRxeFE1QnA3eW1aWGxnWFU2bzRCRU4yS2UzaTJld3NDbUUzV29ydEJsV2J0dHFFQzBWbzRnUC1PWnRLZkdNdlA2T0t4MnlpeHVsQ3I3ZzJPT2FKNXBrR19sV0tMTnQxZDhUZ0k?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Shopify Dev Docs",
+            "when": "15 Oct 2026",
+            "point": "Checkout footer visibility now applies to merchant-configurable content Shopify Dev Docs",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWFVaUVJa3MwRERqWGNVWU1XaXlSMmJxbmNvVm1fLVhXRGlfT1FObmJFOElJa1o3N0NWRlpDeU00cWZ4T18zOWw4aG96TGNtTmhPVHlCLVIwZ2ZaazJFbkNzWmdhTkE5aFBKLVZpWTJsaDdBR1loRmJnVG15V01vbkwzQWhtb0FLZk96VGdYVEk3M3Q5VjZmN1lndS1rWHZvcmc4NUIxWGtNSTA?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Shopify Dev Docs",
+            "when": "14 Oct 2026",
+            "point": "Hydrogen 2026-10 is now available Shopify Dev Docs",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FRXJYVXJ4WDQtQWl0ZjFKbS13a0VHdkJ6YllQMkNQVS10STFuXzVHUWVsQ2lFTnhvVW5OdWJCZXhUVmtHcE9LME5IYmRHOS1kUG5BektrLWhNZzVjam1kOVZkNUY4MmlNOFA2UjRmc0pMd05IRWc0?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

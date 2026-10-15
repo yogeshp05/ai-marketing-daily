@@ -13,11 +13,11 @@
     "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
     "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
     "Announcing v26 of the Google Ads API - blog.google",
+    "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "AI Scan for pull requests generally available - The GitHub Blog",
     "Daily Search Forum Recap: October 15, 2026 - Search Engine Roundtable",
     "Agentic autofix for code scanning alerts general availability - The GitHub Blog",
-    "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
-    "Contentsquare expands analytics to AI agent journeys - ContentGrip"
+    "About the AI campaign localization tool for Search campaigns (beta) - Google Help"
   ],
   "sections": [
     {
@@ -48,27 +48,18 @@
           "image": ""
         },
         {
-          "title": "Daily Search Forum Recap: October 15, 2026 - Search Engine Roundtable",
-          "summary": "Daily Search Forum Recap: October 15, 2026 Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Roundtable",
+          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
           "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Dc0R1NGxZamxoZEtseVpfZzFsZmpuOWNWSktkb1lfQk05cEJGc0lQZ1pxVXEtUThJcm1QRE5OMDdWbXBKLU1HTFlkSk5odnBMajJQWGNWWUdmQUlXSTkzWnNwM1pYclE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
     },
     {
       "name": "Microsoft Ads",
-      "stories": [
-        {
-          "title": "Earn your place on the holiday gift shortlist - Microsoft",
-          "summary": "Earn your place on the holiday gift shortlist Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Microsoft",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE1fX3ZBeFJJc3hoTjJpTVVMRFhGMm9yMTVkTkpHRHFBeTJ1Q1hYU1lHUkRPYV9TZ1VkYkU1VWxxWUtpLU1yZGxrWGtMWVV6UTJGamtMUG9pM0RYanVkcTdnbmJ5SVNEUnd0LVFNOXdaLWdTcE9iUnhFY2xURDgzVWV5OVlWY1Z1Z0NmN19SS0FLdWJ4QmY4Zm50OGlrTlNxMk9xblJvNm5BTzFGOVpZSEdwWVlldXJLcGhnSDZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Meta Ads",
@@ -157,11 +148,11 @@
           "image": ""
         },
         {
-          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November - The GitHub Blog",
-          "summary": "Upcoming deprecation of selected GitHub Copilot models in mid-November The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "title": "Download GitHub Code Quality license usage as a CSV - The GitHub Blog",
+          "summary": "Download GitHub Code Quality license usage as a CSV The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
           "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXJfWVlTbzcwRFM1LXZtejkyNWZTdzkxWXM1R24yQ1JJdm5ic2kwSmdBQ1NPZmQwVmZSb3pSOE1BcmZKek1jRVVHbDRMMS1yaEpFYWtmSG1wS2hGYnZfUnMzQWpjNHpRZUNEQnBxM1VhdVZEMkZOZHBoUE9yRjZ6aDI0V2FGZUhRNjZRcWRhX3JCYUlRcHpqVE9sQWJSYkgwT3B6dEdzMmtCTjBRS1BMUllR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1h0YzZfYUs3N2dISnh2bEdodTF2THZOQjEyOEJIWHVmUndGaE15R0k1N3RpRzhYSlpMaU5MeVFiY1JJVlFZd2V6d0VPX2E4S1ZhYnRWS0hsb1JULXBtQW4xNm1zMGRpdFRiLUktc1dzREVLZXFGZmxMbUVvUHNHV0FISHljdG9lLVdVeUY1aTlJOWtuZHU3VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -228,14 +219,6 @@
           "image": ""
         },
         {
-          "title": "Build with confidence: Shopify AI Toolkit's security check - Shopify Dev Docs",
-          "summary": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Shopify Dev Docs",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa05yLTlTTEQzQ281YXhqaFFaVXFvaE1OS3FaRnZtOWVkUE5hMXN1Tnl3ZlAwd3hTZlZhRGRxeFE1QnA3eW1aWGxnWFU2bzRCRU4yS2UzaTJld3NDbUUzV29ydEJsV2J0dHFFQzBWbzRnUC1PWnRLZkdNdlA2T0t4MnlpeHVsQ3I3ZzJPT2FKNXBrR19sV0tMTnQxZDhUZ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Checkout footer visibility now applies to merchant-configurable content - Shopify Dev Docs",
           "summary": "Checkout footer visibility now applies to merchant-configurable content Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "Shopify Dev Docs",
@@ -251,21 +234,21 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
+        "topic": "Update your app SDK version for Google Ads conversion measurement - Google Help",
         "status": "Cross-source coverage",
-        "common_context": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land",
+        "common_context": "Update your app SDK version for Google Ads conversion measurement Google Help",
         "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "15 Oct 2026",
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Search Engine Land",
             "when": "15 Oct 2026",
             "point": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "ALM Corp",
-            "when": "15 Oct 2026",
-            "point": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93VmtTWXJacFVhX1RXdnFmQmpERWhsQTRzQXhDTGs3c2hXTDVPdTBOSWdzV1djd1FfMWRCVDNXRF9WOFZndklQSWlwVlBINFdwdWxtVlpERjNPcFNaanhGTnVqSmMwZEtlTm1lNWRmdjhyWmcx?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "Search Engine Roundtable",
@@ -283,10 +266,16 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Upcoming deprecation of selected GitHub Copilot models in mid-November - The GitHub Blog",
+        "topic": "Download GitHub Code Quality license usage as a CSV - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "Upcoming deprecation of selected GitHub Copilot models in mid-November The GitHub Blog",
+        "common_context": "Download GitHub Code Quality license usage as a CSV The GitHub Blog",
         "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "16 Oct 2026",
+            "point": "Download GitHub Code Quality license usage as a CSV The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1h0YzZfYUs3N2dISnh2bEdodTF2THZOQjEyOEJIWHVmUndGaE15R0k1N3RpRzhYSlpMaU5MeVFiY1JJVlFZd2V6d0VPX2E4S1ZhYnRWS0hsb1JULXBtQW4xNm1zMGRpdFRiLUktc1dzREVLZXFGZmxMbUVvUHNHV0FISHljdG9lLVdVeUY1aTlJOWtuZHU3VQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "The GitHub Blog",
             "when": "16 Oct 2026",
@@ -309,15 +298,15 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Build with confidence: Shopify AI Toolkit's security check - Shopify Dev Docs",
+        "topic": "TikTok Ad Network Is Now Open to US Advertisers (2026) - ALM Corp",
         "status": "Cross-source coverage",
-        "common_context": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs",
+        "common_context": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp",
         "unique_points": [
           {
-            "source": "Shopify Dev Docs",
+            "source": "ALM Corp",
             "when": "15 Oct 2026",
-            "point": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa05yLTlTTEQzQ281YXhqaFFaVXFvaE1OS3FaRnZtOWVkUE5hMXN1Tnl3ZlAwd3hTZlZhRGRxeFE1QnA3eW1aWGxnWFU2bzRCRU4yS2UzaTJld3NDbUUzV29ydEJsV2J0dHFFQzBWbzRnUC1PWnRLZkdNdlA2T0t4MnlpeHVsQ3I3ZzJPT2FKNXBrR19sV0tMTnQxZDhUZ0k?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93VmtTWXJacFVhX1RXdnFmQmpERWhsQTRzQXhDTGs3c2hXTDVPdTBOSWdzV1djd1FfMWRCVDNXRF9WOFZndklQSWlwVlBINFdwdWxtVlpERjNPcFNaanhGTnVqSmMwZEtlTm1lNWRmdjhyWmcx?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "Shopify Dev Docs",

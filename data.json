@@ -15,9 +15,9 @@
     "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
     "Google introduces campaign channel prioritization tools to give advertisers granular budget control - Adgully",
     "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
+    "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
     "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
-    "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - Macau Business",
-    "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground"
+    "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - Macau Business"
   ],
   "sections": [
     {
@@ -148,11 +148,11 @@
           "image": ""
         },
         {
-          "title": "Download GitHub Code Quality license usage as a CSV - The GitHub Blog",
-          "summary": "Download GitHub Code Quality license usage as a CSV The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "title": "Multi-repository support and other improvements for GitHub in Slack and Teams - The GitHub Blog",
+          "summary": "Multi-repository support and other improvements for GitHub in Slack and Teams The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
           "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1h0YzZfYUs3N2dISnh2bEdodTF2THZOQjEyOEJIWHVmUndGaE15R0k1N3RpRzhYSlpMaU5MeVFiY1JJVlFZd2V6d0VPX2E4S1ZhYnRWS0hsb1JULXBtQW4xNm1zMGRpdFRiLUktc1dzREVLZXFGZmxMbUVvUHNHV0FISHljdG9lLVdVeUY1aTlJOWtuZHU3VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTlncnFHR1h0RWR6dGl0bUtVYlBYUWJTSm5xZ3plS0ZSclc1bTlibTZxWVlKdS1wdUMwR2ltSEd2R2FOTjktc0pBTGRscVZUYXVHek1DV3NOQjFQWGJuemJpWWh2MXJvMTVnd2FEakhUXy16V0JodTNmbmV5Z2dSbVpTbE13dDFnemdYQ0JHcU5JcXlLNHZTSXR3M3pwdE5wekNXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -160,6 +160,14 @@
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
+          "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "17 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - Macau Business",
           "summary": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production Macau Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -182,14 +190,6 @@
           "source": "OpenAI",
           "when": "16 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Pollo AI Review for Video Creators: Agent, Models, and Control - The Western Weekender",
-          "summary": "Pollo AI Review for Video Creators: Agent, Models, and Control The Western Weekender. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Western Weekender",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmZsSkl1dUVSbV9IRkpFVnR6ZzZzdkZHNnk5T3d1UTd1MHlrek81ckc2dGFsQmxWSGhkSjduSG1MaW12djFETXFaeXJVbnJZcXBzS0ZaenJIRUR2b3BlWjh4U3dfbHFBd3IxNkhyME5McVpHdGs5Q1FnMnBGUkMxc0RsazNWMXNjRC1CbzZqYWR6YURDWW1FeG1ZWFZzZmFVaHdhck9fSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -286,10 +286,16 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Download GitHub Code Quality license usage as a CSV - The GitHub Blog",
+        "topic": "Multi-repository support and other improvements for GitHub in Slack and Teams - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "Download GitHub Code Quality license usage as a CSV The GitHub Blog",
+        "common_context": "Multi-repository support and other improvements for GitHub in Slack and Teams The GitHub Blog",
         "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "16 Oct 2026",
+            "point": "Multi-repository support and other improvements for GitHub in Slack and Teams The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTlncnFHR1h0RWR6dGl0bUtVYlBYUWJTSm5xZ3plS0ZSclc1bTlibTZxWVlKdS1wdUMwR2ltSEd2R2FOTjktc0pBTGRscVZUYXVHek1DV3NOQjFQWGJuemJpWWh2MXJvMTVnd2FEakhUXy16V0JodTNmbmV5Z2dSbVpTbE13dDFnemdYQ0JHcU5JcXlLNHZTSXR3M3pwdE5wekNXdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "The GitHub Blog",
             "when": "16 Oct 2026",
@@ -307,12 +313,6 @@
             "when": "15 Oct 2026",
             "point": "AI Scan for pull requests generally available The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYU5iMUVqVVVSNmR4RUhJQ0JiSFpIb3NtN29oOEQwbWlBXzNZbExXeUktTk9abzliS05vVXJKZ1lQYXlBOFlvaVhOem8yWUg5UThTNTJRVUtKZlFQOENpdXNVMGxVcmwwNjd1RUg4c0ZBUFNvV0paUTBpRklQSHBGV096c0NNb0ZBb04xMEcydko?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "15 Oct 2026",
-            "point": "Agentic autofix for code scanning alerts general availability The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3l3c1lyQUxmN2xoUEktcE1ldUVZODZWZVJBUFZzbGxRUkJIMGgtbmd4Y1lfNzlkckoyVTB6bDk0N1ZMSElXdVBzNlhlV0o3QVpXNC0zNDg1VGxIbTgwLVdfdlBKVXhTZGw0djFjZlpNcUtzOF9aRWRZNWU4ZUlzSldESE94TlJVUUdjNFcxaUZqS3BJS1JTbkctVEdVdGNyRGp4WC13?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

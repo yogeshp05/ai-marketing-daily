@@ -1,5 +1,5 @@
 {
-  "date": "16 October 2026",
+  "date": "17 October 2026",
   "lead": {
     "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
     "deck": "Google Ads API v26 launches with Search Lift measurement and new campaign controls Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -14,7 +14,7 @@
     "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
     "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
     "Google introduces campaign channel prioritization tools to give advertisers granular budget control - Adgully",
-    "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
+    "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
     "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
     "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - Macau Business",
     "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground"
@@ -60,6 +60,14 @@
     {
       "name": "Microsoft Ads",
       "stories": [
+        {
+          "title": "News generative AI deals revealed: Who is suing, who is signing? - Press Gazette",
+          "summary": "News generative AI deals revealed: Who is suing, who is signing? For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Press Gazette",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Earn your place on the holiday gift shortlist - Microsoft",
           "summary": "Earn your place on the holiday gift shortlist Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -198,14 +206,6 @@
           "image": ""
         },
         {
-          "title": "The latest AI-powered martech news and releases - MarTech",
-          "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "MarTech",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "What Is Vibe Coding? Meaning, How It Works & How to Ship - Brevo",
           "summary": "Meaning, How It Works & How to Ship Brevo. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Brevo",
@@ -225,14 +225,6 @@
           "when": "15 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa05yLTlTTEQzQ281YXhqaFFaVXFvaE1OS3FaRnZtOWVkUE5hMXN1Tnl3ZlAwd3hTZlZhRGRxeFE1QnA3eW1aWGxnWFU2bzRCRU4yS2UzaTJld3NDbUUzV29ydEJsV2J0dHFFQzBWbzRnUC1PWnRLZkdNdlA2T0t4MnlpeHVsQ3I3ZzJPT2FKNXBrR19sV0tMTnQxZDhUZ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "The latest AI-powered martech news and releases - MarTech",
-          "summary": "The latest AI-powered martech news and releases MarTech. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "MarTech",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     }
@@ -242,10 +234,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
+        "topic": "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
         "status": "Cross-source coverage",
-        "common_context": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days Search Engine Land",
+        "common_context": "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers ALM Corp",
         "unique_points": [
+          {
+            "source": "ALM Corp",
+            "when": "17 Oct 2026",
+            "point": "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers ALM Corp",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnlLYmFNc3B6N2ZzemwzR080Q2lQaG1xaldaOUdUMEZUZUZFWVhRWVptb0JCWlFRalNxUzhkbm5pOFdvR1ZjYW5tb3RhVjh0TmFyVTFyN3VUU2pjR0FDV2F1ODI4bHhVOGhZX2dBSy16WEpsV29PNWdidEM1MlM3bmdoMWRPaGkwU1VWX2xuTXdZczRsaFE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Search Engine Land",
             "when": "16 Oct 2026",
@@ -263,12 +261,6 @@
             "when": "16 Oct 2026",
             "point": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Adgully",
-            "when": "16 Oct 2026",
-            "point": "Google introduces campaign channel prioritization tools to give advertisers granular budget control Adgully",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU3ZGcG1leVdGY1FXSEQwNk9mb0gzczVoQll1RF8yZWVBUUpaSGZlcXBSQlNPWFE3MkFLa3ZQS2o5VUpkMGJ0d1pCb1E2OVhMTE1DeWZYR2p1cTBiYnNRa2x1THREWU9LMEFYSUhCbVVPSFpMMm8tanlmNF93YlpqUHdBTl9rd3J5SjZZYzhHQk5jUll1UGpISE0wVDdDN1AyNS1BTHIzNExKVHhzc1V2ZEhScC1yVVM4eURCSlBIajg1ekE5T0hsRkxNOHhMWEU?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

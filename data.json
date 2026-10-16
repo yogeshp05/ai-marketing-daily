@@ -13,11 +13,11 @@
     "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
     "Google introduces campaign channel prioritization tools to give advertisers granular budget control - Adgully",
     "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
-    "Announcing v26 of the Google Ads API - blog.google",
-    "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - The Manila Times",
+    "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - Macau Business",
     "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground",
     "Ad Channel Spending Controls: Google Ads Caps Low-Priority Inventory at a Share of Daily… - Trend Hunter",
-    "AI Scan for pull requests generally available - The GitHub Blog"
+    "Bringing GPT-Rosalind to academic research labs - OpenAI",
+    "Pollo AI Review for Video Creators: Agent, Models, and Control - The Western Weekender"
   ],
   "sections": [
     {
@@ -48,38 +48,31 @@
           "image": ""
         },
         {
-          "title": "Announcing v26 of the Google Ads API - blog.google",
-          "summary": "Announcing v26 of the Google Ads API blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "blog.google",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Ad Channel Spending Controls: Google Ads Caps Low-Priority Inventory at a Share of Daily… - Trend Hunter",
+          "summary": "Ad Channel Spending Controls: Google Ads Caps Low-Priority Inventory at a Share of Daily… Trend Hunter. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Trend Hunter",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02Q2dfZ05jbWtiYXVqaVdTUzc2dHRJOWg2cy1MNmtLcEFJWlFWVVdRRzFDaUZTcmNkSFdwZ182Nk5tYmRKVXdRb0gxNDZad2RVN2x2cHVXMm13ZnBMcEhGOEdjenNxM1BKUlhXbEV0eWw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
     },
     {
       "name": "Microsoft Ads",
-      "stories": []
+      "stories": [
+        {
+          "title": "Earn your place on the holiday gift shortlist - Microsoft",
+          "summary": "Earn your place on the holiday gift shortlist Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Microsoft",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE1fX3ZBeFJJc3hoTjJpTVVMRFhGMm9yMTVkTkpHRHFBeTJ1Q1hYU1lHUkRPYV9TZ1VkYkU1VWxxWUtpLU1yZGxrWGtMWVV6UTJGamtMUG9pM0RYanVkcTdnbmJ5SVNEUnd0LVFNOXdaLWdTcE9iUnhFY2xURDgzVWV5OVlWY1Z1Z0NmN19SS0FLdWJ4QmY4Zm50OGlrTlNxMk9xblJvNm5BTzFGOVpZSEdwWVlldXJLcGhnSDZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
     },
     {
       "name": "Meta Ads",
       "stories": [
-        {
-          "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance - Facebook",
-          "summary": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmxhcDBIbm1rZ09oUUUxbHIxVHhYYkl6R0pzQnBwOU5rejRPZEFKc044Yi1MTXRXSnNocldlSHRyMGNwRzY3NEhyTkI0cGhuRzd2cTMzR091ZmxpQU1lMVRuQTFubUpucV9rMHZMbkJ1aDByV0pKQTk2RlhaUnhoZHNoRVRSQlJSaFpsMVdmaU9Ra3QxSEQ1YnBwUF9yaG9RRGtvUWF4TC0yclBIenZ1cm04MXFxNTkyUUVNWVhKSk1yb2xqdVF5d1JqdGpPOHJnUmVwM3djWEhNZFg2Zlpn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Insights: Facebook Advertising News: Page 4 - Facebook",
-          "summary": "Insights: Facebook Advertising News: Page 4 Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbEdvWUJ3SXRjQzNPNHEzemhKRWFZMkpId3NKcWNCSjRtMnhaTjRpM0xTUGZKeE5kTFJZUVpTZW9vZ19EOW1ZM1k1VV80NVQ4Q25raWdkNGtXNlBMck9rNDFKZ1NMZUdWWTZuNFJ1VDM5TllETm1vTGpMTlBQMkJsQjVGUlNpV2poUUR1V3FZcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta - Facebook",
           "summary": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -169,11 +162,11 @@
       "name": "Creative AI & Design",
       "stories": [
         {
-          "title": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - The Manila Times",
-          "summary": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production The Manila Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Manila Times",
+          "title": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - Macau Business",
+          "summary": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production Macau Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Macau Business",
           "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQenlhQV9pUkd0WVNwU01XRnlIdlEwOTh0TWVjUi1ZQmJPRHBmdm4xS2FWZk4zazc3aDNqQklpVW1wZHQ3ZjN5NGJZZ2hoRVBKU093a3BQM0tabkwxdmFUZ1pHcW9zX0c1ME9KWWRUU05KSUFlU2xrandYQjlDM2VJakNzTjB4MUJ4WWdUcnJHendNelFFSnNuTVBpUlBMWHl2S083bFV0aGJSSjJtR1RmR0k0MkYtNS16RE4yVG9GZDB1d09xMzR6VlhlZmxOS2s3Sllpbk1COGJPRXE1X21Zb1JkUThJX25feFJDaC01QzlrbUNFTEtEV1pBeDNpdW41UEkzaGRtQWFWSkowRW1GNTFZUdIBmAJBVV95cUxQY0VtbGU2b2tRb2phcjUzaFNQNXlCb0ZMbzVSS0xWYkdXSk1KNW16UmpFYVVEOWtFQXp5dDJ4bzdram5LZFljMjhnU2dST2NPdGlveHZhaFM1WGhVcUhUaUlDdmg2YmFKQ2l2dFVjNU1vRTNxeUxSSVljSlRteUVfUW9VOEJwRy0xaC0yeG5uSGFRbWVjQUJMLW50UzFrTGcxeVRJT2lYS0xxZTFHYXJwcElLSHRVcHR0SnlPMlZGb1F6Smtkdzd0cHRseW8yOGRWLU9FbjliNDVDNFRjcFlnckZIUnJRWlJUUl96eXAyWlI3T1lSSEhJWmhKUXVzcm1NbW1EdjBNZFhaaVlIczVsamNLMU15b0RC?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQelVfdHFMSWxKTE4wUFUyQmZBWF9hVVdVMVRDaVp3cU9laVczLU1aUk1ZaUlHUjVOOFRFTUZaOHBlWFBYM2M3R2xMaXdTQ3Ayc2VrTW5XcXU3MUNUY2x6eUROQk1DZG5yX1ZWekZaUGFEeGJ0eGZGQjczVVJ2azl2ZUhWRU5zQi0zTTVpaXlGVUVCZmdDTEdRSzRWSlVEVEZHTTJrV01vNTRDcUhUSEdXM2NPR19BaDFTSnBDZGRXM0w0SEdlU2lNeVlaTWlSWHRLM0F4Zmg0QTBkdw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -185,11 +178,19 @@
           "image": ""
         },
         {
-          "title": "The latest AI-powered martech news and releases - MarTech",
-          "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "MarTech",
+          "title": "Bringing GPT-Rosalind to academic research labs - OpenAI",
+          "summary": "Bringing GPT-Rosalind to academic research labs OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
           "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Pollo AI Review for Video Creators: Agent, Models, and Control - The Western Weekender",
+          "summary": "Pollo AI Review for Video Creators: Agent, Models, and Control The Western Weekender. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Western Weekender",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmZsSkl1dUVSbV9IRkpFVnR6ZzZzdkZHNnk5T3d1UTd1MHlrek81ckc2dGFsQmxWSGhkSjduSG1MaW12djFETXFaeXJVbnJZcXBzS0ZaenJIRUR2b3BlWjh4U3dfbHFBd3IxNkhyME5McVpHdGs5Q1FnMnBGUkMxc0RsazNWMXNjRC1CbzZqYWR6YURDWW1FeG1ZWFZzZmFVaHdhck9fSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -273,30 +274,30 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13ZUQ3NDZ4ejFNM2VoQ051WU4zUHBPaEFOMVZVOGsteDA3UjdPNFdpZ2tENS1VWThzdFdyanEyVG1pTXdvUUF5VUZGbzljYTNOTVkwUHlwQWlnUWtjZV8waVRDUFJPZHoxT1Y3WjdxMmxBYjdYQUlTbF9n?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Search Engine Land",
+            "source": "Google Help",
             "when": "15 Oct 2026",
-            "point": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - The Manila Times",
+        "topic": "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground",
         "status": "Cross-source coverage",
-        "common_context": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production The Manila Times",
+        "common_context": "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side PR Underground",
         "unique_points": [
           {
-            "source": "The Manila Times",
+            "source": "PR Underground",
             "when": "16 Oct 2026",
-            "point": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production The Manila Times",
-            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQenlhQV9pUkd0WVNwU01XRnlIdlEwOTh0TWVjUi1ZQmJPRHBmdm4xS2FWZk4zazc3aDNqQklpVW1wZHQ3ZjN5NGJZZ2hoRVBKU093a3BQM0tabkwxdmFUZ1pHcW9zX0c1ME9KWWRUU05KSUFlU2xrandYQjlDM2VJakNzTjB4MUJ4WWdUcnJHendNelFFSnNuTVBpUlBMWHl2S083bFV0aGJSSjJtR1RmR0k0MkYtNS16RE4yVG9GZDB1d09xMzR6VlhlZmxOS2s3Sllpbk1COGJPRXE1X21Zb1JkUThJX25feFJDaC01QzlrbUNFTEtEV1pBeDNpdW41UEkzaGRtQWFWSkowRW1GNTFZUdIBmAJBVV95cUxQY0VtbGU2b2tRb2phcjUzaFNQNXlCb0ZMbzVSS0xWYkdXSk1KNW16UmpFYVVEOWtFQXp5dDJ4bzdram5LZFljMjhnU2dST2NPdGlveHZhaFM1WGhVcUhUaUlDdmg2YmFKQ2l2dFVjNU1vRTNxeUxSSVljSlRteUVfUW9VOEJwRy0xaC0yeG5uSGFRbWVjQUJMLW50UzFrTGcxeVRJT2lYS0xxZTFHYXJwcElLSHRVcHR0SnlPMlZGb1F6Smtkdzd0cHRseW8yOGRWLU9FbjliNDVDNFRjcFlnckZIUnJRWlJUUl96eXAyWlI3T1lSSEhJWmhKUXVzcm1NbW1EdjBNZFhaaVlIczVsamNLMU15b0RC?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side PR Underground",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUhWR2tmZmdxMHI2VUdsek5hU3JxVUZUNFkzLUVTYlhNSUY5SzJaYnZPNU1UekFyNnhxeU1Ha3l4SHJ1Zm9FTHBsdS1qdGpfR0g2cW5hU2w1YjRlUFhnNEdJeU05TGZlcHBvNmhjbUZSRHFSR040ZjhPQUJwdWlKb0NmSW5ZamhDVzZsTlQ0Um9ZeXNPRDlWUS1qX2VwUXl0OHFsblpEb1oyaFlKcmJPbmlJRDdRQzlNQjB2dlhOX0U1c0dyVUpFNEUyS08?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Enterprise Times",
-            "when": "15 Oct 2026",
-            "point": "Precisely Connects AI Assistants to SAP - Enterprise Times",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF83VDRnMGhTTWVNbnRmUHUxTTRkemdydlVnUWxNeFpsbUNOMzkzbmtYUXdHMlhpSktrZ1ZvSGhEdUZxajZtZjBndnpqTmlaSWhHeEw1akxsbkppc1lycC1jY01rME4wLVVJaHB5NmQzeUJOZlhfWU9sYjQtc0J3WnRmRUhoNmZ0YmZHaWhB?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "The Western Weekender",
+            "when": "16 Oct 2026",
+            "point": "Pollo AI Review for Video Creators: Agent, Models, and Control The Western Weekender",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmZsSkl1dUVSbV9IRkpFVnR6ZzZzdkZHNnk5T3d1UTd1MHlrek81ckc2dGFsQmxWSGhkSjduSG1MaW12djFETXFaeXJVbnJZcXBzS0ZaenJIRUR2b3BlWjh4U3dfbHFBd3IxNkhyME5McVpHdGs5Q1FnMnBGUkMxc0RsazNWMXNjRC1CbzZqYWR6YURDWW1FeG1ZWFZzZmFVaHdhck9fSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

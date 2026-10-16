@@ -13,9 +13,9 @@
     "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
     "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
     "Announcing v26 of the Google Ads API - blog.google",
-    "Update your app SDK version for Google Ads conversion measurement - Google Help",
+    "Bringing GPT-Rosalind to academic research labs - OpenAI",
     "AI Scan for pull requests generally available - The GitHub Blog",
-    "Daily Search Forum Recap: October 15, 2026 - Search Engine Roundtable",
+    "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
     "Agentic autofix for code scanning alerts general availability - The GitHub Blog",
     "About the AI campaign localization tool for Search campaigns (beta) - Google Help"
   ],
@@ -48,11 +48,11 @@
           "image": ""
         },
         {
-          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
-          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
+          "title": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
+          "summary": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Land",
           "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -78,6 +78,14 @@
           "source": "Facebook",
           "when": "15 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbEdvWUJ3SXRjQzNPNHEzemhKRWFZMkpId3NKcWNCSjRtMnhaTjRpM0xTUGZKeE5kTFJZUVpTZW9vZ19EOW1ZM1k1VV80NVQ4Q25raWdkNGtXNlBMck9rNDFKZ1NMZUdWWTZuNFJ1VDM5TllETm1vTGpMTlBQMkJsQjVGUlNpV2poUUR1V3FZcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta - Facebook",
+          "summary": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Facebook",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13ZUQ3NDZ4ejFNM2VoQ051WU4zUHBPaEFOMVZVOGsteDA3UjdPNFdpZ2tENS1VWThzdFdyanEyVG1pTXdvUUF5VUZGbzljYTNOTVkwUHlwQWlnUWtjZV8waVRDUFJPZHoxT1Y3WjdxMmxBYjdYQUlTbF9n?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -161,10 +169,18 @@
       "name": "Creative AI & Design",
       "stories": [
         {
+          "title": "Bringing GPT-Rosalind to academic research labs - OpenAI",
+          "summary": "Bringing GPT-Rosalind to academic research labs OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "The latest AI-powered martech news and releases - MarTech",
           "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "MarTech",
-          "when": "15 Oct 2026",
+          "when": "16 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
@@ -203,18 +219,10 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "Hydrogen 2026-10 is now available - Shopify Dev Docs",
-          "summary": "Hydrogen 2026-10 is now available Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Shopify Dev Docs",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FRXJYVXJ4WDQtQWl0ZjFKbS13a0VHdkJ6YllQMkNQVS10STFuXzVHUWVsQ2lFTnhvVW5OdWJCZXhUVmtHcE9LME5IYmRHOS1kUG5BektrLWhNZzVjam1kOVZkNUY4MmlNOFA2UjRmc0pMd05IRWc0?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "The latest AI-powered martech news and releases - MarTech",
           "summary": "The latest AI-powered martech news and releases MarTech. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "MarTech",
-          "when": "15 Oct 2026",
+          "when": "16 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
@@ -234,15 +242,15 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+        "topic": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta - Facebook",
         "status": "Cross-source coverage",
-        "common_context": "Update your app SDK version for Google Ads conversion measurement Google Help",
+        "common_context": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta Facebook",
         "unique_points": [
           {
-            "source": "Google Help",
+            "source": "Facebook",
             "when": "15 Oct 2026",
-            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta Facebook",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13ZUQ3NDZ4ejFNM2VoQ051WU4zUHBPaEFOMVZVOGsteDA3UjdPNFdpZ2tENS1VWThzdFdyanEyVG1pTXdvUUF5VUZGbzljYTNOTVkwUHlwQWlnUWtjZV8waVRDUFJPZHoxT1Y3WjdxMmxBYjdYQUlTbF9n?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "Search Engine Land",
@@ -251,10 +259,10 @@
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Search Engine Roundtable",
+            "source": "Search Engine Land",
             "when": "15 Oct 2026",
-            "point": "Daily Search Forum Recap: October 15, 2026 Search Engine Roundtable",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Dc0R1NGxZamxoZEtseVpfZzFsZmpuOWNWSktkb1lfQk05cEJGc0lQZ1pxVXEtUThJcm1QRE5OMDdWbXBKLU1HTFlkSk5odnBMajJQWGNWWUdmQUlXSTkzWnNwM1pYclE?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "Search Engine Land",
@@ -293,32 +301,6 @@
             "when": "15 Oct 2026",
             "point": "Agentic autofix for code scanning alerts general availability The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3l3c1lyQUxmN2xoUEktcE1ldUVZODZWZVJBUFZzbGxRUkJIMGgtbmd4Y1lfNzlkckoyVTB6bDk0N1ZMSElXdVBzNlhlV0o3QVpXNC0zNDg1VGxIbTgwLVdfdlBKVXhTZGw0djFjZlpNcUtzOF9aRWRZNWU4ZUlzSldESE94TlJVUUdjNFcxaUZqS3BJS1JTbkctVEdVdGNyRGp4WC13?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "TikTok Ad Network Is Now Open to US Advertisers (2026) - ALM Corp",
-        "status": "Cross-source coverage",
-        "common_context": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp",
-        "unique_points": [
-          {
-            "source": "ALM Corp",
-            "when": "15 Oct 2026",
-            "point": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93VmtTWXJacFVhX1RXdnFmQmpERWhsQTRzQXhDTGs3c2hXTDVPdTBOSWdzV1djd1FfMWRCVDNXRF9WOFZndklQSWlwVlBINFdwdWxtVlpERjNPcFNaanhGTnVqSmMwZEtlTm1lNWRmdjhyWmcx?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Shopify Dev Docs",
-            "when": "15 Oct 2026",
-            "point": "Checkout footer visibility now applies to merchant-configurable content Shopify Dev Docs",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWFVaUVJa3MwRERqWGNVWU1XaXlSMmJxbmNvVm1fLVhXRGlfT1FObmJFOElJa1o3N0NWRlpDeU00cWZ4T18zOWw4aG96TGNtTmhPVHlCLVIwZ2ZaazJFbkNzWmdhTkE5aFBKLVZpWTJsaDdBR1loRmJnVG15V01vbkwzQWhtb0FLZk96VGdYVEk3M3Q5VjZmN1lndS1rWHZvcmc4NUIxWGtNSTA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Shopify Dev Docs",
-            "when": "14 Oct 2026",
-            "point": "Hydrogen 2026-10 is now available Shopify Dev Docs",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FRXJYVXJ4WDQtQWl0ZjFKbS13a0VHdkJ6YllQMkNQVS10STFuXzVHUWVsQ2lFTnhvVW5OdWJCZXhUVmtHcE9LME5IYmRHOS1kUG5BektrLWhNZzVjam1kOVZkNUY4MmlNOFA2UjRmc0pMd05IRWc0?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

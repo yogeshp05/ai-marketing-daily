@@ -11,13 +11,13 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
+    "Google introduces campaign channel prioritization tools to give advertisers granular budget control - Adgully",
     "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
     "Announcing v26 of the Google Ads API - blog.google",
-    "Bringing GPT-Rosalind to academic research labs - OpenAI",
-    "AI Scan for pull requests generally available - The GitHub Blog",
-    "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
-    "Agentic autofix for code scanning alerts general availability - The GitHub Blog",
-    "About the AI campaign localization tool for Search campaigns (beta) - Google Help"
+    "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - The Manila Times",
+    "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground",
+    "Ad Channel Spending Controls: Google Ads Caps Low-Priority Inventory at a Share of Daily… - Trend Hunter",
+    "AI Scan for pull requests generally available - The GitHub Blog"
   ],
   "sections": [
     {
@@ -29,6 +29,14 @@
           "source": "Search Engine Land",
           "when": "15 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google introduces campaign channel prioritization tools to give advertisers granular budget control - Adgully",
+          "summary": "Google introduces campaign channel prioritization tools to give advertisers granular budget control Adgully. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Adgully",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU3ZGcG1leVdGY1FXSEQwNk9mb0gzczVoQll1RF8yZWVBUUpaSGZlcXBSQlNPWFE3MkFLa3ZQS2o5VUpkMGJ0d1pCb1E2OVhMTE1DeWZYR2p1cTBiYnNRa2x1THREWU9LMEFYSUhCbVVPSFpMMm8tanlmNF93YlpqUHdBTl9rd3J5SjZZYzhHQk5jUll1UGpISE0wVDdDN1AyNS1BTHIzNExKVHhzc1V2ZEhScC1yVVM4eURCSlBIajg1ekE5T0hsRkxNOHhMWEU?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -45,14 +53,6 @@
           "source": "blog.google",
           "when": "15 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTl9BSG80YjVqb19SMUJTbWt6YXI3TmRqOVhfZXc5Vl9ER0c4TmJQYjFoY3FBQVpZUm5ka1doWWNpQVRDR25RUEJWV25kWlRUYVV0bTl5OEtuTDIzbVV1N0tReTBlRktiSV9TYXpLWmlwZjMxd0paWXlTTVkzc0RWbHlOdGFKczl4QUNXVVROd2s?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
-          "summary": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -169,11 +169,19 @@
       "name": "Creative AI & Design",
       "stories": [
         {
-          "title": "Bringing GPT-Rosalind to academic research labs - OpenAI",
-          "summary": "Bringing GPT-Rosalind to academic research labs OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
+          "title": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - The Manila Times",
+          "summary": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production The Manila Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Manila Times",
           "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQenlhQV9pUkd0WVNwU01XRnlIdlEwOTh0TWVjUi1ZQmJPRHBmdm4xS2FWZk4zazc3aDNqQklpVW1wZHQ3ZjN5NGJZZ2hoRVBKU093a3BQM0tabkwxdmFUZ1pHcW9zX0c1ME9KWWRUU05KSUFlU2xrandYQjlDM2VJakNzTjB4MUJ4WWdUcnJHendNelFFSnNuTVBpUlBMWHl2S083bFV0aGJSSjJtR1RmR0k0MkYtNS16RE4yVG9GZDB1d09xMzR6VlhlZmxOS2s3Sllpbk1COGJPRXE1X21Zb1JkUThJX25feFJDaC01QzlrbUNFTEtEV1pBeDNpdW41UEkzaGRtQWFWSkowRW1GNTFZUdIBmAJBVV95cUxQY0VtbGU2b2tRb2phcjUzaFNQNXlCb0ZMbzVSS0xWYkdXSk1KNW16UmpFYVVEOWtFQXp5dDJ4bzdram5LZFljMjhnU2dST2NPdGlveHZhaFM1WGhVcUhUaUlDdmg2YmFKQ2l2dFVjNU1vRTNxeUxSSVljSlRteUVfUW9VOEJwRy0xaC0yeG5uSGFRbWVjQUJMLW50UzFrTGcxeVRJT2lYS0xxZTFHYXJwcElLSHRVcHR0SnlPMlZGb1F6Smtkdzd0cHRseW8yOGRWLU9FbjliNDVDNFRjcFlnckZIUnJRWlJUUl96eXAyWlI3T1lSSEhJWmhKUXVzcm1NbW1EdjBNZFhaaVlIczVsamNLMU15b0RC?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground",
+          "summary": "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side PR Underground. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PR Underground",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUhWR2tmZmdxMHI2VUdsek5hU3JxVUZUNFkzLUVTYlhNSUY5SzJaYnZPNU1UekFyNnhxeU1Ha3l4SHJ1Zm9FTHBsdS1qdGpfR0g2cW5hU2w1YjRlUFhnNEdJeU05TGZlcHBvNmhjbUZSRHFSR040ZjhPQUJwdWlKb0NmSW5ZamhDVzZsTlQ0Um9ZeXNPRDlWUS1qX2VwUXl0OHFsblpEb1oyaFlKcmJPbmlJRDdRQzlNQjB2dlhOX0U1c0dyVUpFNEUyS08?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -182,14 +190,6 @@
           "source": "MarTech",
           "when": "16 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "SentinelOne cuts malware analysis from weeks to hours - OpenAI",
-          "summary": "SentinelOne cuts malware analysis from weeks to hours OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "14 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbGxlYk5TUUh6Y0dzR01PeVFaOUxMNGNIeXdtSjhzTG55WGVwdTVqYWZ0bjg3WFFxdmJuSTFBeEh2RjJ0RlNPajlYSkpSQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -201,7 +201,7 @@
           "title": "The latest AI-powered martech news and releases - MarTech",
           "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "MarTech",
-          "when": "15 Oct 2026",
+          "when": "16 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
@@ -227,6 +227,14 @@
           "image": ""
         },
         {
+          "title": "Build with confidence: Shopify AI Toolkit's security check - Shopify Dev Docs",
+          "summary": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Shopify Dev Docs",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa05yLTlTTEQzQ281YXhqaFFaVXFvaE1OS3FaRnZtOWVkUE5hMXN1Tnl3ZlAwd3hTZlZhRGRxeFE1QnA3eW1aWGxnWFU2bzRCRU4yS2UzaTJld3NDbUUzV29ydEJsV2J0dHFFQzBWbzRnUC1PWnRLZkdNdlA2T0t4MnlpeHVsQ3I3ZzJPT2FKNXBrR19sV0tMTnQxZDhUZ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Checkout footer visibility now applies to merchant-configurable content - Shopify Dev Docs",
           "summary": "Checkout footer visibility now applies to merchant-configurable content Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "Shopify Dev Docs",
@@ -242,10 +250,22 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta - Facebook",
+        "topic": "Google introduces campaign channel prioritization tools to give advertisers granular budget control - Adgully",
         "status": "Cross-source coverage",
-        "common_context": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta Facebook",
+        "common_context": "Google introduces campaign channel prioritization tools to give advertisers granular budget control Adgully",
         "unique_points": [
+          {
+            "source": "Adgully",
+            "when": "16 Oct 2026",
+            "point": "Google introduces campaign channel prioritization tools to give advertisers granular budget control Adgully",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU3ZGcG1leVdGY1FXSEQwNk9mb0gzczVoQll1RF8yZWVBUUpaSGZlcXBSQlNPWFE3MkFLa3ZQS2o5VUpkMGJ0d1pCb1E2OVhMTE1DeWZYR2p1cTBiYnNRa2x1THREWU9LMEFYSUhCbVVPSFpMMm8tanlmNF93YlpqUHdBTl9rd3J5SjZZYzhHQk5jUll1UGpISE0wVDdDN1AyNS1BTHIzNExKVHhzc1V2ZEhScC1yVVM4eURCSlBIajg1ekE5T0hsRkxNOHhMWEU?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Trend Hunter",
+            "when": "16 Oct 2026",
+            "point": "Ad Channel Spending Controls: Google Ads Caps Low-Priority Inventory at a Share of Daily… Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02Q2dfZ05jbWtiYXVqaVdTUzc2dHRJOWg2cy1MNmtLcEFJWlFWVVdRRzFDaUZTcmNkSFdwZ182Nk5tYmRKVXdRb0gxNDZad2RVN2x2cHVXMm13ZnBMcEhGOEdjenNxM1BKUlhXbEV0eWw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Facebook",
             "when": "15 Oct 2026",
@@ -257,18 +277,26 @@
             "when": "15 Oct 2026",
             "point": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - The Manila Times",
+        "status": "Cross-source coverage",
+        "common_context": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production The Manila Times",
+        "unique_points": [
+          {
+            "source": "The Manila Times",
+            "when": "16 Oct 2026",
+            "point": "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production The Manila Times",
+            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQenlhQV9pUkd0WVNwU01XRnlIdlEwOTh0TWVjUi1ZQmJPRHBmdm4xS2FWZk4zazc3aDNqQklpVW1wZHQ3ZjN5NGJZZ2hoRVBKU093a3BQM0tabkwxdmFUZ1pHcW9zX0c1ME9KWWRUU05KSUFlU2xrandYQjlDM2VJakNzTjB4MUJ4WWdUcnJHendNelFFSnNuTVBpUlBMWHl2S083bFV0aGJSSjJtR1RmR0k0MkYtNS16RE4yVG9GZDB1d09xMzR6VlhlZmxOS2s3Sllpbk1COGJPRXE1X21Zb1JkUThJX25feFJDaC01QzlrbUNFTEtEV1pBeDNpdW41UEkzaGRtQWFWSkowRW1GNTFZUdIBmAJBVV95cUxQY0VtbGU2b2tRb2phcjUzaFNQNXlCb0ZMbzVSS0xWYkdXSk1KNW16UmpFYVVEOWtFQXp5dDJ4bzdram5LZFljMjhnU2dST2NPdGlveHZhaFM1WGhVcUhUaUlDdmg2YmFKQ2l2dFVjNU1vRTNxeUxSSVljSlRteUVfUW9VOEJwRy0xaC0yeG5uSGFRbWVjQUJMLW50UzFrTGcxeVRJT2lYS0xxZTFHYXJwcElLSHRVcHR0SnlPMlZGb1F6Smtkdzd0cHRseW8yOGRWLU9FbjliNDVDNFRjcFlnckZIUnJRWlJUUl96eXAyWlI3T1lSSEhJWmhKUXVzcm1NbW1EdjBNZFhaaVlIczVsamNLMU15b0RC?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Search Engine Land",
+            "source": "Enterprise Times",
             "when": "15 Oct 2026",
-            "point": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
-            "when": "15 Oct 2026",
-            "point": "Google Ads API v26 launches with Search Lift measurement and new campaign controls Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Precisely Connects AI Assistants to SAP - Enterprise Times",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF83VDRnMGhTTWVNbnRmUHUxTTRkemdydlVnUWxNeFpsbUNOMzkzbmtYUXdHMlhpSktrZ1ZvSGhEdUZxajZtZjBndnpqTmlaSWhHeEw1akxsbkppc1lycC1jY01rME4wLVVJaHB5NmQzeUJOZlhfWU9sYjQtc0J3WnRmRUhoNmZ0YmZHaWhB?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -301,6 +329,26 @@
             "when": "15 Oct 2026",
             "point": "Agentic autofix for code scanning alerts general availability The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3l3c1lyQUxmN2xoUEktcE1ldUVZODZWZVJBUFZzbGxRUkJIMGgtbmd4Y1lfNzlkckoyVTB6bDk0N1ZMSElXdVBzNlhlV0o3QVpXNC0zNDg1VGxIbTgwLVdfdlBKVXhTZGw0djFjZlpNcUtzOF9aRWRZNWU4ZUlzSldESE94TlJVUUdjNFcxaUZqS3BJS1JTbkctVEdVdGNyRGp4WC13?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Build with confidence: Shopify AI Toolkit's security check - Shopify Dev Docs",
+        "status": "Cross-source coverage",
+        "common_context": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs",
+        "unique_points": [
+          {
+            "source": "Shopify Dev Docs",
+            "when": "15 Oct 2026",
+            "point": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa05yLTlTTEQzQ281YXhqaFFaVXFvaE1OS3FaRnZtOWVkUE5hMXN1Tnl3ZlAwd3hTZlZhRGRxeFE1QnA3eW1aWGxnWFU2bzRCRU4yS2UzaTJld3NDbUUzV29ydEJsV2J0dHFFQzBWbzRnUC1PWnRLZkdNdlA2T0t4MnlpeHVsQ3I3ZzJPT2FKNXBrR19sV0tMTnQxZDhUZ0k?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Shopify Dev Docs",
+            "when": "15 Oct 2026",
+            "point": "Checkout footer visibility now applies to merchant-configurable content Shopify Dev Docs",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWFVaUVJa3MwRERqWGNVWU1XaXlSMmJxbmNvVm1fLVhXRGlfT1FObmJFOElJa1o3N0NWRlpDeU00cWZ4T18zOWw4aG96TGNtTmhPVHlCLVIwZ2ZaazJFbkNzWmdhTkE5aFBKLVZpWTJsaDdBR1loRmJnVG15V01vbkwzQWhtb0FLZk96VGdYVEk3M3Q5VjZmN1lndS1rWHZvcmc4NUIxWGtNSTA?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

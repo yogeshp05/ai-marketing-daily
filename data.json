@@ -104,14 +104,6 @@
           "when": "17 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUI1ZGMtZEF4VGR5U3VPVmdSWXc0dV81UERMRjdNa3FJNklKYV9YNW1BNlZTMnlnMHdNT09XRUREekduWlZjOGVDSlJ3WklxSlp5VV9fMlVCZEhUZEJYZVhKS1NwelFnRFRJMFY1cEZPejBwUDFvaV80ME1NMUw2Yg?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "Multi-repository support and other improvements for GitHub in Slack and Teams - The GitHub Blog",
-          "summary": "Multi-repository support and other improvements for GitHub in Slack and Teams The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTlncnFHR1h0RWR6dGl0bUtVYlBYUWJTSm5xZ3plS0ZSclc1bTlibTZxWVlKdS1wdUMwR2ltSEd2R2FOTjktc0pBTGRscVZUYXVHek1DV3NOQjFQWGJuemJpWWh2MXJvMTVnd2FEakhUXy16V0JodTNmbmV5Z2dSbVpTbE13dDFnemdYQ0JHcU5JcXlLNHZTSXR3M3pwdE5wekNXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -142,7 +134,16 @@
     },
     {
       "name": "Ecommerce",
-      "stories": []
+      "stories": [
+        {
+          "title": "Checkout MCP and Cart MCP now support UCP buyer consent - Shopify Dev Docs",
+          "summary": "Checkout MCP and Cart MCP now support UCP buyer consent Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Shopify Dev Docs",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTV2ejkxSk1SeGtOcGxXRUtfSlFyaDJoSHNqNUlIWWd3X3F1b0QySDVBaW0ta3lsb0xmT1A1UW0tTU1jajluYlpiV1dUbG5kc3E0OXFIUmdNN3RWNkFUS2M4Z3JJdEhWVHlUQ1dfbVY1RkM1OVpiTTA2Um5vS1VTQTdLQmRzMExoYTdybUZHeEVwVDJ4aHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
     }
   ],
   "summary": {

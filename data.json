@@ -13,7 +13,7 @@
     "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
     "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
     "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
-    "Google introduces campaign channel prioritization tools to give advertisers granular budget control - Adgully",
+    "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
     "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
     "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
     "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
@@ -48,11 +48,11 @@
           "image": ""
         },
         {
-          "title": "Google introduces campaign channel prioritization tools to give advertisers granular budget control - Adgully",
-          "summary": "Google introduces campaign channel prioritization tools to give advertisers granular budget control Adgully. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Adgully",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU3ZGcG1leVdGY1FXSEQwNk9mb0gzczVoQll1RF8yZWVBUUpaSGZlcXBSQlNPWFE3MkFLa3ZQS2o5VUpkMGJ0d1pCb1E2OVhMTE1DeWZYR2p1cTBiYnNRa2x1THREWU9LMEFYSUhCbVVPSFpMMm8tanlmNF93YlpqUHdBTl9rd3J5SjZZYzhHQk5jUll1UGpISE0wVDdDN1AyNS1BTHIzNExKVHhzc1V2ZEhScC1yVVM4eURCSlBIajg1ekE5T0hsRkxNOHhMWEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
+          "summary": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Land",
+          "when": "15 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -218,6 +218,14 @@
     {
       "name": "Ecommerce",
       "stories": [
+        {
+          "title": "Full Alliance Group, Inc (OTC: FAGI) YAHBEE Highlights Community-Commerce Model for Agentic Commerce Era - USA Today",
+          "summary": "Full Alliance Group, Inc (OTC: FAGI) YAHBEE Highlights Community-Commerce Model for Agentic Commerce Era USA Today. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "USA Today",
+          "when": "17 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPazlKR1dfLWowQzFEMi10M19ROEdhZFlGVDRSTW4yTHh5UTdoUkNGaEFOZzhuNkZyYVoyeVZjT3FnZHM4TS1sUFB0a3hqRUJ6amFXTldVbFRGeWpKdDJnYlBmbWw0ZDNNcHJmTWdzSjg4NFZCLTNpMVB1TUk0QzlfSzlLNzRocG80WXZNRDlmVDYzN3Q5YTN6VnExbVFTQlEzdHlldWNCTm5TLUdSekJtZUxaUlhZUUtzRFZQb2x0bk5RNVNjcGdjYWhRdVVPdDV5NHU4aXBhampOLWJnWE56VlNMc1hud2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Build with confidence: Shopify AI Toolkit's security check - Shopify Dev Docs",
           "summary": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",

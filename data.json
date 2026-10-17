@@ -12,12 +12,12 @@
   "ticker": [
     "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
     "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
+    "AI: Anthropic’s IPO Show and Tell, OpenAI Ads, Meta’s Wonder & More. AI-RTZ #1242 - AI: Reset to Zero",
     "#e4mXplains: Google is giving advertisers more control over ad budgets. But how much? - Exchange4Media",
     "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
     "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
     "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
-    "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - Macau Business",
-    "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground"
+    "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - Macau Business"
   ],
   "sections": [
     {
@@ -72,16 +72,7 @@
     },
     {
       "name": "Meta Ads",
-      "stories": [
-        {
-          "title": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta - Facebook",
-          "summary": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13ZUQ3NDZ4ejFNM2VoQ051WU4zUHBPaEFOMVZVOGsteDA3UjdPNFdpZ2tENS1VWThzdFdyanEyVG1pTXdvUUF5VUZGbzljYTNOTVkwUHlwQWlnUWtjZV8waVRDUFJPZHoxT1Y3WjdxMmxBYjdYQUlTbF9n?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Amazon Ads",
@@ -107,11 +98,11 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "An update on independent evaluators - Anthropic",
-          "summary": "An update on independent evaluators Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Anthropic",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "AI: Anthropic’s IPO Show and Tell, OpenAI Ads, Meta’s Wonder & More. AI-RTZ #1242 - AI: Reset to Zero",
+          "summary": "AI: Anthropic’s IPO Show and Tell, OpenAI Ads, Meta’s Wonder & More. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "AI: Reset to Zero",
+          "when": "17 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUI1ZGMtZEF4VGR5U3VPVmdSWXc0dV81UERMRjdNa3FJNklKYV9YNW1BNlZTMnlnMHdNT09XRUREekduWlZjOGVDSlJ3WklxSlp5VV9fMlVCZEhUZEJYZVhKS1NwelFnRFRJMFY1cEZPejBwUDFvaV80ME1NMUw2Yg?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -120,22 +111,6 @@
           "source": "The GitHub Blog",
           "when": "16 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTlncnFHR1h0RWR6dGl0bUtVYlBYUWJTSm5xZ3plS0ZSclc1bTlibTZxWVlKdS1wdUMwR2ltSEd2R2FOTjktc0pBTGRscVZUYXVHek1DV3NOQjFQWGJuemJpWWh2MXJvMTVnd2FEakhUXy16V0JodTNmbmV5Z2dSbVpTbE13dDFnemdYQ0JHcU5JcXlLNHZTSXR3M3pwdE5wekNXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Download GitHub Code Quality license usage as a CSV - The GitHub Blog",
-          "summary": "Download GitHub Code Quality license usage as a CSV The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1h0YzZfYUs3N2dISnh2bEdodTF2THZOQjEyOEJIWHVmUndGaE15R0k1N3RpRzhYSlpMaU5MeVFiY1JJVlFZd2V6d0VPX2E4S1ZhYnRWS0hsb1JULXBtQW4xNm1zMGRpdFRiLUktc1dzREVLZXFGZmxMbUVvUHNHV0FISHljdG9lLVdVeUY1aTlJOWtuZHU3VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November - The GitHub Blog",
-          "summary": "Upcoming deprecation of selected GitHub Copilot models in mid-November The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXJfWVlTbzcwRFM1LXZtejkyNWZTdzkxWXM1R24yQ1JJdm5ic2kwSmdBQ1NPZmQwVmZSb3pSOE1BcmZKek1jRVVHbDRMMS1yaEpFYWtmSG1wS2hGYnZfUnMzQWpjNHpRZUNEQnBxM1VhdVZEMkZOZHBoUE9yRjZ6aDI0V2FGZUhRNjZRcWRhX3JCYUlRcHpqVE9sQWJSYkgwT3B6dEdzMmtCTjBRS1BMUllR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -166,29 +141,12 @@
           "when": "16 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUhWR2tmZmdxMHI2VUdsek5hU3JxVUZUNFkzLUVTYlhNSUY5SzJaYnZPNU1UekFyNnhxeU1Ha3l4SHJ1Zm9FTHBsdS1qdGpfR0g2cW5hU2w1YjRlUFhnNEdJeU05TGZlcHBvNmhjbUZSRHFSR040ZjhPQUJwdWlKb0NmSW5ZamhDVzZsTlQ0Um9ZeXNPRDlWUS1qX2VwUXl0OHFsblpEb1oyaFlKcmJPbmlJRDdRQzlNQjB2dlhOX0U1c0dyVUpFNEUyS08?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "Bringing GPT-Rosalind to academic research labs - OpenAI",
-          "summary": "Bringing GPT-Rosalind to academic research labs OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
     {
       "name": "MarTech & Automation",
-      "stories": [
-        {
-          "title": "What Is Vibe Coding? Meaning, How It Works & How to Ship - Brevo",
-          "summary": "Meaning, How It Works & How to Ship Brevo. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Brevo",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3VjFJeWRMZGNpOWk2c2ZycTZneXFiOFBwQ0dRQmpXRGdFc1pIZFRTamNhRGo5NVJ3Tl94ZUNyWXFkcUtHS3Y0aC1ma1pLRjJY?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Ecommerce",
@@ -227,52 +185,6 @@
             "when": "16 Oct 2026",
             "point": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground",
-        "status": "Cross-source coverage",
-        "common_context": "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side PR Underground",
-        "unique_points": [
-          {
-            "source": "PR Underground",
-            "when": "16 Oct 2026",
-            "point": "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side PR Underground",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUhWR2tmZmdxMHI2VUdsek5hU3JxVUZUNFkzLUVTYlhNSUY5SzJaYnZPNU1UekFyNnhxeU1Ha3l4SHJ1Zm9FTHBsdS1qdGpfR0g2cW5hU2w1YjRlUFhnNEdJeU05TGZlcHBvNmhjbUZSRHFSR040ZjhPQUJwdWlKb0NmSW5ZamhDVzZsTlQ0Um9ZeXNPRDlWUS1qX2VwUXl0OHFsblpEb1oyaFlKcmJPbmlJRDdRQzlNQjB2dlhOX0U1c0dyVUpFNEUyS08?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The Western Weekender",
-            "when": "16 Oct 2026",
-            "point": "Pollo AI Review for Video Creators: Agent, Models, and Control The Western Weekender",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmZsSkl1dUVSbV9IRkpFVnR6ZzZzdkZHNnk5T3d1UTd1MHlrek81ckc2dGFsQmxWSGhkSjduSG1MaW12djFETXFaeXJVbnJZcXBzS0ZaenJIRUR2b3BlWjh4U3dfbHFBd3IxNkhyME5McVpHdGs5Q1FnMnBGUkMxc0RsazNWMXNjRC1CbzZqYWR6YURDWW1FeG1ZWFZzZmFVaHdhck9fSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Multi-repository support and other improvements for GitHub in Slack and Teams - The GitHub Blog",
-        "status": "Cross-source coverage",
-        "common_context": "Multi-repository support and other improvements for GitHub in Slack and Teams The GitHub Blog",
-        "unique_points": [
-          {
-            "source": "The GitHub Blog",
-            "when": "16 Oct 2026",
-            "point": "Multi-repository support and other improvements for GitHub in Slack and Teams The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTlncnFHR1h0RWR6dGl0bUtVYlBYUWJTSm5xZ3plS0ZSclc1bTlibTZxWVlKdS1wdUMwR2ltSEd2R2FOTjktc0pBTGRscVZUYXVHek1DV3NOQjFQWGJuemJpWWh2MXJvMTVnd2FEakhUXy16V0JodTNmbmV5Z2dSbVpTbE13dDFnemdYQ0JHcU5JcXlLNHZTSXR3M3pwdE5wekNXdw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "16 Oct 2026",
-            "point": "Download GitHub Code Quality license usage as a CSV The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1h0YzZfYUs3N2dISnh2bEdodTF2THZOQjEyOEJIWHVmUndGaE15R0k1N3RpRzhYSlpMaU5MeVFiY1JJVlFZd2V6d0VPX2E4S1ZhYnRWS0hsb1JULXBtQW4xNm1zMGRpdFRiLUktc1dzREVLZXFGZmxMbUVvUHNHV0FISHljdG9lLVdVeUY1aTlJOWtuZHU3VQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "16 Oct 2026",
-            "point": "Upcoming deprecation of selected GitHub Copilot models in mid-November The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXJfWVlTbzcwRFM1LXZtejkyNWZTdzkxWXM1R24yQ1JJdm5ic2kwSmdBQ1NPZmQwVmZSb3pSOE1BcmZKek1jRVVHbDRMMS1yaEpFYWtmSG1wS2hGYnZfUnMzQWpjNHpRZUNEQnBxM1VhdVZEMkZOZHBoUE9yRjZ6aDI0V2FGZUhRNjZRcWRhX3JCYUlRcHpqVE9sQWJSYkgwT3B6dEdzMmtCTjBRS1BMUllR?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

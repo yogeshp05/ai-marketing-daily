@@ -1,36 +1,28 @@
 {
   "date": "17 October 2026",
   "lead": {
-    "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
-    "deck": "Google Ads API v26 launches with Search Lift measurement and new campaign controls Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
+    "deck": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "source": "Search Engine Land",
-    "when": "15 Oct 2026",
+    "when": "16 Oct 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
     "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
     "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
-    "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
+    "#e4mXplains: Google is giving advertisers more control over ad budgets. But how much? - Exchange4Media",
     "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
     "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
     "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
-    "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - Macau Business"
+    "Kling AI Showcases Kling 4.0 at Advertising Week New York as Generative AI Video Moves Toward Enterprise Production - Macau Business",
+    "Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
-        {
-          "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
-          "summary": "Google Ads API v26 launches with Search Lift measurement and new campaign controls Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
           "summary": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -48,11 +40,19 @@
           "image": ""
         },
         {
-          "title": "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
-          "summary": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "#e4mXplains: Google is giving advertisers more control over ad budgets. But how much? - Exchange4Media",
+          "summary": "#e4mXplains: Google is giving advertisers more control over ad budgets. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Exchange4Media",
+          "when": "17 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcGdWZGEyWE9FMTNSMEMtUi11eU9ZcDhlVmR4WUktSGFvYVI3RzVUTXd4clNMOG5ub29EejNFSHB1MHpGUUFBNjQwZTVKVk5ZaGZ4WnJfTGlvZ3RxSHROd3BCSElfeW9sU195WWFWXzVRbWpQZXpVZmNyemJJYk5lUm0tQVhLWlhIdUZtUy1uT3B4LTZpZ0lFTFJJTExWZFJHWkpXRk5sUjg2VG9GSW9rSXdNQjhIZWpQbm1XRGxGMWMwaWx4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
+          "summary": "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers ALM Corp. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "ALM Corp",
+          "when": "17 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnlLYmFNc3B6N2ZzemwzR080Q2lQaG1xaldaOUdUMEZUZUZFWVhRWVptb0JCWlFRalNxUzhkbm5pOFdvR1ZjYW5tb3RhVjh0TmFyVTFyN3VUU2pjR0FDV2F1ODI4bHhVOGhZX2dBSy16WEpsV29PNWdidEM1MlM3bmdoMWRPaGkwU1VWX2xuTXdZczRsaFE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -66,14 +66,6 @@
           "source": "Press Gazette",
           "when": "16 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Earn your place on the holiday gift shortlist - Microsoft",
-          "summary": "Earn your place on the holiday gift shortlist Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Microsoft",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE1fX3ZBeFJJc3hoTjJpTVVMRFhGMm9yMTVkTkpHRHFBeTJ1Q1hYU1lHUkRPYV9TZ1VkYkU1VWxxWUtpLU1yZGxrWGtMWVV6UTJGamtMUG9pM0RYanVkcTdnbmJ5SVNEUnd0LVFNOXdaLWdTcE9iUnhFY2xURDgzVWV5OVlWY1Z1Z0NmN19SS0FLdWJ4QmY4Zm50OGlrTlNxMk9xblJvNm5BTzFGOVpZSEdwWVlldXJLcGhnSDZR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -97,16 +89,7 @@
     },
     {
       "name": "TikTok Ads",
-      "stories": [
-        {
-          "title": "TikTok Ad Network Is Now Open to US Advertisers (2026) - ALM Corp",
-          "summary": "TikTok Ad Network Is Now Open to US Advertisers (2026) ALM Corp. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "ALM Corp",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93VmtTWXJacFVhX1RXdnFmQmpERWhsQTRzQXhDTGs3c2hXTDVPdTBOSWdzV1djd1FfMWRCVDNXRF9WOFZndklQSWlwVlBINFdwdWxtVlpERjNPcFNaanhGTnVqSmMwZEtlTm1lNWRmdjhyWmcx?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     },
     {
       "name": "LinkedIn Ads",
@@ -124,22 +107,6 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "AI Scan for pull requests generally available - The GitHub Blog",
-          "summary": "AI Scan for pull requests generally available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYU5iMUVqVVVSNmR4RUhJQ0JiSFpIb3NtN29oOEQwbWlBXzNZbExXeUktTk9abzliS05vVXJKZ1lQYXlBOFlvaVhOem8yWUg5UThTNTJRVUtKZlFQOENpdXNVMGxVcmwwNjd1RUg4c0ZBUFNvV0paUTBpRklQSHBGV096c0NNb0ZBb04xMEcydko?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Agentic autofix for code scanning alerts general availability - The GitHub Blog",
-          "summary": "Agentic autofix for code scanning alerts general availability The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3l3c1lyQUxmN2xoUEktcE1ldUVZODZWZVJBUFZzbGxRUkJIMGgtbmd4Y1lfNzlkckoyVTB6bDk0N1ZMSElXdVBzNlhlV0o3QVpXNC0zNDg1VGxIbTgwLVdfdlBKVXhTZGw0djFjZlpNcUtzOF9aRWRZNWU4ZUlzSldESE94TlJVUUdjNFcxaUZqS3BJS1JTbkctVEdVdGNyRGp4WC13?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "An update on independent evaluators - Anthropic",
           "summary": "An update on independent evaluators Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Anthropic",
@@ -153,6 +120,22 @@
           "source": "The GitHub Blog",
           "when": "16 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTlncnFHR1h0RWR6dGl0bUtVYlBYUWJTSm5xZ3plS0ZSclc1bTlibTZxWVlKdS1wdUMwR2ltSEd2R2FOTjktc0pBTGRscVZUYXVHek1DV3NOQjFQWGJuemJpWWh2MXJvMTVnd2FEakhUXy16V0JodTNmbmV5Z2dSbVpTbE13dDFnemdYQ0JHcU5JcXlLNHZTSXR3M3pwdE5wekNXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Download GitHub Code Quality license usage as a CSV - The GitHub Blog",
+          "summary": "Download GitHub Code Quality license usage as a CSV The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1h0YzZfYUs3N2dISnh2bEdodTF2THZOQjEyOEJIWHVmUndGaE15R0k1N3RpRzhYSlpMaU5MeVFiY1JJVlFZd2V6d0VPX2E4S1ZhYnRWS0hsb1JULXBtQW4xNm1zMGRpdFRiLUktc1dzREVLZXFGZmxMbUVvUHNHV0FISHljdG9lLVdVeUY1aTlJOWtuZHU3VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November - The GitHub Blog",
+          "summary": "Upcoming deprecation of selected GitHub Copilot models in mid-November The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXJfWVlTbzcwRFM1LXZtejkyNWZTdzkxWXM1R24yQ1JJdm5ic2kwSmdBQ1NPZmQwVmZSb3pSOE1BcmZKek1jRVVHbDRMMS1yaEpFYWtmSG1wS2hGYnZfUnMzQWpjNHpRZUNEQnBxM1VhdVZEMkZOZHBoUE9yRjZ6aDI0V2FGZUhRNjZRcWRhX3JCYUlRcHpqVE9sQWJSYkgwT3B6dEdzMmtCTjBRS1BMUllR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -198,14 +181,6 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "Precisely Connects AI Assistants to SAP - - Enterprise Times",
-          "summary": "Precisely Connects AI Assistants to SAP - Enterprise Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Enterprise Times",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF83VDRnMGhTTWVNbnRmUHUxTTRkemdydlVnUWxNeFpsbUNOMzkzbmtYUXdHMlhpSktrZ1ZvSGhEdUZxajZtZjBndnpqTmlaSWhHeEw1akxsbkppc1lycC1jY01rME4wLVVJaHB5NmQzeUJOZlhfWU9sYjQtc0J3WnRmRUhoNmZ0YmZHaWhB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "What Is Vibe Coding? Meaning, How It Works & How to Ship - Brevo",
           "summary": "Meaning, How It Works & How to Ship Brevo. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Brevo",
@@ -217,24 +192,7 @@
     },
     {
       "name": "Ecommerce",
-      "stories": [
-        {
-          "title": "Full Alliance Group, Inc (OTC: FAGI) YAHBEE Highlights Community-Commerce Model for Agentic Commerce Era - USA Today",
-          "summary": "Full Alliance Group, Inc (OTC: FAGI) YAHBEE Highlights Community-Commerce Model for Agentic Commerce Era USA Today. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "USA Today",
-          "when": "17 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPazlKR1dfLWowQzFEMi10M19ROEdhZFlGVDRSTW4yTHh5UTdoUkNGaEFOZzhuNkZyYVoyeVZjT3FnZHM4TS1sUFB0a3hqRUJ6amFXTldVbFRGeWpKdDJnYlBmbWw0ZDNNcHJmTWdzSjg4NFZCLTNpMVB1TUk0QzlfSzlLNzRocG80WXZNRDlmVDYzN3Q5YTN6VnExbVFTQlEzdHlldWNCTm5TLUdSekJtZUxaUlhZUUtzRFZQb2x0bk5RNVNjcGdjYWhRdVVPdDV5NHU4aXBhampOLWJnWE56VlNMc1hud2M?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Build with confidence: Shopify AI Toolkit's security check - Shopify Dev Docs",
-          "summary": "Build with confidence: Shopify AI Toolkit's security check Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Shopify Dev Docs",
-          "when": "15 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa05yLTlTTEQzQ281YXhqaFFaVXFvaE1OS3FaRnZtOWVkUE5hMXN1Tnl3ZlAwd3hTZlZhRGRxeFE1QnA3eW1aWGxnWFU2bzRCRU4yS2UzaTJld3NDbUUzV29ydEJsV2J0dHFFQzBWbzRnUC1PWnRLZkdNdlA2T0t4MnlpeHVsQ3I3ZzJPT2FKNXBrR19sV0tMTnQxZDhUZ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     }
   ],
   "summary": {
@@ -255,6 +213,12 @@
           {
             "source": "Search Engine Land",
             "when": "16 Oct 2026",
+            "point": "Google Merchant Center adds warranty attribute for product listings Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWwxRjZMU01PSDhBdnU0SU43VGZFNzNkWnk4WGUxSDRVRi1ITng4MW4tMXJBTFJvMHlCRXR5ZEpsejJWWG0zYVdCUEtyUVdwZGwwaEtpMUNFdDBsLW9DbDBjekFsMkNjejRwczJselpaNTd1d201SFZFVW5xazlNQ3ctWGhaWTlZTWRRX2VnUXBJaUp6SWVLMXNpWGJPcEtrRXJ0UVVB?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Search Engine Land",
+            "when": "16 Oct 2026",
             "point": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2tKMVhKN3B3dTc3SDJUUWVSekVwaVBoZGxzbE1KTlpnY0FqZG9pelJ4QnJMZVZEamFMbUJUcGZ2TjN1UHlORXg2VGxaaEstZGF4NkE4NHZfdllDN0phZS1fb0FhUUdtSW5Ldld0NXE2blpvam9meGhZZWRPWjNheFZCWDhUYkxJM0pKcjRaNlRUQnJiWGFnX0tLQUtRR084bXBNNUJaM3NNUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
@@ -263,12 +227,6 @@
             "when": "16 Oct 2026",
             "point": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
-            "when": "16 Oct 2026",
-            "point": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -315,12 +273,6 @@
             "when": "16 Oct 2026",
             "point": "Upcoming deprecation of selected GitHub Copilot models in mid-November The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXJfWVlTbzcwRFM1LXZtejkyNWZTdzkxWXM1R24yQ1JJdm5ic2kwSmdBQ1NPZmQwVmZSb3pSOE1BcmZKek1jRVVHbDRMMS1yaEpFYWtmSG1wS2hGYnZfUnMzQWpjNHpRZUNEQnBxM1VhdVZEMkZOZHBoUE9yRjZ6aDI0V2FGZUhRNjZRcWRhX3JCYUlRcHpqVE9sQWJSYkgwT3B6dEdzMmtCTjBRS1BMUllR?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "15 Oct 2026",
-            "point": "AI Scan for pull requests generally available The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYU5iMUVqVVVSNmR4RUhJQ0JiSFpIb3NtN29oOEQwbWlBXzNZbExXeUktTk9abzliS05vVXJKZ1lQYXlBOFlvaVhOem8yWUg5UThTNTJRVUtKZlFQOENpdXNVMGxVcmwwNjd1RUg4c0ZBUFNvV0paUTBpRklQSHBGV096c0NNb0ZBb04xMEcydko?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

@@ -1,42 +1,34 @@
 {
   "date": "18 October 2026",
   "lead": {
-    "title": "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
-    "deck": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "Search Engine Land",
-    "when": "16 Oct 2026",
+    "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+    "deck": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Google Help",
+    "when": "18 Oct 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
-    "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
+    "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "AI: Anthropic’s IPO Show and Tell, OpenAI Ads, Meta’s Wonder & More. AI-RTZ #1242 - AI: Reset to Zero",
     "#e4mXplains: Google is giving advertisers more control over ad budgets. But how much? - Exchange4Media",
     "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
     "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
     "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
-    "News generative AI deals revealed: Who is suing, who is signing? - Press Gazette"
+    "News generative AI deals revealed: Who is suing, who is signing? - Press Gazette",
+    "Use Lookalike segments to grow your audience - Google Help"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
-          "summary": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
-          "summary": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "18 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -53,6 +45,14 @@
           "source": "ALM Corp",
           "when": "17 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnlLYmFNc3B6N2ZzemwzR080Q2lQaG1xaldaOUdUMEZUZUZFWVhRWVptb0JCWlFRalNxUzhkbm5pOFdvR1ZjYW5tb3RhVjh0TmFyVTFyN3VUU2pjR0FDV2F1ODI4bHhVOGhZX2dBSy16WEpsV29PNWdidEM1MlM3bmdoMWRPaGkwU1VWX2xuTXdZczRsaFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
+          "summary": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Land",
+          "when": "16 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2tKMVhKN3B3dTc3SDJUUWVSekVwaVBoZGxzbE1KTlpnY0FqZG9pelJ4QnJMZVZEamFMbUJUcGZ2TjN1UHlORXg2VGxaaEstZGF4NkE4NHZfdllDN0phZS1fb0FhUUdtSW5Ldld0NXE2blpvam9meGhZZWRPWjNheFZCWDhUYkxJM0pKcjRaNlRUQnJiWGFnX0tLQUtRR084bXBNNUJaM3NNUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -126,16 +126,7 @@
     },
     {
       "name": "Ecommerce",
-      "stories": [
-        {
-          "title": "Checkout MCP and Cart MCP now support UCP buyer consent - Shopify Dev Docs",
-          "summary": "Checkout MCP and Cart MCP now support UCP buyer consent Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Shopify Dev Docs",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTV2ejkxSk1SeGtOcGxXRUtfSlFyaDJoSHNqNUlIWWd3X3F1b0QySDVBaW0ta3lsb0xmT1A1UW0tTU1jajluYlpiV1dUbG5kc3E0OXFIUmdNN3RWNkFUS2M4Z3JJdEhWVHlUQ1dfbVY1RkM1OVpiTTA2Um5vS1VTQTdLQmRzMExoYTdybUZHeEVwVDJ4aHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     }
   ],
   "summary": {
@@ -143,10 +134,22 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
+        "topic": "Update your app SDK version for Google Ads conversion measurement - Google Help",
         "status": "Cross-source coverage",
-        "common_context": "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers ALM Corp",
+        "common_context": "Update your app SDK version for Google Ads conversion measurement Google Help",
         "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "18 Oct 2026",
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "17 Oct 2026",
+            "point": "Use Lookalike segments to grow your audience Google Help",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aRFdpOER0QkpWbURaM2oyUElSYVg0YXFtTU1DcVFBTWRDX09sbmNFZTFZcHEzZXNGdE14cVRJeEhWSG1IeE9jeVlZNlI1ck5COHFQamF2TW0wRU9UQzdkaUdlMkJNLVN2Z1phQWg1Tm1ZeXc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "ALM Corp",
             "when": "17 Oct 2026",
@@ -158,18 +161,6 @@
             "when": "16 Oct 2026",
             "point": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2tKMVhKN3B3dTc3SDJUUWVSekVwaVBoZGxzbE1KTlpnY0FqZG9pelJ4QnJMZVZEamFMbUJUcGZ2TjN1UHlORXg2VGxaaEstZGF4NkE4NHZfdllDN0phZS1fb0FhUUdtSW5Ldld0NXE2blpvam9meGhZZWRPWjNheFZCWDhUYkxJM0pKcjRaNlRUQnJiWGFnX0tLQUtRR084bXBNNUJaM3NNUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
-            "when": "16 Oct 2026",
-            "point": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
-            "when": "16 Oct 2026",
-            "point": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

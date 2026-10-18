@@ -17,7 +17,7 @@
     "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
     "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
     "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
-    "Full Alliance Group, Inc (OTC: FAGI) YAHBEE Highlights Community-Commerce Model for Agentic Commerce Era - USA Today"
+    "News generative AI deals revealed: Who is suing, who is signing? - Press Gazette"
   ],
   "sections": [
     {
@@ -128,14 +128,6 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "Full Alliance Group, Inc (OTC: FAGI) YAHBEE Highlights Community-Commerce Model for Agentic Commerce Era - USA Today",
-          "summary": "Full Alliance Group, Inc (OTC: FAGI) YAHBEE Highlights Community-Commerce Model for Agentic Commerce Era USA Today. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "USA Today",
-          "when": "17 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPazlKR1dfLWowQzFEMi10M19ROEdhZFlGVDRSTW4yTHh5UTdoUkNGaEFOZzhuNkZyYVoyeVZjT3FnZHM4TS1sUFB0a3hqRUJ6amFXTldVbFRGeWpKdDJnYlBmbWw0ZDNNcHJmTWdzSjg4NFZCLTNpMVB1TUk0QzlfSzlLNzRocG80WXZNRDlmVDYzN3Q5YTN6VnExbVFTQlEzdHlldWNCTm5TLUdSekJtZUxaUlhZUUtzRFZQb2x0bk5RNVNjcGdjYWhRdVVPdDV5NHU4aXBhampOLWJnWE56VlNMc1hud2M?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Checkout MCP and Cart MCP now support UCP buyer consent - Shopify Dev Docs",
           "summary": "Checkout MCP and Cart MCP now support UCP buyer consent Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "Shopify Dev Docs",
@@ -164,12 +156,6 @@
           {
             "source": "Search Engine Land",
             "when": "16 Oct 2026",
-            "point": "Google Merchant Center adds warranty attribute for product listings Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWwxRjZMU01PSDhBdnU0SU43VGZFNzNkWnk4WGUxSDRVRi1ITng4MW4tMXJBTFJvMHlCRXR5ZEpsejJWWG0zYVdCUEtyUVdwZGwwaEtpMUNFdDBsLW9DbDBjekFsMkNjejRwczJselpaNTd1d201SFZFVW5xazlNQ3ctWGhaWTlZTWRRX2VnUXBJaUp6SWVLMXNpWGJPcEtrRXJ0UVVB?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
-            "when": "16 Oct 2026",
             "point": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2tKMVhKN3B3dTc3SDJUUWVSekVwaVBoZGxzbE1KTlpnY0FqZG9pelJ4QnJMZVZEamFMbUJUcGZ2TjN1UHlORXg2VGxaaEstZGF4NkE4NHZfdllDN0phZS1fb0FhUUdtSW5Ldld0NXE2blpvam9meGhZZWRPWjNheFZCWDhUYkxJM0pKcjRaNlRUQnJiWGFnX0tLQUtRR084bXBNNUJaM3NNUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
@@ -178,6 +164,12 @@
             "when": "16 Oct 2026",
             "point": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Search Engine Land",
+            "when": "16 Oct 2026",
+            "point": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

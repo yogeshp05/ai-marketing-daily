@@ -13,10 +13,6 @@
     "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "AI: Anthropic’s IPO Show and Tell, OpenAI Ads, Meta’s Wonder & More. AI-RTZ #1242 - AI: Reset to Zero",
     "#e4mXplains: Google is giving advertisers more control over ad budgets. But how much? - Exchange4Media",
-    "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
-    "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
-    "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
-    "News generative AI deals revealed: Who is suing, who is signing? - Press Gazette",
     "Use Lookalike segments to grow your audience - Google Help"
   ],
   "sections": [
@@ -40,35 +36,18 @@
           "image": ""
         },
         {
-          "title": "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers - ALM Corp",
-          "summary": "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers ALM Corp. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "ALM Corp",
+          "title": "Use Lookalike segments to grow your audience - Google Help",
+          "summary": "Use Lookalike segments to grow your audience Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
           "when": "17 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnlLYmFNc3B6N2ZzemwzR080Q2lQaG1xaldaOUdUMEZUZUZFWVhRWVptb0JCWlFRalNxUzhkbm5pOFdvR1ZjYW5tb3RhVjh0TmFyVTFyN3VUU2pjR0FDV2F1ODI4bHhVOGhZX2dBSy16WEpsV29PNWdidEM1MlM3bmdoMWRPaGkwU1VWX2xuTXdZczRsaFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
-          "summary": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2tKMVhKN3B3dTc3SDJUUWVSekVwaVBoZGxzbE1KTlpnY0FqZG9pelJ4QnJMZVZEamFMbUJUcGZ2TjN1UHlORXg2VGxaaEstZGF4NkE4NHZfdllDN0phZS1fb0FhUUdtSW5Ldld0NXE2blpvam9meGhZZWRPWjNheFZCWDhUYkxJM0pKcjRaNlRUQnJiWGFnX0tLQUtRR084bXBNNUJaM3NNUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aRFdpOER0QkpWbURaM2oyUElSYVg0YXFtTU1DcVFBTWRDX09sbmNFZTFZcHEzZXNGdE14cVRJeEhWSG1IeE9jeVlZNlI1ck5COHFQamF2TW0wRU9UQzdkaUdlMkJNLVN2Z1phQWg1Tm1ZeXc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
     },
     {
       "name": "Microsoft Ads",
-      "stories": [
-        {
-          "title": "News generative AI deals revealed: Who is suing, who is signing? - Press Gazette",
-          "summary": "News generative AI deals revealed: Who is suing, who is signing? For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Press Gazette",
-          "when": "16 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Meta Ads",
@@ -109,16 +88,7 @@
     },
     {
       "name": "Creative AI & Design",
-      "stories": [
-        {
-          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
-          "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "17 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     },
     {
       "name": "MarTech & Automation",
@@ -149,18 +119,6 @@
             "when": "17 Oct 2026",
             "point": "Use Lookalike segments to grow your audience Google Help",
             "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aRFdpOER0QkpWbURaM2oyUElSYVg0YXFtTU1DcVFBTWRDX09sbmNFZTFZcHEzZXNGdE14cVRJeEhWSG1IeE9jeVlZNlI1ck5COHFQamF2TW0wRU9UQzdkaUdlMkJNLVN2Z1phQWg1Tm1ZeXc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "ALM Corp",
-            "when": "17 Oct 2026",
-            "point": "Google Ads Adds Channel Prioritization and Budget Allocation Controls for Advertisers ALM Corp",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnlLYmFNc3B6N2ZzemwzR080Q2lQaG1xaldaOUdUMEZUZUZFWVhRWVptb0JCWlFRalNxUzhkbm5pOFdvR1ZjYW5tb3RhVjh0TmFyVTFyN3VUU2pjR0FDV2F1ODI4bHhVOGhZX2dBSy16WEpsV29PNWdidEM1MlM3bmdoMWRPaGkwU1VWX2xuTXdZczRsaFE?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
-            "when": "16 Oct 2026",
-            "point": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2tKMVhKN3B3dTc3SDJUUWVSekVwaVBoZGxzbE1KTlpnY0FqZG9pelJ4QnJMZVZEamFMbUJUcGZ2TjN1UHlORXg2VGxaaEstZGF4NkE4NHZfdllDN0phZS1fb0FhUUdtSW5Ldld0NXE2blpvam9meGhZZWRPWjNheFZCWDhUYkxJM0pKcjRaNlRUQnJiWGFnX0tLQUtRR084bXBNNUJaM3NNUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

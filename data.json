@@ -10,7 +10,8 @@
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Update your app SDK version for Google Ads conversion measurement - Google Help"
+    "Update your app SDK version for Google Ads conversion measurement - Google Help",
+    "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution - PPC Land"
   ],
   "sections": [
     {
@@ -44,7 +45,16 @@
     },
     {
       "name": "LinkedIn Ads",
-      "stories": []
+      "stories": [
+        {
+          "title": "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution - PPC Land",
+          "summary": "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PPC Land",
+          "when": "19 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTE1iUDgwOFhSYmdkZUhmZ3ZJRjRzUVZtR2h3Wk84cFJFWlE1RkNIcGF5LTUxVmhvNjBGckFlSkp5SFRQcXlvZzhfcG5uR0RLRlJtUnhnd2VDTExiUkx6YlRiNGw2Y09IZmtCZ1d4OXpNYlpvZEtkS2doeUhncE5pOXlheUlCQjJiNnZzdHdsdmJjZUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        }
+      ]
     },
     {
       "name": "Search & SEO",

@@ -1,5 +1,5 @@
 {
-  "date": "18 October 2026",
+  "date": "19 October 2026",
   "lead": {
     "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "deck": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -10,8 +10,7 @@
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "AI: Anthropic’s IPO Show and Tell, OpenAI Ads, Meta’s Wonder & More. AI-RTZ #1242 - AI: Reset to Zero"
+    "Update your app SDK version for Google Ads conversion measurement - Google Help"
   ],
   "sections": [
     {
@@ -57,16 +56,7 @@
     },
     {
       "name": "AI & Agents",
-      "stories": [
-        {
-          "title": "AI: Anthropic’s IPO Show and Tell, OpenAI Ads, Meta’s Wonder & More. AI-RTZ #1242 - AI: Reset to Zero",
-          "summary": "AI: Anthropic’s IPO Show and Tell, OpenAI Ads, Meta’s Wonder & More. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "AI: Reset to Zero",
-          "when": "17 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUI1ZGMtZEF4VGR5U3VPVmdSWXc0dV81UERMRjdNa3FJNklKYV9YNW1BNlZTMnlnMHdNT09XRUREekduWlZjOGVDSlJ3WklxSlp5VV9fMlVCZEhUZEJYZVhKS1NwelFnRFRJMFY1cEZPejBwUDFvaV80ME1NMUw2Yg?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Creative AI & Design",

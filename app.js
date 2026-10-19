@@ -89,7 +89,8 @@ function story(s){
   const body=s.summary||s.what||'';
   const why=s.why||'';
   const use=s.use_case||'';
-  return '<article class="story">'+safeImage(img,s.title,'story-image',fallbackImage(s.title,s.section||'AI Marketing'))+'<div class="meta">'+safeText(s.source||'AI Marketing Daily')+' · '+safeText(s.when||'')+'</div><h4><a href="'+(s.url||'#')+'" target="_blank" rel="noopener">'+safeText(s.title||'Untitled story')+'</a></h4><p><strong>What happened:</strong> '+safeText(body)+'</p>'+(why?'<p><strong>Why it matters:</strong> '+safeText(why)+'</p>':'')+(use?'<p><strong>Practical use case:</strong> '+safeText(use)+'</p>':'')+'</article>';
+  const status=s.status||'';
+  return '<article class="story">'+safeImage(img,s.title,'story-image',fallbackImage(s.title,s.section||'AI Marketing'))+'<div class="meta">'+safeText(status?status+' · ':'')+safeText(s.source||'AI Marketing Daily')+' · '+safeText(s.when||'')+'</div><h4><a href="'+(s.url||'#')+'" target="_blank" rel="noopener">'+safeText(s.title||'Untitled story')+'</a></h4><p><strong>What happened:</strong> '+safeText(body)+'</p>'+(why?'<p><strong>Why it matters:</strong> '+safeText(why)+'</p>':'')+(use?'<p><strong>Practical use case:</strong> '+safeText(use)+'</p>':'')+'</article>';
 }
 function slug(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')}
 init().catch(error=>{

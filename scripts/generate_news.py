@@ -409,7 +409,7 @@ def add_images(payload):
 
 def validate(payload):
     if len(payload.get("sections", [])) != len(CATEGORIES):
-        raise ValueError("Expected exactly 10 sections")
+        raise ValueError(f"Expected exactly {len(CATEGORIES)} sections")
     names = [s.get("name") for s in payload["sections"]]
     if names != CATEGORIES:
         raise ValueError(f"Unexpected section order: {names}")
@@ -434,6 +434,19 @@ def run_research_query(task):
     return category, query, method, items
 
 def main():
+    # Preserve the latest useful YTD coverage when rolling 36-hour discovery has no story
+    # for a platform. Without this fallback, sparse RSS results create blank sections.
+    previous_payload = {}
+    try:
+        previous_payload = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        previous_payload = {}
+    previous_by_category = {
+        section.get("name"): section.get("stories", [])
+        for section in previous_payload.get("sections", [])
+        if isinstance(section, dict)
+    }
+
     collected = {category: [] for category in CATEGORIES}
     audit = []
     tasks = []
@@ -458,6 +471,19 @@ def main():
     all_items = []
     for category in CATEGORIES:
         stories = [make_story(item, category) for item in collected[category]]
+        # Only use dated fallback stories when no verified fresh story was found for
+        # this category. Keep the source/date and explicitly label it as YTD coverage.
+        if not stories:
+            stories = []
+            for prior in previous_by_category.get(category, []):
+                if not isinstance(prior, dict) or not prior.get("url") or not prior.get("title"):
+                    continue
+                carried = dict(prior)
+                carried["status"] = carried.get("status") or "YTD UPDATE — carried forward because no fresh update was verified"
+                carried["when"] = carried.get("when") or "2026 YTD"
+                carried["summary"] = (carried.get("summary") or "").strip()
+                stories.append(carried)
+            stories = stories[:4]
         stories_by_category[category] = stories
         all_items.extend(collected[category])
 
@@ -465,7 +491,12 @@ def main():
     all_story_items = [make_story(item, next((c for c in CATEGORIES if item in collected[c]), "AI & Agents")) for item in all_items]
 
     if not all_story_items:
-        raise RuntimeError("No recent stories could be retrieved from Google News RSS")
+        # All current feeds can fail temporarily; keep the existing edition rather than
+        # publishing a blank or fabricated front page.
+        if previous_payload and previous_payload.get("sections"):
+            print("No fresh RSS stories found. Preserving the existing edition and its YTD coverage.")
+            return
+        raise RuntimeError("No recent stories could be retrieved and no previous edition is available")
 
     lead_story = max(all_story_items, key=lambda x: relevance({
         "title": x["title"], "description": x["summary"], "url": x["url"]

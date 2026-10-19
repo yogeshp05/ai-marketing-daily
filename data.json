@@ -1,57 +1,43 @@
 {
-  "date": "19 October 2026",
+  "date": "20 October 2026",
   "lead": {
-    "title": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation - Dynamic Business",
-    "deck": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWU4M1ZMNjJsaHdfQ3VwTTJWU3NCUHJ6cEx2azR0Z19LcFMybjlzdnBqWW9qUmxvYTVSTmZCamJOWU9rQkJvX3BJVndoOXN4bW84Y0FRZUd1UlQzeU9ZS0N4Y3ZDcE96YktFS0t1VUFieUxORWgyd3ZaOUZPc2tLcGo3R2FLaGxveEVMYW5Sd1VrZWlGQzRMLV85X09sUVNYWDA2U1lfNU8ycWtNdGdyMVBCUXdDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "Dynamic Business",
-    "when": "19 Oct 2026",
+    "title": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts - Search Engine Land",
+    "deck": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGp3NGxqX0VrUng2czBQbjBmRWplY2JZUWRBSVBYV2hoRnFfUTBiLXNnUWl2N1c1VWdNdTNvZlJIRWREcVpEcnpYcVRjWWVmNnFYTXBlTFRISWNLeDFneHZveGVZYTZuaHlTLW9LVjZmbTFJMEptX011LUdxbUp6ZHUycmJ4RVpoWlpTaU5Ja2VrcDJQRFpkUkF2bkRjVEtubGtldkZiTUw1VlhfeF9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Search Engine Land",
+    "when": "20 Oct 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts - Search Engine Land",
+    "Marketing to AI Agents cartoon - Marketoonist - Marketoonist | Tom Fishburne",
     "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation - Dynamic Business",
     "How Businesses Can Build an AI-Powered Marketing Strategy - Techfunnel",
-    "ChatGPT Ads Manager sharpens conversion reporting - ContentGrip",
-    "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 - The GitHub Blog",
-    "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution - PPC Land"
+    "Google Tag Manager Update Promises Faster Websites and Simpler Tracking - ALM Corp",
+    "Google Ads Adds Channel Priorities and Budget Allocation Controls - Affiverse",
+    "Alloy Enhances Fraud Prevention with AI-Powered Tools - Dynamic Business",
+    "ChatGPT Ads Manager sharpens conversion reporting - ContentGrip"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Google Ads adds channel prioritization and channel-level budget allocation",
-          "summary": "CONFIRMED PRODUCT UPDATE. Announced 14 October 2026. Advertisers can prioritize Google Search, Search partners and the Display Network, and set best-effort daily budget caps for low-priority channels. Controls are rolling out across Search, Shopping, Performance Max and Demand Gen; Demand Gen supports prioritization but not channel budget allocation. Starting February 2027, Search campaigns using Display Expansion will migrate to the new setup; setting GDN to Low priority with 50% allocation is Google's documented way to preserve the current configuration. Google says the controls are particularly useful for budget-limited campaigns; for target CPA/ROAS campaigns not limited by budget, priority alone may have little effect.",
-          "source": "Google Ads & Commerce / Google Ads Help",
-          "when": "14 Oct 2026",
-          "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_g0ufmwQ.width-1300.png",
-          "status": "Confirmed product update",
-          "why": "This adds control between leaving a channel fully enabled and switching it off. It also creates a migration task ahead of February 2027 for Search campaigns using Display Expansion.",
-          "use_case": "Audit Search, Shopping, Performance Max and Demand Gen settings; decide which channels are high vs low priority; apply caps only where supported; document a baseline and monitor spend, conversions, CPA/ROAS by channel. Check the Help Center for account rollout and eligibility."
+          "title": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts - Search Engine Land",
+          "summary": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Land",
+          "when": "20 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGp3NGxqX0VrUng2czBQbjBmRWplY2JZUWRBSVBYV2hoRnFfUTBiLXNnUWl2N1c1VWdNdTNvZlJIRWREcVpEcnpYcVRjWWVmNnFYTXBlTFRISWNLeDFneHZveGVZYTZuaHlTLW9LVjZmbTFJMEptX011LUdxbUp6ZHUycmJ4RVpoWlpTaU5Ja2VrcDJQRFpkUkF2bkRjVEtubGtldkZiTUw1VlhfeF9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         },
         {
-          "title": "Google Ads API v26: new capabilities and breaking-change review",
-          "summary": "CONFIRMED DEVELOPER UPDATE. Released 14 October 2026. Google Ads API v26 includes updated client libraries and code examples, and changes to EU political-advertising declarations for eligible campaigns/ad groups. The release notes also describe new fields and resources; teams should review the full breaking-change list rather than treating the headline as a complete changelog. Google also announced a move to two API releases per month beginning with v26, while keeping four major releases per year.",
-          "source": "Google Ads Developer Blog / Google Ads API release notes",
-          "when": "14 Oct 2026",
-          "url": "https://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html",
-          "image": "",
-          "status": "Confirmed API release",
-          "why": "Automation, reporting and agency integrations can fail or drift when API fields and release cadence change.",
-          "use_case": "Check API version, client libraries, deprecation dates and integration tests. Review the official release notes and upgrade guide before deployment; add monitoring to scripts and agent workflows."
-        },
-        {
-          "title": "Google Ads API moves to two releases per month",
-          "summary": "CONFIRMED DEVELOPER ROADMAP. Announced 12 October 2026. Google plans to ship two API versions per month from v26 onward: four major releases per year, with minor releases adding non-breaking features. Release blog posts and live walkthroughs will be less frequent, so developers are advised to follow the release notes directly.",
-          "source": "Google Ads Developer Blog",
-          "when": "12 Oct 2026",
-          "url": "https://ads-developers.googleblog.com/2026/10/google-ads-api-release-sunset-schedules-2026-2027.html",
-          "image": "",
-          "status": "Confirmed roadmap",
-          "why": "More frequent releases make release-note monitoring and automated compatibility testing more important for reporting and bidding tools.",
-          "use_case": "Subscribe to release notes, run staging tests against supported versions, and keep a calendar of sunset dates."
+          "title": "Google Ads Adds Channel Priorities and Budget Allocation Controls - Affiverse",
+          "summary": "Google Ads Adds Channel Priorities and Budget Allocation Controls Affiverse. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Affiverse",
+          "when": "19 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWHh1QzlPeEdrdXNUR01Ka0dSUzU4Wm94SUNyZlBSSmdaYU1xRFNlTi16RVo5a1MwZ0p6aTBQX2VmdU40SzRfM1lqaWk4OXp2UkRfTnd3V3VTc3hkRXFuVFdLUWM4WERHWW4xcVhsWFhjakxFOTRlZ1p6clJRaE9qN3hkbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -193,6 +179,14 @@
           "image": ""
         },
         {
+          "title": "Google Tag Manager Update Promises Faster Websites and Simpler Tracking - ALM Corp",
+          "summary": "Google Tag Manager Update Promises Faster Websites and Simpler Tracking ALM Corp. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "ALM Corp",
+          "when": "19 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlVmR0tqRzhvNzFDTWRYNG1qU3ZOVzl0OUIzRjh2YlFhbEI4TzdfWWM0blE3bEVMMVFQanduM3VVazFWUDhVSklzR2pNMkl6dGhVNFNFYm1ZbWdtd1hpc2gyalhTSW9oVm5WUUh0VDd6SUhYeUpCaTBVNWJfWnNFRGRHNEgxZFM0ejJldw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "ChatGPT Ads Manager sharpens conversion reporting - ContentGrip",
           "summary": "ChatGPT Ads Manager sharpens conversion reporting ContentGrip. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
           "source": "ContentGrip",
@@ -205,6 +199,14 @@
     {
       "name": "AI & Agents",
       "stories": [
+        {
+          "title": "Some Git over HTTPS may temporarily require authentication - The GitHub Blog",
+          "summary": "Some Git over HTTPS may temporarily require authentication The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "19 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMThEejRQWllKeWk5WkMyQm9yR1psYlEwemZEYmJNTGxhWEZFc0d0RlAyQzQ1VnlkSWV2enRoRy1ybVM4eFdfMlJCY0JrbExPY3laVlRjWC1NN19KZkFwVXhVd3FlcmJ0U3pTdkZRRDBNS1RxclR1eUF2b0RqMl9aSmZmRTFBV2JvdTY0LWEtbkptRUlXSUs5dzA0Uk9GQkFMbmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 - The GitHub Blog",
           "summary": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -241,6 +243,14 @@
           "when": "19 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWU4M1ZMNjJsaHdfQ3VwTTJWU3NCUHJ6cEx2azR0Z19LcFMybjlzdnBqWW9qUmxvYTVSTmZCamJOWU9rQkJvX3BJVndoOXN4bW84Y0FRZUd1UlQzeU9ZS0N4Y3ZDcE96YktFS0t1VUFieUxORWgyd3ZaOUZPc2tLcGo3R2FLaGxveEVMYW5Sd1VrZWlGQzRMLV85X09sUVNYWDA2U1lfNU8ycWtNdGdyMVBCUXdDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Alloy Enhances Fraud Prevention with AI-Powered Tools - Dynamic Business",
+          "summary": "Alloy Enhances Fraud Prevention with AI-Powered Tools Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Dynamic Business",
+          "when": "19 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0w1UWlEb0E2WkdVZWVpTm5HVUtrMDhsdkxzcFhBTmpEb2tQNlljRWIzVTJQZTZyTk41ZnFGa0llUGQ0ZDcwZDBFa1oxalZ4ZTl6b1hJbXcwVkNBMnRNZlkyOHVBamNLNmlLaXpOY3d6NXpmZGtOY0V1dVcxWmlMUWptTVhFS3paRU12ajRpVUo2ODFDbVczM3BwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -248,15 +258,12 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "Prepare product feeds and landing pages for AI-assisted holiday discovery",
-          "summary": "YTD EDITORIAL APPLICATION. Google’s channel-allocation controls and Microsoft’s October holiday guidance reinforce the importance of accurate product data and reliable conversion measurement. This is an editorial synthesis, not a separate launch.",
-          "source": "Microsoft Advertising / Google Ads",
-          "when": "13–15 Oct 2026",
-          "url": "https://www.about.ads.microsoft.com/en/blog?news=Announcement",
-          "image": "https://about.ads.microsoft.com/content/dam/sites/msa-about/global/common/content-lib/blog/thumbnail/MSA_BlogWebcastsAndInsights_Thumbnail_01_407x229_2x.jpg",
-          "status": "Editorial synthesis",
-          "why": "Incorrect price, stock, promotions or product details can waste seasonal media and damage conversion rates.",
-          "use_case": "Validate titles, GTINs, price, availability, shipping, promotions and landing-page consistency before increasing seasonal budgets."
+          "title": "Marketing to AI Agents cartoon - Marketoonist - Marketoonist | Tom Fishburne",
+          "summary": "Marketing to AI Agents cartoon - Marketoonist Marketoonist | Tom Fishburne. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Marketoonist | Tom Fishburne",
+          "when": "19 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56T1JzaENRNEhhVDlMSHA3aE9nM25QaDN5X0hGeXAwcWJUUjhFZHRWLTRZX2ZJUXNUWWZfWVRva25NdlR5VHhjUkd2T3ZiRW5uN0FtTVVXaGN5NmRBWFlmalBYNkgtcVVDbTI2VA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     }
@@ -264,7 +271,74 @@
   "summary": {
     "title": "Summary — What’s Actually New",
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
-    "topics": []
+    "topics": [
+      {
+        "topic": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts - Search Engine Land",
+        "status": "Cross-source coverage",
+        "common_context": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts Search Engine Land",
+        "unique_points": [
+          {
+            "source": "Search Engine Land",
+            "when": "20 Oct 2026",
+            "point": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGp3NGxqX0VrUng2czBQbjBmRWplY2JZUWRBSVBYV2hoRnFfUTBiLXNnUWl2N1c1VWdNdTNvZlJIRWREcVpEcnpYcVRjWWVmNnFYTXBlTFRISWNLeDFneHZveGVZYTZuaHlTLW9LVjZmbTFJMEptX011LUdxbUp6ZHUycmJ4RVpoWlpTaU5Ja2VrcDJQRFpkUkF2bkRjVEtubGtldkZiTUw1VlhfeF9n?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Affiverse",
+            "when": "19 Oct 2026",
+            "point": "Google Ads Adds Channel Priorities and Budget Allocation Controls Affiverse",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWHh1QzlPeEdrdXNUR01Ka0dSUzU4Wm94SUNyZlBSSmdaYU1xRFNlTi16RVo5a1MwZ0p6aTBQX2VmdU40SzRfM1lqaWk4OXp2UkRfTnd3V3VTc3hkRXFuVFdLUWM4WERHWW4xcVhsWFhjakxFOTRlZ1p6clJRaE9qN3hkbw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "19 Oct 2026",
+            "point": "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTE1iUDgwOFhSYmdkZUhmZ3ZJRjRzUVZtR2h3Wk84cFJFWlE1RkNIcGF5LTUxVmhvNjBGckFlSkp5SFRQcXlvZzhfcG5uR0RLRlJtUnhnd2VDTExiUkx6YlRiNGw2Y09IZmtCZ1d4OXpNYlpvZEtkS2doeUhncE5pOXlheUlCQjJiNnZzdHdsdmJjZUk?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation - Dynamic Business",
+        "status": "Cross-source coverage",
+        "common_context": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation Dynamic Business",
+        "unique_points": [
+          {
+            "source": "Dynamic Business",
+            "when": "19 Oct 2026",
+            "point": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation Dynamic Business",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWU4M1ZMNjJsaHdfQ3VwTTJWU3NCUHJ6cEx2azR0Z19LcFMybjlzdnBqWW9qUmxvYTVSTmZCamJOWU9rQkJvX3BJVndoOXN4bW84Y0FRZUd1UlQzeU9ZS0N4Y3ZDcE96YktFS0t1VUFieUxORWgyd3ZaOUZPc2tLcGo3R2FLaGxveEVMYW5Sd1VrZWlGQzRMLV85X09sUVNYWDA2U1lfNU8ycWtNdGdyMVBCUXdDdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Dynamic Business",
+            "when": "19 Oct 2026",
+            "point": "Alloy Enhances Fraud Prevention with AI-Powered Tools Dynamic Business",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0w1UWlEb0E2WkdVZWVpTm5HVUtrMDhsdkxzcFhBTmpEb2tQNlljRWIzVTJQZTZyTk41ZnFGa0llUGQ0ZDcwZDBFa1oxalZ4ZTl6b1hJbXcwVkNBMnRNZlkyOHVBamNLNmlLaXpOY3d6NXpmZGtOY0V1dVcxWmlMUWptTVhFS3paRU12ajRpVUo2ODFDbVczM3BwQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Some Git over HTTPS may temporarily require authentication - The GitHub Blog",
+        "status": "Cross-source coverage",
+        "common_context": "Some Git over HTTPS may temporarily require authentication The GitHub Blog",
+        "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "19 Oct 2026",
+            "point": "Some Git over HTTPS may temporarily require authentication The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMThEejRQWllKeWk5WkMyQm9yR1psYlEwemZEYmJNTGxhWEZFc0d0RlAyQzQ1VnlkSWV2enRoRy1ybVM4eFdfMlJCY0JrbExPY3laVlRjWC1NN19KZkFwVXhVd3FlcmJ0U3pTdkZRRDBNS1RxclR1eUF2b0RqMl9aSmZmRTFBV2JvdTY0LWEtbkptRUlXSUs5dzA0Uk9GQkFMbmc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "19 Oct 2026",
+            "point": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaEoxR3hIZ0ZOeDNlVlFrVFhHdmFJRmlVNnZTRS1XLVVfTHp6V0hqQUljcERwaWJ6UjZDa0xJajNhMmNnZE8xUmhWRHdfYzFWUmR3NFNyTnE1bUJWLVoyRWZ6eXBSSzVtUkw5ZktqcHBkME1VYWdOTk55TzA4RU5oem9FV1FMcmd5Qll3aW94enVqbHVVdElz?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      }
+    ]
   },
   "engine": {
     "model": "none",

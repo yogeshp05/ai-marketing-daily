@@ -12,7 +12,7 @@
   "ticker": [
     "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts - Search Engine Land",
     "Marketing to AI Agents cartoon - Marketoonist - Marketoonist | Tom Fishburne",
-    "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation - Dynamic Business",
+    "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
     "How Businesses Can Build an AI-Powered Marketing Strategy - Techfunnel",
     "Google Tag Manager Update Promises Faster Websites and Simpler Tracking - ALM Corp",
     "Google Ads Adds Channel Priorities and Budget Allocation Controls - Affiverse",
@@ -29,6 +29,14 @@
           "source": "Search Engine Land",
           "when": "20 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGp3NGxqX0VrUng2czBQbjBmRWplY2JZUWRBSVBYV2hoRnFfUTBiLXNnUWl2N1c1VWdNdTNvZlJIRWREcVpEcnpYcVRjWWVmNnFYTXBlTFRISWNLeDFneHZveGVZYTZuaHlTLW9LVjZmbTFJMEptX011LUdxbUp6ZHUycmJ4RVpoWlpTaU5Ja2VrcDJQRFpkUkF2bkRjVEtubGtldkZiTUw1VlhfeF9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
+          "summary": "About the AI campaign localization tool for Search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "20 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -237,14 +245,6 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation - Dynamic Business",
-          "summary": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Dynamic Business",
-          "when": "19 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWU4M1ZMNjJsaHdfQ3VwTTJWU3NCUHJ6cEx2azR0Z19LcFMybjlzdnBqWW9qUmxvYTVSTmZCamJOWU9rQkJvX3BJVndoOXN4bW84Y0FRZUd1UlQzeU9ZS0N4Y3ZDcE96YktFS0t1VUFieUxORWgyd3ZaOUZPc2tLcGo3R2FLaGxveEVMYW5Sd1VrZWlGQzRMLV85X09sUVNYWDA2U1lfNU8ycWtNdGdyMVBCUXdDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Alloy Enhances Fraud Prevention with AI-Powered Tools - Dynamic Business",
           "summary": "Alloy Enhances Fraud Prevention with AI-Powered Tools Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Dynamic Business",
@@ -273,10 +273,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts - Search Engine Land",
+        "topic": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
         "status": "Cross-source coverage",
-        "common_context": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts Search Engine Land",
+        "common_context": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
         "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "20 Oct 2026",
+            "point": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Search Engine Land",
             "when": "20 Oct 2026",
@@ -294,26 +300,6 @@
             "when": "19 Oct 2026",
             "point": "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution PPC Land",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTE1iUDgwOFhSYmdkZUhmZ3ZJRjRzUVZtR2h3Wk84cFJFWlE1RkNIcGF5LTUxVmhvNjBGckFlSkp5SFRQcXlvZzhfcG5uR0RLRlJtUnhnd2VDTExiUkx6YlRiNGw2Y09IZmtCZ1d4OXpNYlpvZEtkS2doeUhncE5pOXlheUlCQjJiNnZzdHdsdmJjZUk?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation - Dynamic Business",
-        "status": "Cross-source coverage",
-        "common_context": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation Dynamic Business",
-        "unique_points": [
-          {
-            "source": "Dynamic Business",
-            "when": "19 Oct 2026",
-            "point": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation Dynamic Business",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWU4M1ZMNjJsaHdfQ3VwTTJWU3NCUHJ6cEx2azR0Z19LcFMybjlzdnBqWW9qUmxvYTVSTmZCamJOWU9rQkJvX3BJVndoOXN4bW84Y0FRZUd1UlQzeU9ZS0N4Y3ZDcE96YktFS0t1VUFieUxORWgyd3ZaOUZPc2tLcGo3R2FLaGxveEVMYW5Sd1VrZWlGQzRMLV85X09sUVNYWDA2U1lfNU8ycWtNdGdyMVBCUXdDdw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Dynamic Business",
-            "when": "19 Oct 2026",
-            "point": "Alloy Enhances Fraud Prevention with AI-Powered Tools Dynamic Business",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0w1UWlEb0E2WkdVZWVpTm5HVUtrMDhsdkxzcFhBTmpEb2tQNlljRWIzVTJQZTZyTk41ZnFGa0llUGQ0ZDcwZDBFa1oxalZ4ZTl6b1hJbXcwVkNBMnRNZlkyOHVBamNLNmlLaXpOY3d6NXpmZGtOY0V1dVcxWmlMUWptTVhFS3paRU12ajRpVUo2ODFDbVczM3BwQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

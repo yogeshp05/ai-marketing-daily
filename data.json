@@ -1,19 +1,20 @@
 {
   "date": "19 October 2026",
   "lead": {
-    "title": "Google Ads adds channel prioritization and channel-level budget allocation",
-    "deck": "Google’s 14 October update gives advertisers more granular control over where campaign budgets flow. The new controls are rolling out across Search, Shopping, Performance Max and Demand Gen, with a February 2027 Display Expansion migration to plan for.",
-    "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-    "source": "Google Ads & Commerce (official)",
-    "when": "14 Oct 2026",
+    "title": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation - Dynamic Business",
+    "deck": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWU4M1ZMNjJsaHdfQ3VwTTJWU3NCUHJ6cEx2azR0Z19LcFMybjlzdnBqWW9qUmxvYTVSTmZCamJOWU9rQkJvX3BJVndoOXN4bW84Y0FRZUd1UlQzeU9ZS0N4Y3ZDcE96YktFS0t1VUFieUxORWgyd3ZaOUZPc2tLcGo3R2FLaGxveEVMYW5Sd1VrZWlGQzRMLV85X09sUVNYWDA2U1lfNU8ycWtNdGdyMVBCUXdDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Dynamic Business",
+    "when": "19 Oct 2026",
     "image": ""
   },
-  "note": "Today's edition prioritizes fresh developments, then fills platforms without verified new announcements with clearly dated 2026 YTD updates. Confirmed product updates, official guidance and editorial analysis are labeled separately. Older stories are not presented as breaking news.",
+  "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Google Ads: channel prioritization and budget allocation",
-    "Google Ads API v26 released; twice-monthly cadence begins",
-    "Microsoft Advertising: holiday-shopping guidance",
-    "TikTok announces Ads MCP and TikTok Ad Network"
+    "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation - Dynamic Business",
+    "How Businesses Can Build an AI-Powered Marketing Strategy - Techfunnel",
+    "ChatGPT Ads Manager sharpens conversion reporting - ContentGrip",
+    "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 - The GitHub Blog",
+    "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution - PPC Land"
   ],
   "sections": [
     {
@@ -25,7 +26,7 @@
           "source": "Google Ads & Commerce / Google Ads Help",
           "when": "14 Oct 2026",
           "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-          "image": "",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_g0ufmwQ.width-1300.png",
           "status": "Confirmed product update",
           "why": "This adds control between leaving a channel fully enabled and switching it off. It also creates a migration task ahead of February 2027 for Search campaigns using Display Expansion.",
           "use_case": "Audit Search, Shopping, Performance Max and Demand Gen settings; decide which channels are high vs low priority; apply caps only where supported; document a baseline and monitor spend, conversions, CPA/ROAS by channel. Check the Help Center for account rollout and eligibility."
@@ -63,7 +64,7 @@
           "source": "Microsoft Advertising (official)",
           "when": "27 Aug 2026",
           "url": "https://www.about.ads.microsoft.com/en/blog/post/august-2026/reimagining-search-campaigns-for-the-ai-era-with-ai-max",
-          "image": "",
+          "image": "https://about.ads.microsoft.com/content/dam/sites/msa-about/global/common/content-lib/blogs/blog/2026/08/pub_NewHero_88758_1688x630.png",
           "status": "Confirmed product update",
           "why": "AI-assisted matching and landing-page selection can expand query coverage but also require careful quality controls.",
           "use_case": "Pilot on a limited campaign set; review search terms, URL expansion and brand controls; compare qualified conversions and CPA against a control."
@@ -90,7 +91,7 @@
           "source": "Meta Engineering",
           "when": "2026 YTD",
           "url": "https://engineering.fb.com/2026/",
-          "image": "",
+          "image": "https://engineering.fb.com/wp-content/themes/code-fb-com/img/default_feature.jpg",
           "status": "Company-reported technology update",
           "why": "Ad delivery increasingly depends on ranking models matching creative and audience signals; creative testing and conversion signal quality remain important.",
           "use_case": "Keep creative concepts distinct, maintain reliable conversion events and judge results on qualified conversions or revenue—not CTR alone."
@@ -117,7 +118,7 @@
           "source": "Amazon Ads (official)",
           "when": "29 Sep 2026",
           "url": "https://advertising.amazon.com/en-us/library/news/amazon-ads-agent/",
-          "image": "",
+          "image": "https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/nws_ads-agent-thumbnail_1.jpg",
           "status": "Confirmed announcement; rollout may vary",
           "why": "Conversational assistance can speed planning and analysis, but account changes still need controls and validation.",
           "use_case": "Trial on a limited scope; require human approval for budgets, bids, targeting and campaign status; log recommendations and compare with actual outcomes."
@@ -133,7 +134,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "",
+          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -144,26 +145,12 @@
       "name": "LinkedIn Ads",
       "stories": [
         {
-          "title": "LinkedIn expands AI-assisted ad copy and creative variants",
-          "summary": "YTD UPDATE. LinkedIn’s 2026 product updates describe AI-assisted first drafts, ad-copy variants, multiple creative combinations and Brand Kit controls. Feature availability can vary by account and rollout.",
-          "source": "LinkedIn Marketing Solutions",
-          "when": "30 Jun 2026",
-          "url": "https://www.business.linkedin.com/advertise/ads/product-updates",
-          "image": "",
-          "status": "Confirmed product capabilities; availability may vary",
-          "why": "B2B teams can test more messages without scaling manual production at the same rate.",
-          "use_case": "Create variants for different buying-committee roles, keep claims approved, and compare qualified leads and pipeline—not CTR alone."
-        },
-        {
-          "title": "LinkedIn shares guidance for B2B visibility in AI search",
-          "summary": "YTD UPDATE. LinkedIn published advice on making B2B expertise easier to discover in AI-powered search, including structured answers and distinctive first-hand insight. This is editorial guidance, not a ranking guarantee.",
-          "source": "LinkedIn Marketing Blog",
-          "when": "11 Aug 2026",
-          "url": "https://www.linkedin.com/business/marketing/blog/ai-search/how-b2b-marketers-can-dominate-ai-search-on-linkedin-2026",
-          "image": "",
-          "status": "Official guidance",
-          "why": "AI search increases the importance of useful, attributable expertise and content that directly answers buyer questions.",
-          "use_case": "Publish expert-led answers with evidence and clear structure; monitor qualified referrals where measurable."
+          "title": "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution - PPC Land",
+          "summary": "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PPC Land",
+          "when": "19 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTE1iUDgwOFhSYmdkZUhmZ3ZJRjRzUVZtR2h3Wk84cFJFWlE1RkNIcGF5LTUxVmhvNjBGckFlSkp5SFRQcXlvZzhfcG5uR0RLRlJtUnhnd2VDTExiUkx6YlRiNGw2Y09IZmtCZ1d4OXpNYlpvZEtkS2doeUhncE5pOXlheUlCQjJiNnZzdHdsdmJjZUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -176,7 +163,7 @@
           "source": "Google Search Central",
           "when": "24 Sep 2026",
           "url": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
-          "image": "",
+          "image": "https://developers.google.com/static/search/blog/images/lens_pr_image_new@2x.png",
           "status": "Confirmed reporting update",
           "why": "Visual discovery can generate impressions and clicks that traditional keyword-focused reporting misses.",
           "use_case": "Inspect the new search-type reporting where available; improve descriptive image context and product imagery; compare impressions and clicks over time."
@@ -198,26 +185,20 @@
       "name": "Analytics",
       "stories": [
         {
-          "title": "Google Ads channel controls make channel-level reporting more actionable",
-          "summary": "YTD EDITORIAL APPLICATION. Google’s 14 October channel-prioritization release makes it important to separate channel-level spend and outcomes when assessing budget allocation. This is an implementation recommendation, not a separate product launch.",
-          "source": "Google Ads Help",
-          "when": "14 Oct 2026",
-          "url": "https://support.google.com/google-ads/answer/18385152?hl=en",
-          "image": "",
-          "status": "Editorial application of confirmed update",
-          "why": "Account-level totals can conceal shifts in spend across Search, Search partners and Display.",
-          "use_case": "Annotate configuration changes, compare channel-level spend and conversions, and evaluate CPA/ROAS before and after settings change."
+          "title": "How Businesses Can Build an AI-Powered Marketing Strategy - Techfunnel",
+          "summary": "How Businesses Can Build an AI-Powered Marketing Strategy Techfunnel. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "Techfunnel",
+          "when": "19 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4elN3YkJPVk1QeW02QndWTHVQU28xc3kycEtGUl9rWDlGWjFCQ0VpbjVJN18xNzg1NXlNTXpFNnhqTmtUa1VLSGdBVnZHMmN5RTVyTUk5M3VhLUpDNS1ZRG1tU000OUdfMGJPUGc0Z3FVWTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         },
         {
-          "title": "Conversion measurement checklist before scaling automated bidding",
-          "summary": "YTD PRACTICE. Validate event definitions, deduplication, consent settings, enhanced conversions or server-side integrations where supported, CRM lead quality and revenue feedback. This is an editorial checklist, not a platform announcement.",
-          "source": "AI Marketing Daily editorial analysis",
+          "title": "ChatGPT Ads Manager sharpens conversion reporting - ContentGrip",
+          "summary": "ChatGPT Ads Manager sharpens conversion reporting ContentGrip. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "ContentGrip",
           "when": "19 Oct 2026",
-          "url": "https://support.google.com/google-ads/answer/18385152?hl=en",
-          "image": "",
-          "status": "Commentary / practical checklist",
-          "why": "Automation optimizes toward the signals it receives; poor or duplicated conversion data can distort bidding decisions.",
-          "use_case": "Reconcile ad-platform conversions with analytics and CRM outcomes weekly, and annotate tracking changes before interpreting performance shifts."
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xMVVGaGFJcEhfVTVyTGk2ZkwwdF9sV3U5WUNZbTBldWlaZjMyaVFUYnMzV001TWp5ZzFYTC14Sk53YXRsbzRfT2RYVzlCR0NWbXZIOEstRGxrWmprLVBYYU5JX3lRblE1OFVwSlhwZ1M?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -225,26 +206,12 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "TikTok Ads MCP signals a growing ecosystem for agent-assisted ad operations",
-          "summary": "YTD UPDATE. TikTok’s October announcement adds an MCP interface for building AI tools around advertising workflows. MCP is an integration mechanism, not a guarantee that an agent is safe or authorized to make changes.",
-          "source": "TikTok Newsroom",
-          "when": "5 Oct 2026",
-          "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "",
-          "status": "Confirmed announcement",
-          "why": "Marketing agents can automate more steps, which makes access control, logging and approval boundaries essential.",
-          "use_case": "Begin read-only; allowlist tools; require explicit approval for budget, bid, audience and campaign-status changes."
-        },
-        {
-          "title": "Google Ads API release cadence accelerates for automation teams",
-          "summary": "YTD UPDATE. Starting with v26, Google plans two API releases per month while retaining four major releases annually. The increased cadence is particularly relevant to integrations and agent workflows that depend on stable API behavior.",
-          "source": "Google Ads Developer Blog",
-          "when": "12 Oct 2026",
-          "url": "https://ads-developers.googleblog.com/2026/10/google-ads-api-release-sunset-schedules-2026-2027.html",
-          "image": "",
-          "status": "Confirmed developer roadmap",
-          "why": "Agents and scripts need current schemas and compatibility checks to avoid using outdated capabilities.",
-          "use_case": "Monitor release notes and sunset schedules; test tool calls in staging; keep a human approval gate for write operations."
+          "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 - The GitHub Blog",
+          "summary": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "19 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaEoxR3hIZ0ZOeDNlVlFrVFhHdmFJRmlVNnZTRS1XLVVfTHp6V0hqQUljcERwaWJ6UjZDa0xJajNhMmNnZE8xUmhWRHdfYzFWUmR3NFNyTnE1bUJWLVoyRWZ6eXBSSzVtUkw5ZktqcHBkME1VYWdOTk55TzA4RU5oem9FV1FMcmd5Qll3aW94enVqbHVVdElz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -257,7 +224,7 @@
           "source": "LinkedIn Marketing Solutions",
           "when": "30 Jun 2026",
           "url": "https://www.business.linkedin.com/advertise/ads/product-updates",
-          "image": "",
+          "image": "https://www.business.linkedin.com/content/dam/lem/business/en/advertise/ads/product-updates/EN-Product-Updates-Social-Share.jpg",
           "status": "Confirmed product capabilities",
           "why": "AI increases creative throughput, but producing more variants is only useful if tests isolate meaningful differences.",
           "use_case": "Test one proposition or audience-specific message at a time; retain brand/legal review and judge by qualified lead quality."
@@ -268,15 +235,12 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "A safer operating model for marketing agents: read, recommend, approve, act",
-          "summary": "YTD EDITORIAL GUIDANCE. As ad platforms expose MCP and conversational workflows, separate analysis from execution. This is editorial advice, not a platform launch.",
-          "source": "AI Marketing Daily editorial analysis",
+          "title": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation - Dynamic Business",
+          "summary": "Structured Partner Marketing Module: AI-Driven Partner Campaign Automation Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Dynamic Business",
           "when": "19 Oct 2026",
-          "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "",
-          "status": "Commentary / operational guidance",
-          "why": "Broad agent permissions can turn an analysis workflow into an unintended account change.",
-          "use_case": "Start read-only, scope allowed tools, require approval for consequential writes, maintain logs and define rollback procedures."
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWU4M1ZMNjJsaHdfQ3VwTTJWU3NCUHJ6cEx2azR0Z19LcFMybjlzdnBqWW9qUmxvYTVSTmZCamJOWU9rQkJvX3BJVndoOXN4bW84Y0FRZUd1UlQzeU9ZS0N4Y3ZDcE96YktFS0t1VUFieUxORWgyd3ZaOUZPc2tLcGo3R2FLaGxveEVMYW5Sd1VrZWlGQzRMLV85X09sUVNYWDA2U1lfNU8ycWtNdGdyMVBCUXdDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -289,7 +253,7 @@
           "source": "Microsoft Advertising / Google Ads",
           "when": "13–15 Oct 2026",
           "url": "https://www.about.ads.microsoft.com/en/blog?news=Announcement",
-          "image": "",
+          "image": "https://about.ads.microsoft.com/content/dam/sites/msa-about/global/common/content-lib/blog/thumbnail/MSA_BlogWebcastsAndInsights_Thumbnail_01_407x229_2x.jpg",
           "status": "Editorial synthesis",
           "why": "Incorrect price, stock, promotions or product details can waste seasonal media and damage conversion rates.",
           "use_case": "Validate titles, GTINs, price, availability, shipping, promotions and landing-page consistency before increasing seasonal budgets."
@@ -299,55 +263,14 @@
   ],
   "summary": {
     "title": "Summary — What’s Actually New",
-    "intro": "The newest actionable Google Ads developments are channel prioritization/budget allocation (14 Oct), API v26 (14 Oct), and the faster API release cadence (12 Oct). Other platforms are covered with dated YTD updates where no newer verified product announcement was established. Guidance and editorial applications are explicitly labeled.",
-    "topics": [
-      {
-        "topic": "Google Ads channel controls",
-        "status": "Confirmed product update · 14 Oct 2026",
-        "common_context": "Advertisers can prioritize channels and set best-effort budget allocation for low-priority channels as the controls roll out.",
-        "unique_points": [
-          {
-            "source": "Google Ads & Commerce",
-            "when": "14 Oct 2026",
-            "point": "Search, Shopping, Performance Max and Demand Gen are included in the rollout; Demand Gen does not support channel budget allocation.",
-            "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/"
-          },
-          {
-            "source": "Google Ads Help",
-            "when": "Updated Oct 2026",
-            "point": "From February 2027, Search campaigns with Display Expansion migrate; low-priority GDN with 50% allocation is Google's documented way to preserve the current setup.",
-            "url": "https://support.google.com/google-ads/answer/18385152?hl=en"
-          }
-        ],
-        "bottom_line": "Audit channel settings and budget caps now, and document campaign-level baselines before applying changes."
-      },
-      {
-        "topic": "Google Ads API v26 and release cadence",
-        "status": "Confirmed developer update · 12–14 Oct 2026",
-        "common_context": "v26 is released and Google plans two API releases per month while retaining four major releases per year.",
-        "unique_points": [
-          {
-            "source": "Google Ads Developer Blog",
-            "when": "14 Oct 2026",
-            "point": "v26 includes new capabilities and changes that API integrations should review before upgrading.",
-            "url": "https://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html"
-          },
-          {
-            "source": "Google Ads Developer Blog",
-            "when": "12 Oct 2026",
-            "point": "Release notes become more important as release blog posts and live walkthroughs move to a lower cadence.",
-            "url": "https://ads-developers.googleblog.com/2026/10/google-ads-api-release-sunset-schedules-2026-2027.html"
-          }
-        ],
-        "bottom_line": "Add release-note monitoring, staging tests and sunset-date tracking to API and agent workflows."
-      }
-    ]
+    "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
+    "topics": []
   },
   "engine": {
     "model": "none",
-    "research": "official-source-first research with dated YTD fallback; no AI API dependency",
-    "window": "fresh updates prioritized from last 24–48 hours; YTD fallback from 1 Jan through 19 Oct 2026",
-    "refresh_target": "frequent automated refresh; blank categories retain dated YTD coverage",
+    "research": "official-domain Google News RSS searches first, then broader news discovery and source-page metadata",
+    "window": "rolling 36 hours; no minimum story age",
+    "refresh_target": "every 5 minutes; scheduled runs and search indexing may be delayed",
     "api_credits_required": false
   }
 }

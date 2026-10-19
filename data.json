@@ -1,278 +1,126 @@
 {
   "date": "19 October 2026",
   "lead": {
-    "title": "Google expands Demand Gen measurement with Data Strength Uplift",
-    "deck": "Google Ads’ October Demand Gen update adds a Data Strength Uplift metric and expands first-party data management across DV360 and Google Analytics. It is the clearest recent, actionable measurement update for performance marketers.",
-    "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
-    "source": "Google Ads & Commerce (official)",
-    "when": "13 Oct 2026",
+    "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+    "deck": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Google Help",
+    "when": "18 Oct 2026",
     "image": ""
   },
-  "note": "Editorial policy: prioritize verified updates from the last 24–48 hours. When a platform has no verified fresh announcement, include its most relevant verified 2026 YTD update and label it accordingly. Do not imply that an older update is new today. Official sources are preferred; company-reported performance claims are attributed.",
+  "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Google: Demand Gen adds Data Strength Uplift reporting",
-    "Microsoft Advertising: holiday-shopping guidance published 15 October",
-    "TikTok: Ads MCP and TikTok Ad Network announced in October",
-    "LinkedIn: AI-assisted creative tools and variants documented in 2026 updates"
+    "Update your app SDK version for Google Ads conversion measurement - Google Help",
+    "Browse the Google Ads Community - Google Help",
+    "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution - PPC Land"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "October Demand Gen drop adds Data Strength Uplift",
-          "summary": "CONFIRMED PRODUCT UPDATE — 13 Oct 2026. Google says a new Data Strength Uplift metric is launching in Google Ads to help advertisers understand conversion gains associated with their data setup. Data Manager is expanding to Display & Video 360 and Google Analytics; enhanced conversions are planned for DV360 and GA. Why it matters: first-party data quality and measurement coverage increasingly influence automated campaign optimization. Practical use: audit Google Tag Gateway, enhanced conversions, consent-aware tagging and imported first-party data; compare conversion volume and value before and after changes without treating Google’s reported average uplift as a guarantee for your account.",
-          "source": "Google Ads & Commerce (official)",
-          "when": "13 Oct 2026",
-          "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
-          "image": "",
-          "status": "Confirmed product update"
+          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "18 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         },
         {
-          "title": "AI Max reporting and AI Brief language expansion",
-          "summary": "YTD UPDATE — 23 Sep 2026. Google announced additional AI Brief languages in closed beta and a unified reporting view connecting search terms, creative assets and landing pages in the AI Max journey. Why it matters: marketers can better inspect how AI-assisted matching and creative decisions contribute to outcomes. Practical use: when available, review query-to-asset-to-landing-page paths and use findings to refine exclusions, messaging and landing pages.",
-          "source": "Google Ads & Commerce (official)",
-          "when": "23 Sep 2026",
-          "url": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
-          "image": "",
-          "status": "Confirmed announcement; availability may vary"
+          "title": "Browse the Google Ads Community - Google Help",
+          "summary": "Browse the Google Ads Community Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "18 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWw1UW5yMlZISndkYUpfNUtlMUVyUklTNjRKaTNhMWVhVEw1Q0VMSG5MSThfWXYwd2xHaG1FN1BZdEU4NWhwa203Ykk0UThGbVBGeTNMcDhvaTVIRVFoeGxLX0M0Y3ZZRnpUQ25lSjlXUmpEOS1oUk1VVnNremQ5STU5Q2hLVG1JZDk4R0ZGdGZaUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
     {
       "name": "Microsoft Ads",
-      "stories": [
-        {
-          "title": "Holiday planning: connect Search, Shopping and Audience campaigns",
-          "summary": "YTD UPDATE — 15 Oct 2026. Microsoft Advertising published guidance on earning a place on shoppers’ holiday shortlists, emphasizing product feeds, AI, Search, Shopping and Audience ads. This is strategic guidance, not a newly announced campaign feature. Why it matters: product data quality and coordinated intent coverage are central to seasonal demand capture. Practical use: validate Merchant Center/feed attributes, promotions, stock and landing pages; align branded and non-branded Search with Shopping and Audience retargeting, then measure incremental performance separately.",
-          "source": "Microsoft Advertising Blog (official)",
-          "when": "15 Oct 2026",
-          "url": "https://www.about.ads.microsoft.com/en/blog?news=Announcement",
-          "image": "",
-          "status": "Official guidance; not a product launch"
-        },
-        {
-          "title": "AI Max for Search campaigns",
-          "summary": "YTD UPDATE — 27 Aug 2026. Microsoft introduced AI Max for standard Search campaigns, combining AI-assisted search-term matching, text customization and final URL expansion with reporting and brand controls. Why it matters: advertisers can test broader intent discovery while retaining oversight. Practical use: pilot on a limited campaign set, review search terms and landing-page selections, apply brand controls and exclusions, and compare qualified conversions and CPA against a control.",
-          "source": "Microsoft Advertising (official)",
-          "when": "27 Aug 2026",
-          "url": "https://www.about.ads.microsoft.com/en/blog/post/august-2026/reimagining-search-campaigns-for-the-ai-era-with-ai-max",
-          "image": "",
-          "status": "Confirmed product update"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Meta Ads",
-      "stories": [
-        {
-          "title": "Meta’s AI-powered feed controls offer a signal about personalization",
-          "summary": "YTD UPDATE — 13 Oct 2026. Meta introduced “Your Algorithm,” allowing Facebook users to describe interests that shape Feed and Reels recommendations. This is an organic recommendation-system update, not an Ads Manager targeting feature. Why marketers should care: user-controlled personalization reinforces the importance of creative relevance and clear audience value. Practical use: test creative concepts around distinct interests and needs, but do not assume these controls change paid-ad targeting or delivery.",
-          "source": "Meta Newsroom (official)",
-          "when": "13 Oct 2026",
-          "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
-          "image": "",
-          "status": "Confirmed platform update; organic recommendations"
-        },
-        {
-          "title": "Meta One brings more AI features into its consumer ecosystem",
-          "summary": "YTD UPDATE — Sep 2026. Meta announced Meta One, a subscription service spanning Facebook, Instagram, WhatsApp and Meta AI with expanded AI usage and features. This is an ecosystem product announcement, not evidence of a new advertising placement. Practical use: monitor how user behavior and AI-assisted content creation evolve; continue to evaluate paid campaign performance using Ads Manager and independent conversion measurement.",
-          "source": "Meta Newsroom (official)",
-          "when": "Sep 2026",
-          "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
-          "image": "",
-          "status": "Confirmed announcement; ad impact not established"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Amazon Ads",
-      "stories": [
-        {
-          "title": "Amazon Ads Agent unifies campaign workflows with agentic AI",
-          "summary": "YTD UPDATE — 29 Sep 2026. Amazon announced Amazon Ads Agent, an AI-powered platform experience bringing Sponsored Ads, Full-Funnel Campaigns, and Display, Video and Audio together, with conversational assistance for planning, setup and insights. DVA+ was announced for rollout beginning in late October. Why it matters: media planning and campaign operations may become more conversational, but rollout and feature availability should be checked. Practical use: trial recommendations on a controlled scope; require human review of budgets, targeting, supply, frequency caps and bids before changes go live.",
-          "source": "Amazon Ads (official)",
-          "when": "29 Sep 2026",
-          "url": "https://advertising.amazon.com/en-us/library/news/amazon-ads-agent/",
-          "image": "",
-          "status": "Confirmed announcement; some features rolling out"
-        },
-        {
-          "title": "Unify retail media planning with full-funnel measurement",
-          "summary": "YTD EDITORIAL APPLICATION. Use Amazon’s full-funnel campaign direction as a prompt to map Sponsored Ads and upper-funnel media against business outcomes. Practical use: distinguish new-to-brand customers, branded demand capture, product detail-page engagement and sales; avoid attributing every downstream sale to the last ad interaction.",
-          "source": "Editorial analysis based on Amazon Ads announcement",
-          "when": "19 Oct 2026",
-          "url": "https://advertising.amazon.com/en-us/library/news/amazon-ads-agent/",
-          "image": "",
-          "status": "Commentary; not a separate product update"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "TikTok Ads",
-      "stories": [
-        {
-          "title": "TikTok announces Ads MCP and TikTok Ad Network",
-          "summary": "YTD UPDATE — 5 Oct 2026. TikTok announced TikTok Ad Network for US advertisers to extend campaigns beyond TikTok across a network of apps, and TikTok for Business MCP to let developers build AI agents and tools for campaign planning, launch and management. Why it matters: this opens a path for agent-assisted workflows and off-platform reach, subject to availability and controls. Practical use: evaluate placement transparency, brand safety, conversion measurement and incremental reach; test any MCP-enabled workflow in read-only or approval-required mode before permitting campaign changes.",
-          "source": "TikTok Newsroom (official)",
-          "when": "5 Oct 2026",
-          "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "",
-          "status": "Confirmed announcement; rollout/eligibility may vary"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "LinkedIn Ads",
       "stories": [
         {
-          "title": "LinkedIn expands AI-assisted ad creation and creative variants",
-          "summary": "YTD UPDATE — 30 Jun 2026. LinkedIn’s product update listing describes AI-generated first drafts from advertiser inputs or URLs, AI ad-copy variants, flexible creation of multiple creative combinations, real-time personalization and Brand Kit controls. Why it matters: B2B teams can create and test more message variations without multiplying manual production work. Practical use: generate variants for different buying-committee roles, keep claims grounded in approved messaging, and test by audience segment while monitoring qualified leads and pipeline—not CTR alone.",
-          "source": "LinkedIn Marketing Solutions (official)",
-          "when": "30 Jun 2026",
-          "url": "https://www.business.linkedin.com/advertise/ads/product-updates",
-          "image": "",
-          "status": "Confirmed product capabilities; availability may vary"
-        },
-        {
-          "title": "LinkedIn’s AI search guidance emphasizes distinctive B2B expertise",
-          "summary": "YTD UPDATE — 11 Aug 2026. LinkedIn published guidance on how B2B brands can improve their visibility in AI search, recommending extractable structure, clear answer blocks and distinctive first-hand points of view. This is editorial guidance, not a ranking guarantee. Practical use: publish expert-led pages answering specific buyer questions, support claims with evidence and track referral traffic and qualified demand from AI-driven discovery where measurable.",
-          "source": "LinkedIn Marketing Blog (official)",
-          "when": "11 Aug 2026",
-          "url": "https://www.linkedin.com/business/marketing/blog/ai-search/how-b2b-marketers-can-dominate-ai-search-on-linkedin-2026",
-          "image": "",
-          "status": "Official guidance"
+          "title": "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution - PPC Land",
+          "summary": "LinkedIn says Zembl won 82% more ABM budget after rebuilding attribution PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PPC Land",
+          "when": "19 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTE1iUDgwOFhSYmdkZUhmZ3ZJRjRzUVZtR2h3Wk84cFJFWlE1RkNIcGF5LTUxVmhvNjBGckFlSkp5SFRQcXlvZzhfcG5uR0RLRlJtUnhnd2VDTExiUkx6YlRiNGw2Y09IZmtCZ1d4OXpNYlpvZEtkS2doeUhncE5pOXlheUlCQjJiNnZzdHdsdmJjZUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
     {
       "name": "Search & SEO",
-      "stories": [
-        {
-          "title": "Search Console adds multimodal search performance reporting",
-          "summary": "YTD UPDATE — 24 Sep 2026. Google announced Search Console reporting for web multimodal searches, including Google Lens, Circle to Search, image uploads and image-based search actions. Why it matters: visual discovery can generate visibility that conventional keyword analysis misses. Practical use: inspect the new search-type filter and exports, improve descriptive image context and product imagery, and compare impressions/clicks where the report has data.",
-          "source": "Google Search Central (official)",
-          "when": "24 Sep 2026",
-          "url": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
-          "image": "",
-          "status": "Confirmed reporting update; rollout may vary"
-        },
-        {
-          "title": "Google publishes guidance for visibility in generative Search",
-          "summary": "YTD UPDATE — 15 May 2026. Google’s resource explains how existing SEO fundamentals continue to apply to generative Search features, emphasizing unique useful content and relevant local, shopping, image and video information. It also addresses common AEO/GEO misconceptions. Practical use: answer real customer questions clearly, demonstrate first-hand expertise, keep structured information accurate and measure Search Console outcomes rather than relying on unsupported “AI ranking hacks.”",
-          "source": "Google Search Central (official)",
-          "when": "15 May 2026",
-          "url": "https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing",
-          "image": "",
-          "status": "Official guidance"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Analytics",
-      "stories": [
-        {
-          "title": "Adobe Marketing Campaign Analytics focuses on faster cross-channel ROI analysis",
-          "summary": "YTD UPDATE — 20 Apr 2026. Adobe announced Marketing Campaign Analytics, combining AI-powered insights and causal measurement to help teams assess incremental marketing impact, model scenarios and analyze channel interactions. Why it matters: platform-attributed conversions alone can obscure incrementality and budget trade-offs. Practical use: compare platform reporting with incrementality tests and modeled cross-channel results; document assumptions before reallocating budgets.",
-          "source": "Adobe Business (official)",
-          "when": "20 Apr 2026",
-          "url": "https://business.adobe.com/blog/announcing-adobe-marketing-campaign-analytics",
-          "image": "",
-          "status": "Confirmed product announcement"
-        },
-        {
-          "title": "Strengthen conversion measurement before scaling automated campaigns",
-          "summary": "EDITORIAL CHECKLIST. Across platforms, validate event definitions, deduplication, consent settings, enhanced conversions/server-side integrations where supported, CRM lead quality and revenue feedback. Why it matters: automation optimizes toward the signals it receives. Practical use: reconcile platform conversions with analytics and CRM outcomes weekly, and annotate tracking changes before interpreting performance shifts.",
-          "source": "AI Marketing Daily editorial analysis",
-          "when": "19 Oct 2026",
-          "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
-          "image": "",
-          "status": "Commentary; not a product announcement"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "AI & Agents",
-      "stories": [
-        {
-          "title": "Google expands agentic assistance across Ads and Analytics",
-          "summary": "YTD UPDATE — 10 Aug 2026. Google described Ask Advisor and new agentic experiences across Google Ads and Google Analytics to help users investigate performance and act within marketing workflows. Practical use: use the assistant to investigate anomalies and draft recommendations, then independently verify the underlying reports and require approval for consequential account changes.",
-          "source": "Google Ads & Commerce (official)",
-          "when": "10 Aug 2026",
-          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-          "image": "",
-          "status": "Confirmed announcement; access may vary"
-        },
-        {
-          "title": "TikTok’s Ads MCP signals a growing connector ecosystem",
-          "summary": "YTD UPDATE — 5 Oct 2026. TikTok announced a business MCP interface for building tools and agents around its advertising ecosystem. MCP is an integration approach, not a guarantee that an agent is safe or authorized to make changes. Practical use: define least-privilege access, restrict write actions, log tool calls and require approval for budget, bid, audience or campaign-status changes.",
-          "source": "TikTok Newsroom (official)",
-          "when": "5 Oct 2026",
-          "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "",
-          "status": "Confirmed announcement"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Creative AI & Design",
-      "stories": [
-        {
-          "title": "LinkedIn’s Brand Kit and AI variants support faster B2B creative testing",
-          "summary": "YTD UPDATE — 30 Jun 2026. LinkedIn lists AI drafts, ad-copy variations, creative combinations and Brand Kit settings among its Campaign Manager updates. Practical use: create controlled variations around one proposition at a time, preserve legal and brand review, and compare downstream lead quality to avoid optimizing only for cheap engagement.",
-          "source": "LinkedIn Marketing Solutions (official)",
-          "when": "30 Jun 2026",
-          "url": "https://www.business.linkedin.com/advertise/ads/product-updates",
-          "image": "",
-          "status": "Confirmed product capabilities"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "MarTech & Automation",
-      "stories": [
-        {
-          "title": "Build safer agent workflows around marketing platforms",
-          "summary": "YTD EDITORIAL GUIDANCE. As ad platforms expose more conversational and MCP-enabled workflows, agencies should separate analysis from execution. Practical use: begin with read-only access; scope allowed tools; use approval gates for writes; maintain audit logs and rollback instructions; never place credentials or customer data in prompts unnecessarily.",
-          "source": "AI Marketing Daily editorial analysis based on platform MCP announcements",
-          "when": "19 Oct 2026",
-          "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "",
-          "status": "Commentary; not a platform launch"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "Ecommerce",
-      "stories": [
-        {
-          "title": "Prepare product feeds and landing pages for AI-assisted holiday discovery",
-          "summary": "YTD UPDATE — Oct 2026. Google’s Demand Gen data-strength release and Microsoft’s holiday guidance both reinforce the importance of clean first-party measurement and accurate product information. Practical use: check titles, GTINs, price, stock, promotions, shipping, landing-page consistency and consent-aware conversion signals before increasing seasonal budgets.",
-          "source": "Google Ads & Commerce; Microsoft Advertising (official)",
-          "when": "13–15 Oct 2026",
-          "url": "https://www.about.ads.microsoft.com/en/blog?news=Announcement",
-          "image": "",
-          "status": "Editorial synthesis of official updates"
-        }
-      ]
+      "stories": []
     }
   ],
   "summary": {
     "title": "Summary — What’s Actually New",
-    "intro": "The newest actionable changes are Google’s October Demand Gen data-strength reporting, Microsoft’s 15 October holiday guidance, and Meta’s 13 October organic recommendation controls. TikTok’s Ads MCP and Ad Network, Amazon Ads Agent, LinkedIn’s AI creative tools, and Search Console’s multimodal reporting are important 2026 YTD developments—not news announced today. Commentary is labeled separately from confirmed product updates.",
+    "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
-      "Measurement: strengthen first-party data, enhanced conversions and CRM outcome feedback before scaling automation.",
-      "Paid media automation: AI Max, Amazon Ads Agent and TikTok Ads MCP increase the need for human approval, monitoring and clear access controls.",
-      "Creative: use AI to increase variant throughput, but test meaningful message differences and judge outcomes by qualified conversions or pipeline.",
-      "Search: track multimodal Search Console data and create useful, evidence-led content for both conventional and AI-assisted discovery.",
-      "YTD completeness: every major paid platform has a verified update or guidance item; older items are explicitly dated and not presented as breaking news."
+      {
+        "topic": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+        "status": "Cross-source coverage",
+        "common_context": "Update your app SDK version for Google Ads conversion measurement Google Help",
+        "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "18 Oct 2026",
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "18 Oct 2026",
+            "point": "Browse the Google Ads Community Google Help",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWw1UW5yMlZISndkYUpfNUtlMUVyUklTNjRKaTNhMWVhVEw1Q0VMSG5MSThfWXYwd2xHaG1FN1BZdEU4NWhwa203Ykk0UThGbVBGeTNMcDhvaTVIRVFoeGxLX0M0Y3ZZRnpUQ25lSjlXUmpEOS1oUk1VVnNremQ5STU5Q2hLVG1JZDk4R0ZGdGZaUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      }
     ]
   },
   "engine": {
     "model": "none",
-    "research": "official-source-first research plus selected industry coverage; YTD fallback applied where no fresh announcement was verified",
-    "window": "fresh updates prioritized from the last 24–48 hours; YTD fallback from 1 Jan 2026 through 19 Oct 2026",
-    "refresh_target": "daily edition; source indexing can delay discovery of very recent announcements",
+    "research": "official-domain Google News RSS searches first, then broader news discovery and source-page metadata",
+    "window": "rolling 36 hours; no minimum story age",
+    "refresh_target": "every 5 minutes; scheduled runs and search indexing may be delayed",
     "api_credits_required": false
   }
 }

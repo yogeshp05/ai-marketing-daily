@@ -11,10 +11,10 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Marketing to AI Agents cartoon - Marketoonist - Marketoonist | Tom Fishburne",
-    "AI agents could reshape digital advertising: InMobi’s Mohit Saxena - Livemint",
     "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
     "Radar Indexes 130,000+ Podcasts as AI Editing Lags Behind Search - DesignRush",
     "How Businesses Can Build an AI-Powered Marketing Strategy - Techfunnel",
+    "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats - ALM Corp",
     "#e4mXplains: Who's really in control? How Meta, Google and Amazon are rewriting the rules of AI advtg - Exchange4Media",
     "Advancing coding in low‑resource programming languages - OpenAI",
     "Google Tag Manager Update Promises Faster Websites and Simpler Tracking - ALM Corp"
@@ -37,14 +37,6 @@
           "source": "Exchange4Media",
           "when": "20 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcmlNeVFhMWI0Y3FiNG1oOUZrMkd3djR2WGNnOFE5Z1lCV0F0WDRxQWlHaFdjM3oyckY1a25ST1ZFem1fZ0hzdnRPMmstcFhCVmR4Sm1uVjE2NlR3dFZRLXprYndsNmtqeU9JRU82UmFXY2xRZ1R3V0praUxHcWdVNHlsSGl1M2VWdWpDN1ltSDJ4ZThtTk1TNGNpNUVQY0p5aFVaT3ZaWnlBTGpDUW1RVklaSHY2dVpmMjBEZUREbF9ZQVJaVTFGNXRGWmlNaUhKZ0RzS3dselI?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Automated bid for video reach campaigns - Google Help",
-          "summary": "Automated bid for video reach campaigns Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "19 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FYVkzYWh2VUlHZlV4eHdDdDVubjZLeDAxZi0zdnlNSzJ1YTRCa09XcTVCWTdpcG9zX0oyRlc1ZWVWYTRrbUFZMHpSYW56ZGNUa1VLWUo0T0xPM2NvYnFjczRhVmhhb2FMd2lqNk56aw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -196,6 +188,14 @@
           "image": ""
         },
         {
+          "title": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats - ALM Corp",
+          "summary": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats ALM Corp. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "ALM Corp",
+          "when": "20 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2JHd0RoOGtxVjVfZjUtTmZBY1Y0dTlZUjczMl9faVlvQTE3QkNBVmUxbktxV1I4azFYWXNudmlnWmlHckwwaGQ0bER5ajF1Y1ZXZjNMMUVoZGJRdXh4RWpJdDk1SHd4VmFwMV9MQmlhcEZfMjZYd0ljZFRRaVZDb3g2QVVhekJCXzVGNHNaaU5RTEJwOG5jNzYyT0NXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Google Tag Manager Update Promises Faster Websites and Simpler Tracking - ALM Corp",
           "summary": "Google Tag Manager Update Promises Faster Websites and Simpler Tracking ALM Corp. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
           "source": "ALM Corp",
@@ -286,14 +286,6 @@
           "when": "19 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56T1JzaENRNEhhVDlMSHA3aE9nM25QaDN5X0hGeXAwcWJUUjhFZHRWLTRZX2ZJUXNUWWZfWVRva25NdlR5VHhjUkd2T3ZiRW5uN0FtTVVXaGN5NmRBWFlmalBYNkgtcVVDbTI2VA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "AI agents could reshape digital advertising: InMobi’s Mohit Saxena - Livemint",
-          "summary": "AI agents could reshape digital advertising: InMobi’s Mohit Saxena Livemint. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Livemint",
-          "when": "19 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONGFZTXFIeG5pcHJUbkVoZ18tSUFhNlMzUWdFX081UGV0dVg5Q0hlVEJRb2RpTDJlTFdnWlo4UXJsVVVlOWU5OWJFTmo1dnhmSXZJSDhXZ0NRaEpKSzVtRlB5S1BnUVlSem1uREVyQjlZdy14dUxrYjF5RkhjWjQxYzh4Y3FNVzQzVl9SVEF0YWJ5SkVNU29TTGRYUDRQR0VGZmVvSTlUdGc5bTZaMDR5eUNkeWVpS3J2azkzblVzbGF4VTJ2dGNzTWFFSTNtc2xwbDYzNjhxb2VzeEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     }
@@ -303,21 +295,33 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
+        "topic": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats - ALM Corp",
         "status": "Cross-source coverage",
-        "common_context": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
+        "common_context": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats ALM Corp",
         "unique_points": [
           {
-            "source": "Google Help",
+            "source": "ALM Corp",
             "when": "20 Oct 2026",
-            "point": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats ALM Corp",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2JHd0RoOGtxVjVfZjUtTmZBY1Y0dTlZUjczMl9faVlvQTE3QkNBVmUxbktxV1I4azFYWXNudmlnWmlHckwwaGQ0bER5ajF1Y1ZXZjNMMUVoZGJRdXh4RWpJdDk1SHd4VmFwMV9MQmlhcEZfMjZYd0ljZFRRaVZDb3g2QVVhekJCXzVGNHNaaU5RTEJwOG5jNzYyT0NXUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Google Help",
+            "source": "ALM Corp",
+            "when": "20 Oct 2026",
+            "point": "Google Tag Manager Update Promises Faster Websites and Simpler Tracking ALM Corp",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlVmR0tqRzhvNzFDTWRYNG1qU3ZOVzl0OUIzRjh2YlFhbEI4TzdfWWM0blE3bEVMMVFQanduM3VVazFWUDhVSklzR2pNMkl6dGhVNFNFYm1ZbWdtd1hpc2gyalhTSW9oVm5WUUh0VDd6SUhYeUpCaTBVNWJfWnNFRGRHNEgxZFM0ejJldw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Affiverse",
             "when": "19 Oct 2026",
-            "point": "Automated bid for video reach campaigns Google Help",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FYVkzYWh2VUlHZlV4eHdDdDVubjZLeDAxZi0zdnlNSzJ1YTRCa09XcTVCWTdpcG9zX0oyRlc1ZWVWYTRrbUFZMHpSYW56ZGNUa1VLWUo0T0xPM2NvYnFjczRhVmhhb2FMd2lqNk56aw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Google Ads Adds Channel Priorities and Budget Allocation Controls Affiverse",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWHh1QzlPeEdrdXNUR01Ka0dSUzU4Wm94SUNyZlBSSmdaYU1xRFNlTi16RVo5a1MwZ0p6aTBQX2VmdU40SzRfM1lqaWk4OXp2UkRfTnd3V3VTc3hkRXFuVFdLUWM4WERHWW4xcVhsWFhjakxFOTRlZ1p6clJRaE9qN3hkbw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "ContentGrip",
+            "when": "19 Oct 2026",
+            "point": "ChatGPT Ads Manager sharpens conversion reporting ContentGrip",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xMVVGaGFJcEhfVTVyTGk2ZkwwdF9sV3U5WUNZbTBldWlaZjMyaVFUYnMzV001TWp5ZzFYTC14Sk53YXRsbzRfT2RYVzlCR0NWbXZIOEstRGxrWmprLVBYYU5JX3lRblE1OFVwSlhwZ1M?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

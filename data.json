@@ -128,7 +128,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
+          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -190,7 +190,7 @@
           "title": "Google Tag Manager Update Promises Faster Websites and Simpler Tracking - ALM Corp",
           "summary": "Google Tag Manager Update Promises Faster Websites and Simpler Tracking ALM Corp. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
           "source": "ALM Corp",
-          "when": "19 Oct 2026",
+          "when": "20 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlVmR0tqRzhvNzFDTWRYNG1qU3ZOVzl0OUIzRjh2YlFhbEI4TzdfWWM0blE3bEVMMVFQanduM3VVazFWUDhVSklzR2pNMkl6dGhVNFNFYm1ZbWdtd1hpc2gyalhTSW9oVm5WUUh0VDd6SUhYeUpCaTBVNWJfWnNFRGRHNEgxZFM0ejJldw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
@@ -207,6 +207,14 @@
     {
       "name": "AI & Agents",
       "stories": [
+        {
+          "title": "GitHub Copilot models deprecated on October 19, 2026 - The GitHub Blog",
+          "summary": "GitHub Copilot models deprecated on October 19, 2026 The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "20 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGJZdjFIeWVxMmo5MWljRXBlYXdHbjktQ1otNEpTeWlJVk41bllHUWpXZ3ZSMDZBc3o3anhKRGZRcThSZkY5Wk8tXy1kUmRWSG9EOGJuWTRnbF9xeDktYzFBN21ZSkhQMXRfUDlTd3lfMHh3QXhPWWN6N29UU1NUZURvQVJFbkREUDkyV0FLNE1ZVnhURzB2Zg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Some Git over HTTPS may temporarily require authentication - The GitHub Blog",
           "summary": "Some Git over HTTPS may temporarily require authentication The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -305,10 +313,16 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Some Git over HTTPS may temporarily require authentication - The GitHub Blog",
+        "topic": "GitHub Copilot models deprecated on October 19, 2026 - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "Some Git over HTTPS may temporarily require authentication The GitHub Blog",
+        "common_context": "GitHub Copilot models deprecated on October 19, 2026 The GitHub Blog",
         "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "20 Oct 2026",
+            "point": "GitHub Copilot models deprecated on October 19, 2026 The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGJZdjFIeWVxMmo5MWljRXBlYXdHbjktQ1otNEpTeWlJVk41bllHUWpXZ3ZSMDZBc3o3anhKRGZRcThSZkY5Wk8tXy1kUmRWSG9EOGJuWTRnbF9xeDktYzFBN21ZSkhQMXRfUDlTd3lfMHh3QXhPWWN6N29UU1NUZURvQVJFbkREUDkyV0FLNE1ZVnhURzB2Zg?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "The GitHub Blog",
             "when": "19 Oct 2026",

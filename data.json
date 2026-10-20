@@ -14,10 +14,10 @@
     "Marketing to AI Agents cartoon - Marketoonist - Marketoonist | Tom Fishburne",
     "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
     "How Businesses Can Build an AI-Powered Marketing Strategy - Techfunnel",
+    "#e4mXplains: Who's really in control? How Meta, Google and Amazon are rewriting the rules of AI advtg - Exchange4Media",
+    "Advancing coding in low‑resource programming languages - OpenAI",
     "Google Tag Manager Update Promises Faster Websites and Simpler Tracking - ALM Corp",
-    "Google Ads Adds Channel Priorities and Budget Allocation Controls - Affiverse",
-    "Alloy Enhances Fraud Prevention with AI-Powered Tools - Dynamic Business",
-    "ChatGPT Ads Manager sharpens conversion reporting - ContentGrip"
+    "Google Ads Adds Channel Priorities and Budget Allocation Controls - Affiverse"
   ],
   "sections": [
     {
@@ -37,6 +37,14 @@
           "source": "Google Help",
           "when": "20 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "#e4mXplains: Who's really in control? How Meta, Google and Amazon are rewriting the rules of AI advtg - Exchange4Media",
+          "summary": "#e4mXplains: Who's really in control? How Meta, Google and Amazon are rewriting the rules of AI advtg Exchange4Media. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Exchange4Media",
+          "when": "20 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcmlNeVFhMWI0Y3FiNG1oOUZrMkd3djR2WGNnOFE5Z1lCV0F0WDRxQWlHaFdjM3oyckY1a25ST1ZFem1fZ0hzdnRPMmstcFhCVmR4Sm1uVjE2NlR3dFZRLXprYndsNmtqeU9JRU82UmFXY2xRZ1R3V0praUxHcWdVNHlsSGl1M2VWdWpDN1ltSDJ4ZThtTk1TNGNpNUVQY0p5aFVaT3ZaWnlBTGpDUW1RVklaSHY2dVpmMjBEZUREbF9ZQVJaVTFGNXRGWmlNaUhKZ0RzS3dselI?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -128,7 +136,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
+          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -237,15 +245,12 @@
       "name": "Creative AI & Design",
       "stories": [
         {
-          "title": "LinkedIn’s AI creative variants support controlled B2B testing",
-          "summary": "YTD UPDATE. LinkedIn lists AI-generated drafts, copy variations, creative combinations and Brand Kit controls among its 2026 Campaign Manager capabilities. Availability may vary.",
-          "source": "LinkedIn Marketing Solutions",
-          "when": "30 Jun 2026",
-          "url": "https://www.business.linkedin.com/advertise/ads/product-updates",
-          "image": "https://www.business.linkedin.com/content/dam/lem/business/en/advertise/ads/product-updates/EN-Product-Updates-Social-Share.jpg",
-          "status": "Confirmed product capabilities",
-          "why": "AI increases creative throughput, but producing more variants is only useful if tests isolate meaningful differences.",
-          "use_case": "Test one proposition or audience-specific message at a time; retain brand/legal review and judge by qualified lead quality."
+          "title": "Advancing coding in low‑resource programming languages - OpenAI",
+          "summary": "Advancing coding in low‑resource programming languages OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "20 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NRVhFQTROZDktT3lCTEV5S3RndURZTlJISmctaThYa2t3dHJoWDNVODBSS2pFa1VrY1FGXzk4S1RncEt4b3hvU1BKbWRYdFB5U21EZmxaTGtEdGluSlpmcnRlVzUxRVdsWnY4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },

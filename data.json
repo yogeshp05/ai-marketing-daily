@@ -16,8 +16,8 @@
     "Expanding our defenses against financial scam ads - blog.google",
     "Radar Indexes 130,000+ Podcasts as AI Editing Lags Behind Search - DesignRush",
     "How Businesses Can Build an AI-Powered Marketing Strategy - Techfunnel",
-    "Announcements - Anthropic",
-    "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats - ALM Corp"
+    "Updates to GitHub secret scanning - The GitHub Blog",
+    "Announcements - Anthropic"
   ],
   "sections": [
     {
@@ -136,7 +136,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
+          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -210,14 +210,6 @@
           "when": "20 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlVmR0tqRzhvNzFDTWRYNG1qU3ZOVzl0OUIzRjh2YlFhbEI4TzdfWWM0blE3bEVMMVFQanduM3VVazFWUDhVSklzR2pNMkl6dGhVNFNFYm1ZbWdtd1hpc2gyalhTSW9oVm5WUUh0VDd6SUhYeUpCaTBVNWJfWnNFRGRHNEgxZFM0ejJldw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "Smartly’s Oli Marlow-Thomas on Why CTV Needs a Creative Upgrade: The B2BMX Insights Q&A - Demand Gen Report",
-          "summary": "Smartly’s Oli Marlow-Thomas on Why CTV Needs a Creative Upgrade: The B2BMX Insights Q&A Demand Gen Report. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "Demand Gen Report",
-          "when": "19 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSk0yU3I0Mm5rMTFWUXIyRzBRV2JicUkwaHhRb2MxY3pBUjNFX2ZRcG80czlzUl9iSm1vQ3p0SUFfbmNNeWl3ZGNERkdsaThZZ0NBV1ItNENYTnFKT0hDZ3dDemg4M2hlRXg2UEdneHNGOC1Ddkd1NUczWHFzaXdDVzlhWnlDZVVPUzc1YWZMRnh3bzhkcFJZVG1qbkJzTDJhanhMVlNZX1Q5YUh5eDhzX3FmcU1hOFZ1eW56cUlwMF9XZ2p4eGdBdVFvVUs0bm9IeXJuaDkwbHd3U1RhX0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -230,6 +222,14 @@
           "source": "DesignRush",
           "when": "20 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtZzNYWVFqTjhDNlRCOEtZS2otOGMwV0VYeExHeFRvcmpzVFVNNjdrTnEyZ0tETTNFV2g4a0FGSVpuMlZ2RFpvRDMyZ0hJNFBvcVd6WmdGNEc0blBRb3g1MXFvdldpRkVw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Updates to GitHub secret scanning - The GitHub Blog",
+          "summary": "Updates to GitHub secret scanning The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "20 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGxfRk5TWTVzRU0zQ2hicTd3enhZQXpiOTZiTl9HYldSM2NBdGxBWTZEUFplNmNqMk9JNjdPY3hKR01NQTlJSE9PbXJyUEhtaFNuTHdHeGVhREZFN3UtdzVaUXZrdjhXYURaOG00eWpXWVNtc2hRVkRWZFBjMW9CdA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -246,14 +246,6 @@
           "source": "The GitHub Blog",
           "when": "20 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWhzZTlBdmo1NUR5eUlQR1VpTFNNTEdfM1BXSjhFcVk4eUhfOHdOQ0JJSVVoZUY0WUdXVlo1UzFtQ0ZoNmxmREh2MjNmTTAwczhqeFhjSlBURF80Y2lJNndDSS11SFBUZF9RRGJJbXRKbEdEZnhYUG0yVWdZRVpiM1ExOFlzSENtVG93?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "GitHub Copilot models deprecated on October 19, 2026 - The GitHub Blog",
-          "summary": "GitHub Copilot models deprecated on October 19, 2026 The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "20 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGJZdjFIeWVxMmo5MWljRXBlYXdHbjktQ1otNEpTeWlJVk41bllHUWpXZ3ZSMDZBc3o3anhKRGZRcThSZkY5Wk8tXy1kUmRWSG9EOGJuWTRnbF9xeDktYzFBN21ZSkhQMXRfUDlTd3lfMHh3QXhPWWN6N29UU1NUZURvQVJFbkREUDkyV0FLNE1ZVnhURzB2Zg?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -280,7 +272,8 @@
           "source": "Dynamic Business",
           "when": "19 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0w1UWlEb0E2WkdVZWVpTm5HVUtrMDhsdkxzcFhBTmpEb2tQNlljRWIzVTJQZTZyTk41ZnFGa0llUGQ0ZDcwZDBFa1oxalZ4ZTl6b1hJbXcwVkNBMnRNZlkyOHVBamNLNmlLaXpOY3d6NXpmZGtOY0V1dVcxWmlMUWptTVhFS3paRU12ajRpVUo2ODFDbVczM3BwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -335,10 +328,16 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "GitHub package firewall in public preview - The GitHub Blog",
+        "topic": "Updates to GitHub secret scanning - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "GitHub package firewall in public preview The GitHub Blog",
+        "common_context": "Updates to GitHub secret scanning The GitHub Blog",
         "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "20 Oct 2026",
+            "point": "Updates to GitHub secret scanning The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGxfRk5TWTVzRU0zQ2hicTd3enhZQXpiOTZiTl9HYldSM2NBdGxBWTZEUFplNmNqMk9JNjdPY3hKR01NQTlJSE9PbXJyUEhtaFNuTHdHeGVhREZFN3UtdzVaUXZrdjhXYURaOG00eWpXWVNtc2hRVkRWZFBjMW9CdA?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "The GitHub Blog",
             "when": "20 Oct 2026",
@@ -350,18 +349,6 @@
             "when": "20 Oct 2026",
             "point": "GitHub Copilot models deprecated on October 19, 2026 The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGJZdjFIeWVxMmo5MWljRXBlYXdHbjktQ1otNEpTeWlJVk41bllHUWpXZ3ZSMDZBc3o3anhKRGZRcThSZkY5Wk8tXy1kUmRWSG9EOGJuWTRnbF9xeDktYzFBN21ZSkhQMXRfUDlTd3lfMHh3QXhPWWN6N29UU1NUZURvQVJFbkREUDkyV0FLNE1ZVnhURzB2Zg?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "19 Oct 2026",
-            "point": "Some Git over HTTPS may temporarily require authentication The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMThEejRQWllKeWk5WkMyQm9yR1psYlEwemZEYmJNTGxhWEZFc0d0RlAyQzQ1VnlkSWV2enRoRy1ybVM4eFdfMlJCY0JrbExPY3laVlRjWC1NN19KZkFwVXhVd3FlcmJ0U3pTdkZRRDBNS1RxclR1eUF2b0RqMl9aSmZmRTFBV2JvdTY0LWEtbkptRUlXSUs5dzA0Uk9GQkFMbmc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "19 Oct 2026",
-            "point": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaEoxR3hIZ0ZOeDNlVlFrVFhHdmFJRmlVNnZTRS1XLVVfTHp6V0hqQUljcERwaWJ6UjZDa0xJajNhMmNnZE8xUmhWRHdfYzFWUmR3NFNyTnE1bUJWLVoyRWZ6eXBSSzVtUkw5ZktqcHBkME1VYWdOTk55TzA4RU5oem9FV1FMcmd5Qll3aW94enVqbHVVdElz?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

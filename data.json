@@ -13,11 +13,11 @@
     "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Press Release Hub",
     "Metaobject analytics queryable capability available in the Admin API - Shopify Dev Docs",
     "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category - The Manila Times",
+    "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents - The Next Web",
     "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
     "Expanding our defenses against financial scam ads - blog.google",
-    "News generative AI deals revealed: Who is suing, who is signing? - Press Gazette",
-    "How we built ChatGPT’s novel ad stack for user trust and relevance - OpenAI"
+    "News generative AI deals revealed: Who is suing, who is signing? - Press Gazette"
   ],
   "sections": [
     {
@@ -48,11 +48,11 @@
           "image": ""
         },
         {
-          "title": "ChatGPT drop in UTM tracking was a bug - Search Engine Land",
-          "summary": "ChatGPT drop in UTM tracking was a bug Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "20 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy. - blog.google",
+          "summary": "New bidding and budgeting tools can transform your upcoming holiday ad strategy. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "blog.google",
+          "when": "21 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjlKZHlzOEE4U3RIRDIyYjlKM2I0cTMtYXJCSmpMZUZmbXdHZ20yajVCcTA0cjFOV1AxZ05yUkxhYWxGeldfcmdZVlVqbzdNdmd3U1hrbVFlNGRlajVmajQ2VzFORHVZR2VpcW5TSVZPMWhMVFN1dW10djVYd3ZvWWhoVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -109,7 +109,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
+          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -120,11 +120,11 @@
       "name": "LinkedIn Ads",
       "stories": [
         {
-          "title": "How Legora skipped the ‘underdog years’ by focusing on brand over product - Marketing Week",
-          "summary": "How Legora skipped the ‘underdog years’ by focusing on brand over product Marketing Week. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Marketing Week",
+          "title": "Best Reddit Marketing Agencies in 2026 - nerdbot",
+          "summary": "Best Reddit Marketing Agencies in 2026 nerdbot. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "nerdbot",
           "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aaElOZi1VZFFvYXgtanU1ZmhQNnN6Z1R2S3RMb0NibktPdVJERFZkcVE2anhrTVY0WURiWm9CcTBfMDZYZG1Rdk1kZnFxZzUyNkNSdkQxaW55NTZ6OEwwZU4zOGU5SWJnaHJLYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmRTNCbk5RX3dCQWJDTW4yUm1CZFBEYjJTb0I3VTRUdGJyMXpRVnlVbzhwQmpFbGp6QzQxSW12ODB5NUk1QXZJVnN5aVI0Z1M5aTJnZDZuMUhSRmNOU2g2QjN5M0JUb2xmem1jVWI2S0NmWDZNTkJ1bG5R?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -173,6 +173,14 @@
       "name": "AI & Agents",
       "stories": [
         {
+          "title": "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents - The Next Web",
+          "summary": "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents The Next Web. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Next Web",
+          "when": "21 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVFXMzVDekhsVmMtUmFrNVhOMFFfWTV6Nm9KaHI3aTVzNERYblRDSGRZX21fU3BMNEFNSHpiMDV1RkYtOXlqM0xFQTEyQzB3enZHa2lUTFFhNFU1UWVBR3NnTU50MmlqMlFmWVBzVFRGQ3lGLUpHY1F6SjFOeEN0UDNzVEY?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Updates to GitHub secret scanning - The GitHub Blog",
           "summary": "Updates to GitHub secret scanning The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
@@ -194,14 +202,6 @@
           "source": "Anthropic",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens - The GitHub Blog",
-          "summary": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVdMTFpoTTdGV1hJV295NXdpN2hiV0pvS3VPUlAzd1hIVHA0dzFSN1A2TlM3bWx5QjJhZ3p3ZS1BSm1mNW9yY1VzUDB0N0EtRUZfWTRCREg2V2U1b3MtV200MWJrZUs0TlpiODhiRkF4LTZyYTVLVEFwM0lPUlNFRFlKWmFpVlM2RjJBTk5DemU4M0NJREMzWVBSeDY2bTVwYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -331,6 +331,32 @@
             "when": "21 Oct 2026",
             "point": "Securing your app, together Shopify Dev Docs",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YLVlHWXpqbzlkby1EVDdhNEpVMExETHpZOFhLeEpYdTVPLVYzTjFzTmNQZ3JpTEdWdHFoUVBlR3JJb3VpclVyMFJVX0UydnluLUtvS3Y5aDhnc3hXazZZdGctQjRqN3hQWFR6UDFR?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust - Anthropic",
+        "status": "Cross-source coverage",
+        "common_context": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Anthropic",
+        "unique_points": [
+          {
+            "source": "Anthropic",
+            "when": "21 Oct 2026",
+            "point": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Anthropic",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "OpenAI",
+            "when": "21 Oct 2026",
+            "point": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The Next Web",
+            "when": "21 Oct 2026",
+            "point": "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents The Next Web",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVFXMzVDekhsVmMtUmFrNVhOMFFfWTV6Nm9KaHI3aTVzNERYblRDSGRZX21fU3BMNEFNSHpiMDV1RkYtOXlqM0xFQTEyQzB3enZHa2lUTFFhNFU1UWVBR3NnTU50MmlqMlFmWVBzVFRGQ3lGLUpHY1F6SjFOeEN0UDNzVEY?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

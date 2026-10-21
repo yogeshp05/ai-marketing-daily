@@ -10,13 +10,13 @@
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Press Release Hub",
     "Metaobject analytics queryable capability available in the Admin API - Shopify Dev Docs",
+    "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category - The Manila Times",
     "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
     "Expanding our defenses against financial scam ads - blog.google",
     "Radar Indexes 130,000+ Podcasts as AI Editing Lags Behind Search - DesignRush",
     "Face AI Expands Beyond Face Swap to Become a Broader AI Creative Platform - WebWire",
-    "How Legora skipped the ‘underdog years’ by focusing on brand over product - Marketing Week",
     "Updates to GitHub secret scanning - The GitHub Blog"
   ],
   "sections": [
@@ -29,14 +29,6 @@
           "source": "Google Help",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
-          "summary": "About the AI campaign localization tool for Search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -123,7 +115,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
+          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -139,7 +131,8 @@
           "source": "Marketing Week",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aaElOZi1VZFFvYXgtanU1ZmhQNnN6Z1R2S3RMb0NibktPdVJERFZkcVE2anhrTVY0WURiWm9CcTBfMDZYZG1Rdk1kZnFxZzUyNkNSdkQxaW55NTZ6OEwwZU4zOGU5SWJnaHJLYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -173,6 +166,14 @@
     {
       "name": "Analytics",
       "stories": [
+        {
+          "title": "ChatGPT Appears To Drop UTM Tracking, Making AI Referral Traffic Harder To Measure - ALM Corp",
+          "summary": "ChatGPT Appears To Drop UTM Tracking, Making AI Referral Traffic Harder To Measure ALM Corp. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "ALM Corp",
+          "when": "20 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa2YzRWlWNjduVU5NRGtkSUtjQm96XzBsY09JalRtTy1Ib3RDenFUZjNzTlBPMFY2NXlselNJaXVhNDZmYThIQVNpUnRNUVFzaGg1NHdqVTRXYTdnMkc5UVhzamRhV09weTBTWExiWlJpS3ZCWUVZSmlDN3hJN2otVTktYk5EelZMbnJKOUl4X3IwVXFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats - ALM Corp",
           "summary": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats ALM Corp. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
@@ -224,6 +225,14 @@
       "name": "Creative AI & Design",
       "stories": [
         {
+          "title": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Press Release Hub",
+          "summary": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads Press Release Hub. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Press Release Hub",
+          "when": "21 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmpFbnByQTlPSjRlLVcwMFJyeXp1MDdDVnRfWE9PWks1bzM1YWtvOHRoNW9YOHJVYlpQWVR6emszVUZzNFVWcU1jY2kyc205bFp6SDlBVlVPSm84SnljdjI4RlVXN3lBU3hTbUNRcWpsbWh2T0NmZElGTTJkN2xSQk5ncllrMzhwMEtqeWhPeDRqOTJHZzhEVkt1U0RxRXdvWjFfX1B4WFFtVVBvZzBiTVlld2RqS2tDNDlwUElITTdfNFlxLW5mOExUYUxzUjFO?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Face AI Expands Beyond Face Swap to Become a Broader AI Creative Platform - WebWire",
           "summary": "Face AI Expands Beyond Face Swap to Become a Broader AI Creative Platform WebWire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "WebWire",
@@ -259,6 +268,14 @@
           "image": ""
         },
         {
+          "title": "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category - The Manila Times",
+          "summary": "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category The Manila Times. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "The Manila Times",
+          "when": "21 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcGZ1eDlaRWlMMmZ4NGVXcHZidVRJa211WGItVHhiWmkyM1JKckxscXlXd2E1aHpoeFN5RXYtQkptU3RrS0FKOGROWElJbWFIb1hiMUc2R2Q2TmUxdXpzeEc0RTAyX2N5d3g5VU0yeEVJZmE2UTNsbDk4ZUFVc21DN05vc0JLdTBDYk1XWjRNbU1hX2IzMG1QclFjQXNQZ0doRXNFWU16RkZSTUpyWm5KaFhvZTZGejBoeV94YzVpZHFudXZfRDZLVTZfVE1rMXA1OFlrelRteDRuM3RRYVFUNzIya3VaOFNmZ3FjNmFXelhyWHFENUdMY0tmMW5PZVRYTGJDQUdB0gGGAkFVX3lxTE1wZnV4OVpFaUwyZng0ZVdwdmJ1VElrbXVYYi1UeGJaaTIzUkpyTGxxeVd3YTVoemh4U3lFdi1CSm1TdGtLQUo4ZE5YSUltYUhvWGIxRzZHZDZOZTF1enN4RzRFMDJfY3l3eDlVTTJ4RUlmYTZRM2xsOThlQVVzbUM3Tm9zQkt1MENiTVdaNE1tTWFfYjMwbVByUWNBc1BnR2hFc0VZTXpGRlJNSnJabkpoWG9lNkZ6MGh5X3hjNWlkcW51dl9ENktVNl9UTWsxcDU4WWt6VG14NG4zdFFhUVQ3MjJrdVo4U2ZncWM2YVd6WHJYcUQ1R0xjS2Yxbk9lVFhMYkNBR0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Securing your app, together - Shopify Dev Docs",
           "summary": "Securing your app, together Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "Shopify Dev Docs",
@@ -273,6 +290,32 @@
     "title": "Summary — What’s Actually New",
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
+      {
+        "topic": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Press Release Hub",
+        "status": "Cross-source coverage",
+        "common_context": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads Press Release Hub",
+        "unique_points": [
+          {
+            "source": "Press Release Hub",
+            "when": "21 Oct 2026",
+            "point": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads Press Release Hub",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmpFbnByQTlPSjRlLVcwMFJyeXp1MDdDVnRfWE9PWks1bzM1YWtvOHRoNW9YOHJVYlpQWVR6emszVUZzNFVWcU1jY2kyc205bFp6SDlBVlVPSm84SnljdjI4RlVXN3lBU3hTbUNRcWpsbWh2T0NmZElGTTJkN2xSQk5ncllrMzhwMEtqeWhPeDRqOTJHZzhEVkt1U0RxRXdvWjFfX1B4WFFtVVBvZzBiTVlld2RqS2tDNDlwUElITTdfNFlxLW5mOExUYUxzUjFO?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "21 Oct 2026",
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "blog.google",
+            "when": "20 Oct 2026",
+            "point": "Expanding our defenses against financial scam ads blog.google",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWl8xelpQRUZ1U21DVGZfTTFDQndQSDFCTDJsNHdBLXlRUkR0dk0zM0pMR1pEWk01a0dmdnZ2U1ZkcTlGZ3l3YmxDRU9veFAzZktNbnNkMUwxWS1WakhXcXk0UXRyM2xLSWRvQ3NqMURfU19IcnFLakJXS2F4SkZXejBNd1ROUm91bGtCNGdtUnJRbV9JQ0Q1UUVrYw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
       {
         "topic": "Metaobject analytics queryable capability available in the Admin API - Shopify Dev Docs",
         "status": "Cross-source coverage",
@@ -294,38 +337,6 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Update your app SDK version for Google Ads conversion measurement - Google Help",
-        "status": "Cross-source coverage",
-        "common_context": "Update your app SDK version for Google Ads conversion measurement Google Help",
-        "unique_points": [
-          {
-            "source": "Google Help",
-            "when": "21 Oct 2026",
-            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Help",
-            "when": "21 Oct 2026",
-            "point": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "blog.google",
-            "when": "20 Oct 2026",
-            "point": "Expanding our defenses against financial scam ads blog.google",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWl8xelpQRUZ1U21DVGZfTTFDQndQSDFCTDJsNHdBLXlRUkR0dk0zM0pMR1pEWk01a0dmdnZ2U1ZkcTlGZ3l3YmxDRU9veFAzZktNbnNkMUwxWS1WakhXcXk0UXRyM2xLSWRvQ3NqMURfU19IcnFLakJXS2F4SkZXejBNd1ROUm91bGtCNGdtUnJRbV9JQ0Q1UUVrYw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "ALM Corp",
-            "when": "20 Oct 2026",
-            "point": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats ALM Corp",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2JHd0RoOGtxVjVfZjUtTmZBY1Y0dTlZUjczMl9faVlvQTE3QkNBVmUxbktxV1I4azFYWXNudmlnWmlHckwwaGQ0bER5ajF1Y1ZXZjNMMUVoZGJRdXh4RWpJdDk1SHd4VmFwMV9MQmlhcEZfMjZYd0ljZFRRaVZDb3g2QVVhekJCXzVGNHNaaU5RTEJwOG5jNzYyT0NXUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
         "topic": "Updates to GitHub secret scanning - The GitHub Blog",
         "status": "Cross-source coverage",
         "common_context": "Updates to GitHub secret scanning The GitHub Blog",
@@ -341,6 +352,32 @@
             "when": "20 Oct 2026",
             "point": "GitHub package firewall in public preview The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWhzZTlBdmo1NUR5eUlQR1VpTFNNTEdfM1BXSjhFcVk4eUhfOHdOQ0JJSVVoZUY0WUdXVlo1UzFtQ0ZoNmxmREh2MjNmTTAwczhqeFhjSlBURF80Y2lJNndDSS11SFBUZF9RRGJJbXRKbEdEZnhYUG0yVWdZRVpiM1ExOFlzSENtVG93?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "ChatGPT drop in UTM tracking was a bug - Search Engine Land",
+        "status": "Cross-source coverage",
+        "common_context": "ChatGPT drop in UTM tracking was a bug Search Engine Land",
+        "unique_points": [
+          {
+            "source": "Search Engine Land",
+            "when": "20 Oct 2026",
+            "point": "ChatGPT drop in UTM tracking was a bug Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "ALM Corp",
+            "when": "20 Oct 2026",
+            "point": "ChatGPT Appears To Drop UTM Tracking, Making AI Referral Traffic Harder To Measure ALM Corp",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa2YzRWlWNjduVU5NRGtkSUtjQm96XzBsY09JalRtTy1Ib3RDenFUZjNzTlBPMFY2NXlselNJaXVhNDZmYThIQVNpUnRNUVFzaGg1NHdqVTRXYTdnMkc5UVhzamRhV09weTBTWExiWlJpS3ZCWUVZSmlDN3hJN2otVTktYk5EelZMbnJKOUl4X3IwVXFn?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "ALM Corp",
+            "when": "20 Oct 2026",
+            "point": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats ALM Corp",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2JHd0RoOGtxVjVfZjUtTmZBY1Y0dTlZUjczMl9faVlvQTE3QkNBVmUxbktxV1I4azFYWXNudmlnWmlHckwwaGQ0bER5ajF1Y1ZXZjNMMUVoZGJRdXh4RWpJdDk1SHd4VmFwMV9MQmlhcEZfMjZYd0ljZFRRaVZDb3g2QVVhekJCXzVGNHNaaU5RTEJwOG5jNzYyT0NXUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

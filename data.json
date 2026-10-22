@@ -11,32 +11,32 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Press Release Hub",
+    "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Business Wire",
+    "Zoom introduces Unified Context Layer, AI agents and new features across Workplace, Phone, CX and Events - FoneArena.com",
     "Metaobject analytics queryable capability available in the Admin API - Shopify Dev Docs",
+    "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
     "While Amazon blocks AI agents, Walmart rolls out the welcome mat - TechCrunch",
     "Sunsetting Marketing Messages on the Cloud API: Upgrade to the Marketing Messages API for WhatsApp before October 2027 - Meta for Developers",
-    "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category - The Manila Times",
-    "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents - The Next Web",
-    "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "Expanding our defenses against financial scam ads - blog.google"
+    "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category - The Manila Times"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
+          "title": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
+          "summary": "About the AI campaign localization tool for Search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "22 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
           "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Expanding our defenses against financial scam ads - blog.google",
-          "summary": "Expanding our defenses against financial scam ads blog.google. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "blog.google",
-          "when": "20 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWl8xelpQRUZ1U21DVGZfTTFDQndQSDFCTDJsNHdBLXlRUkR0dk0zM0pMR1pEWk01a0dmdnZ2U1ZkcTlGZ3l3YmxDRU9veFAzZktNbnNkMUwxWS1WakhXcXk0UXRyM2xLSWRvQ3NqMURfU19IcnFLakJXS2F4SkZXejBNd1ROUm91bGtCNGdtUnJRbV9JQ0Q1UUVrYw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -58,7 +58,8 @@
           "source": "Press Gazette",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -100,7 +101,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
+          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -111,9 +112,9 @@
       "name": "LinkedIn Ads",
       "stories": [
         {
-          "title": "Best Reddit Marketing Agencies in 2026 - nerdbot",
-          "summary": "Best Reddit Marketing Agencies in 2026 nerdbot. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "nerdbot",
+          "title": "Best Reddit Marketing Agencies in 2026 - Nerdbot",
+          "summary": "Best Reddit Marketing Agencies in 2026 Nerdbot. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Nerdbot",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmRTNCbk5RX3dCQWJDTW4yUm1CZFBEYjJTb0I3VTRUdGJyMXpRVnlVbzhwQmpFbGp6QzQxSW12ODB5NUk1QXZJVnN5aVI0Z1M5aTJnZDZuMUhSRmNOU2g2QjN5M0JUb2xmem1jVWI2S0NmWDZNTkJ1bG5R?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
@@ -151,19 +152,26 @@
       "name": "Analytics",
       "stories": [
         {
-          "title": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats - ALM Corp",
-          "summary": "ChatGPT Ads Gets New Measurement Tools, Weekly Reports and Visual Ad Formats ALM Corp. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "ALM Corp",
-          "when": "20 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2JHd0RoOGtxVjVfZjUtTmZBY1Y0dTlZUjczMl9faVlvQTE3QkNBVmUxbktxV1I4azFYWXNudmlnWmlHckwwaGQ0bER5ajF1Y1ZXZjNMMUVoZGJRdXh4RWpJdDk1SHd4VmFwMV9MQmlhcEZfMjZYd0ljZFRRaVZDb3g2QVVhekJCXzVGNHNaaU5RTEJwOG5jNzYyT0NXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Netflix expands ad targeting - marketingreport.one",
+          "summary": "Netflix expands ad targeting marketingreport.one. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "marketingreport.one",
+          "when": "22 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02cVpFZTNKbGRyQ0hVbkFSUVhQb0xTaHBTeG00MjBSMWtDNmFUV0tqSTE0aTBzd0dJYlY5Nm9hRHVhMnN1b3NiMUF5eHBGamVfMm8zMkpYQWE0VGhrcm9RVFpYZm1xQ3VpdExQQnp6TTZOQXNz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
     {
       "name": "AI & Agents",
       "stories": [
+        {
+          "title": "Zoom introduces Unified Context Layer, AI agents and new features across Workplace, Phone, CX and Events - FoneArena.com",
+          "summary": "Zoom introduces Unified Context Layer, AI agents and new features across Workplace, Phone, CX and Events FoneArena.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "FoneArena.com",
+          "when": "21 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1hTTG1MTW5mNEdhX0ozWEoxUC1ObEFwM1UxZERrckd2TDBlbENUWmtiNzNrN1FVeV8xV0M3enR4ZG1rYU5DUngzZUd2RnRheFVRcFVEV2U1ZW16SVI1a3ZkMDF6TFJ5MkN1VWF3RWNfSlVWcGpPUUIwcVpzdHAwTGlaVk1nZ9IBiwFBVV95cUxQZ05DTDU0MW5pRnNtaGFBMWc3UlQtZ1ZZdXRDck1zZy1UWi0tVGJyRHJCOEh4UFBnRDNySk1KRmFoTmIxcXpEWVBtSTU5bmlnVlRuemxVMjVoYmRiSVk0VUVpakhEWlZmaDVKVkNVZG92UlcyMWIxendwSDF5ZWkwcHpId09POFJ3T0RB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents - The Next Web",
           "summary": "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents The Next Web. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -173,27 +181,19 @@
           "image": ""
         },
         {
-          "title": "Updates to GitHub secret scanning - The GitHub Blog",
-          "summary": "Updates to GitHub secret scanning The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "20 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGxfRk5TWTVzRU0zQ2hicTd3enhZQXpiOTZiTl9HYldSM2NBdGxBWTZEUFplNmNqMk9JNjdPY3hKR01NQTlJSE9PbXJyUEhtaFNuTHdHeGVhREZFN3UtdzVaUXZrdjhXYURaOG00eWpXWVNtc2hRVkRWZFBjMW9CdA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Announcements - Anthropic",
-          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Anthropic",
-          "when": "20 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust - Anthropic",
           "summary": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Anthropic",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens - The GitHub Blog",
+          "summary": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "21 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVdMTFpoTTdGV1hJV295NXdpN2hiV0pvS3VPUlAzd1hIVHA0dzFSN1A2TlM3bWx5QjJhZ3p3ZS1BSm1mNW9yY1VzUDB0N0EtRUZfWTRCREg2V2U1b3MtV200MWJrZUs0TlpiODhiRkF4LTZyYTVLVEFwM0lPUlNFRFlKWmFpVlM2RjJBTk5DemU4M0NJREMzWVBSeDY2bTVwYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -210,11 +210,11 @@
           "image": ""
         },
         {
-          "title": "Meta (META) Q3 2026 Earnings Call Transcript - The Globe and Mail",
-          "summary": "Meta (META) Q3 2026 Earnings Call Transcript The Globe and Mail. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Globe and Mail",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXJnZzhTSS1DQmxNZ2ZUTU10a016emZRdWZ0QmYwV0k3VXBmMXhDdVp1YkdoOEtyWU5oYm1ZOXlJTmNjU2FKUGRrbFJSbDhHVGZ2MkRfaktBOHlZRmFvSURlYmp4SkwzWC1wc1ZfNWhQaVBCWEhCelpnX0h1ck5ORV95emZIU29YdHB1UkhDOEIyazBmMTZONlVKa0Q4RHlXTnUyRDAzTklaT3BoNVFBbl8xVGw3RlJkajRSaU5yREptSkVGV0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Business Wire",
+          "summary": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Business Wire",
+          "when": "21 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlVNbjBmRTZJaXN0U0ZJLW10WjFzSjhIU2NXei03OEVjck9ZTlZzZzkzS05OcnFvOEdYdDBoVlA1UUpDNTBBamtkU1RTU0NOWTRmcGt2QmlIU0JVbGoyQWZjbVlhMTU0ZTdQaDhsZ0dGbG1fdkQ5anRRQ0pnUGRDR0UxcXNsbmxHZ0JpcTE1eGFGZjJGR0dHN1QwSnlEclpnLUJZOXVONUpIQVVPZFdBVUpZNHZMeWRfRC1WeVdCWDB6aHRpMjMtUUJ5ZS1vOVdIVzlSb0JPNA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -275,14 +275,6 @@
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcGZ1eDlaRWlMMmZ4NGVXcHZidVRJa211WGItVHhiWmkyM1JKckxscXlXd2E1aHpoeFN5RXYtQkptU3RrS0FKOGROWElJbWFIb1hiMUc2R2Q2TmUxdXpzeEc0RTAyX2N5d3g5VU0yeEVJZmE2UTNsbDk4ZUFVc21DN05vc0JLdTBDYk1XWjRNbU1hX2IzMG1QclFjQXNQZ0doRXNFWU16RkZSTUpyWm5KaFhvZTZGejBoeV94YzVpZHFudXZfRDZLVTZfVE1rMXA1OFlrelRteDRuM3RRYVFUNzIya3VaOFNmZ3FjNmFXelhyWHFENUdMY0tmMW5PZVRYTGJDQUdB0gGGAkFVX3lxTE1wZnV4OVpFaUwyZng0ZVdwdmJ1VElrbXVYYi1UeGJaaTIzUkpyTGxxeVd3YTVoemh4U3lFdi1CSm1TdGtLQUo4ZE5YSUltYUhvWGIxRzZHZDZOZTF1enN4RzRFMDJfY3l3eDlVTTJ4RUlmYTZRM2xsOThlQVVzbUM3Tm9zQkt1MENiTVdaNE1tTWFfYjMwbVByUWNBc1BnR2hFc0VZTXpGRlJNSnJabkpoWG9lNkZ6MGh5X3hjNWlkcW51dl9ENktVNl9UTWsxcDU4WWt6VG14NG4zdFFhUVQ3MjJrdVo4U2ZncWM2YVd6WHJYcUQ1R0xjS2Yxbk9lVFhMYkNBR0E?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "Securing your app, together - Shopify Dev Docs",
-          "summary": "Securing your app, together Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Shopify Dev Docs",
-          "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YLVlHWXpqbzlkby1EVDdhNEpVMExETHpZOFhLeEpYdTVPLVYzTjFzTmNQZ3JpTEdWdHFoUVBlR3JJb3VpclVyMFJVX0UydnluLUtvS3Y5aDhnc3hXazZZdGctQjRqN3hQWFR6UDFR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     }
@@ -292,10 +284,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Press Release Hub",
+        "topic": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
         "status": "Cross-source coverage",
-        "common_context": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads Press Release Hub",
+        "common_context": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
         "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "22 Oct 2026",
+            "point": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Press Release Hub",
             "when": "21 Oct 2026",
@@ -303,42 +301,16 @@
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmpFbnByQTlPSjRlLVcwMFJyeXp1MDdDVnRfWE9PWks1bzM1YWtvOHRoNW9YOHJVYlpQWVR6emszVUZzNFVWcU1jY2kyc205bFp6SDlBVlVPSm84SnljdjI4RlVXN3lBU3hTbUNRcWpsbWh2T0NmZElGTTJkN2xSQk5ncllrMzhwMEtqeWhPeDRqOTJHZzhEVkt1U0RxRXdvWjFfX1B4WFFtVVBvZzBiTVlld2RqS2tDNDlwUElITTdfNFlxLW5mOExUYUxzUjFO?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
+            "source": "Business Wire",
+            "when": "21 Oct 2026",
+            "point": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads Business Wire",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlVNbjBmRTZJaXN0U0ZJLW10WjFzSjhIU2NXei03OEVjck9ZTlZzZzkzS05OcnFvOEdYdDBoVlA1UUpDNTBBamtkU1RTU0NOWTRmcGt2QmlIU0JVbGoyQWZjbVlhMTU0ZTdQaDhsZ0dGbG1fdkQ5anRRQ0pnUGRDR0UxcXNsbmxHZ0JpcTE1eGFGZjJGR0dHN1QwSnlEclpnLUJZOXVONUpIQVVPZFdBVUpZNHZMeWRfRC1WeVdCWDB6aHRpMjMtUUJ5ZS1vOVdIVzlSb0JPNA?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
             "source": "blog.google",
             "when": "21 Oct 2026",
             "point": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjlKZHlzOEE4U3RIRDIyYjlKM2I0cTMtYXJCSmpMZUZmbXdHZ20yajVCcTA0cjFOV1AxZ05yUkxhYWxGeldfcmdZVlVqbzdNdmd3U1hrbVFlNGRlajVmajQ2VzFORHVZR2VpcW5TSVZPMWhMVFN1dW10djVYd3ZvWWhoVQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Help",
-            "when": "21 Oct 2026",
-            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "blog.google",
-            "when": "20 Oct 2026",
-            "point": "Expanding our defenses against financial scam ads blog.google",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWl8xelpQRUZ1U21DVGZfTTFDQndQSDFCTDJsNHdBLXlRUkR0dk0zM0pMR1pEWk01a0dmdnZ2U1ZkcTlGZ3l3YmxDRU9veFAzZktNbnNkMUwxWS1WakhXcXk0UXRyM2xLSWRvQ3NqMURfU19IcnFLakJXS2F4SkZXejBNd1ROUm91bGtCNGdtUnJRbV9JQ0Q1UUVrYw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Metaobject analytics queryable capability available in the Admin API - Shopify Dev Docs",
-        "status": "Cross-source coverage",
-        "common_context": "Metaobject analytics queryable capability available in the Admin API Shopify Dev Docs",
-        "unique_points": [
-          {
-            "source": "Shopify Dev Docs",
-            "when": "21 Oct 2026",
-            "point": "Metaobject analytics queryable capability available in the Admin API Shopify Dev Docs",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkdHRUpLajgzMFlUZ1RyOE0ta3QzX1FpLUozbG54emJtRmk0dENFNUZwQkg1TnJVWlJSN1R0OGYxRWhKd3lpNGlMRVVfa2FhcDZfRURiSFVRTnpOUml5cDZaZ2JQeElHWEpZbEhSQTJGZE03TmI5Rm50WWttMHhpNXRaUFBIR3BmRnV0UUlhREdaSHpKaU1KRG15UUhEY2Z3R3h4LVFpNA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Shopify Dev Docs",
-            "when": "21 Oct 2026",
-            "point": "Securing your app, together Shopify Dev Docs",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YLVlHWXpqbzlkby1EVDdhNEpVMExETHpZOFhLeEpYdTVPLVYzTjFzTmNQZ3JpTEdWdHFoUVBlR3JJb3VpclVyMFJVX0UydnluLUtvS3Y5aDhnc3hXazZZdGctQjRqN3hQWFR6UDFR?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -365,32 +337,6 @@
             "when": "21 Oct 2026",
             "point": "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents The Next Web",
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVFXMzVDekhsVmMtUmFrNVhOMFFfWTV6Nm9KaHI3aTVzNERYblRDSGRZX21fU3BMNEFNSHpiMDV1RkYtOXlqM0xFQTEyQzB3enZHa2lUTFFhNFU1UWVBR3NnTU50MmlqMlFmWVBzVFRGQ3lGLUpHY1F6SjFOeEN0UDNzVEY?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens - The GitHub Blog",
-        "status": "Cross-source coverage",
-        "common_context": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens The GitHub Blog",
-        "unique_points": [
-          {
-            "source": "The GitHub Blog",
-            "when": "21 Oct 2026",
-            "point": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVdMTFpoTTdGV1hJV295NXdpN2hiV0pvS3VPUlAzd1hIVHA0dzFSN1A2TlM3bWx5QjJhZ3p3ZS1BSm1mNW9yY1VzUDB0N0EtRUZfWTRCREg2V2U1b3MtV200MWJrZUs0TlpiODhiRkF4LTZyYTVLVEFwM0lPUlNFRFlKWmFpVlM2RjJBTk5DemU4M0NJREMzWVBSeDY2bTVwYWc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "20 Oct 2026",
-            "point": "Updates to GitHub secret scanning The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGxfRk5TWTVzRU0zQ2hicTd3enhZQXpiOTZiTl9HYldSM2NBdGxBWTZEUFplNmNqMk9JNjdPY3hKR01NQTlJSE9PbXJyUEhtaFNuTHdHeGVhREZFN3UtdzVaUXZrdjhXYURaOG00eWpXWVNtc2hRVkRWZFBjMW9CdA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "20 Oct 2026",
-            "point": "GitHub package firewall in public preview The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWhzZTlBdmo1NUR5eUlQR1VpTFNNTEdfM1BXSjhFcVk4eUhfOHdOQ0JJSVVoZUY0WUdXVlo1UzFtQ0ZoNmxmREh2MjNmTTAwczhqeFhjSlBURF80Y2lJNndDSS11SFBUZF9RRGJJbXRKbEdEZnhYUG0yVWdZRVpiM1ExOFlzSENtVG93?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

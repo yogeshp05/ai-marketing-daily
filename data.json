@@ -12,12 +12,12 @@
   "ticker": [
     "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Press Release Hub",
     "Metaobject analytics queryable capability available in the Admin API - Shopify Dev Docs",
+    "While Amazon blocks AI agents, Walmart rolls out the welcome mat - TechCrunch",
+    "Sunsetting Marketing Messages on the Cloud API: Upgrade to the Marketing Messages API for WhatsApp before October 2027 - Meta for Developers",
     "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category - The Manila Times",
     "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents - The Next Web",
     "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
-    "Expanding our defenses against financial scam ads - blog.google",
-    "News generative AI deals revealed: Who is suing, who is signing? - Press Gazette"
+    "Expanding our defenses against financial scam ads - blog.google"
   ],
   "sections": [
     {
@@ -29,14 +29,6 @@
           "source": "Google Help",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
-          "summary": "About the AI campaign localization tool for Search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -74,13 +66,12 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "#e4mXplains: Who's really in control? How Meta, Google and Amazon are rewriting the rules of AI advtg - Exchange4Media",
-          "summary": "#e4mXplains: Who's really in control? How Meta, Google and Amazon are rewriting the rules of AI advtg Exchange4Media. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Exchange4Media",
-          "when": "20 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcmlNeVFhMWI0Y3FiNG1oOUZrMkd3djR2WGNnOFE5Z1lCV0F0WDRxQWlHaFdjM3oyckY1a25ST1ZFem1fZ0hzdnRPMmstcFhCVmR4Sm1uVjE2NlR3dFZRLXprYndsNmtqeU9JRU82UmFXY2xRZ1R3V0praUxHcWdVNHlsSGl1M2VWdWpDN1ltSDJ4ZThtTk1TNGNpNUVQY0p5aFVaT3ZaWnlBTGpDUW1RVklaSHY2dVpmMjBEZUREbF9ZQVJaVTFGNXRGWmlNaUhKZ0RzS3dselI?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Sunsetting Marketing Messages on the Cloud API: Upgrade to the Marketing Messages API for WhatsApp before October 2027 - Meta for Developers",
+          "summary": "Sunsetting Marketing Messages on the Cloud API: Upgrade to the Marketing Messages API for WhatsApp before October 2027 Meta for Developers. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Meta for Developers",
+          "when": "21 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXFZMlRLSmY0ZVZSWjZMaVdoSFdpUE1GbmFjTm1aMVZjVXU0WTZEc0R2TG5UdGtXN0paeWhybFFXSHNVYVBtVWY4VFpqTER5WE9EYWRXSi1YZGpTaDZCY09na2lHdGM3Z0NScmVGOWlmbVcyc2FORGVuLWFiNWgyalBsaFMxSGxGTExJSUF1VDZIYjF5WlJ1d1JaZmQtN3BWeUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -109,7 +100,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
+          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -165,7 +156,8 @@
           "source": "ALM Corp",
           "when": "20 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2JHd0RoOGtxVjVfZjUtTmZBY1Y0dTlZUjczMl9faVlvQTE3QkNBVmUxbktxV1I4azFYWXNudmlnWmlHckwwaGQ0bER5ajF1Y1ZXZjNMMUVoZGJRdXh4RWpJdDk1SHd4VmFwMV9MQmlhcEZfMjZYd0ljZFRRaVZDb3g2QVVhekJCXzVGNHNaaU5RTEJwOG5jNzYyT0NXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -218,6 +210,14 @@
           "image": ""
         },
         {
+          "title": "Meta (META) Q3 2026 Earnings Call Transcript - The Globe and Mail",
+          "summary": "Meta (META) Q3 2026 Earnings Call Transcript The Globe and Mail. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Globe and Mail",
+          "when": "22 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXJnZzhTSS1DQmxNZ2ZUTU10a016emZRdWZ0QmYwV0k3VXBmMXhDdVp1YkdoOEtyWU5oYm1ZOXlJTmNjU2FKUGRrbFJSbDhHVGZ2MkRfaktBOHlZRmFvSURlYmp4SkwzWC1wc1ZfNWhQaVBCWEhCelpnX0h1ck5ORV95emZIU29YdHB1UkhDOEIyazBmMTZONlVKa0Q4RHlXTnUyRDAzTklaT3BoNVFBbl8xVGw3RlJkajRSaU5yREptSkVGV0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "How we built ChatGPT’s novel ad stack for user trust and relevance - OpenAI",
           "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "OpenAI",
@@ -258,6 +258,14 @@
           "source": "Shopify Dev Docs",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkdHRUpLajgzMFlUZ1RyOE0ta3QzX1FpLUozbG54emJtRmk0dENFNUZwQkg1TnJVWlJSN1R0OGYxRWhKd3lpNGlMRVVfa2FhcDZfRURiSFVRTnpOUml5cDZaZ2JQeElHWEpZbEhSQTJGZE03TmI5Rm50WWttMHhpNXRaUFBIR3BmRnV0UUlhREdaSHpKaU1KRG15UUhEY2Z3R3h4LVFpNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat - TechCrunch",
+          "summary": "While Amazon blocks AI agents, Walmart rolls out the welcome mat TechCrunch. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "TechCrunch",
+          "when": "22 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFVjb1ZFLUt6aVZJTnlORlk1Vl9YS2lRMW9UeldUdUd1OTRMWE85eDZIU0t2b21FNG82X05VZ081ckJ2T0tVbE5KRU5ZSlc0eURzR0JtZ0VSak5uWk5wN2M4U0ZlY25lYTZidl8xbUVZMFN3NVc3NEQwSWFKaVNKWmxOa1JubVg4VHQ4S0pGcVB3X0l0eGw0V3hTWXZPTmM?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -307,10 +315,10 @@
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Google Help",
-            "when": "21 Oct 2026",
-            "point": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "blog.google",
+            "when": "20 Oct 2026",
+            "point": "Expanding our defenses against financial scam ads blog.google",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWl8xelpQRUZ1U21DVGZfTTFDQndQSDFCTDJsNHdBLXlRUkR0dk0zM0pMR1pEWk01a0dmdnZ2U1ZkcTlGZ3l3YmxDRU9veFAzZktNbnNkMUwxWS1WakhXcXk0UXRyM2xLSWRvQ3NqMURfU19IcnFLakJXS2F4SkZXejBNd1ROUm91bGtCNGdtUnJRbV9JQ0Q1UUVrYw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

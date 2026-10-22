@@ -1,5 +1,5 @@
 {
-  "date": "22 October 2026",
+  "date": "23 October 2026",
   "lead": {
     "title": "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants - The Des Moines Register",
     "deck": "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants The Des Moines Register. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -12,12 +12,12 @@
   "ticker": [
     "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants - The Des Moines Register",
     "Reduck Secures $3M for AI Agent Web Automation - shattered.io",
-    "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI - The Tech Buzz",
     "Using thousands of AI agents to uncover new leads in biological data - OpenAI",
     "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Business Wire",
-    "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
-    "Claude Duet: Anthropic’s new AI agent wants to manage your workday, what can it actually do? - Firstpost",
-    "Walmart Embraces AI Agents That Shop on Behalf of Customers - ADWEEK"
+    "Global default for Copilot features generally available - The GitHub Blog",
+    "Donating Agent Skills to the Agentic AI Foundation - Anthropic",
+    "Public monitoring now available with data residency - The GitHub Blog",
+    "About the AI campaign localization tool for Search campaigns (beta) - Google Help"
   ],
   "sections": [
     {
@@ -48,11 +48,11 @@
           "image": ""
         },
         {
-          "title": "2026 - Google Ads Developer Blog",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Ads Developer Blog",
+          "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy. - blog.google",
+          "summary": "New bidding and budgeting tools can transform your upcoming holiday ad strategy. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "blog.google",
           "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TU8xNUpBVzc2ZndSazN4M2gwVHVEdmx2ZldQS0xrUGZ3RzRKcFpxc3pqV2VLNW9aa0FBRFFVWTBJU1l2ZGVoYUxyQXVsUnd1TTJQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjlKZHlzOEE4U3RIRDIyYjlKM2I0cTMtYXJCSmpMZUZmbXdHZ20yajVCcTA0cjFOV1AxZ05yUkxhYWxGeldfcmdZVlVqbzdNdmd3U1hrbVFlNGRlajVmajQ2VzFORHVZR2VpcW5TSVZPMWhMVFN1dW10djVYd3ZvWWhoVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -79,14 +79,6 @@
           "source": "Meta for Developers",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXFZMlRLSmY0ZVZSWjZMaVdoSFdpUE1GbmFjTm1aMVZjVXU0WTZEc0R2TG5UdGtXN0paeWhybFFXSHNVYVBtVWY4VFpqTER5WE9EYWRXSi1YZGpTaDZCY09na2lHdGM3Z0NScmVGOWlmbVcyc2FORGVuLWFiNWgyalBsaFMxSGxGTExJSUF1VDZIYjF5WlJ1d1JaZmQtN3BWeUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta Boosts AI Investment to $135 Billion as Revenue Exceeds Expectations - 조선일보",
-          "summary": "Meta Boosts AI Investment to $135 Billion as Revenue Exceeds Expectations 조선일보. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "조선일보",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelgzVENKYUd5SC1IVndWN0pvbm5LVjdRNDRjRDFRbll4N1FvNzd2RXBpUThhcTloWUlwck9SZlRBcC1lMTdETHAycWowbHpXd0tqc3lJWURaVzBrakc5SWJIaGhiQ2R4dWkxR1A2V1FFcnlxMjczcTh4QlpVdDR2M3VpY0dJcC1LbFdwaXBB?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -116,7 +108,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
+          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -140,6 +132,14 @@
           "source": "Nerdbot",
           "when": "21 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmRTNCbk5RX3dCQWJDTW4yUm1CZFBEYjJTb0I3VTRUdGJyMXpRVnlVbzhwQmpFbGp6QzQxSW12ODB5NUk1QXZJVnN5aVI0Z1M5aTJnZDZuMUhSRmNOU2g2QjN5M0JUb2xmem1jVWI2S0NmWDZNTkJ1bG5R?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "LinkedIn job-title targeting reaches Google DV360 CTV buys in the US - PPC Land",
+          "summary": "LinkedIn job-title targeting reaches Google DV360 CTV buys in the US PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PPC Land",
+          "when": "22 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzU3S0V1bm9meDJacGhjRXJfQW1WTlRUaXgyeHN1TFl5WXZXUUV0dzZtWGduSUlqV2J6QUFWOG5rSU82MndxVU4tOVdOSVBVNVI1MFBIdWxiMlpmRjRKX3ZMWjF2SXNsVXlXb1NMbGZ0aEJVRzI3QlM1ZXNSd0JYN0RiSDNNcHlIbzI5cERkNA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -196,27 +196,27 @@
           "image": ""
         },
         {
-          "title": "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI - The Tech Buzz",
-          "summary": "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI The Tech Buzz. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Tech Buzz",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm85NURDZEFFWGNUb0V4anVHWllXX0tieUdJLThVZEFRVTFkVGYzcXhtSFNGbW5aZjJCZHhoeDVRNEZjRjh1N2E1THk3TTB4ckxucUVxSlRmUHdBTTBIdktEUFNYREc3blNEaEY2SktVd3BXdlJVcll1TnUtZHE4a1RrSGxhWnY5c0JhdV9qeUI5TzcydDIzcnJCTWg3UzN6?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Global default for Copilot features generally available - The GitHub Blog",
+          "summary": "Global default for Copilot features generally available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "23 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEpFbzF0dlV1ZjdHMkllZFdyNWJwM0E4R3BDU2hGamlndy1sR1JqbVZvWlRQWktOYXphbEF2NUh5TjhnMGNianBNNE9udkpMVWttWkhmdURoV1JjekxpaS1kel9HRkJodnRMVk5lV2ZiQmFEOFkyaDF2RTBXcEFxeTJpUEh6WlVqOHltNDdidGE2dllZTk1hV3pqbE5oUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Claude Duet: Anthropic’s new AI agent wants to manage your workday, what can it actually do? - Firstpost",
-          "summary": "Claude Duet: Anthropic’s new AI agent wants to manage your workday, what can it actually do? For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Firstpost",
+          "title": "Donating Agent Skills to the Agentic AI Foundation - Anthropic",
+          "summary": "Donating Agent Skills to the Agentic AI Foundation Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Anthropic",
           "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pTZldNZ3k2eGZhOWpIYlZibHZZSXI2UHByZFVTdW1CM0hCeGFhUkhRaW56QnllTnVqTHh4WWtJWmV1WVBTcURzZ05jUDhXMlc3NFpiNVI5N2RObW1RRGw2Q0hwcExQcmt6eUp2dU16U012RXVWbGdDdDBBQUtsa0JIMDF3T0EyclJLcFUwRWdUV3VoX0Z4cEdiQ3NHZVJwVHBkTlNIUGZVRURrNVJvLXFjSy1TR0p5TElDRHZsTlRRcHhfWmFfa1Z5bjBsaDhrVVpr0gHTAUFVX3lxTE1XelNmV01neTZ4ZmE5akhiVmJsdllJcjZQcHJkVVN1bUIzSEJ4YWFSSFFpbnpCeWVOdWpMeHhZa0laZXVZUFNxRHNnTmNQOFcyVzc0WmI1Ujk3ZE5tbVFEbDZDSHBwTFBya3p5SnZ1TXpTTXZFdVZsZ0N0MEFBS2xrQkgwMXdPQTJyUktwVTBFZ1RXdWhfRnhwR2JDc0dlUnBUcGROU0hQZlVFRGs1Um8tcWNLLVNHSnlMSUNEdmxOVFFweF9aYV9rVnluMGxoOGtVWms?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "‘The Fix Is In’ in AI. Musk, Nvidia, OpenAI & AI Agents. ARD #189 - AI: Reset to Zero",
-          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "AI: Reset to Zero",
+          "title": "Public monitoring now available with data residency - The GitHub Blog",
+          "summary": "Public monitoring now available with data residency The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
           "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMmxwekphVkNNYXJ3VWhhYkxScmVLeTJ5WWtrNUV1RjJmZXBuWXB6NmdUdURNYWJSOGNheXo5UWozUTJSZ0hHeFdnc1pUTXM2Y1ROWklsRUpNekNTSUVzQnJfSWlCS3NyVFRSaURRSVk5S2E2QVJOQ2RzWEJ1LWhzTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkhXTXZUc2R1R3ZMRnhvOHFnQnR1Y2hBZDJpQlMxQ2s5QjJ4LXNLQ1B6bk54R0x4X2o1NjlienYxOXJGcWpzc2lvaEJvWmZpc0VvVndYUjQtdC1FY1ktYnl1SlFjSFppbG9RMDZjLWJBTVdjMnRJc1NySXFVOF9xcllVdXJjVU1RYVRqeFk0TVdXLWJacUlPLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -241,19 +241,19 @@
           "image": ""
         },
         {
-          "title": "What FDE means at OpenAI - OpenAI",
-          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "The latest AI-powered martech news and releases - MarTech",
+          "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "MarTech",
+          "when": "23 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "How we built ChatGPT’s novel ad stack for user trust and relevance - OpenAI",
-          "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "title": "Uber brings ChatGPT Work to all employees with OpenAI - OpenAI",
+          "summary": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "OpenAI",
-          "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "when": "22 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -268,6 +268,14 @@
           "when": "22 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xemRnSVZpS2ZFSDhkYlhnZUxwd0pyZ25DYXFKcmlrbFhVeVlaa3hjQmFmRnFFcG5HV1BuX0NMa1F4dk52dGw4RzVmX1BqY3dtbWtsdGZQS3p6R1FDOVVQbUppaXNDSmQ5azlWaVNnb0F4TWgyZWJV?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "The latest AI-powered martech news and releases - MarTech",
+          "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "MarTech",
+          "when": "23 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -275,27 +283,11 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers - ADWEEK",
-          "summary": "Walmart Embraces AI Agents That Shop on Behalf of Customers ADWEEK. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "ADWEEK",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3pISEM4RlhzSDM3XzJYVTNIa2w4dDI1SXoyNzVzTVB3UTVTOGJLcGdPV1M2MGYxRmpHblhhai04V0QzSGFmQlVfUzAwTVZCRUJIWlJUQmZ1dkZMRnR3ZTNhRHdPNjlDZjhva2lkNXdLdEtrYUR1UDgxMVE5WjMyOGJzODJNNG0tazdfN0NmZGZ0MzBCTHdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat - TechCrunch",
           "summary": "While Amazon blocks AI agents, Walmart rolls out the welcome mat TechCrunch. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "TechCrunch",
           "when": "22 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFVjb1ZFLUt6aVZJTnlORlk1Vl9YS2lRMW9UeldUdUd1OTRMWE85eDZIU0t2b21FNG82X05VZ081ckJ2T0tVbE5KRU5ZSlc0eURzR0JtZ0VSak5uWk5wN2M4U0ZlY25lYTZidl8xbUVZMFN3NVc3NEQwSWFKaVNKWmxOa1JubVg4VHQ4S0pGcVB3X0l0eGw0V3hTWXZPTmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category - The Manila Times",
-          "summary": "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category The Manila Times. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "The Manila Times",
-          "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcGZ1eDlaRWlMMmZ4NGVXcHZidVRJa211WGItVHhiWmkyM1JKckxscXlXd2E1aHpoeFN5RXYtQkptU3RrS0FKOGROWElJbWFIb1hiMUc2R2Q2TmUxdXpzeEc0RTAyX2N5d3g5VU0yeEVJZmE2UTNsbDk4ZUFVc21DN05vc0JLdTBDYk1XWjRNbU1hX2IzMG1QclFjQXNQZ0doRXNFWU16RkZSTUpyWm5KaFhvZTZGejBoeV94YzVpZHFudXZfRDZLVTZfVE1rMXA1OFlrelRteDRuM3RRYVFUNzIya3VaOFNmZ3FjNmFXelhyWHFENUdMY0tmMW5PZVRYTGJDQUdB0gGGAkFVX3lxTE1wZnV4OVpFaUwyZng0ZVdwdmJ1VElrbXVYYi1UeGJaaTIzUkpyTGxxeVd3YTVoemh4U3lFdi1CSm1TdGtLQUo4ZE5YSUltYUhvWGIxRzZHZDZOZTF1enN4RzRFMDJfY3l3eDlVTTJ4RUlmYTZRM2xsOThlQVVzbUM3Tm9zQkt1MENiTVdaNE1tTWFfYjMwbVByUWNBc1BnR2hFc0VZTXpGRlJNSnJabkpoWG9lNkZ6MGh5X3hjNWlkcW51dl9ENktVNl9UTWsxcDU4WWt6VG14NG4zdFFhUVQ3MjJrdVo4U2ZncWM2YVd6WHJYcUQ1R0xjS2Yxbk9lVFhMYkNBR0E?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -338,73 +330,47 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Claude Duet: Anthropic’s new AI agent wants to manage your workday, what can it actually do? - Firstpost",
+        "topic": "Global default for Copilot features generally available - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "Claude Duet: Anthropic’s new AI agent wants to manage your workday, what can it actually do?",
+        "common_context": "Global default for Copilot features generally available The GitHub Blog",
         "unique_points": [
           {
-            "source": "Firstpost",
-            "when": "22 Oct 2026",
-            "point": "Claude Duet: Anthropic’s new AI agent wants to manage your workday, what can it actually do?",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pTZldNZ3k2eGZhOWpIYlZibHZZSXI2UHByZFVTdW1CM0hCeGFhUkhRaW56QnllTnVqTHh4WWtJWmV1WVBTcURzZ05jUDhXMlc3NFpiNVI5N2RObW1RRGw2Q0hwcExQcmt6eUp2dU16U012RXVWbGdDdDBBQUtsa0JIMDF3T0EyclJLcFUwRWdUV3VoX0Z4cEdiQ3NHZVJwVHBkTlNIUGZVRURrNVJvLXFjSy1TR0p5TElDRHZsTlRRcHhfWmFfa1Z5bjBsaDhrVVpr0gHTAUFVX3lxTE1XelNmV01neTZ4ZmE5akhiVmJsdllJcjZQcHJkVVN1bUIzSEJ4YWFSSFFpbnpCeWVOdWpMeHhZa0laZXVZUFNxRHNnTmNQOFcyVzc0WmI1Ujk3ZE5tbVFEbDZDSHBwTFBya3p5SnZ1TXpTTXZFdVZsZ0N0MEFBS2xrQkgwMXdPQTJyUktwVTBFZ1RXdWhfRnhwR2JDc0dlUnBUcGROU0hQZlVFRGs1Um8tcWNLLVNHSnlMSUNEdmxOVFFweF9aYV9rVnluMGxoOGtVWms?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "The GitHub Blog",
+            "when": "23 Oct 2026",
+            "point": "Global default for Copilot features generally available The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEpFbzF0dlV1ZjdHMkllZFdyNWJwM0E4R3BDU2hGamlndy1sR1JqbVZvWlRQWktOYXphbEF2NUh5TjhnMGNianBNNE9udkpMVWttWkhmdURoV1JjekxpaS1kel9HRkJodnRMVk5lV2ZiQmFEOFkyaDF2RTBXcEFxeTJpUEh6WlVqOHltNDdidGE2dllZTk1hV3pqbE5oUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "The Tech Buzz",
+            "source": "The GitHub Blog",
             "when": "22 Oct 2026",
-            "point": "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI The Tech Buzz",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm85NURDZEFFWGNUb0V4anVHWllXX0tieUdJLThVZEFRVTFkVGYzcXhtSFNGbW5aZjJCZHhoeDVRNEZjRjh1N2E1THk3TTB4ckxucUVxSlRmUHdBTTBIdktEUFNYREc3blNEaEY2SktVd3BXdlJVcll1TnUtZHE4a1RrSGxhWnY5c0JhdV9qeUI5TzcydDIzcnJCTWg3UzN6?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Public monitoring now available with data residency The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkhXTXZUc2R1R3ZMRnhvOHFnQnR1Y2hBZDJpQlMxQ2s5QjJ4LXNLQ1B6bk54R0x4X2o1NjlienYxOXJGcWpzc2lvaEJvWmZpc0VvVndYUjQtdC1FY1ktYnl1SlFjSFppbG9RMDZjLWJBTVdjMnRJc1NySXFVOF9xcllVdXJjVU1RYVRqeFk0TVdXLWJacUlPLQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "22 Oct 2026",
+            "point": "Industry comparisons in the Copilot impact dashboard The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm9yOXlQVHB0Qzh0b0Ryb0lhV3lKemhtbG5rUlFwOVRpZTdybWlnbGtVNzZHeGZZUFRnckRUTGJVd2RtLUluZk9PSmJOb3I1aUktZTRibVM4S24wT2xZOVhwdTBDMzJoZ3V2M2htZXRwRmJaVmdVeHdtY0pMS2hoUC1JRDE4dmFDWWtuM0l1MkVEZHFENXk1d3Vn?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "‘The Fix Is In’ in AI. Musk, Nvidia, OpenAI & AI Agents. ARD #189 - AI: Reset to Zero",
+        "topic": "Uber brings ChatGPT Work to all employees with OpenAI - OpenAI",
         "status": "Cross-source coverage",
-        "common_context": "",
+        "common_context": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI",
         "unique_points": [
           {
-            "source": "AI: Reset to Zero",
-            "when": "22 Oct 2026",
-            "point": "‘The Fix Is In’ in AI. Musk, Nvidia, OpenAI & AI Agents. ARD #189 - AI: Reset to Zero",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMmxwekphVkNNYXJ3VWhhYkxScmVLeTJ5WWtrNUV1RjJmZXBuWXB6NmdUdURNYWJSOGNheXo5UWozUTJSZ0hHeFdnc1pUTXM2Y1ROWklsRUpNekNTSUVzQnJfSWlCS3NyVFRSaURRSVk5S2E2QVJOQ2RzWEJ1LWhzTw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
             "source": "OpenAI",
-            "when": "21 Oct 2026",
-            "point": "Using thousands of AI agents to uncover new leads in biological data OpenAI",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "when": "22 Oct 2026",
+            "point": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "OpenAI",
             "when": "21 Oct 2026",
             "point": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The Next Web",
-            "when": "21 Oct 2026",
-            "point": "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents The Next Web",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVFXMzVDekhsVmMtUmFrNVhOMFFfWTV6Nm9KaHI3aTVzNERYblRDSGRZX21fU3BMNEFNSHpiMDV1RkYtOXlqM0xFQTEyQzB3enZHa2lUTFFhNFU1UWVBR3NnTU50MmlqMlFmWVBzVFRGQ3lGLUpHY1F6SjFOeEN0UDNzVEY?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Walmart Embraces AI Agents That Shop on Behalf of Customers - ADWEEK",
-        "status": "Cross-source coverage",
-        "common_context": "Walmart Embraces AI Agents That Shop on Behalf of Customers ADWEEK",
-        "unique_points": [
-          {
-            "source": "ADWEEK",
-            "when": "22 Oct 2026",
-            "point": "Walmart Embraces AI Agents That Shop on Behalf of Customers ADWEEK",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3pISEM4RlhzSDM3XzJYVTNIa2w4dDI1SXoyNzVzTVB3UTVTOGJLcGdPV1M2MGYxRmpHblhhai04V0QzSGFmQlVfUzAwTVZCRUJIWlJUQmZ1dkZMRnR3ZTNhRHdPNjlDZjhva2lkNXdLdEtrYUR1UDgxMVE5WjMyOGJzODJNNG0tazdfN0NmZGZ0MzBCTHdB?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "TechCrunch",
-            "when": "22 Oct 2026",
-            "point": "While Amazon blocks AI agents, Walmart rolls out the welcome mat TechCrunch",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFVjb1ZFLUt6aVZJTnlORlk1Vl9YS2lRMW9UeldUdUd1OTRMWE85eDZIU0t2b21FNG82X05VZ081ckJ2T0tVbE5KRU5ZSlc0eURzR0JtZ0VSak5uWk5wN2M4U0ZlY25lYTZidl8xbUVZMFN3NVc3NEQwSWFKaVNKWmxOa1JubVg4VHQ4S0pGcVB3X0l0eGw0V3hTWXZPTmM?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

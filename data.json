@@ -1,42 +1,42 @@
 {
   "date": "23 October 2026",
   "lead": {
-    "title": "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants - The Des Moines Register",
-    "deck": "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants The Des Moines Register. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMFEwbVdOenppWk12VmpITzM3U19KMXZzLUkwelRwN0lEaFhtbi13VjVoTGw1X2dIQXFiMzZFMUJ2NlZJMDE0OHJ0T29VcTh6QkQ5UkhjWmM4YWoya1pXdFlqNGpONDVjNGRNemNyR0lES1RaOXNiaHVhTE85cXJMZW9QaTFCeU5iSG9xMFM1Nno1MGZndnpiTzdzVE9WNzdEb0wxSE1FX1A1T3FQamd2OTFOb3J6T3lwWVYyZTMta2ZfZlBkTm5wM0VfZDZOQW4xWVIzT1FmQ3p1SkdhOXVmSGlmcnA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "The Des Moines Register",
-    "when": "22 Oct 2026",
+    "title": "Announcing beta launch of Display & Video 360 API v5 - Google Ads Developer Blog",
+    "deck": "Announcing beta launch of Display & Video 360 API v5 Google Ads Developer Blog. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc3NfcFNkNWxudVhOTlk4cVVqeW5MRHpNWUJKeExCMnVJOGxHYmpCWHJ5YXVDbGViaVRxQTRfenN3TnI0b0w0TXk1ekNJOGlMazVBVU5YVWFUME5kYk1mY0YtOG1YT2N3LXBsOFd2VU03WkZMYVZtVk5FTHJxRmM3aERlVDZKNDVPcmg2clVKSWdaTW5FSVQzMVVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Google Ads Developer Blog",
+    "when": "23 Oct 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Announcing beta launch of Display & Video 360 API v5 - Google Ads Developer Blog",
     "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants - The Des Moines Register",
     "Reduck Secures $3M for AI Agent Web Automation - shattered.io",
-    "Using thousands of AI agents to uncover new leads in biological data - OpenAI",
     "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Business Wire",
+    "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Via TT",
     "Global default for Copilot features generally available - The GitHub Blog",
     "Donating Agent Skills to the Agentic AI Foundation - Anthropic",
-    "Public monitoring now available with data residency - The GitHub Blog",
-    "About the AI campaign localization tool for Search campaigns (beta) - Google Help"
+    "Public monitoring now available with data residency - The GitHub Blog"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
+          "title": "Announcing beta launch of Display & Video 360 API v5 - Google Ads Developer Blog",
+          "summary": "Announcing beta launch of Display & Video 360 API v5 Google Ads Developer Blog. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Ads Developer Blog",
+          "when": "23 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc3NfcFNkNWxudVhOTlk4cVVqeW5MRHpNWUJKeExCMnVJOGxHYmpCWHJ5YXVDbGViaVRxQTRfenN3TnI0b0w0TXk1ekNJOGlMazVBVU5YVWFUME5kYk1mY0YtOG1YT2N3LXBsOFd2VU03WkZMYVZtVk5FTHJxRmM3aERlVDZKNDVPcmg2clVKSWdaTW5FSVQzMVVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
           "summary": "About the AI campaign localization tool for Search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
           "when": "22 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
-          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaU9EX3ljN3NOaXR2QmlhQ094REJTcURVUUJ6X0lHX21NNDVaNUQ2MUFlZzVudU1rMGVwdW1FODJKWWJybFhaQ1F6ZzlKRlR0eVU0dnZDMHhjY1Q1bV9vNG9sUVJXWU10R1hZ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -225,14 +225,6 @@
       "name": "Creative AI & Design",
       "stories": [
         {
-          "title": "Using thousands of AI agents to uncover new leads in biological data - OpenAI",
-          "summary": "Using thousands of AI agents to uncover new leads in biological data OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Business Wire",
           "summary": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Business Wire",
@@ -241,19 +233,27 @@
           "image": ""
         },
         {
+          "title": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads - Via TT",
+          "summary": "Picsart Launches Marketing Studio to Help Businesses Create, Test and Run Google Ads Via TT. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Via TT",
+          "when": "21 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONnRIbDVOY29TY2hoWUdDVkYyM1FaZmV5ZW5fbm8xRjVHLXRhdTFWQUFLQXFwOHRuYWhWRWNtN2Rid3F4NmFJcnpzSzNnZU8yOGlDZlFQdjdXTUd4d3VnS25Ydy1pdnc4OV8ybmpVUnVKWk5wZS1NT3k1TklKM2NrUElnOWx1akdPcV93WDhkSTNaWVdQa2x6bFFLZUhOVU9TLTNTN1Q5ODN5QkVQdFdGUW5PRzZhYkREaFBvTFN0RExLUE45LWJ3d2trUXk4bmlINkxsY1ZfZVJQa00wWGFxZjZEd2FzZkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Adobe (NASDAQ:ADBE) stock climbs as creative AI feature rollout expands today - Kalkine Media",
+          "summary": "Adobe (NASDAQ:ADBE) stock climbs as creative AI feature rollout expands today Kalkine Media. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Kalkine Media",
+          "when": "22 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV9TUDZvZjFxSG5UellNVm93VWlFck5kUnJXRXRITUhLYzdlRnhxOFgyTi0wSExXN3BsODhlNHMzUGc4bklGSHA2ZkZMSmdaaUVWQUFfOXpTZFIta3dmVzVzbFppOGltVGRzQUtDandEaTA3N3ZTWmlwWVpkTi1BNng4R3B1RldEVW4xSHlTdmtzcUJvOUpBa0x0aG8tSUZfeXNBcmtMeGZvME5PQ1Q2QXFySjV3RlA1Mm5YdA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "The latest AI-powered martech news and releases - MarTech",
           "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "MarTech",
           "when": "23 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Uber brings ChatGPT Work to all employees with OpenAI - OpenAI",
-          "summary": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -289,6 +289,22 @@
           "when": "22 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFVjb1ZFLUt6aVZJTnlORlk1Vl9YS2lRMW9UeldUdUd1OTRMWE85eDZIU0t2b21FNG82X05VZ081ckJ2T0tVbE5KRU5ZSlc0eURzR0JtZ0VSak5uWk5wN2M4U0ZlY25lYTZidl8xbUVZMFN3NVc3NEQwSWFKaVNKWmxOa1JubVg4VHQ4S0pGcVB3X0l0eGw0V3hTWXZPTmM?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category - The Manila Times",
+          "summary": "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category The Manila Times. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "The Manila Times",
+          "when": "21 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcGZ1eDlaRWlMMmZ4NGVXcHZidVRJa211WGItVHhiWmkyM1JKckxscXlXd2E1aHpoeFN5RXYtQkptU3RrS0FKOGROWElJbWFIb1hiMUc2R2Q2TmUxdXpzeEc0RTAyX2N5d3g5VU0yeEVJZmE2UTNsbDk4ZUFVc21DN05vc0JLdTBDYk1XWjRNbU1hX2IzMG1QclFjQXNQZ0doRXNFWU16RkZSTUpyWm5KaFhvZTZGejBoeV94YzVpZHFudXZfRDZLVTZfVE1rMXA1OFlrelRteDRuM3RRYVFUNzIya3VaOFNmZ3FjNmFXelhyWHFENUdMY0tmMW5PZVRYTGJDQUdB0gGGAkFVX3lxTE1wZnV4OVpFaUwyZng0ZVdwdmJ1VElrbXVYYi1UeGJaaTIzUkpyTGxxeVd3YTVoemh4U3lFdi1CSm1TdGtLQUo4ZE5YSUltYUhvWGIxRzZHZDZOZTF1enN4RzRFMDJfY3l3eDlVTTJ4RUlmYTZRM2xsOThlQVVzbUM3Tm9zQkt1MENiTVdaNE1tTWFfYjMwbVByUWNBc1BnR2hFc0VZTXpGRlJNSnJabkpoWG9lNkZ6MGh5X3hjNWlkcW51dl9ENktVNl9UTWsxcDU4WWt6VG14NG4zdFFhUVQ3MjJrdVo4U2ZncWM2YVd6WHJYcUQ1R0xjS2Yxbk9lVFhMYkNBR0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Polaris 2.0 is now stable - Shopify Dev Docs",
+          "summary": "Polaris 2.0 is now stable Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Shopify Dev Docs",
+          "when": "22 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxX0hVd3FjSFZEampOUWhaRnZoNjRPeHcxc3AtaGt0T3JPc3JnN0FYc1c3X1VZaGNQUzNWV0d0eWhGN2hBZ0NtdnRGQmF2OTItTnRUdFNPd2dNRDNSVEEwYWVaallFdU5ucFBRMjlNUlpkM1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     }
@@ -298,10 +314,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
+        "topic": "Announcing beta launch of Display & Video 360 API v5 - Google Ads Developer Blog",
         "status": "Cross-source coverage",
-        "common_context": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
+        "common_context": "Announcing beta launch of Display & Video 360 API v5 Google Ads Developer Blog",
         "unique_points": [
+          {
+            "source": "Google Ads Developer Blog",
+            "when": "23 Oct 2026",
+            "point": "Announcing beta launch of Display & Video 360 API v5 Google Ads Developer Blog",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc3NfcFNkNWxudVhOTlk4cVVqeW5MRHpNWUJKeExCMnVJOGxHYmpCWHJ5YXVDbGViaVRxQTRfenN3TnI0b0w0TXk1ekNJOGlMazVBVU5YVWFUME5kYk1mY0YtOG1YT2N3LXBsOFd2VU03WkZMYVZtVk5FTHJxRmM3aERlVDZKNDVPcmg2clVKSWdaTW5FSVQzMVVB?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Google Help",
             "when": "22 Oct 2026",
@@ -315,16 +337,10 @@
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmx6alZSbkRqNjNBdkVIcWhvNlFGa0NpZm5ESnU3VXN3WHR1ZjNMSmtRVXFfcU9EZ0RyWEdaR202NmE0MXVNeFJVYWktNl83ZVY1MnNKRXNvVjhoODRmUGQ2YnU2dDJiLUFWZHZEa2hReUo2LUJvU0VsQW5pSENScGRkUEV3OVBsS2R4UE93b0hvRVBY?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "The Des Moines Register",
-            "when": "22 Oct 2026",
-            "point": "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants The Des Moines Register",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMFEwbVdOenppWk12VmpITzM3U19KMXZzLUkwelRwN0lEaFhtbi13VjVoTGw1X2dIQXFiMzZFMUJ2NlZJMDE0OHJ0T29VcTh6QkQ5UkhjWmM4YWoya1pXdFlqNGpONDVjNGRNemNyR0lES1RaOXNiaHVhTE85cXJMZW9QaTFCeU5iSG9xMFM1Nno1MGZndnpiTzdzVE9WNzdEb0wxSE1FX1A1T3FQamd2OTFOb3J6T3lwWVYyZTMta2ZfZlBkTm5wM0VfZDZOQW4xWVIzT1FmQ3p1SkdhOXVmSGlmcnA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Nerdbot",
+            "source": "Meta for Developers",
             "when": "21 Oct 2026",
-            "point": "Best Reddit Marketing Agencies in 2026 Nerdbot",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmRTNCbk5RX3dCQWJDTW4yUm1CZFBEYjJTb0I3VTRUdGJyMXpRVnlVbzhwQmpFbGp6QzQxSW12ODB5NUk1QXZJVnN5aVI0Z1M5aTJnZDZuMUhSRmNOU2g2QjN5M0JUb2xmem1jVWI2S0NmWDZNTkJ1bG5R?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Sunsetting Marketing Messages on the Cloud API: Upgrade to the Marketing Messages API for WhatsApp before October 2027 Meta for Developers",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXFZMlRLSmY0ZVZSWjZMaVdoSFdpUE1GbmFjTm1aMVZjVXU0WTZEc0R2TG5UdGtXN0paeWhybFFXSHNVYVBtVWY4VFpqTER5WE9EYWRXSi1YZGpTaDZCY09na2lHdGM3Z0NScmVGOWlmbVcyc2FORGVuLWFiNWgyalBsaFMxSGxGTExJSUF1VDZIYjF5WlJ1d1JaZmQtN3BWeUE?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -351,26 +367,6 @@
             "when": "22 Oct 2026",
             "point": "Industry comparisons in the Copilot impact dashboard The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm9yOXlQVHB0Qzh0b0Ryb0lhV3lKemhtbG5rUlFwOVRpZTdybWlnbGtVNzZHeGZZUFRnckRUTGJVd2RtLUluZk9PSmJOb3I1aUktZTRibVM4S24wT2xZOVhwdTBDMzJoZ3V2M2htZXRwRmJaVmdVeHdtY0pMS2hoUC1JRDE4dmFDWWtuM0l1MkVEZHFENXk1d3Vn?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Uber brings ChatGPT Work to all employees with OpenAI - OpenAI",
-        "status": "Cross-source coverage",
-        "common_context": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI",
-        "unique_points": [
-          {
-            "source": "OpenAI",
-            "when": "22 Oct 2026",
-            "point": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "OpenAI",
-            "when": "21 Oct 2026",
-            "point": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

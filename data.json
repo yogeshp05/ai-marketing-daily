@@ -13,11 +13,11 @@
     "Announcing beta launch of Display & Video 360 API v5 - Google Ads Developer Blog",
     "Digital Marketing News, October 1–16, 2026: 8 Updates That Matter for Your Next Campaign - ALM Corp",
     "Custom skills, agents, and MCP servers in usage metrics API - The GitHub Blog",
-    "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants - The Des Moines Register",
     "2026 Microsoft Advertising Partner Awards: APAC winners announced - Microsoft",
     "Global default for Copilot features generally available - The GitHub Blog",
     "Donating Agent Skills to the Agentic AI Foundation - Anthropic",
-    "Public monitoring now available with data residency - The GitHub Blog"
+    "Discover a merchant's retail stores with UCP location search and lookup - Shopify Dev Docs",
+    "About the AI campaign localization tool for Search campaigns (beta) - Google Help"
   ],
   "sections": [
     {
@@ -53,14 +53,6 @@
       "name": "Microsoft Ads",
       "stories": [
         {
-          "title": "Digital Marketing News, October 1–16, 2026: 8 Updates That Matter for Your Next Campaign - ALM Corp",
-          "summary": "Digital Marketing News, October 1–16, 2026: 8 Updates That Matter for Your Next Campaign ALM Corp. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "ALM Corp",
-          "when": "23 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQmlBX1QzV0JvY21leG9aOFV3dENZWmVsbmhGbjFoMzhVdEJnNS1ETHJMSXRhM1BOQjhXTlBiSE5VR2wwVDBqaVlYdTZHbnNyTEkwSEU1dVd6S2N2eEIyVHhVREhNN25Gb0VTMWRVVnNvTUtFMV9WMUNDemk0M3BhTEh4aXNMSnYzOFlzMHJPNzhVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "2026 Microsoft Advertising Partner Awards: APAC winners announced - Microsoft",
           "summary": "2026 Microsoft Advertising Partner Awards: APAC winners announced Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Microsoft",
@@ -79,7 +71,8 @@
           "source": "조선일보",
           "when": "23 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelgzVENKYUd5SC1IVndWN0pvbm5LVjdRNDRjRDFRbll4N1FvNzd2RXBpUThhcTloWUlwck9SZlRBcC1lMTdETHAycWowbHpXd0tqc3lJWURaVzBrakc5SWJIaGhiQ2R4dWkxR1A2V1FFcnlxMjczcTh4QlpVdDR2M3VpY0dJcC1LbFdwaXBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -118,14 +111,6 @@
     {
       "name": "LinkedIn Ads",
       "stories": [
-        {
-          "title": "LinkedIn CMO Shares 2026 Playbook For Top Voices, B2B Creators And AI Slop - Net Influencer",
-          "summary": "LinkedIn CMO Shares 2026 Playbook For Top Voices, B2B Creators And AI Slop Net Influencer. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Net Influencer",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3JSWERPaEt4emJKVVpqRUY5SWR3SDhQRHd5N1lGU2FNZnozT19VQk5KUlRRcW5mM2RaWFNiamRZZjVwZFNYTDg1ekJ5TlZMY3dnRldMUHR1UXh2WHVEcEk1QmZZbjJ4T19sUnNRYUVCeEFyQmxXdDdJU2VfZk5zbGlzX3V1dEVjRlRHMXlTa1lqaXBieUZjdFI4VkpVTUltdkVSRENEOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "LinkedIn job-title targeting reaches Google DV360 CTV buys in the US - PPC Land",
           "summary": "LinkedIn job-title targeting reaches Google DV360 CTV buys in the US PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -196,14 +181,6 @@
           "image": ""
         },
         {
-          "title": "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants - The Des Moines Register",
-          "summary": "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants The Des Moines Register. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Des Moines Register",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMFEwbVdOenppWk12VmpITzM3U19KMXZzLUkwelRwN0lEaFhtbi13VjVoTGw1X2dIQXFiMzZFMUJ2NlZJMDE0OHJ0T29VcTh6QkQ5UkhjWmM4YWoya1pXdFlqNGpONDVjNGRNemNyR0lES1RaOXNiaHVhTE85cXJMZW9QaTFCeU5iSG9xMFM1Nno1MGZndnpiTzdzVE9WNzdEb0wxSE1FX1A1T3FQamd2OTFOb3J6T3lwWVYyZTMta2ZfZlBkTm5wM0VfZDZOQW4xWVIzT1FmQ3p1SkdhOXVmSGlmcnA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Global default for Copilot features generally available - The GitHub Blog",
           "summary": "Global default for Copilot features generally available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
@@ -217,6 +194,14 @@
           "source": "Anthropic",
           "when": "22 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "GitHub Copilot in Visual Studio — September update - The GitHub Blog",
+          "summary": "GitHub Copilot in Visual Studio — September update The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "23 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbU9DVHNQOEdkSVpTM00zMl92ZGNmdzYxRFhkbkh2SGxMQ1JxbE0wMWFpMnBwZlF3Tnc4TDhXMm5TMFdyVE9ncjRSVEtOdjRlcFFXV2o3ZVl3UjNmZ1VZUjN3R1d5d3pRaGRGekJ2a3Q2ZlpRcXY3bkNUbi10eG9yMkhkTElpQS0yd2FIVUVUQWtrQ293YlVv?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -345,26 +330,6 @@
             "when": "22 Oct 2026",
             "point": "Polaris 2.0 is now stable Shopify Dev Docs",
             "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxX0hVd3FjSFZEampOUWhaRnZoNjRPeHcxc3AtaGt0T3JPc3JnN0FYc1c3X1VZaGNQUzNWV0d0eWhGN2hBZ0NtdnRGQmF2OTItTnRUdFNPd2dNRDNSVEEwYWVaallFdU5ucFBRMjlNUlpkM1k?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "LinkedIn publishes new guide to B2B conversion tracking - Social Media Today",
-        "status": "Cross-source coverage",
-        "common_context": "LinkedIn publishes new guide to B2B conversion tracking Social Media Today",
-        "unique_points": [
-          {
-            "source": "Social Media Today",
-            "when": "23 Oct 2026",
-            "point": "LinkedIn publishes new guide to B2B conversion tracking Social Media Today",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnNtbEppOXRPcUs1TWY2Z21TalVJenZwZEtmYjBVY0Y1bThMTTh6Rm4tSHM2eWpwRUxWaXlHUWJjdC04WkJZclU2a093ODQwT1BXNlVocFVQM2JYYXRzblg2MzRhNnVrYVdyWUhhLVdBYTFMaUtjMGp6NUlXekFPWHFMU0JnczNJUUs2ZUgzRERRcjNVRVc2dFZ2VXpOQzZwcnF3?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Net Influencer",
-            "when": "22 Oct 2026",
-            "point": "LinkedIn CMO Shares 2026 Playbook For Top Voices, B2B Creators And AI Slop Net Influencer",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3JSWERPaEt4emJKVVpqRUY5SWR3SDhQRHd5N1lGU2FNZnozT19VQk5KUlRRcW5mM2RaWFNiamRZZjVwZFNYTDg1ekJ5TlZMY3dnRldMUHR1UXh2WHVEcEk1QmZZbjJ4T19sUnNRYUVCeEFyQmxXdDdJU2VfZk5zbGlzX3V1dEVjRlRHMXlTa1lqaXBieUZjdFI4VkpVTUltdkVSRENEOA?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

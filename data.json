@@ -14,10 +14,10 @@
     "Digital Marketing News, October 1–16, 2026: 8 Updates That Matter for Your Next Campaign - ALM Corp",
     "Custom skills, agents, and MCP servers in usage metrics API - The GitHub Blog",
     "Impact Factory Launches AI Marketing Plug-In for ChatGPT and Other Leading AI Assistants - The Des Moines Register",
-    "Reduck Secures $3M for AI Agent Web Automation - shattered.io",
     "2026 Microsoft Advertising Partner Awards: APAC winners announced - Microsoft",
     "Global default for Copilot features generally available - The GitHub Blog",
-    "Donating Agent Skills to the Agentic AI Foundation - Anthropic"
+    "Donating Agent Skills to the Agentic AI Foundation - Anthropic",
+    "Public monitoring now available with data residency - The GitHub Blog"
   ],
   "sections": [
     {
@@ -45,14 +45,6 @@
           "source": "blog.google",
           "when": "22 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmx6alZSbkRqNjNBdkVIcWhvNlFGa0NpZm5ESnU3VXN3WHR1ZjNMSmtRVXFfcU9EZ0RyWEdaR202NmE0MXVNeFJVYWktNl83ZVY1MnNKRXNvVjhoODRmUGQ2YnU2dDJiLUFWZHZEa2hReUo2LUJvU0VsQW5pSENScGRkUEV3OVBsS2R4UE93b0hvRVBY?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "2026 - Google Ads Developer Blog",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Ads Developer Blog",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TU8xNUpBVzc2ZndSazN4M2gwVHVEdmx2ZldQS0xrUGZ3RzRKcFpxc3pqV2VLNW9aa0FBRFFVWTBJU1l2ZGVoYUxyQXVsUnd1TTJQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -82,13 +74,12 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "Sunsetting Marketing Messages on the Cloud API: Upgrade to the Marketing Messages API for WhatsApp before October 2027 - Meta for Developers",
-          "summary": "Sunsetting Marketing Messages on the Cloud API: Upgrade to the Marketing Messages API for WhatsApp before October 2027 Meta for Developers. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Meta for Developers",
-          "when": "21 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXFZMlRLSmY0ZVZSWjZMaVdoSFdpUE1GbmFjTm1aMVZjVXU0WTZEc0R2TG5UdGtXN0paeWhybFFXSHNVYVBtVWY4VFpqTER5WE9EYWRXSi1YZGpTaDZCY09na2lHdGM3Z0NScmVGOWlmbVcyc2FORGVuLWFiNWgyalBsaFMxSGxGTExJSUF1VDZIYjF5WlJ1d1JaZmQtN3BWeUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Meta Raises AI Investment Forecast as Ad Revenue Surges - 조선일보",
+          "summary": "Meta Raises AI Investment Forecast as Ad Revenue Surges 조선일보. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "조선일보",
+          "when": "23 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelgzVENKYUd5SC1IVndWN0pvbm5LVjdRNDRjRDFRbll4N1FvNzd2RXBpUThhcTloWUlwck9SZlRBcC1lMTdETHAycWowbHpXd0tqc3lJWURaVzBrakc5SWJIaGhiQ2R4dWkxR1A2V1FFcnlxMjczcTh4QlpVdDR2M3VpY0dJcC1LbFdwaXBB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -117,7 +108,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
+          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -240,14 +231,6 @@
           "when": "22 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "The latest AI-powered martech news and releases - MarTech",
-          "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "MarTech",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -260,7 +243,8 @@
           "source": "shattered.io",
           "when": "22 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xemRnSVZpS2ZFSDhkYlhnZUxwd0pyZ25DYXFKcmlrbFhVeVlaa3hjQmFmRnFFcG5HV1BuX0NMa1F4dk52dGw4RzVmX1BqY3dtbWtsdGZQS3p6R1FDOVVQbUppaXNDSmQ5azlWaVNnb0F4TWgyZWJV?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         },
         {
           "title": "The latest AI-powered martech news and releases - MarTech",
@@ -268,7 +252,8 @@
           "source": "MarTech",
           "when": "22 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },

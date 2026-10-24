@@ -12,12 +12,12 @@
   "ticker": [
     "Google Ads Search campaigns lose 50% Display budget split in February 2027 - PPC Land",
     "Digital Marketing News, October 1–16, 2026: 8 Updates That Matter for Your Next Campaign - ALM Corp",
-    "Custom skills, agents, and MCP servers in usage metrics API - The GitHub Blog",
-    "deAPI – Unified AI Inference API, Media Generation & Speech Transcription - Quasa.io",
-    "2026 Microsoft Advertising Partner Awards: APAC winners announced - Microsoft",
     "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice",
     "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
-    "Public monitoring adds triage, validity, API, and webhooks - The GitHub Blog"
+    "Public monitoring adds triage, validity, API, and webhooks - The GitHub Blog",
+    "Meta AI ad edits put liability on brands - ContentGrip",
+    "Unlink a customer's identity provider subject with the GraphQL Admin API - Shopify Dev Docs",
+    "Martech feature readiness: Buy what works, not the demo - ContentGrip"
   ],
   "sections": [
     {
@@ -42,7 +42,8 @@
           "source": "Microsoft",
           "when": "23 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlo1OEpoM3UtMDZ5cFdGcVRzMHloazVQNjVEUG5MczZzdEhUeGpRVE5vNU53OXJFZHJyT1lDZU9SdWI2aEc5SVV0UUxoU2hZLWdUOUVESzI1U1pkb2FXcGduSXdZbHBVOHV0SVlJLXVkenZLbmx0Ym1mdVBpbDBKSzVkTGxueHNhVmFveVhhOGtlSGFMTTRibGo5U1piQnd6WElkdnNhUE56RGZlUVNuYTZFS0E0cXRHNVVjcmFEZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -84,7 +85,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
+          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -156,14 +157,6 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Custom skills, agents, and MCP servers in usage metrics API - The GitHub Blog",
-          "summary": "Custom skills, agents, and MCP servers in usage metrics API The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "23 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFpnSGFQTEZvR2hVYUZiY2lFRGNLSjhJU3IwdlRDSndIRjZkRnVYOWFBWjBVTHBKWFlDb081a0JhS0N4T1lkQVgtUkx6X0J5aUNtaXhGX3lyeTZENEw5dko4bnNSb2lWdl8yYTh3c25aSkUwNWhQRjc4VGFCRFJKTEJneXd5Q3pHWDRibklKbF9BV2xhMVN2anQ3clhYMktR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
           "summary": "Usage metrics API adds usage from tools like OpenCode The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
@@ -180,11 +173,19 @@
           "image": ""
         },
         {
-          "title": "GitHub Copilot in Visual Studio — September update - The GitHub Blog",
-          "summary": "GitHub Copilot in Visual Studio — September update The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "title": "Martech feature readiness: Buy what works, not the demo - ContentGrip",
+          "summary": "Martech feature readiness: Buy what works, not the demo ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "ContentGrip",
+          "when": "24 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIUXJLN1RaaDFhTmpaTUZrRWVRSTJJYmxFSFBQelNBalM1X1R0TjBwbXRlbXI4T3FHSjkxYzFJYnJSbFVhSVhFcFAwUWxTZVR4Z3luM3JQa3dzWGkxdjRidFRRSGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "EMU deletions fix - The GitHub Blog",
+          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
-          "when": "23 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbU9DVHNQOEdkSVpTM00zMl92ZGNmdzYxRFhkbkh2SGxMQ1JxbE0wMWFpMnBwZlF3Tnc4TDhXMm5TMFdyVE9ncjRSVEtOdjRlcFFXV2o3ZVl3UjNmZ1VZUjN3R1d5d3pRaGRGekJ2a3Q2ZlpRcXY3bkNUbi10eG9yMkhkTElpQS0yd2FIVUVUQWtrQ293YlVv?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "when": "24 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zdThvVENvTkd2TnNmLUtyX0laWUpQY0JfUW1xMDdraFJyUV9oaWxqQ2g4RDV3QnVyVTJkZ19maXRhdEI4WFpYUFFwbDBHWkQyLWFqekNtVE8xZ3pZN3E1OFdOeUNNUHBLZWU0?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -212,7 +213,8 @@
           "source": "Quasa.io",
           "when": "23 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3d0Z2swaVl1MGh0eHEyclZvOWJjaEdXaEdyZW5ENjF5UnptTUpRZjhyeEhBRWIzdDNYMElhOGhiUXpSMVJ6VERPbEZrdkc5NDY4VWtxZDdpUjhQaFhlZ2dudUNNYngwSEFlQTFfdmRaZzVueC0yX3BRSjBmTXA5UWtIdk1NMVhUSWZiMVBxMXdpY1kwZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -235,6 +237,26 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
+        "topic": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice",
+        "status": "Cross-source coverage",
+        "common_context": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads TechJuice",
+        "unique_points": [
+          {
+            "source": "TechJuice",
+            "when": "24 Oct 2026",
+            "point": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads TechJuice",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14NmJPT0YtazNSN29sZDVXYzRhR29fODU3eEs3S0ppY01SNmZlbDdGWUdlaU0zSlczTFMtOFB1VVhWcF9IZFdOVjExRHFzNzZGcXBkVzE3NUItZTdvSlZ6a2lPU2pMSkNxMU1aQ0xKbDdrQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Social Media Today",
+            "when": "23 Oct 2026",
+            "point": "LinkedIn publishes new guide to B2B conversion tracking Social Media Today",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnNtbEppOXRPcUs1TWY2Z21TalVJenZwZEtmYjBVY0Y1bThMTTh6Rm4tSHM2eWpwRUxWaXlHUWJjdC04WkJZclU2a093ODQwT1BXNlVocFVQM2JYYXRzblg2MzRhNnVrYVdyWUhhLVdBYTFMaUtjMGp6NUlXekFPWHFMU0JnczNJUUs2ZUgzRERRcjNVRVc2dFZ2VXpOQzZwcnF3?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
         "topic": "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
         "status": "Cross-source coverage",
         "common_context": "Usage metrics API adds usage from tools like OpenCode The GitHub Blog",
@@ -256,32 +278,6 @@
             "when": "23 Oct 2026",
             "point": "Public monitoring adds triage, validity, API, and webhooks The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFBCeEg0dU5uaTN6NFp5RzRsOGVpTTRkSFhIYzlyUkp3dXdaWjItWTBDS0lpTnJkbXExSXFjb3gzcGoxSDVvRFpkeFJXYnR4bWVVejh0V3pHQXdFb0xrbjZUd0hpd3NkY0I1emZqNjBtd2pXRnN6aktMSkZXaVU5WUVybHNQQ0gyb0lHZWRZc3lxQ0VCQlI0Sk9MdFRCQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "23 Oct 2026",
-            "point": "GitHub Copilot in Visual Studio — September update The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbU9DVHNQOEdkSVpTM00zMl92ZGNmdzYxRFhkbkh2SGxMQ1JxbE0wMWFpMnBwZlF3Tnc4TDhXMm5TMFdyVE9ncjRSVEtOdjRlcFFXV2o3ZVl3UjNmZ1VZUjN3R1d5d3pRaGRGekJ2a3Q2ZlpRcXY3bkNUbi10eG9yMkhkTElpQS0yd2FIVUVUQWtrQ293YlVv?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice",
-        "status": "Cross-source coverage",
-        "common_context": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads TechJuice",
-        "unique_points": [
-          {
-            "source": "TechJuice",
-            "when": "24 Oct 2026",
-            "point": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads TechJuice",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14NmJPT0YtazNSN29sZDVXYzRhR29fODU3eEs3S0ppY01SNmZlbDdGWUdlaU0zSlczTFMtOFB1VVhWcF9IZFdOVjExRHFzNzZGcXBkVzE3NUItZTdvSlZ6a2lPU2pMSkNxMU1aQ0xKbDdrQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Social Media Today",
-            "when": "23 Oct 2026",
-            "point": "LinkedIn publishes new guide to B2B conversion tracking Social Media Today",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnNtbEppOXRPcUs1TWY2Z21TalVJenZwZEtmYjBVY0Y1bThMTTh6Rm4tSHM2eWpwRUxWaXlHUWJjdC04WkJZclU2a093ODQwT1BXNlVocFVQM2JYYXRzblg2MzRhNnVrYVdyWUhhLVdBYTFMaUtjMGp6NUlXekFPWHFMU0JnczNJUUs2ZUgzRERRcjNVRVc2dFZ2VXpOQzZwcnF3?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

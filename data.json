@@ -17,7 +17,7 @@
     "Public monitoring adds triage, validity, API, and webhooks - The GitHub Blog",
     "Meta AI ad edits put liability on brands - ContentGrip",
     "Unlink a customer's identity provider subject with the GraphQL Admin API - Shopify Dev Docs",
-    "Martech feature readiness: Buy what works, not the demo - ContentGrip"
+    "EMU deletions fix - The GitHub Blog"
   ],
   "sections": [
     {
@@ -85,7 +85,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
+          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -142,14 +142,6 @@
           "when": "23 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQmlBX1QzV0JvY21leG9aOFV3dENZWmVsbmhGbjFoMzhVdEJnNS1ETHJMSXRhM1BOQjhXTlBiSE5VR2wwVDBqaVlYdTZHbnNyTEkwSEU1dVd6S2N2eEIyVHhVREhNN25Gb0VTMWRVVnNvTUtFMV9WMUNDemk0M3BhTEh4aXNMSnYzOFlzMHJPNzhVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "LinkedIn publishes new guide to B2B conversion tracking - Social Media Today",
-          "summary": "LinkedIn publishes new guide to B2B conversion tracking Social Media Today. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "Social Media Today",
-          "when": "23 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnNtbEppOXRPcUs1TWY2Z21TalVJenZwZEtmYjBVY0Y1bThMTTh6Rm4tSHM2eWpwRUxWaXlHUWJjdC04WkJZclU2a093ODQwT1BXNlVocFVQM2JYYXRzblg2MzRhNnVrYVdyWUhhLVdBYTFMaUtjMGp6NUlXekFPWHFMU0JnczNJUUs2ZUgzRERRcjNVRVc2dFZ2VXpOQzZwcnF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -170,14 +162,6 @@
           "source": "The GitHub Blog",
           "when": "23 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFBCeEg0dU5uaTN6NFp5RzRsOGVpTTRkSFhIYzlyUkp3dXdaWjItWTBDS0lpTnJkbXExSXFjb3gzcGoxSDVvRFpkeFJXYnR4bWVVejh0V3pHQXdFb0xrbjZUd0hpd3NkY0I1emZqNjBtd2pXRnN6aktMSkZXaVU5WUVybHNQQ0gyb0lHZWRZc3lxQ0VCQlI0Sk9MdFRCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Martech feature readiness: Buy what works, not the demo - ContentGrip",
-          "summary": "Martech feature readiness: Buy what works, not the demo ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ContentGrip",
-          "when": "24 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIUXJLN1RaaDFhTmpaTUZrRWVRSTJJYmxFSFBQelNBalM1X1R0TjBwbXRlbXI4T3FHSjkxYzFJYnJSbFVhSVhFcFAwUWxTZVR4Z3luM3JQa3dzWGkxdjRidFRRSGM?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -236,26 +220,6 @@
     "title": "Summary — What’s Actually New",
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
-      {
-        "topic": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice",
-        "status": "Cross-source coverage",
-        "common_context": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads TechJuice",
-        "unique_points": [
-          {
-            "source": "TechJuice",
-            "when": "24 Oct 2026",
-            "point": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads TechJuice",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14NmJPT0YtazNSN29sZDVXYzRhR29fODU3eEs3S0ppY01SNmZlbDdGWUdlaU0zSlczTFMtOFB1VVhWcF9IZFdOVjExRHFzNzZGcXBkVzE3NUItZTdvSlZ6a2lPU2pMSkNxMU1aQ0xKbDdrQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Social Media Today",
-            "when": "23 Oct 2026",
-            "point": "LinkedIn publishes new guide to B2B conversion tracking Social Media Today",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnNtbEppOXRPcUs1TWY2Z21TalVJenZwZEtmYjBVY0Y1bThMTTh6Rm4tSHM2eWpwRUxWaXlHUWJjdC04WkJZclU2a093ODQwT1BXNlVocFVQM2JYYXRzblg2MzRhNnVrYVdyWUhhLVdBYTFMaUtjMGp6NUlXekFPWHFMU0JnczNJUUs2ZUgzRERRcjNVRVc2dFZ2VXpOQzZwcnF3?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
       {
         "topic": "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
         "status": "Cross-source coverage",

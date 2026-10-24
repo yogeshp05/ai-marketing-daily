@@ -1,50 +1,34 @@
 {
   "date": "24 October 2026",
   "lead": {
-    "title": "Announcing beta launch of Display & Video 360 API v5 - Google Ads Developer Blog",
-    "deck": "Announcing beta launch of Display & Video 360 API v5 Google Ads Developer Blog. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVC1HUGRaeTJLU0c1Um9venNrbnhqWFE4S09BLWtvR2pRMDYyY1pScExjX29yYk5TQ3RfbU03WVJ5aXdyQktseFYxVW9PRHNuS1FBQnVOU1pFQjFEcFpZS20ySkZwSzZObXRqNnpwOVBoX1ZiWDBLdXdGQVV1V282MWVvX0lhTURnS1A1RHhoalZrZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "Google Ads Developer Blog",
-    "when": "23 Oct 2026",
+    "title": "Google Ads Search campaigns lose 50% Display budget split in February 2027 - PPC Land",
+    "deck": "Google Ads Search campaigns lose 50% Display budget split in February 2027 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb05jODF3M3JnNGt6MFZaZ2F4VW91MXZuMHhGMW9vTGc3MkdneFBPeDU4U1VMSVlsM05IV0FxSmZLWm5zd3FoYTJFT1R1a3JhN0ZZQ3lTQUdBUTlrcnY5M0pJNGFuZUcxQlo2T0tyWFotVXNnRmsyWEFVcGRiZno0UlA5d0wzUWNILTd0dnVUOWpxVlE0bEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "PPC Land",
+    "when": "24 Oct 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Announcing beta launch of Display & Video 360 API v5 - Google Ads Developer Blog",
+    "Google Ads Search campaigns lose 50% Display budget split in February 2027 - PPC Land",
     "Digital Marketing News, October 1–16, 2026: 8 Updates That Matter for Your Next Campaign - ALM Corp",
     "Custom skills, agents, and MCP servers in usage metrics API - The GitHub Blog",
+    "deAPI – Unified AI Inference API, Media Generation & Speech Transcription - Quasa.io",
     "2026 Microsoft Advertising Partner Awards: APAC winners announced - Microsoft",
-    "Global default for Copilot features generally available - The GitHub Blog",
-    "Donating Agent Skills to the Agentic AI Foundation - Anthropic",
-    "Discover a merchant's retail stores with UCP location search and lookup - Shopify Dev Docs",
-    "About the AI campaign localization tool for Search campaigns (beta) - Google Help"
+    "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice",
+    "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
+    "Public monitoring adds triage, validity, API, and webhooks - The GitHub Blog"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Announcing beta launch of Display & Video 360 API v5 - Google Ads Developer Blog",
-          "summary": "Announcing beta launch of Display & Video 360 API v5 Google Ads Developer Blog. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Ads Developer Blog",
-          "when": "23 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVC1HUGRaeTJLU0c1Um9venNrbnhqWFE4S09BLWtvR2pRMDYyY1pScExjX29yYk5TQ3RfbU03WVJ5aXdyQktseFYxVW9PRHNuS1FBQnVOU1pFQjFEcFpZS20ySkZwSzZObXRqNnpwOVBoX1ZiWDBLdXdGQVV1V282MWVvX0lhTURnS1A1RHhoalZrZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
-          "summary": "About the AI campaign localization tool for Search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop. - blog.google",
-          "summary": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "blog.google",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmx6alZSbkRqNjNBdkVIcWhvNlFGa0NpZm5ESnU3VXN3WHR1ZjNMSmtRVXFfcU9EZ0RyWEdaR202NmE0MXVNeFJVYWktNl83ZVY1MnNKRXNvVjhoODRmUGQ2YnU2dDJiLUFWZHZEa2hReUo2LUJvU0VsQW5pSENScGRkUEV3OVBsS2R4UE93b0hvRVBY?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Google Ads Search campaigns lose 50% Display budget split in February 2027 - PPC Land",
+          "summary": "Google Ads Search campaigns lose 50% Display budget split in February 2027 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "24 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb05jODF3M3JnNGt6MFZaZ2F4VW91MXZuMHhGMW9vTGc3MkdneFBPeDU4U1VMSVlsM05IV0FxSmZLWm5zd3FoYTJFT1R1a3JhN0ZZQ3lTQUdBUTlrcnY5M0pJNGFuZUcxQlo2T0tyWFotVXNnRmsyWEFVcGRiZno0UlA5d0wzUWNILTd0dnVUOWpxVlE0bEE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -66,13 +50,12 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "Meta Raises AI Investment Forecast as Ad Revenue Surges - 조선일보",
-          "summary": "Meta Raises AI Investment Forecast as Ad Revenue Surges 조선일보. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "조선일보",
+          "title": "Meta AI ad edits put liability on brands - ContentGrip",
+          "summary": "Meta AI ad edits put liability on brands ContentGrip. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "ContentGrip",
           "when": "23 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelgzVENKYUd5SC1IVndWN0pvbm5LVjdRNDRjRDFRbll4N1FvNzd2RXBpUThhcTloWUlwck9SZlRBcC1lMTdETHAycWowbHpXd0tqc3lJWURaVzBrakc5SWJIaGhiQ2R4dWkxR1A2V1FFcnlxMjczcTh4QlpVdDR2M3VpY0dJcC1LbFdwaXBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qaU5vbXlPVWpPRG5fMmNYczlKTmR5amxOUG8xNmdRZkEtM1pyM3Q4MXZrSW45bW5JN194YjU2azZnOFBldW96djVqSVB5NnZ5ay1VNENoNTRaZlJKSVh3cTV0SzQ2QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -112,11 +95,11 @@
       "name": "LinkedIn Ads",
       "stories": [
         {
-          "title": "LinkedIn job-title targeting reaches Google DV360 CTV buys in the US - PPC Land",
-          "summary": "LinkedIn job-title targeting reaches Google DV360 CTV buys in the US PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "PPC Land",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzU3S0V1bm9meDJacGhjRXJfQW1WTlRUaXgyeHN1TFl5WXZXUUV0dzZtWGduSUlqV2J6QUFWOG5rSU82MndxVU4tOVdOSVBVNVI1MFBIdWxiMlpmRjRKX3ZMWjF2SXNsVXlXb1NMbGZ0aEJVRzI3QlM1ZXNSd0JYN0RiSDNNcHlIbzI5cERkNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice",
+          "summary": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads TechJuice. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "TechJuice",
+          "when": "24 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14NmJPT0YtazNSN29sZDVXYzRhR29fODU3eEs3S0ppY01SNmZlbDdGWUdlaU0zSlczTFMtOFB1VVhWcF9IZFdOVjExRHFzNzZGcXBkVzE3NUItZTdvSlZ6a2lPU2pMSkNxMU1aQ0xKbDdrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -181,19 +164,19 @@
           "image": ""
         },
         {
-          "title": "Global default for Copilot features generally available - The GitHub Blog",
-          "summary": "Global default for Copilot features generally available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "title": "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
+          "summary": "Usage metrics API adds usage from tools like OpenCode The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
-          "when": "23 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEpFbzF0dlV1ZjdHMkllZFdyNWJwM0E4R3BDU2hGamlndy1sR1JqbVZvWlRQWktOYXphbEF2NUh5TjhnMGNianBNNE9udkpMVWttWkhmdURoV1JjekxpaS1kel9HRkJodnRMVk5lV2ZiQmFEOFkyaDF2RTBXcEFxeTJpUEh6WlVqOHltNDdidGE2dllZTk1hV3pqbE5oUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "when": "24 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWl9tdUNjaXBXN01hQnI3NkJNLUFDcUZZemxUbXhKQWZFS1dBNzBGdkVIVDRBQWVhVE00T2QtSHdRUTJJNV9sU3pwUUJ6SWJBZ0RqSkx4QnhfZ3dja1FwLWw4LXJaWUFxMG1seUtYVDZBMlNvUmRHamRSNzJidmZOelR0SkhEbk1YUEx3c0ZLRURvb2VVd1liNHdzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Donating Agent Skills to the Agentic AI Foundation - Anthropic",
-          "summary": "Donating Agent Skills to the Agentic AI Foundation Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Anthropic",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Public monitoring adds triage, validity, API, and webhooks - The GitHub Blog",
+          "summary": "Public monitoring adds triage, validity, API, and webhooks The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "23 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFBCeEg0dU5uaTN6NFp5RzRsOGVpTTRkSFhIYzlyUkp3dXdaWjItWTBDS0lpTnJkbXExSXFjb3gzcGoxSDVvRFpkeFJXYnR4bWVVejh0V3pHQXdFb0xrbjZUd0hpd3NkY0I1emZqNjBtd2pXRnN6aktMSkZXaVU5WUVybHNQQ0gyb0lHZWRZc3lxQ0VCQlI0Sk9MdFRCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -215,7 +198,8 @@
           "source": "OpenAI",
           "when": "22 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -223,22 +207,12 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "Reduck Secures $3M for AI Agent Web Automation - shattered.io",
-          "summary": "Reduck Secures $3M for AI Agent Web Automation shattered.io. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "shattered.io",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xemRnSVZpS2ZFSDhkYlhnZUxwd0pyZ25DYXFKcmlrbFhVeVlaa3hjQmFmRnFFcG5HV1BuX0NMa1F4dk52dGw4RzVmX1BqY3dtbWtsdGZQS3p6R1FDOVVQbUppaXNDSmQ5azlWaVNnb0F4TWgyZWJV?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
-        },
-        {
-          "title": "The latest AI-powered martech news and releases - MarTech",
-          "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "MarTech",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "deAPI – Unified AI Inference API, Media Generation & Speech Transcription - Quasa.io",
+          "summary": "deAPI – Unified AI Inference API, Media Generation & Speech Transcription Quasa.io. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Quasa.io",
+          "when": "23 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3d0Z2swaVl1MGh0eHEyclZvOWJjaEdXaEdyZW5ENjF5UnptTUpRZjhyeEhBRWIzdDNYMElhOGhiUXpSMVJ6VERPbEZrdkc5NDY4VWtxZDdpUjhQaFhlZ2dudUNNYngwSEFlQTFfdmRaZzVueC0yX3BRSjBmTXA5UWtIdk1NMVhUSWZiMVBxMXdpY1kwZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -246,27 +220,11 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "Discover a merchant's retail stores with UCP location search and lookup - Shopify Dev Docs",
-          "summary": "Discover a merchant's retail stores with UCP location search and lookup Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "title": "Unlink a customer's identity provider subject with the GraphQL Admin API - Shopify Dev Docs",
+          "summary": "Unlink a customer's identity provider subject with the GraphQL Admin API Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "Shopify Dev Docs",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWduZEUxMnM0M1NOS2lESFZVSGhkNE9kdnlidFgtUDRIc0llVkdBamRUNkowT3FVWHlhcWlrVGJybllaSWZtNGlmbGZTWGFDM2QxbUVPZWhoa1doOGdMMEJYcVpQNDBYZ1BQRFVLb2VObEpsZHQ5MDBRbC01V01MaUxDSU9zeDNqMEUtYmo5Z2dpS09jZTNhaUxJdWIwSnBZc0wzMlZzSXk1MnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "POS UI extensions now support reactive storage access - Shopify Dev Docs",
-          "summary": "POS UI extensions now support reactive storage access Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Shopify Dev Docs",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmdPOFdoVWowUDQ0VDlub1hiY29mMmpRamQwNU9FVzdtRC14QjNjWVIzNjNfNXE0Y3NCZkJsdzFRRWR3LXBobEM2S09WdUVxRjZRTGFnV0pYc3RuWnV5TURfRnR1X2tUQVZZSkFGWGVPVGV3anhsbTczSXVWRl9TYXlzcDF4N3RiOGpNdjFHQ2hjU0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Polaris 2.0 is now stable - Shopify Dev Docs",
-          "summary": "Polaris 2.0 is now stable Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Shopify Dev Docs",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxX0hVd3FjSFZEampOUWhaRnZoNjRPeHcxc3AtaGt0T3JPc3JnN0FYc1c3X1VZaGNQUzNWV0d0eWhGN2hBZ0NtdnRGQmF2OTItTnRUdFNPd2dNRDNSVEEwYWVaallFdU5ucFBRMjlNUlpkM1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "when": "23 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFN0TXBWZUljSmg5R0FmMkVuNFNtMkZmUXBhVk9EeE9jS1dMX0NJOWxjbUQ4YkJhRmZmaE43b1Z3cXY1Z0tFcnh6bUxrN1BkTXhhNW1OQmRXeTZrYWp6UGFGNy1yTm9xZWVUdXBYZGIxakxVbEJBb1FXNVpGVmRvVkY5QmY3dzN1aEh0dGQzY00yWGsweEI1azdSZ2pWQWxFMkxNVFJNRG9GbUU?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -277,59 +235,53 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "GitHub Copilot in Visual Studio — September update - The GitHub Blog",
+        "topic": "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "GitHub Copilot in Visual Studio — September update The GitHub Blog",
+        "common_context": "Usage metrics API adds usage from tools like OpenCode The GitHub Blog",
         "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "24 Oct 2026",
+            "point": "Usage metrics API adds usage from tools like OpenCode The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWl9tdUNjaXBXN01hQnI3NkJNLUFDcUZZemxUbXhKQWZFS1dBNzBGdkVIVDRBQWVhVE00T2QtSHdRUTJJNV9sU3pwUUJ6SWJBZ0RqSkx4QnhfZ3dja1FwLWw4LXJaWUFxMG1seUtYVDZBMlNvUmRHamRSNzJidmZOelR0SkhEbk1YUEx3c0ZLRURvb2VVd1liNHdzZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "24 Oct 2026",
+            "point": "EMU deletions fix - The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zdThvVENvTkd2TnNmLUtyX0laWUpQY0JfUW1xMDdraFJyUV9oaWxqQ2g4RDV3QnVyVTJkZ19maXRhdEI4WFpYUFFwbDBHWkQyLWFqekNtVE8xZ3pZN3E1OFdOeUNNUHBLZWU0?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "23 Oct 2026",
+            "point": "Public monitoring adds triage, validity, API, and webhooks The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFBCeEg0dU5uaTN6NFp5RzRsOGVpTTRkSFhIYzlyUkp3dXdaWjItWTBDS0lpTnJkbXExSXFjb3gzcGoxSDVvRFpkeFJXYnR4bWVVejh0V3pHQXdFb0xrbjZUd0hpd3NkY0I1emZqNjBtd2pXRnN6aktMSkZXaVU5WUVybHNQQ0gyb0lHZWRZc3lxQ0VCQlI0Sk9MdFRCQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "The GitHub Blog",
             "when": "23 Oct 2026",
             "point": "GitHub Copilot in Visual Studio — September update The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbU9DVHNQOEdkSVpTM00zMl92ZGNmdzYxRFhkbkh2SGxMQ1JxbE0wMWFpMnBwZlF3Tnc4TDhXMm5TMFdyVE9ncjRSVEtOdjRlcFFXV2o3ZVl3UjNmZ1VZUjN3R1d5d3pRaGRGekJ2a3Q2ZlpRcXY3bkNUbi10eG9yMkhkTElpQS0yd2FIVUVUQWtrQ293YlVv?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "23 Oct 2026",
-            "point": "Custom skills, agents, and MCP servers in usage metrics API The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFpnSGFQTEZvR2hVYUZiY2lFRGNLSjhJU3IwdlRDSndIRjZkRnVYOWFBWjBVTHBKWFlDb081a0JhS0N4T1lkQVgtUkx6X0J5aUNtaXhGX3lyeTZENEw5dko4bnNSb2lWdl8yYTh3c25aSkUwNWhQRjc4VGFCRFJKTEJneXd5Q3pHWDRibklKbF9BV2xhMVN2anQ3clhYMktR?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "23 Oct 2026",
-            "point": "Global default for Copilot features generally available The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEpFbzF0dlV1ZjdHMkllZFdyNWJwM0E4R3BDU2hGamlndy1sR1JqbVZvWlRQWktOYXphbEF2NUh5TjhnMGNianBNNE9udkpMVWttWkhmdURoV1JjekxpaS1kel9HRkJodnRMVk5lV2ZiQmFEOFkyaDF2RTBXcEFxeTJpUEh6WlVqOHltNDdidGE2dllZTk1hV3pqbE5oUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Ads Developer Blog",
-            "when": "23 Oct 2026",
-            "point": "Announcing beta launch of Display & Video 360 API v5 Google Ads Developer Blog",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVC1HUGRaeTJLU0c1Um9venNrbnhqWFE4S09BLWtvR2pRMDYyY1pScExjX29yYk5TQ3RfbU03WVJ5aXdyQktseFYxVW9PRHNuS1FBQnVOU1pFQjFEcFpZS20ySkZwSzZObXRqNnpwOVBoX1ZiWDBLdXdGQVV1V282MWVvX0lhTURnS1A1RHhoalZrZFE?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Discover a merchant's retail stores with UCP location search and lookup - Shopify Dev Docs",
+        "topic": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice",
         "status": "Cross-source coverage",
-        "common_context": "Discover a merchant's retail stores with UCP location search and lookup Shopify Dev Docs",
+        "common_context": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads TechJuice",
         "unique_points": [
           {
-            "source": "Shopify Dev Docs",
-            "when": "22 Oct 2026",
-            "point": "Discover a merchant's retail stores with UCP location search and lookup Shopify Dev Docs",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWduZEUxMnM0M1NOS2lESFZVSGhkNE9kdnlidFgtUDRIc0llVkdBamRUNkowT3FVWHlhcWlrVGJybllaSWZtNGlmbGZTWGFDM2QxbUVPZWhoa1doOGdMMEJYcVpQNDBYZ1BQRFVLb2VObEpsZHQ5MDBRbC01V01MaUxDSU9zeDNqMEUtYmo5Z2dpS09jZTNhaUxJdWIwSnBZc0wzMlZzSXk1MnM?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "TechJuice",
+            "when": "24 Oct 2026",
+            "point": "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads TechJuice",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14NmJPT0YtazNSN29sZDVXYzRhR29fODU3eEs3S0ppY01SNmZlbDdGWUdlaU0zSlczTFMtOFB1VVhWcF9IZFdOVjExRHFzNzZGcXBkVzE3NUItZTdvSlZ6a2lPU2pMSkNxMU1aQ0xKbDdrQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Shopify Dev Docs",
-            "when": "22 Oct 2026",
-            "point": "POS UI extensions now support reactive storage access Shopify Dev Docs",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmdPOFdoVWowUDQ0VDlub1hiY29mMmpRamQwNU9FVzdtRC14QjNjWVIzNjNfNXE0Y3NCZkJsdzFRRWR3LXBobEM2S09WdUVxRjZRTGFnV0pYc3RuWnV5TURfRnR1X2tUQVZZSkFGWGVPVGV3anhsbTczSXVWRl9TYXlzcDF4N3RiOGpNdjFHQ2hjU0E?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Shopify Dev Docs",
-            "when": "22 Oct 2026",
-            "point": "Polaris 2.0 is now stable Shopify Dev Docs",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxX0hVd3FjSFZEampOUWhaRnZoNjRPeHcxc3AtaGt0T3JPc3JnN0FYc1c3X1VZaGNQUzNWV0d0eWhGN2hBZ0NtdnRGQmF2OTItTnRUdFNPd2dNRDNSVEEwYWVaallFdU5ucFBRMjlNUlpkM1k?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "Social Media Today",
+            "when": "23 Oct 2026",
+            "point": "LinkedIn publishes new guide to B2B conversion tracking Social Media Today",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnNtbEppOXRPcUs1TWY2Z21TalVJenZwZEtmYjBVY0Y1bThMTTh6Rm4tSHM2eWpwRUxWaXlHUWJjdC04WkJZclU2a093ODQwT1BXNlVocFVQM2JYYXRzblg2MzRhNnVrYVdyWUhhLVdBYTFMaUtjMGp6NUlXekFPWHFMU0JnczNJUUs2ZUgzRERRcjNVRVc2dFZ2VXpOQzZwcnF3?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

@@ -12,12 +12,11 @@
   "ticker": [
     "Google Ads Search campaigns lose 50% Display budget split in February 2027 - PPC Land",
     "Digital Marketing News, October 1–16, 2026: 8 Updates That Matter for Your Next Campaign - ALM Corp",
-    "deAPI – Unified AI Inference API, Media Generation & Speech Transcription - Quasa.io",
     "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice",
     "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
     "Public monitoring adds triage, validity, API, and webhooks - The GitHub Blog",
     "Meta AI ad edits put liability on brands - ContentGrip",
-    "Unlink a customer's identity provider subject with the GraphQL Admin API - Shopify Dev Docs"
+    "EMU deletions fix - The GitHub Blog"
   ],
   "sections": [
     {
@@ -85,7 +84,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
+          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -165,14 +164,6 @@
           "image": ""
         },
         {
-          "title": "Martech feature readiness: Buy what works, not the demo - ContentGrip",
-          "summary": "Martech feature readiness: Buy what works, not the demo ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ContentGrip",
-          "when": "24 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIUXJLN1RaaDFhTmpaTUZrRWVRSTJJYmxFSFBQelNBalM1X1R0TjBwbXRlbXI4T3FHSjkxYzFJYnJSbFVhSVhFcFAwUWxTZVR4Z3luM3JQa3dzWGkxdjRidFRRSGM?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "EMU deletions fix - The GitHub Blog",
           "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
@@ -205,7 +196,8 @@
           "source": "Quasa.io",
           "when": "23 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3d0Z2swaVl1MGh0eHEyclZvOWJjaEdXaEdyZW5ENjF5UnptTUpRZjhyeEhBRWIzdDNYMElhOGhiUXpSMVJ6VERPbEZrdkc5NDY4VWtxZDdpUjhQaFhlZ2dudUNNYngwSEFlQTFfdmRaZzVueC0yX3BRSjBmTXA5UWtIdk1NMVhUSWZiMVBxMXdpY1kwZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -218,7 +210,8 @@
           "source": "Shopify Dev Docs",
           "when": "23 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFN0TXBWZUljSmg5R0FmMkVuNFNtMkZmUXBhVk9EeE9jS1dMX0NJOWxjbUQ4YkJhRmZmaE43b1Z3cXY1Z0tFcnh6bUxrN1BkTXhhNW1OQmRXeTZrYWp6UGFGNy1yTm9xZWVUdXBYZGIxakxVbEJBb1FXNVpGVmRvVkY5QmY3dzN1aEh0dGQzY00yWGsweEI1azdSZ2pWQWxFMkxNVFJNRG9GbUU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     }

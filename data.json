@@ -10,8 +10,7 @@
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Budget allocation - PPC Land",
-    "Channel prioritization - PPC Land"
+    "Budget allocation - PPC Land"
   ],
   "sections": [
     {
@@ -23,14 +22,6 @@
           "source": "PPC Land",
           "when": "26 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ydU1wdTFmQnBfRjdjRUpGT1FNb19ZOVhHMU5HUUNralRkT3BuSlJTczBXQWwtUGJsWHVzcV9IRURQTEVHekJjcWViYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Channel prioritization - PPC Land",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
-          "when": "26 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJYUJ1MEYza0ZtRFZBbjhtLXk2UHAtOHJlVFJ1b2xya2tyRVhtWW5BSjZ5cXBQeWtOMEpBTlFCelNUMUJUMm9ZNlFBQ0s1ZjVHWHc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -88,7 +79,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
+          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -219,28 +210,7 @@
   "summary": {
     "title": "Summary — What’s Actually New",
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
-    "topics": [
-      {
-        "topic": "Budget allocation - PPC Land",
-        "status": "Cross-source coverage",
-        "common_context": "",
-        "unique_points": [
-          {
-            "source": "PPC Land",
-            "when": "26 Oct 2026",
-            "point": "Budget allocation - PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ydU1wdTFmQnBfRjdjRUpGT1FNb19ZOVhHMU5HUUNralRkT3BuSlJTczBXQWwtUGJsWHVzcV9IRURQTEVHekJjcWViYw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "PPC Land",
-            "when": "26 Oct 2026",
-            "point": "Channel prioritization - PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJYUJ1MEYza0ZtRFZBbjhtLXk2UHAtOHJlVFJ1b2xya2tyRVhtWW5BSjZ5cXBQeWtOMEpBTlFCelNUMUJUMm9ZNlFBQ0s1ZjVHWHc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      }
-    ]
+    "topics": []
   },
   "engine": {
     "model": "none",

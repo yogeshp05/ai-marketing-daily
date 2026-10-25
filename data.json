@@ -11,11 +11,8 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Google Ads Search campaigns lose 50% Display budget split in February 2027 - PPC Land",
-    "Digital Marketing News, October 1–16, 2026: 8 Updates That Matter for Your Next Campaign - ALM Corp",
     "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice",
     "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
-    "Public monitoring adds triage, validity, API, and webhooks - The GitHub Blog",
-    "Meta AI ad edits put liability on brands - ContentGrip",
     "EMU deletions fix - The GitHub Blog"
   ],
   "sections": [
@@ -55,7 +52,8 @@
           "source": "ContentGrip",
           "when": "23 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qaU5vbXlPVWpPRG5fMmNYczlKTmR5amxOUG8xNmdRZkEtM1pyM3Q4MXZrSW45bW5JN194YjU2azZnOFBldW96djVqSVB5NnZ5ay1VNENoNTRaZlJKSVh3cTV0SzQ2QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -140,7 +138,8 @@
           "source": "ALM Corp",
           "when": "23 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQmlBX1QzV0JvY21leG9aOFV3dENZWmVsbmhGbjFoMzhVdEJnNS1ETHJMSXRhM1BOQjhXTlBiSE5VR2wwVDBqaVlYdTZHbnNyTEkwSEU1dVd6S2N2eEIyVHhVREhNN25Gb0VTMWRVVnNvTUtFMV9WMUNDemk0M3BhTEh4aXNMSnYzOFlzMHJPNzhVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -153,14 +152,6 @@
           "source": "The GitHub Blog",
           "when": "24 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWl9tdUNjaXBXN01hQnI3NkJNLUFDcUZZemxUbXhKQWZFS1dBNzBGdkVIVDRBQWVhVE00T2QtSHdRUTJJNV9sU3pwUUJ6SWJBZ0RqSkx4QnhfZ3dja1FwLWw4LXJaWUFxMG1seUtYVDZBMlNvUmRHamRSNzJidmZOelR0SkhEbk1YUEx3c0ZLRURvb2VVd1liNHdzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Public monitoring adds triage, validity, API, and webhooks - The GitHub Blog",
-          "summary": "Public monitoring adds triage, validity, API, and webhooks The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "23 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFBCeEg0dU5uaTN6NFp5RzRsOGVpTTRkSFhIYzlyUkp3dXdaWjItWTBDS0lpTnJkbXExSXFjb3gzcGoxSDVvRFpkeFJXYnR4bWVVejh0V3pHQXdFb0xrbjZUd0hpd3NkY0I1emZqNjBtd2pXRnN6aktMSkZXaVU5WUVybHNQQ0gyb0lHZWRZc3lxQ0VCQlI0Sk9MdFRCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -236,12 +227,6 @@
             "when": "24 Oct 2026",
             "point": "EMU deletions fix - The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zdThvVENvTkd2TnNmLUtyX0laWUpQY0JfUW1xMDdraFJyUV9oaWxqQ2g4RDV3QnVyVTJkZ19maXRhdEI4WFpYUFFwbDBHWkQyLWFqekNtVE8xZ3pZN3E1OFdOeUNNUHBLZWU0?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "23 Oct 2026",
-            "point": "Public monitoring adds triage, validity, API, and webhooks The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFBCeEg0dU5uaTN6NFp5RzRsOGVpTTRkSFhIYzlyUkp3dXdaWjItWTBDS0lpTnJkbXExSXFjb3gzcGoxSDVvRFpkeFJXYnR4bWVVejh0V3pHQXdFb0xrbjZUd0hpd3NkY0I1emZqNjBtd2pXRnN6aktMSkZXaVU5WUVybHNQQ0gyb0lHZWRZc3lxQ0VCQlI0Sk9MdFRCQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

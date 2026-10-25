@@ -11,9 +11,7 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Google Ads Search campaigns lose 50% Display budget split in February 2027 - PPC Land",
-    "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice",
-    "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
-    "EMU deletions fix - The GitHub Blog"
+    "LinkedIn Releases New Guide to B2B Conversion Tracking for Ads - TechJuice"
   ],
   "sections": [
     {
@@ -152,7 +150,8 @@
           "source": "The GitHub Blog",
           "when": "24 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWl9tdUNjaXBXN01hQnI3NkJNLUFDcUZZemxUbXhKQWZFS1dBNzBGdkVIVDRBQWVhVE00T2QtSHdRUTJJNV9sU3pwUUJ6SWJBZ0RqSkx4QnhfZ3dja1FwLWw4LXJaWUFxMG1seUtYVDZBMlNvUmRHamRSNzJidmZOelR0SkhEbk1YUEx3c0ZLRURvb2VVd1liNHdzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         },
         {
           "title": "EMU deletions fix - The GitHub Blog",
@@ -160,7 +159,8 @@
           "source": "The GitHub Blog",
           "when": "24 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zdThvVENvTkd2TnNmLUtyX0laWUpQY0JfUW1xMDdraFJyUV9oaWxqQ2g4RDV3QnVyVTJkZ19maXRhdEI4WFpYUFFwbDBHWkQyLWFqekNtVE8xZ3pZN3E1OFdOeUNNUHBLZWU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -210,28 +210,7 @@
   "summary": {
     "title": "Summary — What’s Actually New",
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
-    "topics": [
-      {
-        "topic": "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
-        "status": "Cross-source coverage",
-        "common_context": "Usage metrics API adds usage from tools like OpenCode The GitHub Blog",
-        "unique_points": [
-          {
-            "source": "The GitHub Blog",
-            "when": "24 Oct 2026",
-            "point": "Usage metrics API adds usage from tools like OpenCode The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWl9tdUNjaXBXN01hQnI3NkJNLUFDcUZZemxUbXhKQWZFS1dBNzBGdkVIVDRBQWVhVE00T2QtSHdRUTJJNV9sU3pwUUJ6SWJBZ0RqSkx4QnhfZ3dja1FwLWw4LXJaWUFxMG1seUtYVDZBMlNvUmRHamRSNzJidmZOelR0SkhEbk1YUEx3c0ZLRURvb2VVd1liNHdzZw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "24 Oct 2026",
-            "point": "EMU deletions fix - The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zdThvVENvTkd2TnNmLUtyX0laWUpQY0JfUW1xMDdraFJyUV9oaWxqQ2g4RDV3QnVyVTJkZ19maXRhdEI4WFpYUFFwbDBHWkQyLWFqekNtVE8xZ3pZN3E1OFdOeUNNUHBLZWU0?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      }
-    ]
+    "topics": []
   },
   "engine": {
     "model": "none",

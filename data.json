@@ -1,16 +1,16 @@
 {
   "date": "26 October 2026",
   "lead": {
-    "title": "Budget allocation - PPC Land",
-    "deck": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ydU1wdTFmQnBfRjdjRUpGT1FNb19ZOVhHMU5HUUNralRkT3BuSlJTczBXQWwtUGJsWHVzcV9IRURQTEVHekJjcWViYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "PPC Land",
+    "title": "The next wave of marketing automation is taking aim at Marketo - MarTech",
+    "deck": "The next wave of marketing automation is taking aim at Marketo MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMzJVUnViWHhybldwNGM1MzRMeldtYXAwWTR6SnBRc25ZcXZHZnR6WFBNeEVqU3RzTm9ISmZwT0hXU09MTnZ4WVFBRUJ2U0dmLXdnOVFYVWRtRUxQSmxlUXdjaFlMMUFDdk9pdUpaM3hyb0FuS3AzMWJjclFvLWNNNUxZZmZZSjBka1Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "MarTech",
     "when": "26 Oct 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Budget allocation - PPC Land"
+    "The next wave of marketing automation is taking aim at Marketo - MarTech"
   ],
   "sections": [
     {
@@ -22,7 +22,8 @@
           "source": "PPC Land",
           "when": "26 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ydU1wdTFmQnBfRjdjRUpGT1FNb19ZOVhHMU5HUUNralRkT3BuSlJTczBXQWwtUGJsWHVzcV9IRURQTEVHekJjcWViYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -182,13 +183,12 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "deAPI – Unified AI Inference API, Media Generation & Speech Transcription - Quasa.io",
-          "summary": "deAPI – Unified AI Inference API, Media Generation & Speech Transcription Quasa.io. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Quasa.io",
-          "when": "23 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3d0Z2swaVl1MGh0eHEyclZvOWJjaEdXaEdyZW5ENjF5UnptTUpRZjhyeEhBRWIzdDNYMElhOGhiUXpSMVJ6VERPbEZrdkc5NDY4VWtxZDdpUjhQaFhlZ2dudUNNYngwSEFlQTFfdmRaZzVueC0yX3BRSjBmTXA5UWtIdk1NMVhUSWZiMVBxMXdpY1kwZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "The next wave of marketing automation is taking aim at Marketo - MarTech",
+          "summary": "The next wave of marketing automation is taking aim at Marketo MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "MarTech",
+          "when": "26 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMzJVUnViWHhybldwNGM1MzRMeldtYXAwWTR6SnBRc25ZcXZHZnR6WFBNeEVqU3RzTm9ISmZwT0hXU09MTnZ4WVFBRUJ2U0dmLXdnOVFYVWRtRUxQSmxlUXdjaFlMMUFDdk9pdUpaM3hyb0FuS3AzMWJjclFvLWNNNUxZZmZZSjBka1Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },

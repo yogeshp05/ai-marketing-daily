@@ -11,22 +11,49 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "The next wave of marketing automation is taking aim at Marketo - MarTech",
+    "I no longer have access to my old phone number and cannot verify my Google Ads account. Copiar text - Google Help",
     "YouTube Shares Data on Creators’ AI Use (2026 Trends Report) - ALM Corp",
     "An AI start-up run by ex-DOGE staffers got inside Anthropic’s Slack and HR systems in under 12 hours - Howl.Link",
-    "Global companies step up push into South Korea's sovereign AI market - 디지털투데이"
+    "Admin access confirmed, but Google Ads blocks billing access - Google Help",
+    "Global companies step up push into South Korea's sovereign AI market - 디지털투데이",
+    "Escalation Request: Account Suspended Under Counterfeit Policy – No Appeal Response (3+ Months) - Google Help",
+    "GPT-6.1 Terra in GitHub Copilot - The GitHub Blog"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Budget allocation - PPC Land",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
+          "title": "I no longer have access to my old phone number and cannot verify my Google Ads account. Copiar text - Google Help",
+          "summary": "I no longer have access to my old phone number and cannot verify my Google Ads account. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "27 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRGJwSzRkanItUnFaZXJ4VG1BRVJmc2djTDNuSXczYzdTUTJmRTBiZVd0WUZrbklVNE5MUWlkd0lyMnY3bUpSZ1IxZmxNUDNFTGhCMDhsOXR0cU9zeUVlZFNUMzVYbXpiVldvSE40Q0RwQURKTS1Hd0UxUTg4VGdnZGFOVDlkSFFkeEoycmxuSDhZLXVFMWY2eHB4MXRnTzZHVkZDMHgwV1owbGltaElBazhFY05LcjVqQ0l0VkdNNUstSFNGQ3NUNlRIYjlRYlFRSkZoRnJnaXBrVlVDa2cyZFNuUUlDZEN3VUF5dnhlbnU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Admin access confirmed, but Google Ads blocks billing access - Google Help",
+          "summary": "Admin access confirmed, but Google Ads blocks billing access Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
           "when": "26 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ydU1wdTFmQnBfRjdjRUpGT1FNb19ZOVhHMU5HUUNralRkT3BuSlJTczBXQWwtUGJsWHVzcV9IRURQTEVHekJjcWViYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEE0RjMtV1A3LU10NkIxdDR6UlY4YjBYbU1rc21ubTZId1NYVldGQ2U5aVpVZmdiWm5ybWU2SVVMSTk2RzFaOUExb3dXOWR0cGR1NkZwSDhBQXhXZWZxUDFWSnNOMGtBa3dJMTFHeG1yWkc5b0lvOUZodnNreGpHRDBQc0lCODRSNmJPMzJaLVJNaDJ0RmlENk0zUENVYklZUmEzZm96UnZQLXduamxjT1RjZTNhTXJ4b2JxVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Escalation Request: Account Suspended Under Counterfeit Policy – No Appeal Response (3+ Months) - Google Help",
+          "summary": "Escalation Request: Account Suspended Under Counterfeit Policy – No Appeal Response (3+ Months) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "27 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRFZJRXRaWUhLWXlRWmVHbDRiTmwzWmptQ2J3ZDV5YTFkT0lFRktfTDQzQTdfYjNLRWhlVXlKS0xrRlZKQnI5TWRhaFRObldSQVZYWUlrUjBMcXpQcmlRWEpLVEJyRlhZQWpINHNNeVp2Rm94eG9GRGlfTTRmYXRPV0oySlM1LTN0WWR2cDhmYklTdk8xZ20xdXN0cTdsc0h1dC0zbVQwTHZ3MHh1R3Rvd290M1U0YVZNZUNOV0xhQTlDQlQ4UW10SlozXzdRR1pycElfclA0c19zVEpIWlFTWGVmNE9TZjRxNWtRNnlfcDVBdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Clarification - Google Help",
+          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "26 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMHB1S2FfZXdUSU1jUEdfYTY3dVBOMHVCSmQzYzRXbC0yMlJBaW4zY24xQkdqazBienBRU0pfMTdpRG0wZWI2VjAycVZmWlJjSEhRcXVIbUNZUGg2MEhEMlJzZFhtaXF1SEF5TWtZTUZPS3gtc043Zk9SMDFFbEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -83,7 +110,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
+          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -163,6 +190,14 @@
           "when": "26 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ1IzS184d243NTNqdzh1ZzRwcWRIWXRFalJvTTVFVzFzaFg1aW56SjNHb3dvb3NqUUpDRWRkSGFISGpQUlFiVGNnNVRtQ051Ymk5XzBYY2lHRW1SNng4aEFXa0FHRzlDdS1ZTVJVQ0tCUmhUaG9QYnRPNm1CUzkzVDRRRnRTVktxM1FxTWEwX3Zfei1wOVlDdHl0aEFYc1E4eVRfb3BINzZrVFNmUGR5SjBTNA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "GPT-6.1 Terra in GitHub Copilot - The GitHub Blog",
+          "summary": "GPT-6.1 Terra in GitHub Copilot The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "27 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0LXVtWVpLZElzUFhHcTYyX0FTaEVjV3ZpNkZRclFLVnp3WHY5allhS0c5UURGTUNadHppbVVjRlBucjBpc1F5T0hOMVNqWjI3WWtCMWdWd1hrbG5rMkZEQ0s3bGo5dnVDSG1FVE9ncXJ1bXdsY1NEUG51a243dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -210,7 +245,60 @@
   "summary": {
     "title": "Summary — What’s Actually New",
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
-    "topics": []
+    "topics": [
+      {
+        "topic": "Escalation Request: Account Suspended Under Counterfeit Policy – No Appeal Response (3+ Months) - Google Help",
+        "status": "Cross-source coverage",
+        "common_context": "Escalation Request: Account Suspended Under Counterfeit Policy – No Appeal Response (3+ Months) Google Help",
+        "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "27 Oct 2026",
+            "point": "Escalation Request: Account Suspended Under Counterfeit Policy – No Appeal Response (3+ Months) Google Help",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRFZJRXRaWUhLWXlRWmVHbDRiTmwzWmptQ2J3ZDV5YTFkT0lFRktfTDQzQTdfYjNLRWhlVXlKS0xrRlZKQnI5TWRhaFRObldSQVZYWUlrUjBMcXpQcmlRWEpLVEJyRlhZQWpINHNNeVp2Rm94eG9GRGlfTTRmYXRPV0oySlM1LTN0WWR2cDhmYklTdk8xZ20xdXN0cTdsc0h1dC0zbVQwTHZ3MHh1R3Rvd290M1U0YVZNZUNOV0xhQTlDQlQ4UW10SlozXzdRR1pycElfclA0c19zVEpIWlFTWGVmNE9TZjRxNWtRNnlfcDVBdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "27 Oct 2026",
+            "point": "I no longer have access to my old phone number and cannot verify my Google Ads account.",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRGJwSzRkanItUnFaZXJ4VG1BRVJmc2djTDNuSXczYzdTUTJmRTBiZVd0WUZrbklVNE5MUWlkd0lyMnY3bUpSZ1IxZmxNUDNFTGhCMDhsOXR0cU9zeUVlZFNUMzVYbXpiVldvSE40Q0RwQURKTS1Hd0UxUTg4VGdnZGFOVDlkSFFkeEoycmxuSDhZLXVFMWY2eHB4MXRnTzZHVkZDMHgwV1owbGltaElBazhFY05LcjVqQ0l0VkdNNUstSFNGQ3NUNlRIYjlRYlFRSkZoRnJnaXBrVlVDa2cyZFNuUUlDZEN3VUF5dnhlbnU?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "26 Oct 2026",
+            "point": "Clarification - Google Help",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMHB1S2FfZXdUSU1jUEdfYTY3dVBOMHVCSmQzYzRXbC0yMlJBaW4zY24xQkdqazBienBRU0pfMTdpRG0wZWI2VjAycVZmWlJjSEhRcXVIbUNZUGg2MEhEMlJzZFhtaXF1SEF5TWtZTUZPS3gtc043Zk9SMDFFbEU?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "26 Oct 2026",
+            "point": "Admin access confirmed, but Google Ads blocks billing access Google Help",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEE0RjMtV1A3LU10NkIxdDR6UlY4YjBYbU1rc21ubTZId1NYVldGQ2U5aVpVZmdiWm5ybWU2SVVMSTk2RzFaOUExb3dXOWR0cGR1NkZwSDhBQXhXZWZxUDFWSnNOMGtBa3dJMTFHeG1yWkc5b0lvOUZodnNreGpHRDBQc0lCODRSNmJPMzJaLVJNaDJ0RmlENk0zUENVYklZUmEzZm96UnZQLXduamxjT1RjZTNhTXJ4b2JxVA?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Budget allocation - PPC Land",
+        "status": "Cross-source coverage",
+        "common_context": "",
+        "unique_points": [
+          {
+            "source": "PPC Land",
+            "when": "26 Oct 2026",
+            "point": "Budget allocation - PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ydU1wdTFmQnBfRjdjRUpGT1FNb19ZOVhHMU5HUUNralRkT3BuSlJTczBXQWwtUGJsWHVzcV9IRURQTEVHekJjcWViYw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "26 Oct 2026",
+            "point": "Channel prioritization - PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJYUJ1MEYza0ZtRFZBbjhtLXk2UHAtOHJlVFJ1b2xya2tyRVhtWW5BSjZ5cXBQeWtOMEpBTlFCelNUMUJUMm9ZNlFBQ0s1ZjVHWHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      }
+    ]
   },
   "engine": {
     "model": "none",

@@ -1,5 +1,5 @@
 {
-  "date": "26 October 2026",
+  "date": "27 October 2026",
   "lead": {
     "title": "The next wave of marketing automation is taking aim at Marketo - MarTech",
     "deck": "The next wave of marketing automation is taking aim at Marketo MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -10,7 +10,10 @@
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "The next wave of marketing automation is taking aim at Marketo - MarTech"
+    "The next wave of marketing automation is taking aim at Marketo - MarTech",
+    "YouTube Shares Data on Creators’ AI Use (2026 Trends Report) - ALM Corp",
+    "An AI start-up run by ex-DOGE staffers got inside Anthropic’s Slack and HR systems in under 12 hours - Howl.Link",
+    "Global companies step up push into South Korea's sovereign AI market - 디지털투데이"
   ],
   "sections": [
     {
@@ -80,7 +83,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
+          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -146,22 +149,20 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Usage metrics API adds usage from tools like OpenCode - The GitHub Blog",
-          "summary": "Usage metrics API adds usage from tools like OpenCode The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "24 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWl9tdUNjaXBXN01hQnI3NkJNLUFDcUZZemxUbXhKQWZFS1dBNzBGdkVIVDRBQWVhVE00T2QtSHdRUTJJNV9sU3pwUUJ6SWJBZ0RqSkx4QnhfZ3dja1FwLWw4LXJaWUFxMG1seUtYVDZBMlNvUmRHamRSNzJidmZOelR0SkhEbk1YUEx3c0ZLRURvb2VVd1liNHdzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "An AI start-up run by ex-DOGE staffers got inside Anthropic’s Slack and HR systems in under 12 hours - Howl.Link",
+          "summary": "An AI start-up run by ex-DOGE staffers got inside Anthropic’s Slack and HR systems in under 12 hours Howl.Link. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Howl.Link",
+          "when": "26 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5lX3RGekNPdExzMEFTWDU1aEh0TTFFanBpRExUU2xNNFloTHJ5OVBlMzZ3MDVyWUxUUzVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         },
         {
-          "title": "EMU deletions fix - The GitHub Blog",
-          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "24 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zdThvVENvTkd2TnNmLUtyX0laWUpQY0JfUW1xMDdraFJyUV9oaWxqQ2g4RDV3QnVyVTJkZ19maXRhdEI4WFpYUFFwbDBHWkQyLWFqekNtVE8xZ3pZN3E1OFdOeUNNUHBLZWU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Global companies step up push into South Korea's sovereign AI market - 디지털투데이",
+          "summary": "Global companies step up push into South Korea's sovereign AI market 디지털투데이. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "디지털투데이",
+          "when": "26 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ1IzS184d243NTNqdzh1ZzRwcWRIWXRFalJvTTVFVzFzaFg1aW56SjNHb3dvb3NqUUpDRWRkSGFISGpQUlFiVGNnNVRtQ051Ymk5XzBYY2lHRW1SNng4aEFXa0FHRzlDdS1ZTVJVQ0tCUmhUaG9QYnRPNm1CUzkzVDRRRnRTVktxM1FxTWEwX3Zfei1wOVlDdHl0aEFYc1E4eVRfb3BINzZrVFNmUGR5SjBTNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -169,13 +170,12 @@
       "name": "Creative AI & Design",
       "stories": [
         {
-          "title": "Uber brings ChatGPT Work to all employees with OpenAI - OpenAI",
-          "summary": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "22 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "YouTube Shares Data on Creators’ AI Use (2026 Trends Report) - ALM Corp",
+          "summary": "YouTube Shares Data on Creators’ AI Use (2026 Trends Report) ALM Corp. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "ALM Corp",
+          "when": "26 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xU3l4eDFRSFVsRm1QOE5DSklacXB6ME0wZlBpbEs3TWRHUUxTUnZCcU05S094MldRTlVKeTRoa1IwZ0J0UFIwOHVYRkhIcGxLTUI4bVRLY2VXUktDZmFfcVRtaS1uNVZzVFpQSjIzWUgwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },

@@ -11,13 +11,13 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "The next wave of marketing automation is taking aim at Marketo - MarTech",
-    "Former Meta AI director Rohit Patel launches Ndoc to challenge Microsoft Office and Google Workspace - Mezha.net",
+    "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google - The American Bazaar",
+    "Meta AI director launches Ndoc to challenge Microsoft Office and Google Workspace - Traders Union",
     "What B2B Campaign Data Teaches Us About ChatGPT Ads — LBB - LBB - Little Black Book",
     "GitHub Copilot assisted permissions generally available - The GitHub Blog",
     "AI-Powered Foldable iPhone Snatching Agent: Transforming the E-Commerce Landscape in the AI Era - eu.36kr.com",
-    "Best SaaS Marketing Agencies in Europe - TechBullion",
-    "Content Strategy, Behavior-Backed Ads, and Industry News - Social Media Examiner",
-    "Universal Ads Brings TV Buying into the Flow of Modern Media Buying - Business Wire"
+    "Apple Creator Studio gets new AI features for image editing, music production and productivity apps - Business Upturn",
+    "Best SaaS Marketing Agencies in Europe - TechBullion"
   ],
   "sections": [
     {
@@ -105,7 +105,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
+          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -178,11 +178,19 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Former Meta AI director Rohit Patel launches Ndoc to challenge Microsoft Office and Google Workspace - Mezha.net",
-          "summary": "Former Meta AI director Rohit Patel launches Ndoc to challenge Microsoft Office and Google Workspace Mezha.net. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Mezha.net",
+          "title": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google - The American Bazaar",
+          "summary": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google The American Bazaar. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The American Bazaar",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONE9IZVFmbnBCZEpIQXZ4LUJldEluNnVTR2ZneEpLWGllY0RGWEgyOUsySWNOWFdaMEgzc3dkd1JmRV9HQ2N2ZHQyRnlnOTRvcDhOVVhDWFlnVzNFYnNYY1lFb0FiM2NfVW44Wk5SOW02Nk9qVm9pa3hJNFlnLV9pQm1QekNIOHZhSlBLeTVfQnpYZjMtcnl1UkxKLXFjdTFtMlJURjBIeEo1V0NocXFucEJweHgxOElHSWU0UlVSTU93cVhxWDJWNkR3V0RfXzFxQ3RKNVVRLU5QNVZNa2pv?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Meta AI director launches Ndoc to challenge Microsoft Office and Google Workspace - Traders Union",
+          "summary": "Meta AI director launches Ndoc to challenge Microsoft Office and Google Workspace Traders Union. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Traders Union",
           "when": "27 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IQ1QxVlQ1OU9vWnkzSWxkakR3dk01UHVrclNlNFZxX0c4MXJCcjc3Y3pkc1Z6dmxQUHF0Tm9TLVNzZEVHR0Y5ZHltMXUySlBDczEySGtYNHo3VkFfWDFibHpDZXNnSDlZTU9tTy1XY2lYekdweVlkdVhPY2RWUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR1pQcnlnYXQzTVhtLWNmcmV0WkdMTS1yOF9OUGFmWTB3Wk1Yem9BaTkxa3h0d01tYXNVWnNlR0twYmJ2bXhJZUdsLXRfdDBjdGJnS0ppMjRVbG94SGFQZ0k1aGRBVVYyLU9IaVBmd09KRVhUMERaMnVCSWItQ2oxVnlmY2t4ZS1UYVV2VG80dEpobURPaGNNTGlR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -194,19 +202,11 @@
           "image": ""
         },
         {
-          "title": "Universal Ads Brings TV Buying into the Flow of Modern Media Buying - Business Wire",
-          "summary": "Universal Ads Brings TV Buying into the Flow of Modern Media Buying Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Business Wire",
+          "title": "Meta AI Director Rohit Patel Exits to Challenge Office Giants - The Tech Buzz",
+          "summary": "Meta AI Director Rohit Patel Exits to Challenge Office Giants The Tech Buzz. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Tech Buzz",
           "when": "27 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSFkxaG84UGRoR2pDVFptb1RBSk9XN1MwYzlWMDd1ZUVJVTJKX193Tlo3NmN3T1VBcEpucW5ZVjFFYWRXb3NWTUZzb3NkYXdsOGtJQnIxbXNRZ3pBRHlLcmd6RW1xM2U0ZGhwblB4RHhZSWJGbEg4dDFiN2VKYm5MdDRsZnk1cXZjMUhsYU02Skp3RDBud0tCSUZmUUpLWnZuOTlWaWNYZVZTYnlMckxZb2tTODJrVVB5d0lVU0FkeW9MUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "GPT-6.1 Terra in GitHub Copilot - The GitHub Blog",
-          "summary": "GPT-6.1 Terra in GitHub Copilot The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "27 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0LXVtWVpLZElzUFhHcTYyX0FTaEVjV3ZpNkZRclFLVnp3WHY5allhS0c5UURGTUNadHppbVVjRlBucjBpc1F5T0hOMVNqWjI3WWtCMWdWd1hrbG5rMkZEQ0s3bGo5dnVDSG1FVE9ncXJ1bXdsY1NEUG51a243dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWG5iWHJyUUNHZEt1M1kwU2FEOF80Um5xalRZTWdkenhrWmg4eHJnMkpseGhIaHlzUGk1YVctaFNDVTVkWGlkYXgtLVdmc3I2TmdBVm10SFZPaWpSOUlRbHRnSUh1emhkTndxV3YtVFNSRFpMV05nR3k2aW11RDJMZnR5WTdNMUxlVlpDNXFkZ2h3cnlWWWhGbE9n?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -214,6 +214,14 @@
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "Apple Creator Studio gets new AI features for image editing, music production and productivity apps - Business Upturn",
+          "summary": "Apple Creator Studio gets new AI features for image editing, music production and productivity apps Business Upturn. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Business Upturn",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQnZpY2hYOE1kdk5JTzk5MzdYU2dINE9HMTNMcXJoeElyN1JVZHNlUjdIcnRDTWk3US1YXzBtOFpEbWlyejBHOWR3MkZIQmpIeGd6QUpmdl96NTg0RG1zSEZuUlRzcFdwQUhJc1ctc25haTRQbExGWnNvVjFDMFltS0o3bXJOS2hIRTJhaC1NZEYwWjVMbWcwMGFRQkVsY3c5ZkJGQlFrQkdGVXRPZWVyTzUwVUNCUkR4RVc4by05TzVTMlltbHQ2ZGNFc08tRjZSNDdna2p0VnFfS3U2UHdxZzJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Content Strategy, Behavior-Backed Ads, and Industry News - Social Media Examiner",
           "summary": "Content Strategy, Behavior-Backed Ads, and Industry News Social Media Examiner. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -256,21 +264,27 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "GitHub Copilot assisted permissions generally available - The GitHub Blog",
+        "topic": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google - The American Bazaar",
         "status": "Cross-source coverage",
-        "common_context": "GitHub Copilot assisted permissions generally available The GitHub Blog",
+        "common_context": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google The American Bazaar",
         "unique_points": [
           {
-            "source": "The GitHub Blog",
-            "when": "27 Oct 2026",
-            "point": "GitHub Copilot assisted permissions generally available The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEN4OEVxM2R4Sk9LODlYVGFqdl90OFFhRU83OEJ4dEhaZ1FfcTVhQlR5VnhYekF4XzZRcUZkazc5TVpYbE14cGxwWHBvSUc2OHBKM3M3U1V3LTU1Tmw1cGU2MHFrb19wVzBENXNwRkdlVXUyU3hsazBRR0pGemgxZXUtWTNTZWRJaXhBcUtpRy1rT1hUbkxpdjM4QUhxZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "The American Bazaar",
+            "when": "28 Oct 2026",
+            "point": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google The American Bazaar",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONE9IZVFmbnBCZEpIQXZ4LUJldEluNnVTR2ZneEpLWGllY0RGWEgyOUsySWNOWFdaMEgzc3dkd1JmRV9HQ2N2ZHQyRnlnOTRvcDhOVVhDWFlnVzNFYnNYY1lFb0FiM2NfVW44Wk5SOW02Nk9qVm9pa3hJNFlnLV9pQm1QekNIOHZhSlBLeTVfQnpYZjMtcnl1UkxKLXFjdTFtMlJURjBIeEo1V0NocXFucEJweHgxOElHSWU0UlVSTU93cVhxWDJWNkR3V0RfXzFxQ3RKNVVRLU5QNVZNa2pv?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "The GitHub Blog",
+            "source": "The Tech Buzz",
             "when": "27 Oct 2026",
-            "point": "GPT-6.1 Terra in GitHub Copilot The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0LXVtWVpLZElzUFhHcTYyX0FTaEVjV3ZpNkZRclFLVnp3WHY5allhS0c5UURGTUNadHppbVVjRlBucjBpc1F5T0hOMVNqWjI3WWtCMWdWd1hrbG5rMkZEQ0s3bGo5dnVDSG1FVE9ncXJ1bXdsY1NEUG51a243dw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Meta AI Director Rohit Patel Exits to Challenge Office Giants The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWG5iWHJyUUNHZEt1M1kwU2FEOF80Um5xalRZTWdkenhrWmg4eHJnMkpseGhIaHlzUGk1YVctaFNDVTVkWGlkYXgtLVdmc3I2TmdBVm10SFZPaWpSOUlRbHRnSUh1emhkTndxV3YtVFNSRFpMV05nR3k2aW11RDJMZnR5WTdNMUxlVlpDNXFkZ2h3cnlWWWhGbE9n?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Traders Union",
+            "when": "27 Oct 2026",
+            "point": "Meta AI director launches Ndoc to challenge Microsoft Office and Google Workspace Traders Union",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR1pQcnlnYXQzTVhtLWNmcmV0WkdMTS1yOF9OUGFmWTB3Wk1Yem9BaTkxa3h0d01tYXNVWnNlR0twYmJ2bXhJZUdsLXRfdDBjdGJnS0ppMjRVbG94SGFQZ0k1aGRBVVYyLU9IaVBmd09KRVhUMERaMnVCSWItQ2oxVnlmY2t4ZS1UYVV2VG80dEpobURPaGNNTGlR?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

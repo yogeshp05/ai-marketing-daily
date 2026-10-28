@@ -1,5 +1,5 @@
 {
-  "date": "28 October 2026",
+  "date": "29 October 2026",
   "lead": {
     "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone - Facebook",
     "deck": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -11,24 +11,40 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone - Facebook",
-    "AI Max matched menu-cover campaign to printing house and competitor searches — advertiser control? - Google Help",
+    "Is Your Marketing Team Burning Cash on AI? - DesignRush",
+    "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
+    "Build, steer, and measure your campaigns with AI: What's new in Microsoft Advertising this October - Microsoft",
+    "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "Oracle Launches AI-Driven Streaming Video Content Production Platform - Media Play News",
     "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google - The American Bazaar",
-    "Amazon Ads unBoxed 2026: Amazon Positions Its Ad Business Around Agents - The Futurum Group",
-    "What B2B Campaign Data Teaches Us About ChatGPT Ads — LBB - LBB - Little Black Book",
-    "GitHub Copilot assisted permissions generally available - The GitHub Blog",
-    "Meta AI director Rohit Patel quits after 8 years to build Microsoft Office, Google Workspace rival - Storyboard18"
+    "What B2B Campaign Data Teaches Us About ChatGPT Ads — LBB - LBB - Little Black Book"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "AI Max matched menu-cover campaign to printing house and competitor searches — advertiser control? - Google Help",
-          "summary": "AI Max matched menu-cover campaign to printing house and competitor searches — advertiser control? For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
+          "summary": "About the AI campaign localization tool for Search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
           "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdWc0Z2JyWVpQM0lVRk84S19uWThycXpOZVJ3ZkxEUUl3X2xUNGJQVng1eDhLNjhVVzkwbm9fTjVLT1BUNWRYTEhZMk45c1ZiejN3dlUxVzFrc1BFZ2RyYlBHT25RWUxuaktuNGRJTy16MWFTTlR1M1lNblEzUW40cS02cmY0NVhFazNaRGUyVFg5Ny01dmxJXzRsX3NFcXpJRWd6WmNTRm5hcDFNbEhtREI3ZzFJYmw4VjdTM3ozV0FmOXctcEZCdDR4SHlzbUpZZTlyaVZNSjdsd1VpMkdGQ2kxZ3ZXYXR5Y0dOb1J3bmxKRWlwMXBZaHpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQk1ZMXVKcFRsRU1qazVnaFVEdHFfeFhaVVQ2WVcxb1VNLUJPRVJYUEowX0E5NEZUd082NjhzZUdmbDVPXy1VS2JoYnQ0R2YydlFzenhFV0dmdzI2bzNoZmFHRUNhVnhRQkx0V3BuWDNmVFpTVV9ELUVPbVY4LXVad2FyQ1JBU2MwM0ZV?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Unable to Update Call Asset After HIPAA Monitoring and Recording Exclusion - Google Help",
+          "summary": "Unable to Update Call Asset After HIPAA Monitoring and Recording Exclusion Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWp4YzYtdFEyT21XNFlyd2c2TVluc0QzV2d0UmQ4SmIwc3gxNWpUekppVGlOUWR0aWZUSnY5NU85LWZCS3VDNFpfczNlSzJnZUtTS2gwVHlzUVQxUHl0WEFXN2VNb2JqemtudlNqXzFLeFlienNFTk5pa04wS3ZHTUVMc2lGc0JaZVBoRTdwaDlVRmo0Sk0xQUlhQ1dHc1pNYkx5enhsc2xOczNFak1rdVgyeW1uc29OU0hxM050a2hMYXJnQVUxemFUZXNfMHo1?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -37,13 +53,12 @@
       "name": "Microsoft Ads",
       "stories": [
         {
-          "title": "AI Max - PPC Land",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
-          "when": "26 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5GaEZRSWlrUHlHd3V2YnQtRUFvR2t0akx5M1FMNkRFTGUtQmRFXzdES1NtV2xRS29WVEpHag?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Build, steer, and measure your campaigns with AI: What's new in Microsoft Advertising this October - Microsoft",
+          "summary": "Build, steer, and measure your campaigns with AI: What's new in Microsoft Advertising this October Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Microsoft",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPek44LVFMQVFCZ3lOQ1A2MmU3cmllZ2l4V09naW9FQWFWZDFncUNEN1VLYU9sVEdkR2xQNl9FR1FrZ2NwdFlxUVpSTVpUNTdBVkZ0Tk5DRVhyOTBmUldWWkd2eGQyTHFIYmxVTFAzcDV1RWpDV0NYWVBBT0h0TGN2T0VCeU93dVFSMmJHUnNVZzhZekpsWGVYNVFMdm5tVXdheWFjclNiRWFSRG45X1JJTmJmWnBmMVhReGVsY1JFeTZZQXRwWld4NVFiZlJzUzI3T2Eyc3R0MXJyYmNLNG4xRmNmSDB6ZDA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -57,6 +72,14 @@
           "when": "28 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOel9EbjRCVXdIcDVvakkxdWladmZRMUZXVHVaZTRDZE12cUl5Mm9SNy1EaHowQmxBWGxnSmVkN3l1RXpSR0FNUnF4ZzdxaUhpMi1GLTl6WXdvN3haT2tWMnMzSy11VkFtMGx0VVExc01femVHU1pCY21OMTBOUjQwaVlXdUJ0eFR2NzI2LTQta196cXdfX3F4YkZpRC1xandpUEJXd2VsZ3c0MnJhb3M2QW5aSEZmcl8xRlJXSmJEUDfSAcYBQVVfeXFMTkJoU2FUd0wwZGxibC1KUWhYZklzdkxBZzBlMFlxUDhlV24wVUxGNEdxWlIyeDFvWlhHNU1oX1ZoRTFGdUJ6eFBTWExMZk9ySVktSW8yNTQ3R2xuRjFHX1BXcVJnNTRPcmhxd1FhQkdoTkRMbnY1NFp5Z0ZUZjFuM3p3bFNlLTRuUl9Ld2x4b3FqSE15RG1NTnAzSGVibk5DZW43S0V4NGh0cmFaS2hZRV9uRWRVRHFRUDRSY0JwdFRVR1dqV25n?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs - Facebook",
+          "summary": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Facebook",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGktWEdKdHZxcEhVS2dHbERKYWxUbDVtanpDMmNxRURTQlRGTnpoSzd1eUdjOFVuczJ1NTROYWlzSjBZLTlVOEZEYWc2RjNoZE12SFB0SUZGU0d3SHc0aEo4UGJpUUg0Z25ickRoUlR4a3dSa0hxM0FySEp1ekhVVjFOT0d2VXFPREZvdndxWnlubDUzVnlNU1N3c2N6VU90YnoyUDQxSmpiZXJlTHBIRUhRZjVBZVl3aElObFROcFI1Wm_SAcgBQVVfeXFMUDQtSHNxb1BxdGNOLS1zUUNwSk9mV3B1REhvX0ZJVlRweXNtUWZtcS12NDlmTDRmU2pENUxGakNCUlphdW5tWng2RmNFOVM4Yl9GTFBmY0hrQ3lPTGxPQ2xWWkMtSHpJWFFYa0hFcHdncWg5eXpCOWx2SURCLXgxZ1JkcG5ZX1ZSRlM0ZkFsVElwLXhsM1AzUDdGMUVyVi0tRUlMRUVJR0dHbmhHcFVOYlhMYTNOM29iVmtfQ25mV0Zpa3FvUElhTEo?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -69,7 +92,8 @@
           "source": "The Futurum Group",
           "when": "27 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObVdUdklhcG90bXM5N29qdlJjS2hFWHpMazhDN2hNdDlvTmY5OTZzNFNMT0FQX195UFFsSkljMGF2Mk9DN29McWxKbHc1M3I5MXdUc28wVzBGSVoxX2hiX3VzMjdrR1JRME1JMEp4Z2ZPb0ZGR0ZVR2dZdGktbTBBRWgzT2FtTTNydTd0TWw3SWdacndaaWtSdWZCLUNiSkMyS2JrUVdzN0M?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -82,7 +106,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
+          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -163,11 +187,19 @@
           "image": ""
         },
         {
-          "title": "GitHub Copilot assisted permissions generally available - The GitHub Blog",
-          "summary": "GitHub Copilot assisted permissions generally available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "title": "Build shared workflows for your team with Copilot Automations - The GitHub Blog",
+          "summary": "Build shared workflows for your team with Copilot Automations The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
-          "when": "27 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEN4OEVxM2R4Sk9LODlYVGFqdl90OFFhRU83OEJ4dEhaZ1FfcTVhQlR5VnhYekF4XzZRcUZkazc5TVpYbE14cGxwWHBvSUc2OHBKM3M3U1V3LTU1Tmw1cGU2MHFrb19wVzBENXNwRkdlVXUyU3hsazBRR0pGemgxZXUtWTNTZWRJaXhBcUtpRy1rT1hUbkxpdjM4QUhxZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEFVcHpGZjhUZlRrdFJzbkl2X3VySzFpdi1CbkJzQmFJZjdPellTZmxPbVdpZ0xiODhseC10dmNLU19MMjBWbEZaZk9JOEtQSUZUM2IyZUNIY1hPYjR6UUlRN0JfRmV4b2dsb0kyVEsweGtFU3BOVlVUMkFDM0xmdE0xT2ZsZThLeVJNN0hUY3BObnA4VzRXemJrblFDWXprNTJhUjlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Meta AI director Rohit Patel exits to build Ndoc, an AI-native Office rival - Dealroom",
+          "summary": "Meta AI director Rohit Patel exits to build Ndoc, an AI-native Office rival Dealroom. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Dealroom",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlFWUllob1dTLTlpTlJSS1ZjWGlBSDBRZzJUQUdFbzdyLTJObzFzeXh5SUhjQWdkLTBOMUY5YnpGZGgwRW1lOHNiYWJxa0tzSnpHc3E3UDFpd0NYVURwRGhJWE5XZ0pnQ09NLW5ZNGxLbk1RdE5KWjMzNF95NldTaGUwZkJZQ1ZubHFsY1h1eFJyWEY0WkY4WjlZYjBET1FfU0lWZjBxN1p1UHIy?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -175,15 +207,7 @@
           "summary": "Meta AI director Rohit Patel quits after 8 years to build Microsoft Office, Google Workspace rival Storyboard18. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Storyboard18",
           "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTEN4ek9jR1RjSTNiS05GRHBqT1pUN19YN2ZKOTdIcEJkNHVRODV6eGJoRVVOOFBOM1ZFQVVBUzJMcW1UMlY3THhXZy1YVUp1Wlh1MUoxdlU1alQxOWV1bnpIWjdiOTZPcVRET1FsNm1UakVlSUtzSkRGQXl0c09RamxCQVZ2Slc2eXFvMnQ2YVh3SU96ZzFpckZWMFVnZ3RJQkNqbmFEcUNocGFRaDFVcVlkNHlPYmpubU9iRFBKcllhWVNQWktrY2gwS2R4Z1VudGpIcmw5SEdmTkVSNHpLRG5BR1d5U0xxbUHSAeoBQVVfeXFMTUxDeHpPY0dUY0kzYktORkRwak9aVDdfWDdmSjk3SHBCZDR1UTg1enhiaEVVTjhQTjNWRUFVQVMyTHFtVDJWN0x4V2ctWFVKdVpYdTFKMXZVNWpUMTlldW56SFo3Yjk2T3FURE9RbDZtVGpFZUlLc0pERkF5dHNPUWpsQkFWdkpXNnlxbzJ0NmFYd0lPemcxaXJGVjBVZ2d0SUJDam5hRHFDaHBhUWgxVXFZZDR5T2Jqbm1PYkRQSnJZYVlTUFpLa2NoMEtkeGdVbnRqSHJsOUhHZk5FUjR6S0RuQUdXeVNMcW1B?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193 - AI: Reset to Zero",
-          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "AI: Reset to Zero",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ocTZ1V2FnQnZ6QXZ0UlI3VlJTSFN4amVoTHRpWU5ZRHJDa18wXzVIdFRMVWhlaXpnYnVqMzBDeXU2R0lTandKV01DbjVNb0xVdDZGWlNPVVI2Q3cwM2lSTjVzNmRSb1h3YmNNeXhDVTdmdjZVcXVOdWxZTmU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV3NCXzgzSVY0QlcyeE9XQnhYS01JajZPdTFpcW9adFh3dy1sT01UbjBHYTZUbWEyNWtHN1pZVi03Y1djbmcyRG1mU3lHUi1kMzFJT04yQXpLSkk5X3V4TUE5d1pwdlVhaUJoeTZaeDZUWVcwa0tOVUFWWlhnQ1Z2cjJoeC1MMXdiVWxUcG94LU9sN1gwYjBsdWpVUXdfNkxmNHY3S0lqQ1dsWk02bWlEYkNDMU5FZ0tYU0NrRF9ucXoxMFg2WkhGZG0xeE1JZFdjVkUtejB2empLbGktdjdwMEU0RWHSAeoBQVVfeXFMTUxDeHpPY0dUY0kzYktORkRwak9aVDdfWDdmSjk3SHBCZDR1UTg1enhiaEVVTjhQTjNWRUFVQVMyTHFtVDJWN0x4V2ctWFVKdVpYdTFKMXZVNWpUMTlldW56SFo3Yjk2T3FURE9RbDZtVGpFZUlLc0pERkF5dHNPUWpsQkFWdkpXNnlxbzJ0NmFYd0lPemcxaXJGVjBVZ2d0SUJDam5hRHFDaHBhUWgxVXFZZDR5T2Jqbm1PYkRQSnJZYVlTUFpLa2NoMEtkeGdVbnRqSHJsOUhHZk5FUjR6S0RuQUdXeVNMcW1B?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -191,6 +215,14 @@
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "Is Your Marketing Team Burning Cash on AI? - DesignRush",
+          "summary": "Is Your Marketing Team Burning Cash on AI? For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "DesignRush",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBueFhNWHFPZ0tjb0EwYmRFU19TYlhoZ1EwYm9QRFJocEY2T1lKUDN2RExOa29XWk4xMWhZT2J1VFdxU0N2ckU5VUFabktiVDJuUXBNVm5oTzQ3aTVWQmZ2VkstcnZCUUhWdlRucVJzSXRIaWJNYi1jUVE1WHB6ZFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Oracle Launches AI-Driven Streaming Video Content Production Platform - Media Play News",
           "summary": "Oracle Launches AI-Driven Streaming Video Content Production Platform Media Play News. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -200,27 +232,19 @@
           "image": ""
         },
         {
+          "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+          "summary": "Apple Creator Studio adds powerful new AI features and even more creative tools Apple. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Apple",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQml4ZFRBSld2aGQ4UjdWSzlfWG1PWk5Bbnd1a18wcTdxQUxGMHg2TW9pMkNFN3NCSFBfcXpQZFB4LWZpcFRSZ0NfdDJsc012aVJ3U3MxYkxrSmNRMTFhVDBzOENoX3I0NDE0N2Q2NUo3ZktWbDZOd0NGWFkwRFl6SlpxWXp2YW5QUC1hRmdXakxsN25jT0hLSnpNbWxKck5Zb2ptd1pPeW5sTUFkTmRTWlh3QU1rMVVwU1lF?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "10 Best AI Video Ad Generators for Businesses in 2026 - TechBullion",
           "summary": "10 Best AI Video Ad Generators for Businesses in 2026 TechBullion. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "TechBullion",
           "when": "28 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXVxQmdpZjIzU2dPamhsNHNwM2tjTzEwUFVpalNUSThxRW81VHVtVzlTOGVlSDFLMXZhR3A3UnYwaUN2RDFKLWVqc3lCa2lNM2daM0dwSVNSWW03WW5YN2FOR3hpVUdWVV9ZZVVQN3dSZlFfNlg2SEpDcWhjWDYzQmJneDg?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Apple Creator Studio gets new AI features for image editing, music production and productivity apps - Business Upturn",
-          "summary": "Apple Creator Studio gets new AI features for image editing, music production and productivity apps Business Upturn. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Business Upturn",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcHVONGlGYjFORXFlYXFILW42bW10bHBseTFOUXBXQUZWeXd6bEV0R1lPbWNma2M5MUpDS0s5ajJEVW9pZW5qLWNhV3lXaGZ2RTBiQldzcV94OUtLRzFoWTFueGxuUWVqSzhOR1BYUWRRcUgzYkhlUkdRTXRqdEFmbTlJcWVZdEk2T0JXeG5SeWZuRlp0Qlo0RUExZlRfZ0pDbG1EMUUwaVdxeGM3YjRsQmw3Nk9ueFpRRVUxWk8zb05laDZsRzF6eWUtZzYzU1BacXRvX2s5TVc1VkJS?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "PixelDojo adds website brand kits to image ads and motion graphics - OpenTools",
-          "summary": "PixelDojo adds website brand kits to image ads and motion graphics OpenTools. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenTools",
-          "when": "27 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkJ1YS1XZWROb0FTakMySTdUVzhobmdiSnJ6MUxZaThvTnZjMlhRcDBhclJrRXdwZGRNZ2hEOExoaEFteElqZ2NvdUpDczlDZXZDenFsNmdvcUpmbW9mLW5Tc0c1ZjBQLTBCdGI3VmdZcmpoQ3M4aG9GSmZtMzRlT2wzOTFPajQ4eU5LT3ZweUpXZVE2bE42TWkxM1Q?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -229,13 +253,12 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "The next wave of marketing automation is taking aim at Marketo - MarTech",
-          "summary": "The next wave of marketing automation is taking aim at Marketo MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "MarTech",
-          "when": "26 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMzJVUnViWHhybldwNGM1MzRMeldtYXAwWTR6SnBRc25ZcXZHZnR6WFBNeEVqU3RzTm9ISmZwT0hXU09MTnZ4WVFBRUJ2U0dmLXdnOVFYVWRtRUxQSmxlUXdjaFlMMUFDdk9pdUpaM3hyb0FuS3AzMWJjclFvLWNNNUxZZmZZSjBka1Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Needle outbound prospecting engine - Dynamic Business",
+          "summary": "Needle outbound prospecting engine Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Dynamic Business",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGQ1MUVvODRsVVdfZGVjSWkxV1NYNi00SjNHbDI0V2h1NDBFZGJmQU9DdVpZc0otYWtLRHQ1TUVBZE5tczh4MllTanpvQkZLaFZ6OWtKYS1WQlVycExPXzdZdUdrRjZOajA5blZSWC1lM2pkVjU4NGFOdzlUY1RpZERn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -249,6 +272,22 @@
           "when": "28 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjk1MVZtN2QwQ0pSMlMzTWk5al9Nb2RZbHAyNjBWQjNzOVJvNTBRcGZnNDAxQ0UwWVNhdVFJMFc4b3Noekpta19raHQyUFFFS2JET1h3OXRYS2RVY0FmR1lJbnpUMEJ0RXFEbnZMamRjblJTMWtITklWUzFHQ21zekIzdjIyRHJUT04weHFRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Security update: Offline token dates, new security features - Shopify Dev Docs",
+          "summary": "Security update: Offline token dates, new security features Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Shopify Dev Docs",
+          "when": "27 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIRjRpWDNXSG90ZXdqVWMxLVFibFdoajMxRGpXSmpiVmE4dGJ0R19ZcUdTSW5XM0VvVDVmcTU1MzNwOVpVcWRCN3hZajRtRVJ4S2JrQVhkbXJBTDFMdXFqWGZyS01GVjAxYjhYNHNYdWJobzZhbmQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Shopify Editions | Fall '26 - Shopify",
+          "summary": ". For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Shopify",
+          "when": "29 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYUxNaTRwRTNSU3VOOV9uVmdVVmxkTTluSU8xOERnaEpaYktYTGNpWXk2SFRBNkdTYkNId0xSTTlFd3NReHRSd00wY2ZBUDJKM0hN?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     }
@@ -257,6 +296,58 @@
     "title": "Summary — What’s Actually New",
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
+      {
+        "topic": "Is Your Marketing Team Burning Cash on AI? - DesignRush",
+        "status": "Cross-source coverage",
+        "common_context": "Is Your Marketing Team Burning Cash on AI?",
+        "unique_points": [
+          {
+            "source": "DesignRush",
+            "when": "28 Oct 2026",
+            "point": "Is Your Marketing Team Burning Cash on AI?",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBueFhNWHFPZ0tjb0EwYmRFU19TYlhoZ1EwYm9QRFJocEY2T1lKUDN2RExOa29XWk4xMWhZT2J1VFdxU0N2ckU5VUFabktiVDJuUXBNVm5oTzQ3aTVWQmZ2VkstcnZCUUhWdlRucVJzSXRIaWJNYi1jUVE1WHB6ZFU?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "28 Oct 2026",
+            "point": "Build shared workflows for your team with Copilot Automations The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEFVcHpGZjhUZlRrdFJzbkl2X3VySzFpdi1CbkJzQmFJZjdPellTZmxPbVdpZ0xiODhseC10dmNLU19MMjBWbEZaZk9JOEtQSUZUM2IyZUNIY1hPYjR6UUlRN0JfRmV4b2dsb0kyVEsweGtFU3BOVlVUMkFDM0xmdE0xT2ZsZThLeVJNN0hUY3BObnA4VzRXemJrblFDWXprNTJhUjlR?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
+        "status": "Cross-source coverage",
+        "common_context": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
+        "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "28 Oct 2026",
+            "point": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "28 Oct 2026",
+            "point": "Unable to Update Call Asset After HIPAA Monitoring and Recording Exclusion Google Help",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWp4YzYtdFEyT21XNFlyd2c2TVluc0QzV2d0UmQ4SmIwc3gxNWpUekppVGlOUWR0aWZUSnY5NU85LWZCS3VDNFpfczNlSzJnZUtTS2gwVHlzUVQxUHl0WEFXN2VNb2JqemtudlNqXzFLeFlienNFTk5pa04wS3ZHTUVMc2lGc0JaZVBoRTdwaDlVRmo0Sk0xQUlhQ1dHc1pNYkx5enhsc2xOczNFak1rdVgyeW1uc29OU0hxM050a2hMYXJnQVUxemFUZXNfMHo1?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "28 Oct 2026",
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQk1ZMXVKcFRsRU1qazVnaFVEdHFfeFhaVVQ2WVcxb1VNLUJPRVJYUEowX0E5NEZUd082NjhzZUdmbDVPXy1VS2JoYnQ0R2YydlFzenhFV0dmdzI2bzNoZmFHRUNhVnhRQkx0V3BuWDNmVFpTVV9ELUVPbVY4LXVad2FyQ1JBU2MwM0ZV?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "LBB - Little Black Book",
+            "when": "27 Oct 2026",
+            "point": "What B2B Campaign Data Teaches Us About ChatGPT Ads — LBB LBB - Little Black Book",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlpJN09GWGRRSFpMWGhRQ2pYbFZaMkFTbFp1RmxmeWVGMXBESHQ2QkJZNGExVzJneU01cU9uSE1STFZDT3ZMOVBKdzlSN2dzRFVqYnVrdFpSa0hoc0puT3dVc294WFVUSUdEMXRpeXh2VWhCZzhjQ1NBMFdMa2tmdkxneFM?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
       {
         "topic": "Oracle Launches AI-Driven Streaming Video Content Production Platform - Media Play News",
         "status": "Cross-source coverage",
@@ -273,26 +364,26 @@
             "when": "27 Oct 2026",
             "point": "Content Strategy, Behavior-Backed Ads, and Industry News Social Media Examiner",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rWkVQc3NmeUxXTlNHQ05UZjREREdmV1g2TGNLQlRvZzBkUTNYdFBGcjkyZUhhUDJzQktkS0NEQWV2YmZPWUtLLUpzVE5XbGJaRkdGV0t5ekI?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Business Wire",
-            "when": "27 Oct 2026",
-            "point": "Universal Ads Brings TV Buying into the Flow of Modern Media Buying Business Wire",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSFkxaG84UGRoR2pDVFptb1RBSk9XN1MwYzlWMDd1ZUVJVTJKX193Tlo3NmN3T1VBcEpucW5ZVjFFYWRXb3NWTUZzb3NkYXdsOGtJQnIxbXNRZ3pBRHlLcmd6RW1xM2U0ZGhwblB4RHhZSWJGbEg4dDFiN2VKYm5MdDRsZnk1cXZjMUhsYU02Skp3RDBud0tCSUZmUUpLWnZuOTlWaWNYZVZTYnlMckxZb2tTODJrVVB5d0lVU0FkeW9MUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Meta AI director Rohit Patel quits after 8 years to build Microsoft Office, Google Workspace rival - Storyboard18",
+        "topic": "Meta AI director Rohit Patel exits to build Ndoc, an AI-native Office rival - Dealroom",
         "status": "Cross-source coverage",
-        "common_context": "Meta AI director Rohit Patel quits after 8 years to build Microsoft Office, Google Workspace rival Storyboard18",
+        "common_context": "Meta AI director Rohit Patel exits to build Ndoc, an AI-native Office rival Dealroom",
         "unique_points": [
+          {
+            "source": "Dealroom",
+            "when": "28 Oct 2026",
+            "point": "Meta AI director Rohit Patel exits to build Ndoc, an AI-native Office rival Dealroom",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlFWUllob1dTLTlpTlJSS1ZjWGlBSDBRZzJUQUdFbzdyLTJObzFzeXh5SUhjQWdkLTBOMUY5YnpGZGgwRW1lOHNiYWJxa0tzSnpHc3E3UDFpd0NYVURwRGhJWE5XZ0pnQ09NLW5ZNGxLbk1RdE5KWjMzNF95NldTaGUwZkJZQ1ZubHFsY1h1eFJyWEY0WkY4WjlZYjBET1FfU0lWZjBxN1p1UHIy?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Storyboard18",
             "when": "28 Oct 2026",
             "point": "Meta AI director Rohit Patel quits after 8 years to build Microsoft Office, Google Workspace rival Storyboard18",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTEN4ek9jR1RjSTNiS05GRHBqT1pUN19YN2ZKOTdIcEJkNHVRODV6eGJoRVVOOFBOM1ZFQVVBUzJMcW1UMlY3THhXZy1YVUp1Wlh1MUoxdlU1alQxOWV1bnpIWjdiOTZPcVRET1FsNm1UakVlSUtzSkRGQXl0c09RamxCQVZ2Slc2eXFvMnQ2YVh3SU96ZzFpckZWMFVnZ3RJQkNqbmFEcUNocGFRaDFVcVlkNHlPYmpubU9iRFBKcllhWVNQWktrY2gwS2R4Z1VudGpIcmw5SEdmTkVSNHpLRG5BR1d5U0xxbUHSAeoBQVVfeXFMTUxDeHpPY0dUY0kzYktORkRwak9aVDdfWDdmSjk3SHBCZDR1UTg1enhiaEVVTjhQTjNWRUFVQVMyTHFtVDJWN0x4V2ctWFVKdVpYdTFKMXZVNWpUMTlldW56SFo3Yjk2T3FURE9RbDZtVGpFZUlLc0pERkF5dHNPUWpsQkFWdkpXNnlxbzJ0NmFYd0lPemcxaXJGVjBVZ2d0SUJDam5hRHFDaHBhUWgxVXFZZDR5T2Jqbm1PYkRQSnJZYVlTUFpLa2NoMEtkeGdVbnRqSHJsOUhHZk5FUjR6S0RuQUdXeVNMcW1B?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV3NCXzgzSVY0QlcyeE9XQnhYS01JajZPdTFpcW9adFh3dy1sT01UbjBHYTZUbWEyNWtHN1pZVi03Y1djbmcyRG1mU3lHUi1kMzFJT04yQXpLSkk5X3V4TUE5d1pwdlVhaUJoeTZaeDZUWVcwa0tOVUFWWlhnQ1Z2cjJoeC1MMXdiVWxUcG94LU9sN1gwYjBsdWpVUXdfNkxmNHY3S0lqQ1dsWk02bWlEYkNDMU5FZ0tYU0NrRF9ucXoxMFg2WkhGZG0xeE1JZFdjVkUtejB2empLbGktdjdwMEU0RWHSAeoBQVVfeXFMTUxDeHpPY0dUY0kzYktORkRwak9aVDdfWDdmSjk3SHBCZDR1UTg1enhiaEVVTjhQTjNWRUFVQVMyTHFtVDJWN0x4V2ctWFVKdVpYdTFKMXZVNWpUMTlldW56SFo3Yjk2T3FURE9RbDZtVGpFZUlLc0pERkF5dHNPUWpsQkFWdkpXNnlxbzJ0NmFYd0lPemcxaXJGVjBVZ2d0SUJDam5hRHFDaHBhUWgxVXFZZDR5T2Jqbm1PYkRQSnJZYVlTUFpLa2NoMEtkeGdVbnRqSHJsOUhHZk5FUjR6S0RuQUdXeVNMcW1B?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "The American Bazaar",
@@ -305,6 +396,26 @@
             "when": "27 Oct 2026",
             "point": "Meta AI Director Rohit Patel Exits to Challenge Office Giants The Tech Buzz",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWG5iWHJyUUNHZEt1M1kwU2FEOF80Um5xalRZTWdkenhrWmg4eHJnMkpseGhIaHlzUGk1YVctaFNDVTVkWGlkYXgtLVdmc3I2TmdBVm10SFZPaWpSOUlRbHRnSUh1emhkTndxV3YtVFNSRFpMV05nR3k2aW11RDJMZnR5WTdNMUxlVlpDNXFkZ2h3cnlWWWhGbE9n?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Store and app install details in the Dev Dashboard - Shopify Dev Docs",
+        "status": "Cross-source coverage",
+        "common_context": "Store and app install details in the Dev Dashboard Shopify Dev Docs",
+        "unique_points": [
+          {
+            "source": "Shopify Dev Docs",
+            "when": "28 Oct 2026",
+            "point": "Store and app install details in the Dev Dashboard Shopify Dev Docs",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjk1MVZtN2QwQ0pSMlMzTWk5al9Nb2RZbHAyNjBWQjNzOVJvNTBRcGZnNDAxQ0UwWVNhdVFJMFc4b3Noekpta19raHQyUFFFS2JET1h3OXRYS2RVY0FmR1lJbnpUMEJ0RXFEbnZMamRjblJTMWtITklWUzFHQ21zekIzdjIyRHJUT04weHFRZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Shopify Dev Docs",
+            "when": "27 Oct 2026",
+            "point": "Security update: Offline token dates, new security features Shopify Dev Docs",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIRjRpWDNXSG90ZXdqVWMxLVFibFdoajMxRGpXSmpiVmE4dGJ0R19ZcUdTSW5XM0VvVDVmcTU1MzNwOVpVcWRCN3hZajRtRVJ4S2JrQVhkbXJBTDFMdXFqWGZyS01GVjAxYjhYNHNYdWJobzZhbmQw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

@@ -11,40 +11,32 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Meta's developer MCP gains six tools that let AI agents create apps - PPC Land",
-    "GitHub Agentic Workflows generally available - The GitHub Blog",
     "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone - Facebook",
-    "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
+    "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) - Benzinga",
     "Universal Ads gains 12 partner platforms that can book its TV ads - PPC Land",
     "AI for Science expands to foundations and research institutions - Anthropic",
     "Meta AI Director Rohit Patel Exits After Eight Years to Launch Ndoc, an AI-Native Rival to Microsoft Office and Google Workspace - BigGo Finance",
-    "Build, steer, and measure your campaigns with AI: What's new in Microsoft Advertising this October - Microsoft"
+    "Build, steer, and measure your campaigns with AI: What's new in Microsoft Advertising this October - Microsoft",
+    "Publicis Norway says Adform's MCP server cuts its Excel prep time - PPC Land"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
-          "summary": "About the AI campaign localization tool for Search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
-          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQk1ZMXVKcFRsRU1qazVnaFVEdHFfeFhaVVQ2WVcxb1VNLUJPRVJYUEowX0E5NEZUd082NjhzZUdmbDVPXy1VS2JoYnQ0R2YydlFzenhFV0dmdzI2bzNoZmFHRUNhVnhRQkx0V3BuWDNmVFpTVV9ELUVPbVY4LXVad2FyQ1JBU2MwM0ZV?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Unable to Update Call Asset After HIPAA Monitoring and Recording Exclusion - Google Help",
           "summary": "Unable to Update Call Asset After HIPAA Monitoring and Recording Exclusion Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
           "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMzltckYwMjRtbUpfWlFmcHFNaEtfN3Bmci1lM3RsVlhmSks0aTVuNGpqcXl0MDdVNk12dXduOF8wRkdEdWFaQV82R0VHRWxsdlZmbkhBeW1sc044c0doRFJjU2sxMGJTZDViRG1zTzk5cWhVSUFkTjg2Nzl1OVlQX3NkQ1pBX2RCSlpac3JTU2IxbDk4RENpZjFfMmtaOUMwYWhuM0RBU0pSeHNyUEEwWjVIR1d6dS1Tc05MUHJnXzFKbC1wb1B3YWpDV1pwYWtIckM5UXBTdVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWp4YzYtdFEyT21XNFlyd2c2TVluc0QzV2d0UmQ4SmIwc3gxNWpUekppVGlOUWR0aWZUSnY5NU85LWZCS3VDNFpfczNlSzJnZUtTS2gwVHlzUVQxUHl0WEFXN2VNb2JqemtudlNqXzFLeFlienNFTk5pa04wS3ZHTUVMc2lGc0JaZVBoRTdwaDlVRmo0Sk0xQUlhQ1dHc1pNYkx5enhsc2xOczNFak1rdVgyeW1uc29OU0hxM050a2hMYXJnQVUxemFUZXNfMHo1?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google Partners Rewards: 2,950 Q3 2026 Points Disappeared – No Response After Two Support Cases - Google Help",
+          "summary": "Google Partners Rewards: 2,950 Q3 2026 Points Disappeared – No Response After Two Support Cases Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "28 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQzd2bVpnb19rQzUxbFhKblFvSkswWkJablJsNXpMZ01jWnkwcm1mdHB1aC1NamlGWVlpeElUZWVINklPSkZtYVRsRnBOMm1oSzlYS0Q0X04wTzV6OVZWN2hkSzhJUnU0c2NLS1AwLTB0Z2gyaEtLQVJnMGM1bWQ5NU5ZZHkyVEN3MXlGcThmVTE0UzhzWlNiV09oMUI5WEo3NTN5d05JSzVWVVVnS3JlX1Fvb19lODV5ZWduVTctSm9BVTBYSXU0MkZmY2FoVXlOd0xseG85U2RYOWtBdUFnZFhyaW9UY1FXNzVoWG45QXU3TmdrX2c?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -58,14 +50,6 @@
           "source": "Microsoft",
           "when": "28 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPek44LVFMQVFCZ3lOQ1A2MmU3cmllZ2l4V09naW9FQWFWZDFncUNEN1VLYU9sVEdkR2xQNl9FR1FrZ2NwdFlxUVpSTVpUNTdBVkZ0Tk5DRVhyOTBmUldWWkd2eGQyTHFIYmxVTFAzcDV1RWpDV0NYWVBBT0h0TGN2T0VCeU93dVFSMmJHUnNVZzhZekpsWGVYNVFMdm5tVXdheWFjclNiRWFSRG45X1JJTmJmWnBmMVhReGVsY1JFeTZZQXRwWld4NVFiZlJzUzI3T2Eyc3R0MXJyYmNLNG4xRmNmSDB6ZDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "The performance of Microsoft and Google, which are pouring astronomical funds into artificial intell.. - 매일경제",
-          "summary": "The performance of Microsoft and Google, which are pouring astronomical funds into artificial intell.. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "매일경제",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nLVhDeGJlQmVVWDVFbU1pX3Jsd28ycnFGRTBEd2NJVm5MVkNLUzF6Unk0a0cyTkhvSE5MbzgwSUltSnlTRUY5cklIRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -122,7 +106,7 @@
           "source": "TikTok Newsroom",
           "when": "5 Oct 2026",
           "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
-          "image": "https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-zr23xo8qx2-default:0:0:q75.image",
+          "image": "https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-1rzkm2vceq-default:0:0:q75.image",
           "status": "Confirmed announcement; rollout/eligibility may vary",
           "why": "MCP can connect agents to platform workflows, while off-platform inventory raises questions about transparency, safety and incremental reach.",
           "use_case": "Start with read-only access, define least privilege and approval gates, and evaluate placement reporting, brand safety, conversion measurement and incremental reach."
@@ -196,11 +180,11 @@
           "image": ""
         },
         {
-          "title": "GitHub Agentic Workflows generally available - The GitHub Blog",
-          "summary": "GitHub Agentic Workflows generally available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmJieWV2NFkyZUtXVUZUcVY1dm9VZmV5TGpKZmdNYjZpMDN2aGdsRmFfRlNPbWUwZjVGRXdUbVB2a0hiQS1SbXE3M1pXVS1jODJaUDlTSUI3amhPTndUYldjdG1lU3Nuc0Exa2I0cGVMTWF2YjNTajVpNDB4MFFBUmhBcGV3NHNLTVBCS1lvUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) - Benzinga",
+          "summary": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) Benzinga. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Benzinga",
+          "when": "29 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0t1WGo1ZEJfVnRkMUUzbzJUdVdJRG5BYVVRdDRBa2xNbFpIand2MGt1Qng1VHBLbGlfMEVxLXhlN2F5dG5FVWpfdFRvVFh2NE0wLThDQVFtV3ZyODJ6Ui00end4TWVTdmdJcFNKYUJWbGlEZ2dVMGdPanotM2lwUU1XamsteTdLbFFObFlrZHRqaTA1a1lVSVM1Vy1SZ3o0eHZOYUxLQVp2RTNZU3hrbGJCYw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -230,7 +214,8 @@
           "source": "Menafn",
           "when": "28 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbUtkRU9UalpUbnlIV1J5MTF4M3ViQngtcUk4Z1A3NkRnMTgyR0JORWlDRDhFMDFFd3pCTzRVRlVHblozSUdlcXkybmhpbmJGWXpvNFBiWjV3bnE0YXgyU3FwOGE4bzZYMmdyZVNuR2Q2SmdOdE9rdjlQV2VNVm8tSXN4UnRXclJSSnhqOVZJdFJHYkQ2RlZXTnVITWQzOW45MTVzQzZlUTBGUjJwbEZSTFhnYmNvOWlPMHpqQjVCNVZkbXl1Q2xj?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         },
         {
           "title": "Apple puts its new Keynote and Pages AI assistant behind a $12.99 plan - PPC Land",
@@ -238,7 +223,8 @@
           "source": "PPC Land",
           "when": "29 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGxuNHV5N1NMblZja3VqVUhDTGtVZm1yYUxFTTlOVVlON0RFa2xGeFcxWkpPU0FLRFdveUxtaUhXcmxRT3RYcEFrQ1pRQWdldms3dlFVVW5QMUNMdU1YMUdnV05WdV8ydWw2eHBCMzZmOHYzQklXeHFUTDU2bTNPckNiRE1VTmdfMWVXVUE4RWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         },
         {
           "title": "How to use AI to create multiple versions of an ad the right way - Ad Age",
@@ -246,7 +232,8 @@
           "source": "Ad Age",
           "when": "28 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNajZJMlB5eUZ0SEZ3RUhjc18wRHBZeXZrNTFGd0FqVnl1d3dpenJRai1VbHotLXBIZ1VoeElrak42bXpaSU1pa3ZkLW1GSVhKUTYycGJpNE45RWpwdjVBR0lyT19tb2dMVXBRVnBsWHVYU05rZUF3VlBSbVpoeFBGdWZqYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         },
         {
           "title": "The Cost Curve of Generative Video: When an AI video ad beats a production shoot - Agency Reporter",
@@ -254,7 +241,8 @@
           "source": "Agency Reporter",
           "when": "28 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa045N2FiMkpjMW16cFVPYWpDbmg3alR1Tk9fUzBXSFlYNlVOUWFVbjhUb1hMc01LcWJLbDg0eEE2NjlIbnpYbXpjRXhEdUZtTTJLWV9aYVZYaGRNMXkzMUw0S3I0SWxVWTZROERaVzNYYkEyTmpVaHlXdm9qUHJqdng1d1llSEtI?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -262,11 +250,11 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "New tools, triggers, and cost controls for Copilot Automations - The GitHub Blog",
-          "summary": "New tools, triggers, and cost controls for Copilot Automations The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
+          "title": "Best Generative Engine Optimization (GEO) Platforms for Startups and Growing Businesses in 2026 - PC Tech Magazine",
+          "summary": "Best Generative Engine Optimization (GEO) Platforms for Startups and Growing Businesses in 2026 PC Tech Magazine. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PC Tech Magazine",
           "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQREpaWFlSLXlhWlQwMWhCb3l0X3dZQ293WTFwY0FYT3dzVHZNUER6a2FaYXVSaGQyTWl0SmR6cTRCdGtOa0hlcGRqNk9Ud3JYQWpSdDc3bjRHOE9fM0JyR1lQa3JJU2VNWTRsbDE0TVYwVFVWb0ZkRFBadERUODJtcmwzWmVzWEx0WDlNN0FveVpyZURWVDdxb1pBLXFBUnRwVW9kZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVzhCU0U1MmZXa0JyTm9rTGtSaUw0Y1U3ZExtVFltaUFyWnpXd0VKMVctNlp5UVRxdFBHaFhTb05UZE1EVGozMldBOFZMU2dmdXgwOHdPV09wdXptbEpxdzNyUmdpME8yczB5OTNZTE5IVGY3aVJhWThaZkZyRl82Qy1GYXJZWmxmR2k2ZEU1STdXY0doMTg5NHNYQl92cy12N2JRci0xa0ZlSmxsUUNUdXdER2ItSHBSOUhTeW9xazlBZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -282,14 +270,6 @@
     {
       "name": "Ecommerce",
       "stories": [
-        {
-          "title": "Store and app install details in the Dev Dashboard - Shopify Dev Docs",
-          "summary": "Store and app install details in the Dev Dashboard Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Shopify Dev Docs",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjk1MVZtN2QwQ0pSMlMzTWk5al9Nb2RZbHAyNjBWQjNzOVJvNTBRcGZnNDAxQ0UwWVNhdVFJMFc4b3Noekpta19raHQyUFFFS2JET1h3OXRYS2RVY0FmR1lJbnpUMEJ0RXFEbnZMamRjblJTMWtITklWUzFHQ21zekIzdjIyRHJUT04weHFRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "Shopify Editions | Fall '26 - Shopify",
           "summary": ". For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
@@ -327,8 +307,8 @@
           {
             "source": "PPC Land",
             "when": "29 Oct 2026",
-            "point": "Apple puts its new Keynote and Pages AI assistant behind a $12.99 plan PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGxuNHV5N1NMblZja3VqVUhDTGtVZm1yYUxFTTlOVVlON0RFa2xGeFcxWkpPU0FLRFdveUxtaUhXcmxRT3RYcEFrQ1pRQWdldms3dlFVVW5QMUNMdU1YMUdnV05WdV8ydWw2eHBCMzZmOHYzQklXeHFUTDU2bTNPckNiRE1VTmdfMWVXVUE4RWg?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Publicis Norway says Adform's MCP server cuts its Excel prep time PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFVyWkFTNG84c1FwZFpvVHM2VE5IT0lkMHRWMndmX0xvbkZzY1ZPZ01Rc2FjRW5VbGxHbDY0MzlZTlk2XzF3aFlzalEyS3hoMmw1dnh0OWVMY29JYXdWc0VCLWpPWXJ5elBVdC1waUlXbXRsX0llWk5BWTB1aEV4R1pVNzIyaGRIQ2c?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "PPC Land",
@@ -346,78 +326,6 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "GitHub Agentic Workflows generally available - The GitHub Blog",
-        "status": "Cross-source coverage",
-        "common_context": "GitHub Agentic Workflows generally available The GitHub Blog",
-        "unique_points": [
-          {
-            "source": "The GitHub Blog",
-            "when": "28 Oct 2026",
-            "point": "GitHub Agentic Workflows generally available The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmJieWV2NFkyZUtXVUZUcVY1dm9VZmV5TGpKZmdNYjZpMDN2aGdsRmFfRlNPbWUwZjVGRXdUbVB2a0hiQS1SbXE3M1pXVS1jODJaUDlTSUI3amhPTndUYldjdG1lU3Nuc0Exa2I0cGVMTWF2YjNTajVpNDB4MFFBUmhBcGV3NHNLTVBCS1lvUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "28 Oct 2026",
-            "point": "New tools, triggers, and cost controls for Copilot Automations The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQREpaWFlSLXlhWlQwMWhCb3l0X3dZQ293WTFwY0FYT3dzVHZNUER6a2FaYXVSaGQyTWl0SmR6cTRCdGtOa0hlcGRqNk9Ud3JYQWpSdDc3bjRHOE9fM0JyR1lQa3JJU2VNWTRsbDE0TVYwVFVWb0ZkRFBadERUODJtcmwzWmVzWEx0WDlNN0FveVpyZURWVDdxb1pBLXFBUnRwVW9kZQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "About the AI campaign localization tool for Search campaigns (beta) - Google Help",
-        "status": "Cross-source coverage",
-        "common_context": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
-        "unique_points": [
-          {
-            "source": "Google Help",
-            "when": "29 Oct 2026",
-            "point": "About the AI campaign localization tool for Search campaigns (beta) Google Help",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESmJpSHdPX2ppNE1JV0tTYy05dTI4SEVIZ19mVUV4N3RpcmoyakZmc3kwSlZuRTBrVHc0eGoyX3JnMDhab051bmFuc05CRWg5VE5WRFRCeVhnUnRLUURoYmdkVGJWYloyTTNn?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Help",
-            "when": "28 Oct 2026",
-            "point": "Unable to Update Call Asset After HIPAA Monitoring and Recording Exclusion Google Help",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMzltckYwMjRtbUpfWlFmcHFNaEtfN3Bmci1lM3RsVlhmSks0aTVuNGpqcXl0MDdVNk12dXduOF8wRkdEdWFaQV82R0VHRWxsdlZmbkhBeW1sc044c0doRFJjU2sxMGJTZDViRG1zTzk5cWhVSUFkTjg2Nzl1OVlQX3NkQ1pBX2RCSlpac3JTU2IxbDk4RENpZjFfMmtaOUMwYWhuM0RBU0pSeHNyUEEwWjVIR1d6dS1Tc05MUHJnXzFKbC1wb1B3YWpDV1pwYWtIckM5UXBTdVg?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Help",
-            "when": "28 Oct 2026",
-            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQk1ZMXVKcFRsRU1qazVnaFVEdHFfeFhaVVQ2WVcxb1VNLUJPRVJYUEowX0E5NEZUd082NjhzZUdmbDVPXy1VS2JoYnQ0R2YydlFzenhFV0dmdzI2bzNoZmFHRUNhVnhRQkx0V3BuWDNmVFpTVV9ELUVPbVY4LXVad2FyQ1JBU2MwM0ZV?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "The performance of Microsoft and Google, which are pouring astronomical funds into artificial intell.. - 매일경제",
-        "status": "Cross-source coverage",
-        "common_context": "The performance of Microsoft and Google, which are pouring astronomical funds into artificial intell..",
-        "unique_points": [
-          {
-            "source": "매일경제",
-            "when": "29 Oct 2026",
-            "point": "The performance of Microsoft and Google, which are pouring astronomical funds into artificial intell..",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nLVhDeGJlQmVVWDVFbU1pX3Jsd28ycnFGRTBEd2NJVm5MVkNLUzF6Unk0a0cyTkhvSE5MbzgwSUltSnlTRUY5cklIRQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "BigGo Finance",
-            "when": "29 Oct 2026",
-            "point": "Meta AI Director Rohit Patel Exits After Eight Years to Launch Ndoc, an AI-Native Rival to Microsoft Office and Google Workspace BigGo Finance",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLVElMMjg3dHF4VHY3ZldfYWRaMUo0U3BlVWNxS3pEZ3hxQjliVlgwVmpyeGdMZUFSRkF5YmRhUUEwelktN0NXZXJseC0wdlJzWEtTQ2RlRXlxSW9vNTkzdExwMjZDMEdVTTJHWWdPSEY5SDRZb1E?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The American Bazaar",
-            "when": "28 Oct 2026",
-            "point": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google The American Bazaar",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONE9IZVFmbnBCZEpIQXZ4LUJldEluNnVTR2ZneEpLWGllY0RGWEgyOUsySWNOWFdaMEgzc3dkd1JmRV9HQ2N2ZHQyRnlnOTRvcDhOVVhDWFlnVzNFYnNYY1lFb0FiM2NfVW44Wk5SOW02Nk9qVm9pa3hJNFlnLV9pQm1QekNIOHZhSlBLeTVfQnpYZjMtcnl1UkxKLXFjdTFtMlJURjBIeEo1V0NocXFucEJweHgxOElHSWU0UlVSTU93cVhxWDJWNkR3V0RfXzFxQ3RKNVVRLU5QNVZNa2pv?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
         "topic": "First sign-ins to customer accounts now set Customer.state and send customers/enable webhooks - Shopify Dev Docs",
         "status": "Cross-source coverage",
         "common_context": "First sign-ins to customer accounts now set Customer.state and send customers/enable webhooks Shopify Dev Docs",
@@ -429,10 +337,50 @@
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2Exal9LaGlzNVdVMTg3U2JLQkpULXo5bjJIenowNFVtdGQ3ZlNlZy1KTjBrd0VfZDRocUZ0QnByaUNFenlUdXM4ZVZUM1R6ZTlhWTMxTVAzUXMxUVA1OE9CdUtJdW1zU09jS1FQV2dIUUpTbl81emlPOFJXSGNXcVh5WFpUa0NjN1owZ0VSczV0dGxURVVZWXZGWFUtMnNxUG1PVzlLSF9aN3ZQSklsN01VUDdDZlBRVkxqcGJmWGJMZw?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Shopify Dev Docs",
+            "source": "Facebook",
             "when": "28 Oct 2026",
-            "point": "Store and app install details in the Dev Dashboard Shopify Dev Docs",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjk1MVZtN2QwQ0pSMlMzTWk5al9Nb2RZbHAyNjBWQjNzOVJvNTBRcGZnNDAxQ0UwWVNhdVFJMFc4b3Noekpta19raHQyUFFFS2JET1h3OXRYS2RVY0FmR1lJbnpUMEJ0RXFEbnZMamRjblJTMWtITklWUzFHQ21zekIzdjIyRHJUT04weHFRZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone Facebook",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOel9EbjRCVXdIcDVvakkxdWladmZRMUZXVHVaZTRDZE12cUl5Mm9SNy1EaHowQmxBWGxnSmVkN3l1RXpSR0FNUnF4ZzdxaUhpMi1GLTl6WXdvN3haT2tWMnMzSy11VkFtMGx0VVExc01femVHU1pCY21OMTBOUjQwaVlXdUJ0eFR2NzI2LTQta196cXdfX3F4YkZpRC1xandpUEJXd2VsZ3c0MnJhb3M2QW5aSEZmcl8xRlJXSmJEUDfSAcYBQVVfeXFMTkJoU2FUd0wwZGxibC1KUWhYZklzdkxBZzBlMFlxUDhlV24wVUxGNEdxWlIyeDFvWlhHNU1oX1ZoRTFGdUJ6eFBTWExMZk9ySVktSW8yNTQ3R2xuRjFHX1BXcVJnNTRPcmhxd1FhQkdoTkRMbnY1NFp5Z0ZUZjFuM3p3bFNlLTRuUl9Ld2x4b3FqSE15RG1NTnAzSGVibk5DZW43S0V4NGh0cmFaS2hZRV9uRWRVRHFRUDRSY0JwdFRVR1dqV25n?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) - Benzinga",
+        "status": "Cross-source coverage",
+        "common_context": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) Benzinga",
+        "unique_points": [
+          {
+            "source": "Benzinga",
+            "when": "29 Oct 2026",
+            "point": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) Benzinga",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0t1WGo1ZEJfVnRkMUUzbzJUdVdJRG5BYVVRdDRBa2xNbFpIand2MGt1Qng1VHBLbGlfMEVxLXhlN2F5dG5FVWpfdFRvVFh2NE0wLThDQVFtV3ZyODJ6Ui00end4TWVTdmdJcFNKYUJWbGlEZ2dVMGdPanotM2lwUU1XamsteTdLbFFObFlrZHRqaTA1a1lVSVM1Vy1SZ3o0eHZOYUxLQVp2RTNZU3hrbGJCYw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "BigGo Finance",
+            "when": "29 Oct 2026",
+            "point": "Meta AI Director Rohit Patel Exits After Eight Years to Launch Ndoc, an AI-Native Rival to Microsoft Office and Google Workspace BigGo Finance",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLVElMMjg3dHF4VHY3ZldfYWRaMUo0U3BlVWNxS3pEZ3hxQjliVlgwVmpyeGdMZUFSRkF5YmRhUUEwelktN0NXZXJseC0wdlJzWEtTQ2RlRXlxSW9vNTkzdExwMjZDMEdVTTJHWWdPSEY5SDRZb1E?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Google Partners Rewards: 2,950 Q3 2026 Points Disappeared – No Response After Two Support Cases - Google Help",
+        "status": "Cross-source coverage",
+        "common_context": "Google Partners Rewards: 2,950 Q3 2026 Points Disappeared – No Response After Two Support Cases Google Help",
+        "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "28 Oct 2026",
+            "point": "Google Partners Rewards: 2,950 Q3 2026 Points Disappeared – No Response After Two Support Cases Google Help",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQzd2bVpnb19rQzUxbFhKblFvSkswWkJablJsNXpMZ01jWnkwcm1mdHB1aC1NamlGWVlpeElUZWVINklPSkZtYVRsRnBOMm1oSzlYS0Q0X04wTzV6OVZWN2hkSzhJUnU0c2NLS1AwLTB0Z2gyaEtLQVJnMGM1bWQ5NU5ZZHkyVEN3MXlGcThmVTE0UzhzWlNiV09oMUI5WEo3NTN5d05JSzVWVVVnS3JlX1Fvb19lODV5ZWduVTctSm9BVTBYSXU0MkZmY2FoVXlOd0xseG85U2RYOWtBdUFnZFhyaW9UY1FXNzVoWG45QXU3TmdrX2c?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "28 Oct 2026",
+            "point": "Unable to Update Call Asset After HIPAA Monitoring and Recording Exclusion Google Help",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWp4YzYtdFEyT21XNFlyd2c2TVluc0QzV2d0UmQ4SmIwc3gxNWpUekppVGlOUWR0aWZUSnY5NU85LWZCS3VDNFpfczNlSzJnZUtTS2gwVHlzUVQxUHl0WEFXN2VNb2JqemtudlNqXzFLeFlienNFTk5pa04wS3ZHTUVMc2lGc0JaZVBoRTdwaDlVRmo0Sk0xQUlhQ1dHc1pNYkx5enhsc2xOczNFak1rdVgyeW1uc29OU0hxM050a2hMYXJnQVUxemFUZXNfMHo1?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

@@ -11,53 +11,25 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Meta's developer MCP gains six tools that let AI agents create apps - PPC Land",
-    "Best AI Software for Social Media Marketing (2026): CapCut Named a Top Choice for Creating Video and Visual Campaigns by Better Business Advice - Yahoo Finance",
+    "AI Automation Course Guide for US Learners 2026 - Bitcoin Foundation",
+    "Does updating text assets via Google Ads API effectively create a new Ad/Asset entity for App Campa - Google Help",
     "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) - Benzinga",
     "Universal Ads gains 12 partner platforms that can book its TV ads - PPC Land",
     "AI for Science expands to foundations and research institutions - Anthropic",
-    "Meta AI Director Rohit Patel Exits After Eight Years to Launch Ndoc, an AI-Native Rival to Microsoft Office and Google Workspace - BigGo Finance",
-    "Is Your Marketing Team Burning Cash on AI? - DesignRush",
-    "The latest AI-powered martech news and releases - MarTech"
+    "The latest AI-powered martech news and releases - MarTech",
+    "NIQ and Google Partner to Advance Agentic Commerce - Google Cloud Press Corner"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "About ads in AI-powered experiences in Google Search - Google Help",
-          "summary": "About ads in AI-powered experiences in Google Search Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "Does updating text assets via Google Ads API effectively create a new Ad/Asset entity for App Campa - Google Help",
+          "summary": "Does updating text assets via Google Ads API effectively create a new Ad/Asset entity for App Campa Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wVHVVQUpJWDZzMGtnS0NLSXFHdTFvNWRBenBDR3lhdUNXNENrel80Q2dsaXk0UXg0VUNDNzNDVWN0UzZMN3JOVENWTU1jZlM5bjZIY2QxUWZONGJCX0hYQXJ1TElnYVRKZy0w?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
-        },
-        {
-          "title": "About the AI campaign localisation tool for search campaigns (beta) - Google Help",
-          "summary": "About the AI campaign localisation tool for search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NMmtpRW96OTNfa2hmYW1XalZIS2xNZ0dhbWNGOUZVX0tJd3JuYllVMkczV3FRWHIxaFUxdFN0MHItZ3o0dU1hVmR5N1JKSkJ5ZmZEUTBXX2dzcDg2am0xdWxId01UNkp4VXNGRlhjUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
-        },
-        {
-          "title": "Update your scripts for video ad creation - Google Help",
-          "summary": "Update your scripts for video ad creation Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iaFloRm1mYUVzMEkzYzZNdmNCdkRHT0R1QzUyaGRoWDUwQllpT2hNRndsR3VPbzRGU05DZi1vbl9LVXFZbEpRZ3VsRG42UkFTQmY2OUJLeWpNNHh4b2x0cDE1c051Tkp3VTdibENGQ0JBX3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
-        },
-        {
-          "title": "Unable to Update Call Asset After HIPAA Monitoring and Recording Exclusion - Google Help",
-          "summary": "Unable to Update Call Asset After HIPAA Monitoring and Recording Exclusion Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWp4YzYtdFEyT21XNFlyd2c2TVluc0QzV2d0UmQ4SmIwc3gxNWpUekppVGlOUWR0aWZUSnY5NU85LWZCS3VDNFpfczNlSzJnZUtTS2gwVHlzUVQxUHl0WEFXN2VNb2JqemtudlNqXzFLeFlienNFTk5pa04wS3ZHTUVMc2lGc0JaZVBoRTdwaDlVRmo0Sk0xQUlhQ1dHc1pNYkx5enhsc2xOczNFak1rdVgyeW1uc29OU0hxM050a2hMYXJnQVUxemFUZXNfMHo1?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "when": "30 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEpSWlBlR3F2c1JsdFl3NXVDT1p2eURhTzFudWMwcXlIV2F3c0xabm5DLVZ6RUkxalJmcUhyR1lhWHFtV2hTckhMMjc4TlNpM2tGejBra2s5eHdPbnJ2X0Q1ZDE5U2xyTFVZU2I1Yk9VQzc5RkVURWt2UDlCb1I4X1d4bTdwTEhNQjU4MlpkUVRGRTdVdlRzRzZGWnhaNjFXSW4zdGNBOGc5d2RIUzllMVlUUTlZcHRSQ2tpdlNPS05TWXdvcGJJUFo1WTYxTFlRTU0tZ3IzT011Q19TYm9Lc0xIS1ZQR2JMSThMZi1WZzYwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -79,35 +51,11 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "How Meta's Ads System Matches Your Ad to the Right Person at the Right Time - Facebook",
-          "summary": "How Meta's Ads System Matches Your Ad to the Right Person at the Right Time Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdzlTN2JrVVI5Z3c0WW1oOWVKUm82dElYSnp1UmdDMnRBclQyZVJ6bmtUNDhlZWJKMERWOS1jQnZJNTdBb0hIN2NkVVEyVUJGQXlGMGs5Sm96ek5kdm1DMkpwZ0ZhazJBajJVVklqV0xVZkdqWHhIdVpzTF9XUjZIVVQ1dW53eUxtLTd3WGJPU2RoLW9ScUxjM21LQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision - Facebook",
           "summary": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Facebook",
           "when": "29 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbERiOF9fNUFoWm5Tb0xvRHdrZXc5cUdha05oQ1I0WXF5b2lCMFpsb2JTcXd4UVcwM3A3QW1sbjkwSkdLQm0yNG9qeHhIUUR1Y1c1UTNrdTVqanR4WGFtdkJQN1JKcjRmM0IyWDhzbEJDdzB2Z1RURzZveFlfTVBZZ2IxcXF4UWdqSDdtRHJTY2hnNjVUR1B4Wjk4NEtpZXRkbGRELWhkVlJaWFlKWjE4SU9US0p0SG81SzllcjJqbG43RnpLZXZnUi1sUW03WW91Z20yNnFOUjJidGItZGdXWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta says its expanded processing capacity is driving ad results - Social Media Today",
-          "summary": "Meta says its expanded processing capacity is driving ad results Social Media Today. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Social Media Today",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQek9DQ0dvb3I4TmdUcDZOSG9fSlFxNllSZmkyZHFTWnd5ZzUzTnRXWVM1R0ZiUk9PTHZrM3ZuMlFVZmVNMkxsUnFFLWJJdlc1REdaVkZhSHJLa3NwNUxmdFF1WWxyMzl6NVVLbEtZWTgwLTUtNWhsbTFCM3lxbWl4eDdJcTlFc1hwSG9wWmh2UGdEdklyek4zQW5HSndnbjNDNFNDWmtZN0lINExYVllj?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs - Facebook",
-          "summary": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGktWEdKdHZxcEhVS2dHbERKYWxUbDVtanpDMmNxRURTQlRGTnpoSzd1eUdjOFVuczJ1NTROYWlzSjBZLTlVOEZEYWc2RjNoZE12SFB0SUZGU0d3SHc0aEo4UGJpUUg0Z25ickRoUlR4a3dSa0hxM0FySEp1ekhVVjFOT0d2VXFPREZvdndxWnlubDUzVnlNU1N3c2N6VU90YnoyUDQxSmpiZXJlTHBIRUhRZjVBZVl3aElObFROcFI1Wm_SAcgBQVVfeXFMUDQtSHNxb1BxdGNOLS1zUUNwSk9mV3B1REhvX0ZJVlRweXNtUWZtcS12NDlmTDRmU2pENUxGakNCUlphdW5tWng2RmNFOVM4Yl9GTFBmY0hrQ3lPTGxPQ2xWWkMtSHpJWFFYa0hFcHdncWg5eXpCOWx2SURCLXgxZ1JkcG5ZX1ZSRlM0ZkFsVElwLXhsM1AzUDdGMUVyVi0tRUlMRUVJR0dHbmhHcFVOYlhMYTNOM29iVmtfQ25mV0Zpa3FvUElhTEo?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -151,7 +99,8 @@
           "source": "MarTech",
           "when": "30 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -159,26 +108,12 @@
       "name": "Search & SEO",
       "stories": [
         {
-          "title": "Search Console adds multimodal search performance reporting",
-          "summary": "YTD UPDATE. Google announced Search Console reporting for web multimodal searches, including Lens, Circle to Search, image uploads and image-based search actions. Rollout and data availability may vary.",
-          "source": "Google Search Central",
-          "when": "24 Sep 2026",
-          "url": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
-          "image": "https://developers.google.com/static/search/blog/images/lens_pr_image_new@2x.png",
-          "status": "Confirmed reporting update",
-          "why": "Visual discovery can generate impressions and clicks that traditional keyword-focused reporting misses.",
-          "use_case": "Inspect the new search-type reporting where available; improve descriptive image context and product imagery; compare impressions and clicks over time."
-        },
-        {
-          "title": "Google explains optimization for generative Search experiences",
-          "summary": "YTD UPDATE. Google’s guidance says existing SEO fundamentals still apply to generative Search, emphasizing useful original content and accurate local, shopping, image and video information. It does not promise special ranking tricks for AEO/GEO.",
-          "source": "Google Search Central",
-          "when": "15 May 2026",
-          "url": "https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing",
-          "image": "",
-          "status": "Official guidance",
-          "why": "Content usefulness and trustworthy expertise matter more than unsupported claims about secret AI-ranking tactics.",
-          "use_case": "Answer real customer questions, demonstrate first-hand expertise, keep structured information accurate and use Search Console to measure outcomes."
+          "title": "नेटी योसेफ़ियन | Google Search Central ब्लॉग | Google Search Central Blog - Google for Developers",
+          "summary": "नेटी योसेफ़ियन | Google Search Central ब्लॉग | Google Search Central Blog Google for Developers. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "source": "Google for Developers",
+          "when": "29 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FRWxsWDNoZE9NX2g3MGUxVVpmXzZuNWdnWUY1OUx1N2ZmNFVOd0pNc1l1Q3dwT2V1WWtDMnpVZUxleG50bEg1TU1Ba0JiT2MtRjZQQXZRWjlMRG5kWXdmaDA4aDFvTGJMUy15czlFRmQ5Y2JsMEdKTDdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -237,35 +172,11 @@
       "name": "Creative AI & Design",
       "stories": [
         {
-          "title": "Best AI Software for Social Media Marketing (2026): CapCut Named a Top Choice for Creating Video and Visual Campaigns by Better Business Advice - Yahoo Finance",
-          "summary": "Best AI Software for Social Media Marketing (2026): CapCut Named a Top Choice for Creating Video and Visual Campaigns by Better Business Advice Yahoo Finance. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Yahoo Finance",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3NtbHU2Zkx2aHhGTElZMXMwdi1tMFFpYy01YVJZaF9nd2NNTjVTS1k4UlJLMmprQ2NCekllSlpRei1neU5XWEk2NElBVjZNVDI4OTE4QlpkLUgzNE5ZMXlrcDYzcmtBYTNzRGFORDVnck9HZXJhcjdoUWJqb1ctNFlFU2JLS1c2ODF5bmxvR2NjN0dONW1GOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Is Your Marketing Team Burning Cash on AI? - DesignRush",
-          "summary": "Is Your Marketing Team Burning Cash on AI? For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "DesignRush",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBueFhNWHFPZ0tjb0EwYmRFU19TYlhoZ1EwYm9QRFJocEY2T1lKUDN2RExOa29XWk4xMWhZT2J1VFdxU0N2ckU5VUFabktiVDJuUXBNVm5oTzQ3aTVWQmZ2VkstcnZCUUhWdlRucVJzSXRIaWJNYi1jUVE1WHB6ZFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Apple puts its new Keynote and Pages AI assistant behind a $12.99 plan - PPC Land",
-          "summary": "Apple puts its new Keynote and Pages AI assistant behind a $12.99 plan PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "PPC Land",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGxuNHV5N1NMblZja3VqVUhDTGtVZm1yYUxFTTlOVVlON0RFa2xGeFcxWkpPU0FLRFdveUxtaUhXcmxRT3RYcEFrQ1pRQWdldms3dlFVVW5QMUNMdU1YMUdnV05WdV8ydWw2eHBCMzZmOHYzQklXeHFUTDU2bTNPckNiRE1VTmdfMWVXVUE4RWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display and Touch for the first time on Mac - Apple",
-          "summary": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display and Touch for the first time on Mac Apple. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Apple",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU5jN1VPRVdLbGVXaUdVOGppelVlTGdUdWJ5b2swYWx3TVktb1ctTklVUEdlS2stVGJEbmswajNsb2tWcjVzNWF5bFROSTBiSzA0Tk12Wm9kU1pxbTNuV3lBY0J0UTFKcGZHbVQwLTdGSlhZM3RzMG9qU0psMC1tcmJzS3h3MDZkLU44WUNUa2V0UHZGM0MwdWNTOHJTMWRFNGhzQS1LVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "The latest AI-powered martech news and releases - MarTech",
+          "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "MarTech",
+          "when": "30 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -274,19 +185,19 @@
       "name": "MarTech & Automation",
       "stories": [
         {
+          "title": "AI Automation Course Guide for US Learners 2026 - Bitcoin Foundation",
+          "summary": "AI Automation Course Guide for US Learners 2026 Bitcoin Foundation. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Bitcoin Foundation",
+          "when": "30 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yVGEtYTd5T2FET3NQLVFPaU9VcFhnZTF4RFZjal9TcnlJbFkxdWxnaGFfcThjbWQ4TVUxbUtzR2dYSVJoNzlOMHo0WVBEOXN6N21KckNtUlhSWjROZjRhVllfUmJGeUVpNjJF?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "The latest AI-powered martech news and releases - MarTech",
           "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "MarTech",
           "when": "30 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Best Generative Engine Optimization (GEO) Platforms for Startups and Growing Businesses in 2026 - PC Tech Magazine",
-          "summary": "Best Generative Engine Optimization (GEO) Platforms for Startups and Growing Businesses in 2026 PC Tech Magazine. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "PC Tech Magazine",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVzhCU0U1MmZXa0JyTm9rTGtSaUw0Y1U3ZExtVFltaUFyWnpXd0VKMVctNlp5UVRxdFBHaFhTb05UZE1EVGozMldBOFZMU2dmdXgwOHdPV09wdXptbEpxdzNyUmdpME8yczB5OTNZTE5IVGY3aVJhWThaZkZyRl82Qy1GYXJZWmxmR2k2ZEU1STdXY0doMTg5NHNYQl92cy12N2JRci0xa0ZlSmxsUUNUdXdER2ItSHBSOUhTeW9xazlBZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -309,14 +220,6 @@
           "when": "30 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYUxNaTRwRTNSU3VOOV9uVmdVVmxkTTluSU8xOERnaEpaYktYTGNpWXk2SFRBNkdTYkNId0xSTTlFd3NReHRSd00wY2ZBUDJKM0hN?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "First sign-ins to customer accounts now set Customer.state and send customers/enable webhooks - Shopify Dev Docs",
-          "summary": "First sign-ins to customer accounts now set Customer.state and send customers/enable webhooks Shopify Dev Docs. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Shopify Dev Docs",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2Exal9LaGlzNVdVMTg3U2JLQkpULXo5bjJIenowNFVtdGQ3ZlNlZy1KTjBrd0VfZDRocUZ0QnByaUNFenlUdXM4ZVZUM1R6ZTlhWTMxTVAzUXMxUVA1OE9CdUtJdW1zU09jS1FQV2dIUUpTbl81emlPOFJXSGNXcVh5WFpUa0NjN1owZ0VSczV0dGxURVVZWXZGWFUtMnNxUG1PVzlLSF9aN3ZQSklsN01VUDdDZlBRVkxqcGJmWGJMZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     }
@@ -337,12 +240,6 @@
             "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbERiOF9fNUFoWm5Tb0xvRHdrZXc5cUdha05oQ1I0WXF5b2lCMFpsb2JTcXd4UVcwM3A3QW1sbjkwSkdLQm0yNG9qeHhIUUR1Y1c1UTNrdTVqanR4WGFtdkJQN1JKcjRmM0IyWDhzbEJDdzB2Z1RURzZveFlfTVBZZ2IxcXF4UWdqSDdtRHJTY2hnNjVUR1B4Wjk4NEtpZXRkbGRELWhkVlJaWFlKWjE4SU9US0p0SG81SzllcjJqbG43RnpLZXZnUi1sUW03WW91Z20yNnFOUjJidGItZGdXWQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Apple",
-            "when": "29 Oct 2026",
-            "point": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display and Touch for the first time on Mac Apple",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU5jN1VPRVdLbGVXaUdVOGppelVlTGdUdWJ5b2swYWx3TVktb1ctTklVUEdlS2stVGJEbmswajNsb2tWcjVzNWF5bFROSTBiSzA0Tk12Wm9kU1pxbTNuV3lBY0J0UTFKcGZHbVQwLTdGSlhZM3RzMG9qU0psMC1tcmJzS3h3MDZkLU44WUNUa2V0UHZGM0MwdWNTOHJTMWRFNGhzQS1LVQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
             "source": "PPC Land",
             "when": "29 Oct 2026",
             "point": "Meta's developer MCP gains six tools that let AI agents create apps PPC Land",
@@ -353,52 +250,12 @@
             "when": "29 Oct 2026",
             "point": "Publicis Norway says Adform's MCP server cuts its Excel prep time PPC Land",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFVyWkFTNG84c1FwZFpvVHM2VE5IT0lkMHRWMndmX0xvbkZzY1ZPZ01Rc2FjRW5VbGxHbDY0MzlZTlk2XzF3aFlzalEyS3hoMmw1dnh0OWVMY29JYXdWc0VCLWpPWXJ5elBVdC1waUlXbXRsX0llWk5BWTB1aEV4R1pVNzIyaGRIQ2c?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Best AI Software for Social Media Marketing (2026): CapCut Named a Top Choice for Creating Video and Visual Campaigns by Better Business Advice - Yahoo Finance",
-        "status": "Cross-source coverage",
-        "common_context": "Best AI Software for Social Media Marketing (2026): CapCut Named a Top Choice for Creating Video and Visual Campaigns by Better Business Advice Yahoo Finance",
-        "unique_points": [
-          {
-            "source": "Yahoo Finance",
-            "when": "29 Oct 2026",
-            "point": "Best AI Software for Social Media Marketing (2026): CapCut Named a Top Choice for Creating Video and Visual Campaigns by Better Business Advice Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3NtbHU2Zkx2aHhGTElZMXMwdi1tMFFpYy01YVJZaF9nd2NNTjVTS1k4UlJLMmprQ2NCekllSlpRei1neU5XWEk2NElBVjZNVDI4OTE4QlpkLUgzNE5ZMXlrcDYzcmtBYTNzRGFORDVnck9HZXJhcjdoUWJqb1ctNFlFU2JLS1c2ODF5bmxvR2NjN0dONW1GOA?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Social Media Today",
+            "source": "PPC Land",
             "when": "29 Oct 2026",
-            "point": "Meta says its expanded processing capacity is driving ad results Social Media Today",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQek9DQ0dvb3I4TmdUcDZOSG9fSlFxNllSZmkyZHFTWnd5ZzUzTnRXWVM1R0ZiUk9PTHZrM3ZuMlFVZmVNMkxsUnFFLWJJdlc1REdaVkZhSHJLa3NwNUxmdFF1WWxyMzl6NVVLbEtZWTgwLTUtNWhsbTFCM3lxbWl4eDdJcTlFc1hwSG9wWmh2UGdEdklyek4zQW5HSndnbjNDNFNDWmtZN0lINExYVllj?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "PC Tech Magazine",
-            "when": "28 Oct 2026",
-            "point": "Best Generative Engine Optimization (GEO) Platforms for Startups and Growing Businesses in 2026 PC Tech Magazine",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVzhCU0U1MmZXa0JyTm9rTGtSaUw0Y1U3ZExtVFltaUFyWnpXd0VKMVctNlp5UVRxdFBHaFhTb05UZE1EVGozMldBOFZMU2dmdXgwOHdPV09wdXptbEpxdzNyUmdpME8yczB5OTNZTE5IVGY3aVJhWThaZkZyRl82Qy1GYXJZWmxmR2k2ZEU1STdXY0doMTg5NHNYQl92cy12N2JRci0xa0ZlSmxsUUNUdXdER2ItSHBSOUhTeW9xazlBZw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) - Benzinga",
-        "status": "Cross-source coverage",
-        "common_context": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) Benzinga",
-        "unique_points": [
-          {
-            "source": "Benzinga",
-            "when": "29 Oct 2026",
-            "point": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) Benzinga",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0t1WGo1ZEJfVnRkMUUzbzJUdVdJRG5BYVVRdDRBa2xNbFpIand2MGt1Qng1VHBLbGlfMEVxLXhlN2F5dG5FVWpfdFRvVFh2NE0wLThDQVFtV3ZyODJ6Ui00end4TWVTdmdJcFNKYUJWbGlEZ2dVMGdPanotM2lwUU1XamsteTdLbFFObFlrZHRqaTA1a1lVSVM1Vy1SZ3o0eHZOYUxLQVp2RTNZU3hrbGJCYw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "BigGo Finance",
-            "when": "29 Oct 2026",
-            "point": "Meta AI Director Rohit Patel Exits After Eight Years to Launch Ndoc, an AI-Native Rival to Microsoft Office and Google Workspace BigGo Finance",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLVElMMjg3dHF4VHY3ZldfYWRaMUo0U3BlVWNxS3pEZ3hxQjliVlgwVmpyeGdMZUFSRkF5YmRhUUEwelktN0NXZXJseC0wdlJzWEtTQ2RlRXlxSW9vNTkzdExwMjZDMEdVTTJHWWdPSEY5SDRZb1E?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Universal Ads gains 12 partner platforms that can book its TV ads PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDVpbWhhMF9jd0YtYVB0X3NtWmRsckljWkNtMXpnQUZPYTI2anJXSFF0bkRmU1Y2Z25rZGp0MGpIQ1UxWUhvZmF1d3VLX3ZWdnZjUDFOVEtPWjhZNmphdUJfZkZnaGF4b1hkalM2X08zcU94dE10Vm9iMVk2QThmOEhFTUhYTE5PUEpR?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

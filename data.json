@@ -1,34 +1,42 @@
 {
   "date": "30 October 2026",
   "lead": {
-    "title": "Meta's developer MCP gains six tools that let AI agents create apps - PPC Land",
-    "deck": "Meta's developer MCP gains six tools that let AI agents create apps PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjFzZXRjSkdKR3ljSjFhSTFjaHFybE0zeFYzOGhDTWRENmR5SWxoQkpaYWNacE5pLXlleGpCZ0l2dFdQeWloc3lvcFUwLXdUVzBaS2d6TVZDVHhPUTk5MXM2OVJWMDJDcWdFeWU0NTYyaEREb0dsR3N1R2E4MC1LY0l1RVBJd1hQV2R1cA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "PPC Land",
-    "when": "29 Oct 2026",
+    "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings - Search Engine Roundtable",
+    "deck": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUy13QXVFVXpRSHhUMTZZc2JNSjZUZ2h3cHJna3pPaVAwQmZrVWk0b1k1dUpfZTNRZUw4TkRadnJKR1hIZGlTMFpsZ0JoalEzQmFQX0hQeUozdnJZU3BBdzgxTGRidlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Search Engine Roundtable",
+    "when": "30 Oct 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Meta's developer MCP gains six tools that let AI agents create apps - PPC Land",
-    "AI Automation Course Guide for US Learners 2026 - Bitcoin Foundation",
-    "Does updating text assets via Google Ads API effectively create a new Ad/Asset entity for App Campa - Google Help",
-    "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) - Benzinga",
-    "Universal Ads gains 12 partner platforms that can book its TV ads - PPC Land",
-    "AI for Science expands to foundations and research institutions - Anthropic",
-    "The latest AI-powered martech news and releases - MarTech",
-    "NIQ and Google Partner to Advance Agentic Commerce - Google Cloud Press Corner"
+    "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings - Search Engine Roundtable",
+    "ZoomInfo launches New MCP Connector and API on Snowflake - Business Wire",
+    "About ads in AI-powered experiences in Google Search - Google Help",
+    "Google expands AI Mode ads to 10 markets, including Southeast Asia - ContentGrip",
+    "2026 Microsoft Advertising Partner Awards: North America winners announced - Microsoft",
+    "Best AI Automation Course Options for US Learners in 2026 - Bitcoin Foundation",
+    "Daily Search Forum Recap: October 29, 2026 - Search Engine Roundtable",
+    "About the AI campaign localisation tool for search campaigns (beta) - Google Help"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Does updating text assets via Google Ads API effectively create a new Ad/Asset entity for App Campa - Google Help",
-          "summary": "Does updating text assets via Google Ads API effectively create a new Ad/Asset entity for App Campa Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "About ads in AI-powered experiences in Google Search - Google Help",
+          "summary": "About ads in AI-powered experiences in Google Search Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
-          "when": "30 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEpSWlBlR3F2c1JsdFl3NXVDT1p2eURhTzFudWMwcXlIV2F3c0xabm5DLVZ6RUkxalJmcUhyR1lhWHFtV2hTckhMMjc4TlNpM2tGejBra2s5eHdPbnJ2X0Q1ZDE5U2xyTFVZU2I1Yk9VQzc5RkVURWt2UDlCb1I4X1d4bTdwTEhNQjU4MlpkUVRGRTdVdlRzRzZGWnhaNjFXSW4zdGNBOGc5d2RIUzllMVlUUTlZcHRSQ2tpdlNPS05TWXdvcGJJUFo1WTYxTFlRTU0tZ3IzT011Q19TYm9Lc0xIS1ZQR2JMSThMZi1WZzYwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "when": "29 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wVHVVQUpJWDZzMGtnS0NLSXFHdTFvNWRBenBDR3lhdUNXNENrel80Q2dsaXk0UXg0VUNDNzNDVWN0UzZMN3JOVENWTU1jZlM5bjZIY2QxUWZONGJCX0hYQXJ1TElnYVRKZy0w?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "About the AI campaign localisation tool for search campaigns (beta) - Google Help",
+          "summary": "About the AI campaign localisation tool for search campaigns (beta) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "29 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NMmtpRW96OTNfa2hmYW1XalZIS2xNZ0dhbWNGOUZVX0tJd3JuYllVMkczV3FRWHIxaFUxdFN0MHItZ3o0dU1hVmR5N1JKSkJ5ZmZEUTBXX2dzcDg2am0xdWxId01UNkp4VXNGRlhjUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -37,13 +45,28 @@
       "name": "Microsoft Ads",
       "stories": [
         {
-          "title": "Build, steer, and measure your campaigns with AI: What's new in Microsoft Advertising this October - Microsoft",
-          "summary": "Build, steer, and measure your campaigns with AI: What's new in Microsoft Advertising this October Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings - Search Engine Roundtable",
+          "summary": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Roundtable",
+          "when": "30 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUy13QXVFVXpRSHhUMTZZc2JNSjZUZ2h3cHJna3pPaVAwQmZrVWk0b1k1dUpfZTNRZUw4TkRadnJKR1hIZGlTMFpsZ0JoalEzQmFQX0hQeUozdnJZU3BBdzgxTGRidlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "2026 Microsoft Advertising Partner Awards: North America winners announced - Microsoft",
+          "summary": "2026 Microsoft Advertising Partner Awards: North America winners announced Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Microsoft",
-          "when": "28 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPek44LVFMQVFCZ3lOQ1A2MmU3cmllZ2l4V09naW9FQWFWZDFncUNEN1VLYU9sVEdkR2xQNl9FR1FrZ2NwdFlxUVpSTVpUNTdBVkZ0Tk5DRVhyOTBmUldWWkd2eGQyTHFIYmxVTFAzcDV1RWpDV0NYWVBBT0h0TGN2T0VCeU93dVFSMmJHUnNVZzhZekpsWGVYNVFMdm5tVXdheWFjclNiRWFSRG45X1JJTmJmWnBmMVhReGVsY1JFeTZZQXRwWld4NVFiZlJzUzI3T2Eyc3R0MXJyYmNLNG4xRmNmSDB6ZDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "when": "30 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPakoyNC1yUFpFbUdWajNqd2lsV19xYnRtWHBDcllkb1ZMMmRoLU5XY2RmMXlJZkdabFRlUy1CVG55VE56OTZRdTBkbUdveEYyUGtLVVBRUU5rY2prX0o3UFZwUjJkWFVEZ0k1SUhjUzFrdFlhMDZfX2Y3TEFqZmNDSnRMOVVmWjNManB2bE9lWlMtaVFEMEJsaEZqWHRxUkRhSHNNd18tZ09oZUZPSjNuRF9RNWd5ZHpuMmRxcmlFQWZ2ODRpWFYwQm05bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Daily Search Forum Recap: October 29, 2026 - Search Engine Roundtable",
+          "summary": "Daily Search Forum Recap: October 29, 2026 Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Roundtable",
+          "when": "29 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcTZOelExdk5iSEFDUmlXLXBFY3VPUVc4LTFFTXdIU2RtUmJwcGFQaF9odDg3OWw0bzg4RFE0eHFJVGEwdUZHU01pczFaWmVRSWtES2o1SUNEb2ZDeDBDa1hXdk5RcUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -51,11 +74,11 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision - Facebook",
-          "summary": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbERiOF9fNUFoWm5Tb0xvRHdrZXc5cUdha05oQ1I0WXF5b2lCMFpsb2JTcXd4UVcwM3A3QW1sbjkwSkdLQm0yNG9qeHhIUUR1Y1c1UTNrdTVqanR4WGFtdkJQN1JKcjRmM0IyWDhzbEJDdzB2Z1RURzZveFlfTVBZZ2IxcXF4UWdqSDdtRHJTY2hnNjVUR1B4Wjk4NEtpZXRkbGRELWhkVlJaWFlKWjE4SU9US0p0SG81SzllcjJqbG43RnpLZXZnUi1sUW03WW91Z20yNnFOUjJidGItZGdXWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Meta Andromeda reshapes AI ad retrieval - ContentGrip",
+          "summary": "Meta Andromeda reshapes AI ad retrieval ContentGrip. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "ContentGrip",
+          "when": "30 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aVkRIN3hEaEVUMklDTndRYXBEd245YWc5UlY0eDJNQjYxc3JhYWdfNzRzbXREb1ZTOUE0WEZaMmJMaFV2bGJrdFdUVFdXRzlLY1lSUEtSVTFtM2ZheFE4OU9abVYtNm1BaVZCUUtTazFOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -94,13 +117,20 @@
       "name": "LinkedIn Ads",
       "stories": [
         {
+          "title": "Google expands AI Mode ads to 10 markets, including Southeast Asia - ContentGrip",
+          "summary": "Google expands AI Mode ads to 10 markets, including Southeast Asia ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "ContentGrip",
+          "when": "30 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXVlVPZFRla2p4a2xjcDZaWHZvYUQxbGxOX2FPUWFuUS1UMlRhWm4zbXVYZUUwbHJHMjRqZmQ5RExqcWE5OWtxWDFUX205OXZSdk9NZHRIUEQ4djdvVFM3VVM4STJ6OHpX?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "The latest AI-powered martech news and releases - MarTech",
           "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "MarTech",
-          "when": "30 Oct 2026",
+          "when": "29 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "image": ""
         }
       ]
     },
@@ -113,7 +143,8 @@
           "source": "Google for Developers",
           "when": "29 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FRWxsWDNoZE9NX2g3MGUxVVpmXzZuNWdnWUY1OUx1N2ZmNFVOd0pNc1l1Q3dwT2V1WWtDMnpVZUxleG50bEg1TU1Ba0JiT2MtRjZQQXZRWjlMRG5kWXdmaDA4aDFvTGJMUy15czlFRmQ5Y2JsMEdKTDdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -135,11 +166,11 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Meta's developer MCP gains six tools that let AI agents create apps - PPC Land",
-          "summary": "Meta's developer MCP gains six tools that let AI agents create apps PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "PPC Land",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjFzZXRjSkdKR3ljSjFhSTFjaHFybE0zeFYzOGhDTWRENmR5SWxoQkpaYWNacE5pLXlleGpCZ0l2dFdQeWloc3lvcFUwLXdUVzBaS2d6TVZDVHhPUTk5MXM2OVJWMDJDcWdFeWU0NTYyaEREb0dsR3N1R2E4MC1LY0l1RVBJd1hQV2R1cA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "ZoomInfo launches New MCP Connector and API on Snowflake - Business Wire",
+          "summary": "ZoomInfo launches New MCP Connector and API on Snowflake Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Business Wire",
+          "when": "30 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHdrNTJyQVN0MkhlejRPUlp6RUNoYUxqZ25CcHMwUU1RaldKMi1hcjRPcm5kbENoVmNmSkpiMzBvelc4b2o3bThXeFlUMmh3SzdLLTdScUw5WUJ5d2hhV0I2N3d4TDltWm1qRWxOX1ExSUEwNlBWR2dyU1pHdmdEQXJxOVNzQTI2VE9OM3pRODhDd29LT1pvS3dGcUluQmg3cnlSUWJTS3Y0NHhmQkdfZjNJRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -148,22 +179,6 @@
           "source": "Benzinga",
           "when": "29 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0t1WGo1ZEJfVnRkMUUzbzJUdVdJRG5BYVVRdDRBa2xNbFpIand2MGt1Qng1VHBLbGlfMEVxLXhlN2F5dG5FVWpfdFRvVFh2NE0wLThDQVFtV3ZyODJ6Ui00end4TWVTdmdJcFNKYUJWbGlEZ2dVMGdPanotM2lwUU1XamsteTdLbFFObFlrZHRqaTA1a1lVSVM1Vy1SZ3o0eHZOYUxLQVp2RTNZU3hrbGJCYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Universal Ads gains 12 partner platforms that can book its TV ads - PPC Land",
-          "summary": "Universal Ads gains 12 partner platforms that can book its TV ads PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "PPC Land",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDVpbWhhMF9jd0YtYVB0X3NtWmRsckljWkNtMXpnQUZPYTI2anJXSFF0bkRmU1Y2Z25rZGp0MGpIQ1UxWUhvZmF1d3VLX3ZWdnZjUDFOVEtPWjhZNmphdUJfZkZnaGF4b1hkalM2X08zcU94dE10Vm9iMVk2QThmOEhFTUhYTE5PUEpR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "AI for Science expands to foundations and research institutions - Anthropic",
-          "summary": "AI for Science expands to foundations and research institutions Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Anthropic",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -175,8 +190,16 @@
           "title": "The latest AI-powered martech news and releases - MarTech",
           "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "MarTech",
-          "when": "30 Oct 2026",
+          "when": "29 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Higgsfield review 2026: Key Features, Pros and Cons - Memeburn",
+          "summary": "Higgsfield review 2026: Key Features, Pros and Cons Memeburn. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Memeburn",
+          "when": "30 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QUXVwXzYzZ1VQTDJUZl84NE9ybHpkck9rZno5Qm5TQkMzTmRjbmZOTTZxc0xLSWtfWUg1Z1k0TVFGTTN3Qi1yMmczWk03SGEz?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -185,8 +208,8 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "AI Automation Course Guide for US Learners 2026 - Bitcoin Foundation",
-          "summary": "AI Automation Course Guide for US Learners 2026 Bitcoin Foundation. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "title": "Best AI Automation Course Options for US Learners in 2026 - Bitcoin Foundation",
+          "summary": "Best AI Automation Course Options for US Learners in 2026 Bitcoin Foundation. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Bitcoin Foundation",
           "when": "30 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yVGEtYTd5T2FET3NQLVFPaU9VcFhnZTF4RFZjal9TcnlJbFkxdWxnaGFfcThjbWQ4TVUxbUtzR2dYSVJoNzlOMHo0WVBEOXN6N21KckNtUlhSWjROZjRhVllfUmJGeUVpNjJF?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -196,7 +219,7 @@
           "title": "The latest AI-powered martech news and releases - MarTech",
           "summary": "The latest AI-powered martech news and releases MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "MarTech",
-          "when": "30 Oct 2026",
+          "when": "29 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
@@ -229,33 +252,33 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision - Facebook",
+        "topic": "Google expands AI Mode ads to 10 markets, including Southeast Asia - ContentGrip",
         "status": "Cross-source coverage",
-        "common_context": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision Facebook",
+        "common_context": "Google expands AI Mode ads to 10 markets, including Southeast Asia ContentGrip",
         "unique_points": [
           {
-            "source": "Facebook",
-            "when": "29 Oct 2026",
-            "point": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision Facebook",
-            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbERiOF9fNUFoWm5Tb0xvRHdrZXc5cUdha05oQ1I0WXF5b2lCMFpsb2JTcXd4UVcwM3A3QW1sbjkwSkdLQm0yNG9qeHhIUUR1Y1c1UTNrdTVqanR4WGFtdkJQN1JKcjRmM0IyWDhzbEJDdzB2Z1RURzZveFlfTVBZZ2IxcXF4UWdqSDdtRHJTY2hnNjVUR1B4Wjk4NEtpZXRkbGRELWhkVlJaWFlKWjE4SU9US0p0SG81SzllcjJqbG43RnpLZXZnUi1sUW03WW91Z20yNnFOUjJidGItZGdXWQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "ContentGrip",
+            "when": "30 Oct 2026",
+            "point": "Google expands AI Mode ads to 10 markets, including Southeast Asia ContentGrip",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXVlVPZFRla2p4a2xjcDZaWHZvYUQxbGxOX2FPUWFuUS1UMlRhWm4zbXVYZUUwbHJHMjRqZmQ5RExqcWE5OWtxWDFUX205OXZSdk9NZHRIUEQ4djdvVFM3VVM4STJ6OHpX?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "PPC Land",
-            "when": "29 Oct 2026",
-            "point": "Meta's developer MCP gains six tools that let AI agents create apps PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjFzZXRjSkdKR3ljSjFhSTFjaHFybE0zeFYzOGhDTWRENmR5SWxoQkpaYWNacE5pLXlleGpCZ0l2dFdQeWloc3lvcFUwLXdUVzBaS2d6TVZDVHhPUTk5MXM2OVJWMDJDcWdFeWU0NTYyaEREb0dsR3N1R2E4MC1LY0l1RVBJd1hQV2R1cA?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "Search Engine Roundtable",
+            "when": "30 Oct 2026",
+            "point": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings Search Engine Roundtable",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUy13QXVFVXpRSHhUMTZZc2JNSjZUZ2h3cHJna3pPaVAwQmZrVWk0b1k1dUpfZTNRZUw4TkRadnJKR1hIZGlTMFpsZ0JoalEzQmFQX0hQeUozdnJZU3BBdzgxTGRidlk?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "PPC Land",
+            "source": "Search Engine Roundtable",
             "when": "29 Oct 2026",
-            "point": "Publicis Norway says Adform's MCP server cuts its Excel prep time PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFVyWkFTNG84c1FwZFpvVHM2VE5IT0lkMHRWMndmX0xvbkZzY1ZPZ01Rc2FjRW5VbGxHbDY0MzlZTlk2XzF3aFlzalEyS3hoMmw1dnh0OWVMY29JYXdWc0VCLWpPWXJ5elBVdC1waUlXbXRsX0llWk5BWTB1aEV4R1pVNzIyaGRIQ2c?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Daily Search Forum Recap: October 29, 2026 Search Engine Roundtable",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcTZOelExdk5iSEFDUmlXLXBFY3VPUVc4LTFFTXdIU2RtUmJwcGFQaF9odDg3OWw0bzg4RFE0eHFJVGEwdUZHU01pczFaWmVRSWtES2o1SUNEb2ZDeDBDa1hXdk5RcUE?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "PPC Land",
+            "source": "Google Help",
             "when": "29 Oct 2026",
-            "point": "Universal Ads gains 12 partner platforms that can book its TV ads PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDVpbWhhMF9jd0YtYVB0X3NtWmRsckljWkNtMXpnQUZPYTI2anJXSFF0bkRmU1Y2Z25rZGp0MGpIQ1UxWUhvZmF1d3VLX3ZWdnZjUDFOVEtPWjhZNmphdUJfZkZnaGF4b1hkalM2X08zcU94dE10Vm9iMVk2QThmOEhFTUhYTE5PUEpR?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "About the AI campaign localisation tool for search campaigns (beta) Google Help",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NMmtpRW96OTNfa2hmYW1XalZIS2xNZ0dhbWNGOUZVX0tJd3JuYllVMkczV3FRWHIxaFUxdFN0MHItZ3o0dU1hVmR5N1JKSkJ5ZmZEUTBXX2dzcDg2am0xdWxId01UNkp4VXNGRlhjUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

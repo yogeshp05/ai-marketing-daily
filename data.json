@@ -12,12 +12,12 @@
   "ticker": [
     "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings - Search Engine Roundtable",
     "ZoomInfo launches New MCP Connector and API on Snowflake - Business Wire",
-    "DerbySoft AI search prep. Dailypoint scores AI readiness. Apaleo’s Agent surge. HTS and Serko offer flexibility. Tencent partners with Visa. - Web In Travel",
     "Supporting a shared AI training control for websites | Google Search Central Blog - Google for Developers",
     "DemandSense Joins LinkedIn Marketing Partner Program, Bringing Full-Funnel B2B Attribution to LinkedIn Advertisers - Yahoo Finance",
     "2026 Microsoft Advertising Partner Awards: North America winners announced - Microsoft",
     "Amazon CEO Addresses Concerns Over AI Shopping Agents Amid E-Commerce Competition - SSBCrack",
-    "Best AI Automation Course Options for US Learners in 2026 - Bitcoin Foundation"
+    "Best AI Automation Course Options for US Learners in 2026 - Bitcoin Foundation",
+    "Fair use benefits everyone - OpenAI"
   ],
   "sections": [
     {
@@ -52,14 +52,6 @@
           "when": "30 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPakoyNC1yUFpFbUdWajNqd2lsV19xYnRtWHBDcllkb1ZMMmRoLU5XY2RmMXlJZkdabFRlUy1CVG55VE56OTZRdTBkbUdveEYyUGtLVVBRUU5rY2prX0o3UFZwUjJkWFVEZ0k1SUhjUzFrdFlhMDZfX2Y3TEFqZmNDSnRMOVVmWjNManB2bE9lWlMtaVFEMEJsaEZqWHRxUkRhSHNNd18tZ09oZUZPSjNuRF9RNWd5ZHpuMmRxcmlFQWZ2ODRpWFYwQm05bw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "Daily Search Forum Recap: October 29, 2026 - Search Engine Roundtable",
-          "summary": "Daily Search Forum Recap: October 29, 2026 Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Roundtable",
-          "when": "29 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcTZOelExdk5iSEFDUmlXLXBFY3VPUVc4LTFFTXdIU2RtUmJwcGFQaF9odDg3OWw0bzg4RFE0eHFJVGEwdUZHU01pczFaWmVRSWtES2o1SUNEb2ZDeDBDa1hXdk5RcUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -85,7 +77,8 @@
           "source": "StreetInsider",
           "when": "30 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOS196Sm9pX0I5aGdjY0lqS2p1VFgzZXJwWFUyWUFtcnd5b21SRldBM19qd1h1MHBzMUtfSkN1X2ROeWp0dWVVSm1Pcl9tRFNVN1ZRRmxLelpkR0drUlZrbTEwQW1YTFJMQ1ZKNXRrMDJCcjlNUXVVVUpiQmNmMU1OVTJ3OF84R1VrZ3liMEZIRHBlZmMzMGRCRDBwZkw2UUQtX015cUJlZlNrWi01TVZENjY5OW5PQjJ1R0xqNFlfT2hZRWROZ1R1akdlMnNlYTVrQWtubHNQNWQ1eF8zTnhLSlNjdXRqS29vMk4tZWUzWWw1U0w1ZndxN3d3TjdUOXAzWlpsWG1tWE9kaWtIdUpUVG9rdl93bER5VjF6S3FB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -160,14 +153,6 @@
           "when": "30 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHdrNTJyQVN0MkhlejRPUlp6RUNoYUxqZ25CcHMwUU1RaldKMi1hcjRPcm5kbENoVmNmSkpiMzBvelc4b2o3bThXeFlUMmh3SzdLLTdScUw5WUJ5d2hhV0I2N3d4TDltWm1qRWxOX1ExSUEwNlBWR2dyU1pHdmdEQXJxOVNzQTI2VE9OM3pRODhDd29LT1pvS3dGcUluQmg3cnlSUWJTS3Y0NHhmQkdfZjNJRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "DerbySoft AI search prep. Dailypoint scores AI readiness. Apaleo’s Agent surge. HTS and Serko offer flexibility. Tencent partners with Visa. - Web In Travel",
-          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Web In Travel",
-          "when": "30 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV05peEdrai1lZlpyZzY3b3Qwb245Sm5qVUw4OHUwRThQRWkzcjZZMVNzcW0wdTMxUmgtY1MyTV94UkRiMzVHNHNXRTc2U3dnSV9wd05NUzM2RG1pTk5SY2M3RHpaZm5lNUdMOVNpc2lLTTV2d2x5NEo4TEM1MXN3ZmRKYTBkdVhOR1ViN3oyVDhTMGR3dWpjTkUtZ09QR3U3OURmOVZaRHRvOUQzLVVSajZhUDRYbTd3VVMwRWloUFpNcW5YSUlCMnNfU3VEaU1oUG1fS0pVU2QzTFgwaFpWbGMyNjlMLTVTcGQwaFJHRWFhX2xxQ3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -231,32 +216,6 @@
             "when": "30 Oct 2026",
             "point": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings Search Engine Roundtable",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUy13QXVFVXpRSHhUMTZZc2JNSjZUZ2h3cHJna3pPaVAwQmZrVWk0b1k1dUpfZTNRZUw4TkRadnJKR1hIZGlTMFpsZ0JoalEzQmFQX0hQeUozdnJZU3BBdzgxTGRidlk?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Roundtable",
-            "when": "29 Oct 2026",
-            "point": "Daily Search Forum Recap: October 29, 2026 Search Engine Roundtable",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcTZOelExdk5iSEFDUmlXLXBFY3VPUVc4LTFFTXdIU2RtUmJwcGFQaF9odDg3OWw0bzg4RFE0eHFJVGEwdUZHU01pczFaWmVRSWtES2o1SUNEb2ZDeDBDa1hXdk5RcUE?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "2026 Microsoft Advertising Partner Awards: North America winners announced - Microsoft",
-        "status": "Cross-source coverage",
-        "common_context": "2026 Microsoft Advertising Partner Awards: North America winners announced Microsoft",
-        "unique_points": [
-          {
-            "source": "Microsoft",
-            "when": "30 Oct 2026",
-            "point": "2026 Microsoft Advertising Partner Awards: North America winners announced Microsoft",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPakoyNC1yUFpFbUdWajNqd2lsV19xYnRtWHBDcllkb1ZMMmRoLU5XY2RmMXlJZkdabFRlUy1CVG55VE56OTZRdTBkbUdveEYyUGtLVVBRUU5rY2prX0o3UFZwUjJkWFVEZ0k1SUhjUzFrdFlhMDZfX2Y3TEFqZmNDSnRMOVVmWjNManB2bE9lWlMtaVFEMEJsaEZqWHRxUkRhSHNNd18tZ09oZUZPSjNuRF9RNWd5ZHpuMmRxcmlFQWZ2ODRpWFYwQm05bw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "StreetInsider",
-            "when": "30 Oct 2026",
-            "point": "S4 Capital's Monks Boosts Media Acceleration Offering with Executive Appointments in North America and Returning Global Partnership Leaders StreetInsider",
-            "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOS196Sm9pX0I5aGdjY0lqS2p1VFgzZXJwWFUyWUFtcnd5b21SRldBM19qd1h1MHBzMUtfSkN1X2ROeWp0dWVVSm1Pcl9tRFNVN1ZRRmxLelpkR0drUlZrbTEwQW1YTFJMQ1ZKNXRrMDJCcjlNUXVVVUpiQmNmMU1OVTJ3OF84R1VrZ3liMEZIRHBlZmMzMGRCRDBwZkw2UUQtX015cUJlZlNrWi01TVZENjY5OW5PQjJ1R0xqNFlfT2hZRWROZ1R1akdlMnNlYTVrQWtubHNQNWQ1eF8zTnhLSlNjdXRqS29vMk4tZWUzWWw1U0w1ZndxN3d3TjdUOXAzWlpsWG1tWE9kaWtIdUpUVG9rdl93bER5VjF6S3FB?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

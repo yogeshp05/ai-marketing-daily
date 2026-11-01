@@ -1,18 +1,17 @@
 {
-  "date": "1 November 2026",
+  "date": "2 November 2026",
   "lead": {
-    "title": "Crun AI Launches AI Agent for Creative Content Generation through Chat - 24-7PressRelease.com",
-    "deck": "Crun AI Launches AI Agent for Creative Content Generation through Chat 24-7PressRelease.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODJDc18tVFY5eU9XRHpvSFpkQzZ4MzJMbmFWRU1TLURBazNyUWVJUWNtSlFnQ1UyTlNxMkVqcGNlR1UzRVVJUDFUcV9ZX0lfQ2FiWGQ2aWo4UXVuUmhNU3dnMTlya1VpcHZkaVJnd1pjdzZuMXpweFBOZ0dTaEhPS2owYi1ZVGRiOHhiajZ5NUpzTGJmNjZRQVJPME4zM2Z6ZnJMWTN5RG9Pc3RlWlVHemN0VlpHaDRaWXFhQ0thOU0tUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "24-7PressRelease.com",
-    "when": "31 Oct 2026",
+    "title": "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) - Seeking Alpha",
+    "deck": "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) Seeking Alpha. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2M5c3JjcHhBcjlRUFE0N015cUtYUWRhSGxVYl96WW9wamp4WnJUOGRLNWpsVDFsMEhRSWhIYm5pVjhpRFBoWEtOUnRfQ3dkZTdrMGE2RFIxM2pQeWFubnZZQ0FNVjNJZktkMmJBelVjN2IzcTA3MGdSckN3ekFjSC1VdWg0dUVjd3JXdXhUakVJQ2lMNlB4cHVMWWJVNW93bzd4anJIOUZES1dqQWNV?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Seeking Alpha",
+    "when": "1 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Crun AI Launches AI Agent for Creative Content Generation through Chat - 24-7PressRelease.com",
-    "Adobe Firefly Update: Now Compatible with Over 10 AI Partner Models - Oneindia",
-    "Amazon Q3 ads hit US$19.64B as AI buying evolves - ContentGrip",
+    "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) - Seeking Alpha",
+    "Nest Commerce launches AI creative platform Hummingbird on TikTok | TikTok For Business Blog - TikTok",
     "These Are The 10 Biggest Datacenters In The World [Oct 2026] - OfficeChai",
     "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out - PPC Land",
     "Kazakhstan: About Value Added Tax (VAT) - TikTok"
@@ -69,13 +68,22 @@
           "source": "ContentGrip",
           "when": "31 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ERUJVYVcxelJTdEswSk9jOFNuMG5CY0VlcjZZLTRrVkhVMTRoNW0zcHprV3E4c182UFhhMllUOGQ0aGpwQUplWkl3dVdWNVRqVXRnTjFmLTR3eDRReXRkT09oOXFqRXpuLXhyU0pn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
     {
       "name": "TikTok Ads",
       "stories": [
+        {
+          "title": "Nest Commerce launches AI creative platform Hummingbird on TikTok | TikTok For Business Blog - TikTok",
+          "summary": "Nest Commerce launches AI creative platform Hummingbird on TikTok | TikTok For Business Blog TikTok. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "TikTok",
+          "when": "1 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXRPZEVuUW4yb1lsTEdzZFJPQ3ZmanM1Rk9JaXA0YzBzVXVsc3JRODNzVzd1cnBNOXY4VHNfaWNxWVFqR3VndjJOelJZS19TeVZHenY2WnJ5YzhwSkxkY2F5TTNWMFNmWWxCLUZqMldJajgzcXBsQ0FOUTZWSWZ5WkEtYnozZ0RUbnhRN3RkZUtna2FscGVTakZZcFY5N3VQZDA4MDRGYjI?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Kazakhstan: About Value Added Tax (VAT) - TikTok",
           "summary": "Kazakhstan: About Value Added Tax (VAT) TikTok. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -167,7 +175,8 @@
           "source": "24-7PressRelease.com",
           "when": "31 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODJDc18tVFY5eU9XRHpvSFpkQzZ4MzJMbmFWRU1TLURBazNyUWVJUWNtSlFnQ1UyTlNxMkVqcGNlR1UzRVVJUDFUcV9ZX0lfQ2FiWGQ2aWo4UXVuUmhNU3dnMTlya1VpcHZkaVJnd1pjdzZuMXpweFBOZ0dTaEhPS2owYi1ZVGRiOHhiajZ5NUpzTGJmNjZRQVJPME4zM2Z6ZnJMWTN5RG9Pc3RlWlVHemN0VlpHaDRaWXFhQ0thOU0tUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         },
         {
           "title": "Adobe Firefly Update: Now Compatible with Over 10 AI Partner Models - Oneindia",
@@ -175,7 +184,8 @@
           "source": "Oneindia",
           "when": "31 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX294alA5NHdZWXVwUm5XN2FFMWp2VEE0MUFLNUtwU29YWnF2R0VwM2M5cFFJWGZBaGlrT1Itc2dwWWF1cXhlQUdEQWlpTnVuS1Npd0tnLTFlZzNSMGE4Vkx5aDd1bEhJdlFwb0pYck5xR29iVzgyRWpRRnk0MEl5bFJqQ1hhUzRCR3BudDBUbFIwNVN1REFwUkV5WVRnckpqNXRIM1VyRUVNbjZvNjZPelpial8tM3gySDhMRjFUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -197,13 +207,12 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "Amazon CEO Addresses Concerns Over AI Shopping Agents Amid E-Commerce Competition - SSBCrack",
-          "summary": "Amazon CEO Addresses Concerns Over AI Shopping Agents Amid E-Commerce Competition SSBCrack. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "SSBCrack",
-          "when": "30 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkZrY0VKSEMxaTFPTXpyN1cxUVJuRDNyT0R4RkhkUzBTbWNSYjBUSlBzbDc4VkdMdE5ZNDFlN19qQjE4MEZTb1NOWVM1X3RNVWxqS0xDV3V3bUJ4UUJqOVRELThBVUxKazI3Q1ZES1A3ZFYtc2p1Q2FsR2RtQnY5c2NuQ1dURXlMRjZBUjdWS21YTEJNaEF5V3ZHcTc0RDJFcjNKU1BQMHU5ZmhF?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) - Seeking Alpha",
+          "summary": "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) Seeking Alpha. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Seeking Alpha",
+          "when": "1 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2M5c3JjcHhBcjlRUFE0N015cUtYUWRhSGxVYl96WW9wamp4WnJUOGRLNWpsVDFsMEhRSWhIYm5pVjhpRFBoWEtOUnRfQ3dkZTdrMGE2RFIxM2pQeWFubnZZQ0FNVjNJZktkMmJBelVjN2IzcTA3MGdSckN3ekFjSC1VdWg0dUVjd3JXdXhUakVJQ2lMNlB4cHVMWWJVNW93bzd4anJIOUZES1dqQWNV?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     }

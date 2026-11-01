@@ -1,23 +1,23 @@
 {
   "date": "1 November 2026",
   "lead": {
-    "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings - Search Engine Roundtable",
-    "deck": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUy13QXVFVXpRSHhUMTZZc2JNSjZUZ2h3cHJna3pPaVAwQmZrVWk0b1k1dUpfZTNRZUw4TkRadnJKR1hIZGlTMFpsZ0JoalEzQmFQX0hQeUozdnJZU3BBdzgxTGRidlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "Search Engine Roundtable",
-    "when": "30 Oct 2026",
+    "title": "Crun AI Launches AI Agent for Creative Content Generation through Chat - 24-7PressRelease.com",
+    "deck": "Crun AI Launches AI Agent for Creative Content Generation through Chat 24-7PressRelease.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODJDc18tVFY5eU9XRHpvSFpkQzZ4MzJMbmFWRU1TLURBazNyUWVJUWNtSlFnQ1UyTlNxMkVqcGNlR1UzRVVJUDFUcV9ZX0lfQ2FiWGQ2aWo4UXVuUmhNU3dnMTlya1VpcHZkaVJnd1pjdzZuMXpweFBOZ0dTaEhPS2owYi1ZVGRiOHhiajZ5NUpzTGJmNjZRQVJPME4zM2Z6ZnJMWTN5RG9Pc3RlWlVHemN0VlpHaDRaWXFhQ0thOU0tUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "24-7PressRelease.com",
+    "when": "31 Oct 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings - Search Engine Roundtable",
+    "Crun AI Launches AI Agent for Creative Content Generation through Chat - 24-7PressRelease.com",
     "ZoomInfo launches New MCP Connector and API on Snowflake - Business Wire",
     "Adobe Firefly Update: Now Compatible with Over 10 AI Partner Models - Oneindia",
     "Amazon Q3 ads hit US$19.64B as AI buying evolves - ContentGrip",
+    "OpenAI, Google, Microsoft and Anthropic back a shared AI-scraping opt-out - Mezha.net",
     "Supporting a shared AI training control for websites | Google Search Central Blog - Google for Developers",
     "DemandSense Joins LinkedIn Marketing Partner Program, Bringing Full-Funnel B2B Attribution to LinkedIn Advertisers - Yahoo Finance",
-    "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out - PPC Land",
-    "Fair use benefits everyone - OpenAI"
+    "OpenAI Cuts Funding Target As Investors Lose AI Appetite - Investor's Business Daily"
   ],
   "sections": [
     {
@@ -43,7 +43,8 @@
           "source": "Search Engine Roundtable",
           "when": "30 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUy13QXVFVXpRSHhUMTZZc2JNSjZUZ2h3cHJna3pPaVAwQmZrVWk0b1k1dUpfZTNRZUw4TkRadnJKR1hIZGlTMFpsZ0JoalEzQmFQX0hQeUozdnJZU3BBdzgxTGRidlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -56,7 +57,8 @@
           "source": "ContentGrip",
           "when": "30 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aVkRIN3hEaEVUMklDTndRYXBEd245YWc5UlY0eDJNQjYxc3JhYWdfNzRzbXREb1ZTOUE0WEZaMmJMaFV2bGJrdFdUVFdXRzlLY1lSUEtSVTFtM2ZheFE4OU9abVYtNm1BaVZCUUtTazFOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -76,6 +78,14 @@
     {
       "name": "TikTok Ads",
       "stories": [
+        {
+          "title": "Kazakhstan: About Value Added Tax (VAT) - TikTok",
+          "summary": "Kazakhstan: About Value Added Tax (VAT) TikTok. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "TikTok",
+          "when": "1 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejUxZnQ0WmlzQ2tlYUxNTE1wS0VTMFQ1WlBiRmh0MUptZkt3MjlFc3lpWDZuVTE0YlhqNzRYQW1MSWFzNkVHR0xvek5ESHJHd3VEUW9zR1hTTWNweGVXejVDdXFtenVpaVM2cGdSdkYtclhvR1pIMFpyOElOMTVLcktPTnozcFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "TikTok's APAC brand safety push: what changes - ContentGrip",
           "summary": "TikTok's APAC brand safety push: what changes ContentGrip. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -146,6 +156,22 @@
           "image": ""
         },
         {
+          "title": "OpenAI, Google, Microsoft and Anthropic back a shared AI-scraping opt-out - Mezha.net",
+          "summary": "OpenAI, Google, Microsoft and Anthropic back a shared AI-scraping opt-out Mezha.net. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Mezha.net",
+          "when": "31 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbW5UVHBDZkN6Vjkyb1k2NnBpaFFxZnVoNGNfOGw5ZlZ1UDdjSW4xS0VpelpkbVBXWGVLNXg5WEVHWGJDaEZMWEVWVkVqTm9sWEFDX1J4TDNxaXhKaUZZNENCWWszbTlVZG1kWGtTby13VmlGTmRrLWVNZXZrNXU3NGp0SFhURjM5THBYXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "OpenAI Cuts Funding Target As Investors Lose AI Appetite - Investor's Business Daily",
+          "summary": "OpenAI Cuts Funding Target As Investors Lose AI Appetite Investor's Business Daily. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Investor's Business Daily",
+          "when": "31 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWdSajhqVnN5TFJ2XzB3aEt3TzJ2TFhNamVKQnhJSlVsVVRDMENOcmJZX0ZSSTNINS1vbUplY0ZSWG1XLXoxTW1Zd1hUdWRwQ0NWNlpuRmg2eS1KMXZrR0J3cVBVaFF2VE9KYTF3VE5mX2pEMHNCWGJZZlVHc0xGSGFQa2FSb1RXeE5HV19JaVJxbTNacTNhZFJMWndpWWpXU3RjVktQM0tTMnRiQ04zNjZ0cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out - PPC Land",
           "summary": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "PPC Land",
@@ -158,6 +184,14 @@
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "Crun AI Launches AI Agent for Creative Content Generation through Chat - 24-7PressRelease.com",
+          "summary": "Crun AI Launches AI Agent for Creative Content Generation through Chat 24-7PressRelease.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "24-7PressRelease.com",
+          "when": "31 Oct 2026",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODJDc18tVFY5eU9XRHpvSFpkQzZ4MzJMbmFWRU1TLURBazNyUWVJUWNtSlFnQ1UyTlNxMkVqcGNlR1UzRVVJUDFUcV9ZX0lfQ2FiWGQ2aWo4UXVuUmhNU3dnMTlya1VpcHZkaVJnd1pjdzZuMXpweFBOZ0dTaEhPS2owYi1ZVGRiOHhiajZ5NUpzTGJmNjZRQVJPME4zM2Z6ZnJMWTN5RG9Pc3RlWlVHemN0VlpHaDRaWXFhQ0thOU0tUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Adobe Firefly Update: Now Compatible with Over 10 AI Partner Models - Oneindia",
           "summary": "Adobe Firefly Update: Now Compatible with Over 10 AI Partner Models Oneindia. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -172,14 +206,6 @@
           "source": "OpenAI",
           "when": "31 Oct 2026",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xRFJYTWdFRS1kQWdTY1BCamowNGFzOW04b19BLVM1aEt0U01LeXg1eUJSVWZGb1JFVUtia0FFMjBGMWRfWUxpNnpudEtoS0lVQlZITmIyU1VmUFAxbG1XclNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Higgsfield review 2026: Key Features, Pros and Cons - Memeburn",
-          "summary": "Higgsfield review 2026: Key Features, Pros and Cons Memeburn. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Memeburn",
-          "when": "30 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QUXVwXzYzZ1VQTDJUZl84NE9ybHpkck9rZno5Qm5TQkMzTmRjbmZOTTZxc0xLSWtfWUg1Z1k0TVFGTTN3Qi1yMmczWk03SGEz?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -229,16 +255,22 @@
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2ZKQ1Iyd1N3OGZ6eElDOUIzS2RzZUptb2Vjb290OFh3QlIyalluVi0yTE95UE81aHlBVzhURTRxRGRZUUx3WkxMY1BzQU9fTVZ5R0pMZFlLb3NTQkpucmFrOUJEd053S213ekxoa3lncXdLTkJJdE56MldYaEtyaHlSOUx2d0V0dXhSYw?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Google for Developers",
-            "when": "30 Oct 2026",
-            "point": "Supporting a shared AI training control for websites | Google Search Central Blog Google for Developers",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lbmhSUWx1VWJnRV85SmlRbGxQNEE4UHV6Y1ZRcG5IYkxZUElnZ3pzNl9Ja19kTVFGZGJNZ3ZBcTJLcDNmUVFkdFFnQ1JvelV4bGE5N0xveDdnWWpJUFZHNlBIX1JfNE9nMjFWY1RxVEJQYmpvalUydw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "AI: Reset to Zero",
+            "when": "31 Oct 2026",
+            "point": "AI: Anthropic’s S-1, the Cloud Gang Reports, OpenAI’s Price Push & More.",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01SXBlOE1jRWlyaTRjbzliLWU5QW80cDg1M2RucFhvQ2NfRDN3d2x1SnFwbnZtcVRUNExLSHlMUkw3aC1mVGVkSUtYbkhyTTdiX1N5eUM5VTd6RDAyQkYyYzFwWl9YRzI5MEx2SGgycmxkMjRFS1FtdA?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Search Engine Roundtable",
-            "when": "30 Oct 2026",
-            "point": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings Search Engine Roundtable",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUy13QXVFVXpRSHhUMTZZc2JNSjZUZ2h3cHJna3pPaVAwQmZrVWk0b1k1dUpfZTNRZUw4TkRadnJKR1hIZGlTMFpsZ0JoalEzQmFQX0hQeUozdnJZU3BBdzgxTGRidlk?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "Mezha.net",
+            "when": "31 Oct 2026",
+            "point": "OpenAI, Google, Microsoft and Anthropic back a shared AI-scraping opt-out Mezha.net",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbW5UVHBDZkN6Vjkyb1k2NnBpaFFxZnVoNGNfOGw5ZlZ1UDdjSW4xS0VpelpkbVBXWGVLNXg5WEVHWGJDaEZMWEVWVkVqTm9sWEFDX1J4TDNxaXhKaUZZNENCWWszbTlVZG1kWGtTby13VmlGTmRrLWVNZXZrNXU3NGp0SFhURjM5THBYXw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "FourWeekMBA",
+            "when": "31 Oct 2026",
+            "point": "OpenAI, Google, Microsoft, Anthropic Back One AI Opt-Out FourWeekMBA",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFJ2UmxwUXFJRm50cXUyTHViNnV6ZFp6UHVlOVFZWUQ2TnB2TGF2a0RLbXFZX2k1bU5OakxFamVONVpxcjJ6V2pJN1hLRm84NlhDQ2E5MzNfRkZhdTlRSk1ieGxkMnlKYVFjQThDQ1diM09JNGZZb0Job2FOM2xTajdBSVRnZVNk?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

@@ -13,11 +13,11 @@
     "Microsoft lets advertisers set up to 40 guidelines for AI-written ads - PPC Land",
     "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) - Seeking Alpha",
     "Introducing the Grid Protectors Program - OpenAI",
-    "Meta Rolls Out AI Business Assistant To All Advertisers, Agencies 04/24/2026 - MediaPost",
+    "Meta Says AI-Made Ads Forced A Rebuild Of The System That Picks Which Ads People See - Net Influencer",
+    "Retriever AI automates web research tasks - Dynamic Business",
+    "Amazon’s Nearly $70 Billion Advertising Business Faces a Potential Threat as Meta’s AI Shopping Assistant Muse Explores E-Commerce! - www.tmgm.com",
     "Meta’s AI Shopping Assistant Muse Tests the E-Commerce Waters, Posing a Potential Threat to Amazon’s Nearly $70 Billion Advertising Business! - www.tmgm.com",
-    "OpenAI Cuts Funding Target As Investors Lose AI Appetite - Investor's Business Daily",
-    "These Are The 10 Biggest Datacenters In The World [Oct 2026] - OfficeChai",
-    "Security risk assessments include repository protection status - The GitHub Blog"
+    "Who's suing AI and who's signing latest: US newspapers sue Brave Software and Canadian publishers sue Anthropic - Press Gazette"
   ],
   "sections": [
     {
@@ -44,6 +44,14 @@
           "when": "2 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaER1ckJmUjA5dFd2VjZ1WTFPVjkwSC1HeTMtM0h6b01EVWdUQUhtTW9tRE9HckZ5bjBuMF8zeS1xNlVnWDlFLTEyVGhlbDdMVk5SbTFJLWRuU05ycldDSXMxb3lYMzlvRWVwUHpPS1RzZUdKWE84amk5Qi1lSlU3T3VWQTIyM3BSdDVraUZ3d2U?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Who's suing AI and who's signing latest: US newspapers sue Brave Software and Canadian publishers sue Anthropic - Press Gazette",
+          "summary": "Who's suing AI and who's signing latest: US newspapers sue Brave Software and Canadian publishers sue Anthropic Press Gazette. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Press Gazette",
+          "when": "2 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -56,7 +64,8 @@
           "source": "MediaPost",
           "when": "2 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FYcDNYQm1ocUo0QXdoVlBjNi1DaEZUaDVJRjdCUGdlT0NpYXU0dGR4R0Zzb09pZEVvOExEZURwcVhoREVDSC1wa2NacHBfSS1fNmRGRzB5cmpWU2FWQ3BZeloyMHRnVDFaMzAxVkRQLU1GbWNBRi1aMzhuczJWWUdYQTlvc0Z5bDRaN3lJT1kycmh5SVVZVFJidVJmZU5jcEdpTWRsSTNMbENGb1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -138,19 +147,34 @@
       "name": "Analytics",
       "stories": [
         {
-          "title": "Digital Marketing News, October 1–16, 2026: 8 Updates That Matter for Your Next Campaign - ALM Corp",
-          "summary": "Digital Marketing News, October 1–16, 2026: 8 Updates That Matter for Your Next Campaign ALM Corp. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "ALM Corp",
-          "when": "23 Oct 2026",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQmlBX1QzV0JvY21leG9aOFV3dENZWmVsbmhGbjFoMzhVdEJnNS1ETHJMSXRhM1BOQjhXTlBiSE5VR2wwVDBqaVlYdTZHbnNyTEkwSEU1dVd6S2N2eEIyVHhVREhNN25Gb0VTMWRVVnNvTUtFMV9WMUNDemk0M3BhTEh4aXNMSnYzOFlzMHJPNzhVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Conversion APIs and Server-Side Tagging: The quiet rebuild of measurement plumbing - Agency Reporter",
+          "summary": "Conversion APIs and Server-Side Tagging: The quiet rebuild of measurement plumbing Agency Reporter. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "Agency Reporter",
+          "when": "2 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVU3X3c1TUFEVVBPM2lLWG1NdVJRR2JkNmNrUVhlWTd3R09qZjJFcGQ2dzYwN0tQYWVHaEtYb0tIbWlnVkFpc3loMzBIdHQ0Y3JrazR5ak9GYzhFRWFsM3pOUWNvZVhLMnhfWjJIQlp1NVpPcHlDZjdTZVBXQ2NZOXYxbU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Mobile Analytics Market Size, Share, Industry Overview, Latest Insights and Forecast 2026-2034 - openPR.com",
+          "summary": "Mobile Analytics Market Size, Share, Industry Overview, Latest Insights and Forecast 2026-2034 openPR.com. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "openPR.com",
+          "when": "2 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlVEV2R1amlWaXJVLVRySEE3dVFTZGloTDVIaWZNSWQwREpzQ24wQ0QxYURHaU1lQzhYTC0yTTYxLUo3RWltQzZ1SzhnNDNjRmZDWmk3bElRT1VVS1huQnkyVlItSmdfR1kwY1VMM3N4ZmZ4czFTWGU1WElfbXZOMkM5SDVhQ3lLRDFWMXVpam9nMHhsdV9yVVN5aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
     {
       "name": "AI & Agents",
       "stories": [
+        {
+          "title": "Who's suing AI and who's signing latest: US newspapers sue Brave Software and Canadian publishers sue Anthropic - Press Gazette",
+          "summary": "Who's suing AI and who's signing latest: US newspapers sue Brave Software and Canadian publishers sue Anthropic Press Gazette. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Press Gazette",
+          "when": "2 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "OpenAI Cuts Funding Target As Investors Lose AI Appetite - Investor's Business Daily",
           "summary": "OpenAI Cuts Funding Target As Investors Lose AI Appetite Investor's Business Daily. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -160,19 +184,19 @@
           "image": ""
         },
         {
-          "title": "These Are The 10 Biggest Datacenters In The World [Oct 2026] - OfficeChai",
-          "summary": "These Are The 10 Biggest Datacenters In The World [Oct 2026] OfficeChai. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OfficeChai",
-          "when": "1 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmpaaGdfQy00MEx4VzBTRTFJZmxrZ3p6OFBIdE9aRG5laDc3aGw4QmtHSVFnazI0bE9fcnQyaVFQV25VTEEzVmRVYzFUWGhmay02NloxczE2dTFmbENyLW00VURiQVpjX0RMekpaUEd3SUVnUE1tc2tMaFJQY05qckJYZHFHdFkwUjR6Smdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Security risk assessments include repository protection status - The GitHub Blog",
           "summary": "Security risk assessments include repository protection status The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
           "when": "2 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3dGdGdwcmRSUVVuTW11cUV3enpsTzJINjB5V2s5SHZsb0tHdnp0SzFackd3MWhKR2o5Z3FsRDlpcTVETy1UdUh1bG5vMnNFNUFWdlRDZk1GZkEyUktndVFWRnI3eWpPNmJPR1RNX25rVFNHWkh1WmNNbTl5eU9xaWV6S21TSElJc1RMbno2TTNxZEI4eWNtNnFJX3lpVDVyR29xVW9uSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "pull_request_target blocked by default December 2 - The GitHub Blog",
+          "summary": "pull_request_target blocked by default December 2 The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "2 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2lGeHd1TGRndU9LS19Lam1IemRrV0NaMmhhNEFqclM0ckJMenRkckZScXYxSFNDNVBHUzNWamxMX2JCV2szZXNfVVZMc3JaSVhNbUgxWFlEbnlZaXJpc3JuZU1nc2FzQzNuMHJhMDhtckprZGR6ejdpUjlpV0RfdzBKY2w0dlZRTFlFV01zSHg0cTUtRXc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -187,12 +211,44 @@
           "when": "2 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Meta Says AI-Made Ads Forced A Rebuild Of The System That Picks Which Ads People See - Net Influencer",
+          "summary": "Meta Says AI-Made Ads Forced A Rebuild Of The System That Picks Which Ads People See Net Influencer. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Net Influencer",
+          "when": "2 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWlXX0duaUJId2o1bEhDbkhZOVpZWjNfRGdlbkFuVWtqdW5ud29BbjJSNGZmQy1PTU43QVQzZEstR3g2WDVpNkk1UGhuUmxWZldxa0theHNNdDhFdDA1WTNEamg5UUw0UDBYM3VGdG1VN1JPT3cwTUdOSU1vUWhHZ1hqNmxCS1RTdFZwWFh5NFY4WEVkb3RMUmlqNk1QUTlmWWxxVUxvdjA0NHdvRGc2WFhLckhtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Whisper World and Rembrand Merge to Form WRLabs, a Global Leader in AI-Powered Video Editing - Business Wire",
+          "summary": "Whisper World and Rembrand Merge to Form WRLabs, a Global Leader in AI-Powered Video Editing Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Business Wire",
+          "when": "2 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX2VLSVRLTERGbjFyQWUyOUlrcDhnV3B6eTc4TmNkc3FUWFJWLWx5SDFIMXJlNzJOQmFhSUFrLV9ZQjhCVzA0dHhUNWxZZkN2TUYyb0JYU1dJdVdwbjNiSUV2QzJkMUg2TGpzaTFfYlVJa1pjX2lyYnk2dnBhQ3NWTVZ2YXVyU05lN2xab2dpNS1ORDRjWVNBVllTdlJDZU5PQmFjc3dLODBsSTJoNU92V3FDa29ZY01YbzJGTUIzd2NqMjk3dGxaQVcyUV9vdWlpRkN4MzM1U3hUUWNveFlCMk1n?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "AI doesn’t destroy art but raises the bar for even better content creation, says Adobe APAC chief - The Straits Times",
+          "summary": "AI doesn’t destroy art but raises the bar for even better content creation, says Adobe APAC chief The Straits Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Straits Times",
+          "when": "2 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRWJ0T0hET3JzZVJWVHB3TUdqcm95bzgtLVRfZkRhVkNRSzY1X3otNmtHd1BJbXlkNEloR3pZYXM2eXlUSUJxZzRibXZjTnNMRk9NUTh6Qnhsd1cwUkJMdWdjcFN2eGptSk9odFQ1YWp6Y3pEVzNqWW13MUNEZkNyaklPbktXYWxUUE1LbTRqaG9FcHdWai1Ld0dmZF9lVk9ieWJJQXJjNEFMN1JtcHIxSkhaYW5qeVR3M0R3VXlhemYzc3JfNW5LX18tYk9QSEpqZEd4dkZnUUYxRmVlSlphRHVHVkM0QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
     {
       "name": "MarTech & Automation",
       "stories": [
+        {
+          "title": "Retriever AI automates web research tasks - Dynamic Business",
+          "summary": "Retriever AI automates web research tasks Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Dynamic Business",
+          "when": "2 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUW1uRHhWR016ZUtxbVoxSnZNZWpiQzY1cHZXSk5WOHFqd3daVndKckgxb29qTzJ5NnRlc1dKNms5Nm9LUUlqZ0VXSFY0cEJ5OVJyMnE1RnYzTmZMZzhheTdlNHhSOEcxcklmazJKTkdIUWhPOUlxQVhLQ25ZTDJxcVBEcHhGb0hUaTRz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "SimilarClip automates faceless YouTube videos - Dynamic Business",
           "summary": "SimilarClip automates faceless YouTube videos Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -215,6 +271,14 @@
           "image": ""
         },
         {
+          "title": "Amazon’s Nearly $70 Billion Advertising Business Faces a Potential Threat as Meta’s AI Shopping Assistant Muse Explores E-Commerce! - www.tmgm.com",
+          "summary": "Amazon’s Nearly $70 Billion Advertising Business Faces a Potential Threat as Meta’s AI Shopping Assistant Muse Explores E-Commerce! For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "www.tmgm.com",
+          "when": "2 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1Y4VVFKRDlXaS1XeTRON2VwUXNDX2JjdzM3bE9OaXlabGtQUExKcnFEbWdCUUZ3R2VnMUNPZl9WUmc3Y1R5NXdHYzdpbHRFM1pVN0diTVNTVk9sMHFOMEpWQllyS2tTVXN1UTdMX2dmYjRSSl9JOEItRTRxWndHSmx5czQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Meta’s AI Shopping Assistant Muse Tests the E-Commerce Waters, Posing a Potential Threat to Amazon’s Nearly $70 Billion Advertising Business! - www.tmgm.com",
           "summary": "Meta’s AI Shopping Assistant Muse Tests the E-Commerce Waters, Posing a Potential Threat to Amazon’s Nearly $70 Billion Advertising Business! For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "www.tmgm.com",
@@ -230,15 +294,21 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Meta Rolls Out AI Business Assistant To All Advertisers, Agencies 04/24/2026 - MediaPost",
+        "topic": "Mobile Analytics Market Size, Share, Industry Overview, Latest Insights and Forecast 2026-2034 - openPR.com",
         "status": "Cross-source coverage",
-        "common_context": "Meta Rolls Out AI Business Assistant To All Advertisers, Agencies 04/24/2026 MediaPost",
+        "common_context": "Mobile Analytics Market Size, Share, Industry Overview, Latest Insights and Forecast 2026-2034 openPR.com",
         "unique_points": [
           {
-            "source": "MediaPost",
+            "source": "openPR.com",
             "when": "2 Nov 2026",
-            "point": "Meta Rolls Out AI Business Assistant To All Advertisers, Agencies 04/24/2026 MediaPost",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FYcDNYQm1ocUo0QXdoVlBjNi1DaEZUaDVJRjdCUGdlT0NpYXU0dGR4R0Zzb09pZEVvOExEZURwcVhoREVDSC1wa2NacHBfSS1fNmRGRzB5cmpWU2FWQ3BZeloyMHRnVDFaMzAxVkRQLU1GbWNBRi1aMzhuczJWWUdYQTlvc0Z5bDRaN3lJT1kycmh5SVVZVFJidVJmZU5jcEdpTWRsSTNMbENGb1E?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Mobile Analytics Market Size, Share, Industry Overview, Latest Insights and Forecast 2026-2034 openPR.com",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlVEV2R1amlWaXJVLVRySEE3dVFTZGloTDVIaWZNSWQwREpzQ24wQ0QxYURHaU1lQzhYTC0yTTYxLUo3RWltQzZ1SzhnNDNjRmZDWmk3bElRT1VVS1huQnkyVlItSmdfR1kwY1VMM3N4ZmZ4czFTWGU1WElfbXZOMkM5SDVhQ3lLRDFWMXVpam9nMHhsdV9yVVN5aw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "www.tmgm.com",
+            "when": "2 Nov 2026",
+            "point": "Amazon’s Nearly $70 Billion Advertising Business Faces a Potential Threat as Meta’s AI Shopping Assistant Muse Explores E-Commerce!",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1Y4VVFKRDlXaS1XeTRON2VwUXNDX2JjdzM3bE9OaXlabGtQUExKcnFEbWdCUUZ3R2VnMUNPZl9WUmc3Y1R5NXdHYzdpbHRFM1pVN0diTVNTVk9sMHFOMEpWQllyS2tTVXN1UTdMX2dmYjRSSl9JOEItRTRxWndHSmx5czQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "www.tmgm.com",
@@ -251,6 +321,46 @@
             "when": "1 Nov 2026",
             "point": "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) Seeking Alpha",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2M5c3JjcHhBcjlRUFE0N015cUtYUWRhSGxVYl96WW9wamp4WnJUOGRLNWpsVDFsMEhRSWhIYm5pVjhpRFBoWEtOUnRfQ3dkZTdrMGE2RFIxM2pQeWFubnZZQ0FNVjNJZktkMmJBelVjN2IzcTA3MGdSckN3ekFjSC1VdWg0dUVjd3JXdXhUakVJQ2lMNlB4cHVMWWJVNW93bzd4anJIOUZES1dqQWNV?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "SimilarClip automates faceless YouTube videos - Dynamic Business",
+        "status": "Cross-source coverage",
+        "common_context": "SimilarClip automates faceless YouTube videos Dynamic Business",
+        "unique_points": [
+          {
+            "source": "Dynamic Business",
+            "when": "2 Nov 2026",
+            "point": "SimilarClip automates faceless YouTube videos Dynamic Business",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYW5hcUpMTmJTOVN2RXlPVDVHQXNYSHNTbzRIVnNsS3czNFBDb2I4dHZXVXdneDZvc2h1Q1ZjUjdfb3VyU1FSZHpESk00alBfVm5rRXBxb2Y1aVFWOWNveFBoQmpGcy1DZjFtdklvT2dOLW5hR3Zrb1lZdC11ZmIxZ25ScnJFYWEtd2RNNHVxR0k?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Dynamic Business",
+            "when": "2 Nov 2026",
+            "point": "Retriever AI automates web research tasks Dynamic Business",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUW1uRHhWR016ZUtxbVoxSnZNZWpiQzY1cHZXSk5WOHFqd3daVndKckgxb29qTzJ5NnRlc1dKNms5Nm9LUUlqZ0VXSFY0cEJ5OVJyMnE1RnYzTmZMZzhheTdlNHhSOEcxcklmazJKTkdIUWhPOUlxQVhLQ25ZTDJxcVBEcHhGb0hUaTRz?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Security risk assessments include repository protection status - The GitHub Blog",
+        "status": "Cross-source coverage",
+        "common_context": "Security risk assessments include repository protection status The GitHub Blog",
+        "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "2 Nov 2026",
+            "point": "Security risk assessments include repository protection status The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3dGdGdwcmRSUVVuTW11cUV3enpsTzJINjB5V2s5SHZsb0tHdnp0SzFackd3MWhKR2o5Z3FsRDlpcTVETy1UdUh1bG5vMnNFNUFWdlRDZk1GZkEyUktndVFWRnI3eWpPNmJPR1RNX25rVFNHWkh1WmNNbTl5eU9xaWV6S21TSElJc1RMbno2TTNxZEI4eWNtNnFJX3lpVDVyR29xVW9uSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "2 Nov 2026",
+            "point": "pull_request_target blocked by default December 2 The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2lGeHd1TGRndU9LS19Lam1IemRrV0NaMmhhNEFqclM0ckJMenRkckZScXYxSFNDNVBHUzNWamxMX2JCV2szZXNfVVZMc3JaSVhNbUgxWFlEbnlZaXJpc3JuZU1nc2FzQzNuMHJhMDhtckprZGR6ejdpUjlpV0RfdzBKY2w0dlZRTFlFV01zSHg0cTUtRXc?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

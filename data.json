@@ -11,13 +11,13 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Advertising Veteran Sanjeev Jasani and Tech Expert Shubham Saurabh launch AI marketing platform TurboAgents - MediaNews4U",
+    "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration - VMblog",
     "Fulcrum Digital Introduces RankAbove.ai With a Free 60-Day Plan for SEO and AI Search Optimization - FinancialContent",
-    "ZoomInfo Launches MCP Integration With Notion Through GTM.AI - Business Wire",
+    "akta.pro Brings Company Data and News Signals API to Finance and GTM AI Agents - EIN Presswire",
     "Ex-Cheil SWA COO Sanjeev Jasani launches AI-powered marketing platform - Exchange4Media",
     "Dependabot version updates support Agent Package Manager - The GitHub Blog",
     "ShotCode bets on human creativity as AI reshapes advertising video production - Digital Trends",
-    "FeedHive – Social Media Management, AI Content Creation & Publishing Automation - Quasa.io",
-    "GitHub Copilot is now available in JetBrains Air - The GitHub Blog"
+    "FeedHive – Social Media Management, AI Content Creation & Publishing Automation - Quasa.io"
   ],
   "sections": [
     {
@@ -38,36 +38,12 @@
           "when": "3 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNjB1Wng0cHlRTmpmRWVkUzBBaDFPUl9ERTBVd3JDTmIzbW11MERsUk90UnRxUTYyN25xT3c5SC1hZk5hOVdFZXFIbWtlNUtVdjVXU0ZPYm8yNFRwVlN5d1RsaE9naklUcVlLMC1WSjRkb2xuZWppZHdMUVpmSFpORHYwVndCZ19wRGt1el80QkZuY1Nsd2c?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "LSA Lead Volume Drop Following GBP Sync? - Google Help",
-          "summary": "LSA Lead Volume Drop Following GBP Sync? For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "3 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRXFyUm5uN2lEMHVPenpmRVFsWk5DYk1SYkFqYVdpcnNFcVBUeUZRY3pCVFdHTVVNY0t4aW9wTkVual9LSWlzVDE4UHVjSXhSSFNucm9NZFFyMVlCbWg0WUNldHhsNWlEbGF1bGZTUlQtSF9IUHd0SlVCWkVQZlFfRDdRVlpvdTRicWdoUEJJWDdXSU50ZWQwRDlWX3duWXR3cWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "About promotion mode - Google Help",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "3 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PN0NVXzFuNTZXUW8yMkRTNF9CaU1xckI3NzJaMnp1c3pIby11VzZjc1lLOUEzTXRocU1vYVBvbk4zbEt2V191UnVTRTRLU1p1TmtEclhpVzlWQ3ZNbWNGRnptd3FNZEtEREp0NXhsYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
     {
       "name": "Microsoft Ads",
       "stories": [
-        {
-          "title": "Daily Search Forum Recap: November 2, 2026 - Search Engine Roundtable",
-          "summary": "Daily Search Forum Recap: November 2, 2026 Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Roundtable",
-          "when": "2 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEMkZoUzVXVU42UkRNX012d0FQWE5vV3h0RVIxZ2I4SXNsR19yN3dVbmdJY3ZJUy04NUpWLTZBYV9jOXdweDB4OVlZS05oX2JXU0ZUa0N5N2NjNVhONG5MTVVweV83elE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "Who's suing AI and who's signing latest: US newspapers sue Brave Software and Canadian publishers sue Anthropic - Press Gazette",
           "summary": "Who's suing AI and who's signing latest: US newspapers sue Brave Software and Canadian publishers sue Anthropic Press Gazette. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -181,11 +157,19 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "ZoomInfo Launches MCP Integration With Notion Through GTM.AI - Business Wire",
-          "summary": "ZoomInfo Launches MCP Integration With Notion Through GTM.AI Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Business Wire",
+          "title": "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration - VMblog",
+          "summary": "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration VMblog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "VMblog",
+          "when": "4 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSU05dGhRdUFjRW41Q3lwaktNd0FackkwNnhnZXNGUUxLZUNsOFZETVNsdnFlM3ZxSXJKb3FGUXdLdWZ5eHp0eUNuQURscFA5UjZjNUlTbGFrdFlxc2pnOVhWUHVFWGtlNm9FbzUxSTdtZWxPZ21jNjZLOHMzZTFQdXZZWFBhbXJvRDFGUFgzWDktY1JUMHd6eE9DSDhxM21DelRZenFYeWdPc1dXZksyWU5JclRTa0cwT0FBQjR5ZGtqVS02a2N1aFc2M2xTZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "akta.pro Brings Company Data and News Signals API to Finance and GTM AI Agents - EIN Presswire",
+          "summary": "akta.pro Brings Company Data and News Signals API to Finance and GTM AI Agents EIN Presswire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "EIN Presswire",
           "when": "3 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFkzVC1JeDJDSUtpVGVqUHI3YXFHNWw0MktJeENMTXU4X0xGSHMxM0paY25NQWxVeDNjRTQybzg2aHFUVEE1VWRCUWYxbWR1MVRtOS05NWFQTjVhTy1rTmZyS2IwcTQwVnNiWGpsWFVCcVVNU05fWDVRZlJKUS1sUmY2VmJMMTI4UkhrRUZkZE9XemlVT0ctQ3RvR1lmaUpOajcwZE9ITXhpT3ZCckRZMEtJR3pGYmtG?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0c1ZlJLNklNZm9Na3E1VnBweFEyYXA2YWcwTV9lVzVLejc0bnREZlZ0S0hnN0pzUE1IT3EzbVVCRzhMZFFHVldKNnpMU20zT0Z5TVNBWnpXOWt3clB1TWUwalRNaUcyY05uRGlnUTlxWFN0SWhjcG9LYzJkZlJ4YzVvN3B3ejNlYTVILVphN0ZDV2xwMVdlZEYxWUxhX3VWQVA5blNRd0EtUGJTZGdSUjBod19nSjBtTVlvcXowdE9RQlU?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -197,19 +181,11 @@
           "image": ""
         },
         {
-          "title": "GitHub Copilot is now available in JetBrains Air - The GitHub Blog",
-          "summary": "GitHub Copilot is now available in JetBrains Air The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
+          "title": "FeedHive – Social Media Management, AI Content Creation & Publishing Automation - Quasa.io",
+          "summary": "FeedHive – Social Media Management, AI Content Creation & Publishing Automation Quasa.io. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Quasa.io",
           "when": "3 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0xGXzVzM0lQZEdJLUxzRjBkMFRSQjdMaXFnZktkcE01LWx0Ry1SUXJsOTVWLXBqUXBOa0ZieFR0bFRoUnVTVUltNXd0eFlLNDZVbE41RDZtWVk1ZkluZ1ZwS2lhSTEwVmdORUhWOUNIVVp2eHlTeGgtLWoybHJMVHFwTG0td0tKYXdSOUxJay13NTVo?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Supermetrics lets Claude build ad campaigns on 6 platforms, paused by default - PPC Land",
-          "summary": "Supermetrics lets Claude build ad campaigns on 6 platforms, paused by default PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "PPC Land",
-          "when": "4 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUxnVmpVMkhENmRVUExxR0pHUkhUaVZ6SUFqTmJzWnpYWVByZEJTQ0QxcTRxMTJXRHhJNUY5WUxmVlpqQ29UMUk0TmhkRVRiak5BZ0VPMzJNcW5kZXFKRm8zZFozRW8tZ1Zxc1h1aFhmUUdXSDZLT3c3elp0NjNHeXNUTzRHcUFvcWVzZ1pKWEV0T0ZWYUZEOE5R?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2JIanUwWVJ0N3Zqbk5sLTMwdFBrUFI0dXowVTFjaU9nQVctbk9NTkM4Y3hGbWlWWjIxN3ZiczRzQzRRYV9UMUlJc0lOSXN1bjlFZjJjb2sxSGY0bnNlcnlJak9GTnNjVWNHQkR4TVUzdGR5ZXNmRHh6WndmVUEtYmI4RVRlby0tTU1INnVXREE2RVlBMVhwLVhTbHdQZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -242,11 +218,11 @@
           "image": ""
         },
         {
-          "title": "Introducing the Grid Protectors Program - OpenAI",
-          "summary": "Introducing the Grid Protectors Program OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "2 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Meta Ads Testing, YouTube Analysis, and Industry News - Social Media Examiner",
+          "summary": "Meta Ads Testing, YouTube Analysis, and Industry News Social Media Examiner. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Social Media Examiner",
+          "when": "3 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04Sm1BVEhjcTVHekNSYUg2dGtSMkpBT3hmQXYyaC1oR1BaU2d4V0RjdklQOHQ4REN5RTdMZGxKSkxobWQtWUNHY3ZmMEkxZmYzdVRrSDNmWjk?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -268,35 +244,19 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "Nearly $70 Billion Advertising Business: Amazon Potentially Threatened by Meta’s AI Shopping Assistant Muse Testing E-Commerce! - www.tmgm.com",
-          "summary": "Nearly $70 Billion Advertising Business: Amazon Potentially Threatened by Meta’s AI Shopping Assistant Muse Testing E-Commerce! For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "www.tmgm.com",
-          "when": "2 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWJYOWtWUmdDM3RwYjlHWU04TkV1LTRHTDFVMDBMMXpxaWpTV0hocTVmdjJwY1JsNnNWbndsQ1pnUVRJcnFPZ0VBMDVjWGh5ZUplYlpoSmthd0p5OU94aFlLNHluZ2FVQnVnRW1YOVdhQ19wdDFHWjB1dTgtYVhlb2t3?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Could Meta’s AI Shopping Assistant Muse Threaten Amazon’s Nearly $70 Billion Advertising Business as It Explores E-Commerce? - www.tmgm.com",
-          "summary": "Could Meta’s AI Shopping Assistant Muse Threaten Amazon’s Nearly $70 Billion Advertising Business as It Explores E-Commerce? For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "www.tmgm.com",
-          "when": "2 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUJCSXVHWnE1UE44bnBXOXV5SUgtclM2OUlYYmNTVTd6MEpzWmtRbTI4RFNJZmFPZXdJZXRGNGZFcXBCS2JaNHVWQTZYdXlmNE9JbUVSUjJibktOaWtmS3Y0T3ZVSHhXS29wYU9yeU5hSmlHVDJWSldHLWJwdGZsYjhJTmw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "AI Shopping Agents Put Retailers' Data to the Test - E-Commerce Times",
-          "summary": "AI Shopping Agents Put Retailers' Data to the Test E-Commerce Times. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "E-Commerce Times",
-          "when": "2 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTNGQ0ZyR3hrZUFsb0N2Qk9pcHROdUJXQ0RYeHB3U2Q4UDlGMWNIb09QeHNIS3Y2b1VTdktoaGpxcWdYXzlwakVOWVVtcHMzLTNwU2UzVHlrdDFZU2J3Z1FWS2FHZE9obHNNS3ViT0lzd3dicmo2N1dxazU1ZUVQS0NsQmtZa0JXc1Mya0pJNUJCbXYtTXowNUpyd0RXMmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Amazon’s $70B Ad Empire Threatened by Meta’s AI Shopping Assistant - RS Web Solutions",
           "summary": "Amazon’s $70B Ad Empire Threatened by Meta’s AI Shopping Assistant RS Web Solutions. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "RS Web Solutions",
           "when": "3 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXlqelZYQ0JrUkp0WGF0SXZmdUxpMFo5Y0xkS3dCSkpRVUVpZC1CREtmQV9oWXpac0tCMzQ4ZnF5TEpzNGhrVWItSXVPUGNDelFoTm14VWw1WDF1clNJX3IxTGhTT0tWMVRCcGUtOEpBRmUtdUZtaWVOMzNWT2dIeWt4N1VFNEFLa01Pbnl4WFhENXhQeC1BS0VDcDBXNWZQUTdRLXdvZlpob2l3cmFCWFowMk8tN0ZjZkhPbVFjd09NWWNtS3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Meta's Muse Emerges as Threat to Amazon's $70 Billion Ad Business - Seoul Economic Daily",
+          "summary": "Meta's Muse Emerges as Threat to Amazon's $70 Billion Ad Business Seoul Economic Daily. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Seoul Economic Daily",
+          "when": "3 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFBGcGRGZkQ3M3NvT1BpTnp1V3N5S0VHNXU0eVpqT0h3a01POXpINUlpNEJYNExxLUtRNXZmSFVzbXp4STdlOU1YLURUU1REUk1HNHlWQWcxM0d2SVlXaXl4am1Mc19OMHlzdkZUbnRtZExHYUVWa2IyMG9wb21JUm5hYWZBeVg1LVR5dFNqblBvaGVVWkVJc29ZcWRVYkIxbTVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -327,10 +287,16 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Dependabot version updates support Agent Package Manager - The GitHub Blog",
+        "topic": "BYOK and enterprise custom models in the Copilot usage API - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "Dependabot version updates support Agent Package Manager The GitHub Blog",
+        "common_context": "BYOK and enterprise custom models in the Copilot usage API The GitHub Blog",
         "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "4 Nov 2026",
+            "point": "BYOK and enterprise custom models in the Copilot usage API The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEpyY2VGZjhFb0tfbGRWWVk3c1hBY1l3by1JRlEyeXBWQUwxSndzN2QxeXFHb0t4cGE3V0d2R0VKRFRrWFk0V3JiTWlaZVhSZ0hvOHNSY1lkQlhfcXBYUmY0dEVxdmN3ZkYzeXg5cjkyc0x2NTBudzFjbGNjaTlfRWFuNmctalkzOHBhaFlBRE83VGdoWTBHNmwzY0k0T0tSNVE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "The GitHub Blog",
             "when": "4 Nov 2026",
@@ -342,12 +308,6 @@
             "when": "3 Nov 2026",
             "point": "GitHub Copilot is now available in JetBrains Air The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0xGXzVzM0lQZEdJLUxzRjBkMFRSQjdMaXFnZktkcE01LWx0Ry1SUXJsOTVWLXBqUXBOa0ZieFR0bFRoUnVTVUltNXd0eFlLNDZVbE41RDZtWVk1ZkluZ1ZwS2lhSTEwVmdORUhWOUNIVVp2eHlTeGgtLWoybHJMVHFwTG0td0tKYXdSOUxJay13NTVo?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "3 Nov 2026",
-            "point": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeDNHUHAyb29sVkZZOVlIak1vcTdhRG1GdWhHTGJZa3hRWjVhUEJFNXpGLUltcUpReURKaXhEbXF1YkRJOE53ZHVoQzBjYWdkb3lQTUlZaU91clhaUXpTbUZEM3NrNXdtbncxWFRRZHprYVB0dWZnR1ViSEFLTGpJMEQ3b1pGQUxCNUZaaWNibEczdDdmS09UV3Ftd0hQRkV3d3ExYWkwc1hXQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -386,20 +346,8 @@
           {
             "source": "Google Help",
             "when": "3 Nov 2026",
-            "point": "LSA Lead Volume Drop Following GBP Sync?",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRXFyUm5uN2lEMHVPenpmRVFsWk5DYk1SYkFqYVdpcnNFcVBUeUZRY3pCVFdHTVVNY0t4aW9wTkVual9LSWlzVDE4UHVjSXhSSFNucm9NZFFyMVlCbWg0WUNldHhsNWlEbGF1bGZTUlQtSF9IUHd0SlVCWkVQZlFfRDdRVlpvdTRicWdoUEJJWDdXSU50ZWQwRDlWX3duWXR3cWc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Help",
-            "when": "3 Nov 2026",
             "point": "Ads not run issue update Google Help",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3RlNkJEam1vWVJqU2RyRE1KSzNnQTVqWW5xbXA3T0tFckUzdUdDTklkQ2dnd2F4WW5Ma1FCNmlMUVBNakRhbnlXdzJBdlgxd042Z2x4VzQ1UG4tVEFPMEh0RTd4SGowTzg5R1d0SldDVjhmTk9mRXJxZ0U5U0JqbndCMW5XczVJU3A1VXBn?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Help",
-            "when": "3 Nov 2026",
-            "point": "About promotion mode - Google Help",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PN0NVXzFuNTZXUW8yMkRTNF9CaU1xckI3NzJaMnp1c3pIby11VzZjc1lLOUEzTXRocU1vYVBvbk4zbEt2V191UnVTRTRLU1p1TmtEclhpVzlWQ3ZNbWNGRnptd3FNZEtEREp0NXhsYw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -420,18 +368,6 @@
             "when": "3 Nov 2026",
             "point": "Meta's Muse Emerges as Threat to Amazon's $70 Billion Ad Business Seoul Economic Daily",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFBGcGRGZkQ3M3NvT1BpTnp1V3N5S0VHNXU0eVpqT0h3a01POXpINUlpNEJYNExxLUtRNXZmSFVzbXp4STdlOU1YLURUU1REUk1HNHlWQWcxM0d2SVlXaXl4am1Mc19OMHlzdkZUbnRtZExHYUVWa2IyMG9wb21JUm5hYWZBeVg1LVR5dFNqblBvaGVVWkVJc29ZcWRVYkIxbTVJ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "www.tmgm.com",
-            "when": "2 Nov 2026",
-            "point": "Nearly $70 Billion Advertising Business: Amazon Potentially Threatened by Meta’s AI Shopping Assistant Muse Testing E-Commerce!",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWJYOWtWUmdDM3RwYjlHWU04TkV1LTRHTDFVMDBMMXpxaWpTV0hocTVmdjJwY1JsNnNWbndsQ1pnUVRJcnFPZ0VBMDVjWGh5ZUplYlpoSmthd0p5OU94aFlLNHluZ2FVQnVnRW1YOVdhQ19wdDFHWjB1dTgtYVhlb2t3?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "www.tmgm.com",
-            "when": "2 Nov 2026",
-            "point": "Could Meta’s AI Shopping Assistant Muse Threaten Amazon’s Nearly $70 Billion Advertising Business as It Explores E-Commerce?",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUJCSXVHWnE1UE44bnBXOXV5SUgtclM2OUlYYmNTVTd6MEpzWmtRbTI4RFNJZmFPZXdJZXRGNGZFcXBCS2JaNHVWQTZYdXlmNE9JbUVSUjJibktOaWtmS3Y0T3ZVSHhXS29wYU9yeU5hSmlHVDJWSldHLWJwdGZsYjhJTmw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

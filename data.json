@@ -1,5 +1,5 @@
 {
-  "date": "4 November 2026",
+  "date": "5 November 2026",
   "lead": {
     "title": "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration - VMblog",
     "deck": "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration VMblog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -13,16 +13,24 @@
     "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration - VMblog",
     "PrimeXBT Launches AI-Assisted Trading with MCP Integration, Connecting ChatGPT and Claude to Trading Accounts - FinSMEs",
     "akta.pro Brings Company Data and News Signals API to Finance and GTM AI Agents - EIN News",
-    "Mediaocean Expands Prisma Direct to Search with Microsoft Advertising Integration - Business Wire",
-    "Analysis-AI shopping agents could threaten Amazon and Walmart’s ad business - WTVB",
+    "AI Shopping Agents Threaten Amazon and Walmart's $74.4 Billion Retail Ad Business - BigGo Finance",
     "AI shopping agents could threaten Amazon and Walmart's ad business - Reuters",
-    "Analysis-AI shopping agents could threaten Amazon and Walmart's ad business - Yahoo News Singapore",
-    "CAMP Digital wins two 2026 Microsoft Advertising Partner awards for AI innovation and partnership excellence - PR Newswire"
+    "Analysis-AI shopping agents could threaten Amazon and Walmart’s ad business - WTVB",
+    "Mediaocean Expands Prisma Direct to Search with Microsoft Advertising Integration - Business Wire",
+    "AI shopping agents could threaten Amazon and Walmart's ad business - The Economic Times"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
+        {
+          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "4 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDJsVWk2LUVnZGFJcmswUC05TzdXeFEzdFhPd3Q3aXFMV0tCSEQ4TFotbVNyUm16ckZNdFpWUkZmZGNJM0U4RTZEamtvSEhRQUsxRDBFUS1FNE5PWjVDcEFDRmVRcHV4dFFyU1A2M3Bmd3UxTmRndDNoMmRXZXQ1NVE4Z01yRG9P?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Smart campaign active with ₹800 balance but getting 0 impressions / 0 clicks for over a month - Google Help",
           "summary": "Smart campaign active with ₹800 balance but getting 0 impressions / 0 clicks for over a month Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -96,11 +104,11 @@
           "image": ""
         },
         {
-          "title": "Analysis-AI shopping agents could threaten Amazon and Walmart's ad business - Yahoo News Singapore",
-          "summary": "Analysis-AI shopping agents could threaten Amazon and Walmart's ad business Yahoo News Singapore. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Yahoo News Singapore",
+          "title": "AI shopping agents could threaten Amazon and Walmart's ad business - The Economic Times",
+          "summary": "AI shopping agents could threaten Amazon and Walmart's ad business The Economic Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Economic Times",
           "when": "4 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tU2ZZb0N1WkxDdmlWd3NBbE0yVWtUVHNmZ09ReEZTNXJyTjdnUW54N0thXzlXTmd6eUpyTnZZM3dlTFVfenRnMG5Ma2o4YjhwMzNkcVhMUWdkSkc2RVZvbHhyX0gwSHpReHRBblRTUDZWdzVxYjI0OHNKel9oR28?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUHM2TzA3Vkh4Ynk2WDNPX1RkWHNSaGY5X0RMVHc1TksxTWRlNlBNZktCZ0pfMlFvMm9zd1EtOU1yUjBFUXk5ZHp4Tm1jekl1NzlHa3YwS2U0WlFXcUF5eU0tb3VpR1NrSm1LQ2RUWk5XaXE5ekJCenRVOUZPbF9xcFNyN2MzMzhpa1IzTE5pUW1fQTZxYVlEZWNudVdqTEZTRkFXczM4ek1rbXpHR0J5YTFzNnhZWmNlSWlaMmxfTGxLNGFsR1VZUjFQN1BnT3B3Z1liWHlGSHV1QzZ6cUZyVlJ30gHnAUFVX3lxTFBPcVA3VFdtY2JkdmRlX3o2Qi1yZHh6d2pzLS1SY0E0RkZIY0hGTUZCX2YzVWZwWmVuX3BtYWtNaFBCT3RyRi1NZ0wtMVplMVBhSXlmMy16UzBqUE9lZ0JMYUR2b3EycVJMel9mRXJ5MWhvaW9Ma3dJLWNzZzRvMVJmc2t6R2VIX2I1WloxUVlPRzk2Zmxub1dUd2lOeWlfdDNhYUZuWnVYcDN0bWtoX0xSNEhaNU9wVXBxYUZ3UU83OGxlUmFBbmR3S2xhTjZIU212TXppcFJ4VEpYQ0xEZFdWNVJ0S0lqaw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -140,11 +148,11 @@
           "image": ""
         },
         {
-          "title": "Three ways B2B marketers can outperform the norm - The Drum",
-          "summary": "Three ways B2B marketers can outperform the norm The Drum. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Drum",
+          "title": "New Ecommerce Tools: November 4, 2026 - Practical Ecommerce",
+          "summary": "New Ecommerce Tools: November 4, 2026 Practical Ecommerce. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Practical Ecommerce",
           "when": "4 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHB3WW5CTjRVMUo4SHQ2dXNvZm5ySG1VSVNjSF9UM1cwM1ZuSEVRRnNGd2VpVlJnVktDOU1ZUlpFWEtCVExhVDFNSWlfUTlnOG1WUWo5bkNkcXBTYVEzR3ZuRUR6TUx3SWV5MDJnS3A0MHZ3cmMybldHRUpiNTdSNzVtUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNN2RobXFoelJ2UnBoSHBCblFWamdSSXFSSTF3QkxxNmVOUlIwSkxkdTBjb3pnQTljLWlOaElJU1J3OC1GSW40UjJYdm5pOVZFN21MME9yOUVKZWhJa0FUUU9Sb2NIbkdkS0VyMWh1TXVmZGtMbkVPb1RB?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -233,19 +241,19 @@
           "image": ""
         },
         {
-          "title": "Adobe Unveils Adobe for Startups, Bringing AI-Powered Creative and Marketing Tools to Emerging Businesses - Indianweb2.com",
-          "summary": "Adobe Unveils Adobe for Startups, Bringing AI-Powered Creative and Marketing Tools to Emerging Businesses Indianweb2.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Indianweb2.com",
-          "when": "3 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFSm93Y2ZXamMzbzNLZTNfcDRfV242Z2w3c05mRWI0UkdUczdwZno3MWFSX0JkQzN0ME9Ld0lVaGdib1pQdXp6NzViRUhPcVk0ZXV0blEzdVVXVzRCdUNJQlA4dzY1ckxxWDN6T3M0aFJkdzN1WU0xOGtqYnA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Sunra AI media workspace for images and video - Dynamic Business",
+          "summary": "Sunra AI media workspace for images and video Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Dynamic Business",
+          "when": "4 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2tDbDBsanVRbFYxQURvVEdZZXVaR0o5TmJXYzdDdGhUd0NhWGVlTTJ1TmxfcmRERGFXZ0VrMGZfUl9aaFpMaUczVTRTQ1pBSldLem16ZVNaOHlFNzA2OGhiQVhUeXcwQjRscVF0Tk9wRk5KZ3lhZl8taEZBd2dycGpfMHl6UU43WGcyc1RvaFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Teamily AI messenger for team collaboration - Dynamic Business",
-          "summary": "Teamily AI messenger for team collaboration Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Dynamic Business",
+          "title": "Adobe Gives Startups a Year of Free Creative Tools - Analytics Insight",
+          "summary": "Adobe Gives Startups a Year of Free Creative Tools Analytics Insight. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Analytics Insight",
           "when": "4 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODFVQURDUE9Ha00yYlF1VER5OEg5eEp2ZldrUHZOS29KSTc2NjBzYUc4eExUTlBha3BZcHdtNlV5SG9kdDNNS0ctYzN2dnlxUE5KYXpVb3hSVnZ2czU2cC1BcXRDNEJjaTliZ2ItdUw0RnIzSkNzRHZ6UzhDLU5Vc1ptZnRrOENCTjJwY0V3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUFTUlotR1plNThhX19QRDduUHNtQ3NXRFJVMXpRMUkzVTExbXhuRUpvS0huZnZNMmpWZFVmYkVCSVVyNzNZWUZQaGVZWmFzY2RodjRuUWZuRmNwLXNRT1NQVnJZNGo0dkVFSHlqZDZPcE92VHNOQXBLRlZ1WUFQWVk2dk1uaWJ5VTZkX2Fha3EtZ9IBnwFBVV95cUxNNVRWZTNfWkktdFl2RF83ckNRdmJPamxJdl9uQ0R0Ry1mTUoxUzdNLXJLZVpGeXozN3Y1MHZjdnlhZGZyd19heHJjU09maU84Yl93OWNTQXV4YjZja2p3LU04Q3JDQU1tU3BucVJQZnMtZ2hjLVlBenVKNXRnVVdkZlNzSjJuT20zWl9GSWtiSDZzNFhQSUx2LUZQVHFPZDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -275,11 +283,27 @@
       "name": "Ecommerce",
       "stories": [
         {
+          "title": "AI Shopping Agents Threaten Amazon and Walmart's $74.4 Billion Retail Ad Business - BigGo Finance",
+          "summary": "AI Shopping Agents Threaten Amazon and Walmart's $74.4 Billion Retail Ad Business BigGo Finance. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "BigGo Finance",
+          "when": "4 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qbmRsNk05NGxFX2dLMXVpN3V0d0piRWh4dnZ0NnpxNmhPTk1jcnZIeFdfbDBSbThTejZTS0Rla1VsX2tPRFhtTDJONlRUSHRMLXl1cVprcjNEcF82T3JFdE05SFB5MTlMSEc2YkpOZHhaUkpmWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Analysis-AI shopping agents could threaten Amazon and Walmart’s ad business - WTVB",
           "summary": "Analysis-AI shopping agents could threaten Amazon and Walmart’s ad business WTVB. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "WTVB",
           "when": "4 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmluS2FHU1d6a2JBdk5FSDd1c2FkcGxhTmxjcmlNeThhcktTanQ3QnA4Ri1EZWtIUkFNT0RlVEF1X1k4ejRtOXV4NFctb0pvWDVQbUxVREZ1Mzd1d2QyVC1TUU1JUGYxNWl0dG9sZ0x1eHczeGRpZDVtbWZ5M1N2R3hOd0lzVGJFRGVITURpRmx0Sm9WTDhYRHlxUlZJWnN5Z2pNM3BhRUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "How AI shopping could reshape Amazon and Walmart's business - Latest news from Azerbaijan",
+          "summary": "How AI shopping could reshape Amazon and Walmart's business Latest news from Azerbaijan. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Latest news from Azerbaijan",
+          "when": "5 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlIyVjZnQWtTX21rOGVJellWejFXc19EeU9qVEwxMjZtbG1WNlJfSTZtOEhzaFBReU84ZEY5SmpIRUtURkszblVnRjVWdGhVcDZhVkF3MXpXdXRVb1lJX0ZLbW1qb2xwWlB3QW1FMFQzcFlERGRSSzZJMUVHNzRibFZaTnZsWE0?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -318,6 +342,38 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
+        "topic": "How AI shopping could reshape Amazon and Walmart's business - Latest news from Azerbaijan",
+        "status": "Cross-source coverage",
+        "common_context": "How AI shopping could reshape Amazon and Walmart's business Latest news from Azerbaijan",
+        "unique_points": [
+          {
+            "source": "Latest news from Azerbaijan",
+            "when": "5 Nov 2026",
+            "point": "How AI shopping could reshape Amazon and Walmart's business Latest news from Azerbaijan",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlIyVjZnQWtTX21rOGVJellWejFXc19EeU9qVEwxMjZtbG1WNlJfSTZtOEhzaFBReU84ZEY5SmpIRUtURkszblVnRjVWdGhVcDZhVkF3MXpXdXRVb1lJX0ZLbW1qb2xwWlB3QW1FMFQzcFlERGRSSzZJMUVHNzRibFZaTnZsWE0?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "BigGo Finance",
+            "when": "4 Nov 2026",
+            "point": "AI Shopping Agents Threaten Amazon and Walmart's $74.4 Billion Retail Ad Business BigGo Finance",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qbmRsNk05NGxFX2dLMXVpN3V0d0piRWh4dnZ0NnpxNmhPTk1jcnZIeFdfbDBSbThTejZTS0Rla1VsX2tPRFhtTDJONlRUSHRMLXl1cVprcjNEcF82T3JFdE05SFB5MTlMSEc2YkpOZHhaUkpmWUE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Reuters",
+            "when": "4 Nov 2026",
+            "point": "AI shopping agents could threaten Amazon and Walmart's ad business Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWZfYmc3VnVieU56OVF4S1RhMlVMMUhXR2JjZzFhVnVvcnBhLTU0aHFEUDVlN044aThuQWZ4UWpOY1c0cm5wT24xTktkRS1FVjI4VndwLU9WbzFSek1ublFKTmQ2UUxPMTVoam9lcmxnYUM2WGgxdUVOMF9EZ0MyVENMRDU3VUlZQk5yUGd0QXdQWWZUbVo0cVZ2azZFSUFERjhVX1pxaDVOQ0trZ1dRNTR4RFpBenh1QUgyWQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "WTVB",
+            "when": "4 Nov 2026",
+            "point": "Analysis-AI shopping agents could threaten Amazon and Walmart’s ad business WTVB",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmluS2FHU1d6a2JBdk5FSDd1c2FkcGxhTmxjcmlNeThhcktTanQ3QnA4Ri1EZWtIUkFNT0RlVEF1X1k4ejRtOXV4NFctb0pvWDVQbUxVREZ1Mzd1d2QyVC1TUU1JUGYxNWl0dG9sZ0x1eHczeGRpZDVtbWZ5M1N2R3hOd0lzVGJFRGVITURpRmx0Sm9WTDhYRHlxUlZJWnN5Z2pNM3BhRUw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
         "topic": "Mediaocean Expands Prisma Direct to Search with Microsoft Advertising Integration - Business Wire",
         "status": "Cross-source coverage",
         "common_context": "Mediaocean Expands Prisma Direct to Search with Microsoft Advertising Integration Business Wire",
@@ -335,6 +391,12 @@
             "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNEh6RnByR2phQlp4aFQxVnZGY2ZjM25pYm5peGtPUFJBVE1wd0hKd01VNm1nQnY5aERFYzZJcF85WFFTWjRjQXFpNVc4WFh4MUN4dngteE9RMVBVel9FdkhkaUlKa0FpU1ZfSDhKMC16U1NFc1FfaXgyRUxuNUlDaEpiMlJkakNTaXl0YUpqeWpMaVlaZ0FEWHpSUU93aVBISVZRSVpxblpVTDUwRnJrb0hIWHpUc2JyMXYxRlNfUU5jY1F1Q0prVUhIMi1GSC1BYkNFc2IxU3RoZ3MwWGZqOGk1LVNGMUIwaC1uZVZBdUNYTEU2Smw4?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
+            "source": "Dynamic Business",
+            "when": "4 Nov 2026",
+            "point": "Sunra AI media workspace for images and video Dynamic Business",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2tDbDBsanVRbFYxQURvVEdZZXVaR0o5TmJXYzdDdGhUd0NhWGVlTTJ1TmxfcmRERGFXZ0VrMGZfUl9aaFpMaUczVTRTQ1pBSldLem16ZVNaOHlFNzA2OGhiQVhUeXcwQjRscVF0Tk9wRk5KZ3lhZl8taEZBd2dycGpfMHl6UU43WGcyc1RvaFQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
             "source": "Digital Trends",
             "when": "4 Nov 2026",
             "point": "ShotCode bets on human creativity as AI reshapes advertising video production Digital Trends",
@@ -344,53 +406,33 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Analysis-AI shopping agents could threaten Amazon and Walmart’s ad business - WTVB",
+        "topic": "Locksmith LSA Advanced Verification auto-denied every time, need escalation - Google Help",
         "status": "Cross-source coverage",
-        "common_context": "Analysis-AI shopping agents could threaten Amazon and Walmart’s ad business WTVB",
+        "common_context": "Locksmith LSA Advanced Verification auto-denied every time, need escalation Google Help",
         "unique_points": [
           {
-            "source": "WTVB",
+            "source": "Google Help",
             "when": "4 Nov 2026",
-            "point": "Analysis-AI shopping agents could threaten Amazon and Walmart’s ad business WTVB",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmluS2FHU1d6a2JBdk5FSDd1c2FkcGxhTmxjcmlNeThhcktTanQ3QnA4Ri1EZWtIUkFNT0RlVEF1X1k4ejRtOXV4NFctb0pvWDVQbUxVREZ1Mzd1d2QyVC1TUU1JUGYxNWl0dG9sZ0x1eHczeGRpZDVtbWZ5M1N2R3hOd0lzVGJFRGVITURpRmx0Sm9WTDhYRHlxUlZJWnN5Z2pNM3BhRUw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Locksmith LSA Advanced Verification auto-denied every time, need escalation Google Help",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWEhtWUxxczg2TjlhVmxfUEYydmJfUDl0RzZNSjFua0pXZlFnT0lmd2N3QkVadXlmWDBqQngzMy1zSXZDMDRWQzhjamNKN0V1V01hQ0k4azJ6R3Nlejh0eU9BVHg3TmNkSzlrdndTakNfUF82ZlU2a0NUd1hKOVdMSnNJTmJ6a2ZBYlBVTU9Fa1UtTDB5enpvSHdtUkx2VDRVUDFzVzhJTmxrdDB0QXBFRTdoUXFwTXMycVJJNnhsdWlzY295dElxMjlkT0IwblNy?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Reuters",
+            "source": "Google Help",
             "when": "4 Nov 2026",
-            "point": "AI shopping agents could threaten Amazon and Walmart's ad business Reuters",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWZfYmc3VnVieU56OVF4S1RhMlVMMUhXR2JjZzFhVnVvcnBhLTU0aHFEUDVlN044aThuQWZ4UWpOY1c0cm5wT24xTktkRS1FVjI4VndwLU9WbzFSek1ublFKTmQ2UUxPMTVoam9lcmxnYUM2WGgxdUVOMF9EZ0MyVENMRDU3VUlZQk5yUGd0QXdQWWZUbVo0cVZ2azZFSUFERjhVX1pxaDVOQ0trZ1dRNTR4RFpBenh1QUgyWQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDJsVWk2LUVnZGFJcmswUC05TzdXeFEzdFhPd3Q3aXFMV0tCSEQ4TFotbVNyUm16ckZNdFpWUkZmZGNJM0U4RTZEamtvSEhRQUsxRDBFUS1FNE5PWjVDcEFDRmVRcHV4dFFyU1A2M3Bmd3UxTmRndDNoMmRXZXQ1NVE4Z01yRG9P?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Yahoo News Singapore",
+            "source": "Google Help",
             "when": "4 Nov 2026",
-            "point": "Analysis-AI shopping agents could threaten Amazon and Walmart's ad business Yahoo News Singapore",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tU2ZZb0N1WkxDdmlWd3NBbE0yVWtUVHNmZ09ReEZTNXJyTjdnUW54N0thXzlXTmd6eUpyTnZZM3dlTFVfenRnMG5Ma2o4YjhwMzNkcVhMUWdkSkc2RVZvbHhyX0gwSHpReHRBblRTUDZWdzVxYjI0OHNKel9oR28?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Smart campaign active with ₹800 balance but getting 0 impressions / 0 clicks for over a month Google Help",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUkdWUTBPOHg2cTVJRkxnbEZITWtWWE52Rlg3RURfWWJ4bVIwWFRDcmlRQkh5MXFhRTVqSkNGc2FBVWdSSG5CWERSN0VNUWtHUnBkVXgzSF9IaF9GVlZ6TFQ0Y2kwMGc2cmNNbVFTc3Y3dlh4aEJ0NGRNZE9KNXdDSHE5bGdhTHFTemtZaGVxMTVZaFBHYnl6VlMtSGJieUE2SHN3Z01NS2psS25nTE9fX3RhZnZRQjlQdWExNTBrNUhQbllnS2FLa2Fab2JhYVlXUVRDTFdhZjFkVlhYZ0wxSnU0dFNYc25kV3hVa3AyZFdwUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "RS Web Solutions",
-            "when": "3 Nov 2026",
-            "point": "Amazon’s $70B Ad Empire Threatened by Meta’s AI Shopping Assistant RS Web Solutions",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXlqelZYQ0JrUkp0WGF0SXZmdUxpMFo5Y0xkS3dCSkpRVUVpZC1CREtmQV9oWXpac0tCMzQ4ZnF5TEpzNGhrVWItSXVPUGNDelFoTm14VWw1WDF1clNJX3IxTGhTT0tWMVRCcGUtOEpBRmUtdUZtaWVOMzNWT2dIeWt4N1VFNEFLa01Pbnl4WFhENXhQeC1BS0VDcDBXNWZQUTdRLXdvZlpob2l3cmFCWFowMk8tN0ZjZkhPbVFjd09NWWNtS3c?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Teamily AI messenger for team collaboration - Dynamic Business",
-        "status": "Cross-source coverage",
-        "common_context": "Teamily AI messenger for team collaboration Dynamic Business",
-        "unique_points": [
-          {
-            "source": "Dynamic Business",
+            "source": "Google Help",
             "when": "4 Nov 2026",
-            "point": "Teamily AI messenger for team collaboration Dynamic Business",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODFVQURDUE9Ha00yYlF1VER5OEg5eEp2ZldrUHZOS29KSTc2NjBzYUc4eExUTlBha3BZcHdtNlV5SG9kdDNNS0ctYzN2dnlxUE5KYXpVb3hSVnZ2czU2cC1BcXRDNEJjaTliZ2ItdUw0RnIzSkNzRHZ6UzhDLU5Vc1ptZnRrOENCTjJwY0V3?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Dynamic Business",
-            "when": "4 Nov 2026",
-            "point": "Glif creative AI platform for ads Dynamic Business",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOalIzcjhhMEdneHBCRXJwX0hieGlCWWE4WW5ESWFNMDZWQkg0TEFUUVFjNUVTYzctYXlTX1lDT1pkUkQ5MFgwc1l2U1BIaWpQLV9vZmoxVVhoaU14MmlPMGtpb1BBVjQ4UmJ0U3FFSTE1bmVRX0xkR1o5anZhMUhwNw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "My Ad Center is stuck on Kids/Teens mode despite successful 18+ ID age verification.",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdndKNE5iMWptUEhFQS1JN29IMVJlNDN2TEhnSnpqYU95V1JlTnNzdkpmeFl4WDVWdmlvbkRqMkhHZDZSYTRKcjFEcUxadWNmcEJELXlOclM5QkpGX1VGTzVCX1JtM3lYNThJM1psZEpjU0h3WWJONzBDQnBXa3doTGJOZ3N4VE96UGR1QzN4WDhEbnAwbXBEZHdKZThRRjgtUlhnN1RMbnp1YllqVTdUYVpUUzhVV2loLWg0b1ZvaXVrSmF4QXpqdW5uMDhCTk5OUXJQVXA1NFdKTlU?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -417,26 +459,6 @@
             "when": "3 Nov 2026",
             "point": "GitHub Copilot is now available in JetBrains Air The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0xGXzVzM0lQZEdJLUxzRjBkMFRSQjdMaXFnZktkcE01LWx0Ry1SUXJsOTVWLXBqUXBOa0ZieFR0bFRoUnVTVUltNXd0eFlLNDZVbE41RDZtWVk1ZkluZ1ZwS2lhSTEwVmdORUhWOUNIVVp2eHlTeGgtLWoybHJMVHFwTG0td0tKYXdSOUxJay13NTVo?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Adobe Gives Startups a Year of Free Creative Tools - Analytics Insight",
-        "status": "Cross-source coverage",
-        "common_context": "Adobe Gives Startups a Year of Free Creative Tools Analytics Insight",
-        "unique_points": [
-          {
-            "source": "Analytics Insight",
-            "when": "4 Nov 2026",
-            "point": "Adobe Gives Startups a Year of Free Creative Tools Analytics Insight",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUFTUlotR1plNThhX19QRDduUHNtQ3NXRFJVMXpRMUkzVTExbXhuRUpvS0huZnZNMmpWZFVmYkVCSVVyNzNZWUZQaGVZWmFzY2RodjRuUWZuRmNwLXNRT1NQVnJZNGo0dkVFSHlqZDZPcE92VHNOQXBLRlZ1WUFQWVk2dk1uaWJ5VTZkX2Fha3EtZ9IBnwFBVV95cUxNNVRWZTNfWkktdFl2RF83ckNRdmJPamxJdl9uQ0R0Ry1mTUoxUzdNLXJLZVpGeXozN3Y1MHZjdnlhZGZyd19heHJjU09maU84Yl93OWNTQXV4YjZja2p3LU04Q3JDQU1tU3BucVJQZnMtZ2hjLVlBenVKNXRnVVdkZlNzSjJuT20zWl9GSWtiSDZzNFhQSUx2LUZQVHFPZDQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Indianweb2.com",
-            "when": "3 Nov 2026",
-            "point": "Adobe Unveils Adobe for Startups, Bringing AI-Powered Creative and Marketing Tools to Emerging Businesses Indianweb2.com",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFSm93Y2ZXamMzbzNLZTNfcDRfV242Z2w3c05mRWI0UkdUczdwZno3MWFSX0JkQzN0ME9Ld0lVaGdib1pQdXp6NzViRUhPcVk0ZXV0blEzdVVXVzRCdUNJQlA4dzY1ckxxWDN6T3M0aFJkdzN1WU0xOGtqYnA?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

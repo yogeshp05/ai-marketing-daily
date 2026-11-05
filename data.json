@@ -12,12 +12,12 @@
   "ticker": [
     "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration - VMblog",
     "PrimeXBT Launches AI-Assisted Trading with MCP Integration, Connecting ChatGPT and Claude to Trading Accounts - FinSMEs",
-    "akta.pro Brings Company Data and News Signals API to Finance and GTM AI Agents - EIN News",
+    "Introducing Images 2.6 - OpenAI",
+    "GitHub Copilot is now available in Xcode’s coding assistant - The GitHub Blog",
     "AI Shopping Agents Threaten Amazon and Walmart's $74.4 Billion Retail Ad Business - BigGo Finance",
     "AI shopping agents could threaten Amazon and Walmart's ad business - Reuters",
     "Analysis-AI shopping agents could threaten Amazon and Walmart’s ad business - WTVB",
-    "Mediaocean Expands Prisma Direct to Search with Microsoft Advertising Integration - Business Wire",
-    "AI shopping agents could threaten Amazon and Walmart's ad business - The Economic Times"
+    "Mediaocean Expands Prisma Direct to Search with Microsoft Advertising Integration - Business Wire"
   ],
   "sections": [
     {
@@ -45,14 +45,6 @@
           "source": "Google Help",
           "when": "4 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWEhtWUxxczg2TjlhVmxfUEYydmJfUDl0RzZNSjFua0pXZlFnT0lmd2N3QkVadXlmWDBqQngzMy1zSXZDMDRWQzhjamNKN0V1V01hQ0k4azJ6R3Nlejh0eU9BVHg3TmNkSzlrdndTakNfUF82ZlU2a0NUd1hKOVdMSnNJTmJ6a2ZBYlBVTU9Fa1UtTDB5enpvSHdtUkx2VDRVUDFzVzhJTmxrdDB0QXBFRTdoUXFwTXMycVJJNnhsdWlzY295dElxMjlkT0IwblNy?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "My Ad Center is stuck on Kids/Teens mode despite successful 18+ ID age verification. - Google Help",
-          "summary": "My Ad Center is stuck on Kids/Teens mode despite successful 18+ ID age verification. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "4 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdndKNE5iMWptUEhFQS1JN29IMVJlNDN2TEhnSnpqYU95V1JlTnNzdkpmeFl4WDVWdmlvbkRqMkhHZDZSYTRKcjFEcUxadWNmcEJELXlOclM5QkpGX1VGTzVCX1JtM3lYNThJM1psZEpjU0h3WWJONzBDQnBXa3doTGJOZ3N4VE96UGR1QzN4WDhEbnAwbXBEZHdKZThRRjgtUlhnN1RMbnp1YllqVTdUYVpUUzhVV2loLWg0b1ZvaXVrSmF4QXpqdW5uMDhCTk5OUXJQVXA1NFdKTlU?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -196,11 +188,11 @@
           "image": ""
         },
         {
-          "title": "akta.pro Brings Company Data and News Signals API to Finance and GTM AI Agents - EIN News",
-          "summary": "akta.pro Brings Company Data and News Signals API to Finance and GTM AI Agents EIN News. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "EIN News",
-          "when": "3 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3psa01KdnQ4NmpBOVhQaTRTMDI3bzY4VG1nbmtaRUdUUlJEaDg5REZ1WTRSUFRRTHp1NHR0QlBaMTdvNTRGdkdpZC10bEd3aWFKUDdoQlFkX0dhQWthSTZ6NndXX2Roc04xSVY0NUpyT1ZqWTNZVnpxYVRha1ZodFdjVWN1STlXMnBfMTJwNGVCMkZIWmgwUmFHZjNtRmlWRTVuQlRVN3hNMFcwQm12cGdSYjVBYkIxcnc1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "GitHub Copilot is now available in Xcode’s coding assistant - The GitHub Blog",
+          "summary": "GitHub Copilot is now available in Xcode’s coding assistant The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "5 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUd5N0JRZ0htbmNjLU41VFhnQlRzN0hlMGF3cGVnS3BhV0FLQWMyWW5NY19XWF9fME10Z1RYTnh2eHBuVUIwNGlnU3BHRG9qdUJFVEdOdDhEN0hPbmZZTHJZaGNxVzhDM0dJSEZGdW12WG9SbEpYZEZ3ZzBXVFJ6SzVQaGFLaDVLQ3phSHBEdjZNYVlsQlFocnBEcTY2S1M2SlE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -212,11 +204,11 @@
           "image": ""
         },
         {
-          "title": "FeedHive – Social Media Management, AI Content Creation & Publishing Automation - Quasa.io",
-          "summary": "FeedHive – Social Media Management, AI Content Creation & Publishing Automation Quasa.io. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Quasa.io",
+          "title": "GitHub Copilot is now available in JetBrains Air - The GitHub Blog",
+          "summary": "GitHub Copilot is now available in JetBrains Air The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
           "when": "3 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2JIanUwWVJ0N3Zqbk5sLTMwdFBrUFI0dXowVTFjaU9nQVctbk9NTkM4Y3hGbWlWWjIxN3ZiczRzQzRRYV9UMUlJc0lOSXN1bjlFZjJjb2sxSGY0bnNlcnlJak9GTnNjVWNHQkR4TVUzdGR5ZXNmRHh6WndmVUEtYmI4RVRlby0tTU1INnVXREE2RVlBMVhwLVhTbHdQZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0xGXzVzM0lQZEdJLUxzRjBkMFRSQjdMaXFnZktkcE01LWx0Ry1SUXJsOTVWLXBqUXBOa0ZieFR0bFRoUnVTVUltNXd0eFlLNDZVbE41RDZtWVk1ZkluZ1ZwS2lhSTEwVmdORUhWOUNIVVp2eHlTeGgtLWoybHJMVHFwTG0td0tKYXdSOUxJay13NTVo?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -224,6 +216,14 @@
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "Introducing Images 2.6 - OpenAI",
+          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "5 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRllmMHFwSmtFNVhMV0dnNXpZa0RkejJ2bDkzYUlTLXRBaHF5TXd0VldHSEZxbWEyQ25EdlM1azgxV2p5dGs0cnZ2dG56ekEzQTJDY1FFWjN5MzZh?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Glif creative AI platform for ads - Dynamic Business",
           "summary": "Glif creative AI platform for ads Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -241,19 +241,11 @@
           "image": ""
         },
         {
-          "title": "Sunra AI media workspace for images and video - Dynamic Business",
-          "summary": "Sunra AI media workspace for images and video Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Dynamic Business",
-          "when": "4 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2tDbDBsanVRbFYxQURvVEdZZXVaR0o5TmJXYzdDdGhUd0NhWGVlTTJ1TmxfcmRERGFXZ0VrMGZfUl9aaFpMaUczVTRTQ1pBSldLem16ZVNaOHlFNzA2OGhiQVhUeXcwQjRscVF0Tk9wRk5KZ3lhZl8taEZBd2dycGpfMHl6UU43WGcyc1RvaFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Adobe Gives Startups a Year of Free Creative Tools - Analytics Insight",
-          "summary": "Adobe Gives Startups a Year of Free Creative Tools Analytics Insight. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Analytics Insight",
-          "when": "4 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUFTUlotR1plNThhX19QRDduUHNtQ3NXRFJVMXpRMUkzVTExbXhuRUpvS0huZnZNMmpWZFVmYkVCSVVyNzNZWUZQaGVZWmFzY2RodjRuUWZuRmNwLXNRT1NQVnJZNGo0dkVFSHlqZDZPcE92VHNOQXBLRlZ1WUFQWVk2dk1uaWJ5VTZkX2Fha3EtZ9IBnwFBVV95cUxNNVRWZTNfWkktdFl2RF83ckNRdmJPamxJdl9uQ0R0Ry1mTUoxUzdNLXJLZVpGeXozN3Y1MHZjdnlhZGZyd19heHJjU09maU84Yl93OWNTQXV4YjZja2p3LU04Q3JDQU1tU3BucVJQZnMtZ2hjLVlBenVKNXRnVVdkZlNzSjJuT20zWl9GSWtiSDZzNFhQSUx2LUZQVHFPZDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "A thousand fewer paths to root - OpenAI",
+          "summary": "A thousand fewer paths to root OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "5 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YNndWbW1YdWJ1bFpGb3cyOGcyamlnWV9keHhVSV9NQ0poX0JTSzNMckF1TkNEZ05wdTNObGFXS04xU2xzVlIteXRFSkxfSnFsQVlnY0dLcUpGa1doY0NvX0VVNEVGYjg?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -267,14 +259,6 @@
           "source": "FinSMEs",
           "when": "4 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNVJzY2hTd3BZckxPbE1UMXZrS3YzRE14YnpxaHJqdnIxM1dGMjZTZGo5NFh2cE5fbmFUQ3ZFMElwVXhRbEZYV0JpQkt0N21NZURkUHdUb1dwQzh5VF93c0dwVHFCbElkdnhZS09mSXV5OHQ4V0cwTkVNM3MwNmUySDEwNFpyQ2swT2R2VWpsUVlLN3VndC02V0dza3FpLU5haEVVeFAzXzA1bEs0Qm1IWDVINTJKSXlaZUNYYmt3UXN3NU9ZbFMwREdXQWQ2bUdLMzdXUWlsQzZRd0YxblE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "FeedHive – Social Media Management, AI Content Creation & Publishing Automation - Quasa.io",
-          "summary": "FeedHive – Social Media Management, AI Content Creation & Publishing Automation Quasa.io. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Quasa.io",
-          "when": "3 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2JIanUwWVJ0N3Zqbk5sLTMwdFBrUFI0dXowVTFjaU9nQVctbk9NTkM4Y3hGbWlWWjIxN3ZiczRzQzRRYV9UMUlJc0lOSXN1bjlFZjJjb2sxSGY0bnNlcnlJak9GTnNjVWNHQkR4TVUzdGR5ZXNmRHh6WndmVUEtYmI4RVRlby0tTU1INnVXREE2RVlBMVhwLVhTbHdQZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -337,6 +321,38 @@
             "when": "4 Nov 2026",
             "point": "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration VMblog",
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSU05dGhRdUFjRW41Q3lwaktNd0FackkwNnhnZXNGUUxLZUNsOFZETVNsdnFlM3ZxSXJKb3FGUXdLdWZ5eHp0eUNuQURscFA5UjZjNUlTbGFrdFlxc2pnOVhWUHVFWGtlNm9FbzUxSTdtZWxPZ21jNjZLOHMzZTFQdXZZWFBhbXJvRDFGUFgzWDktY1JUMHd6eE9DSDhxM21DelRZenFYeWdPc1dXZksyWU5JclRTa0cwT0FBQjR5ZGtqVS02a2N1aFc2M2xTZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "GitHub Copilot is now available in Xcode’s coding assistant - The GitHub Blog",
+        "status": "Cross-source coverage",
+        "common_context": "GitHub Copilot is now available in Xcode’s coding assistant The GitHub Blog",
+        "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "5 Nov 2026",
+            "point": "GitHub Copilot is now available in Xcode’s coding assistant The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUd5N0JRZ0htbmNjLU41VFhnQlRzN0hlMGF3cGVnS3BhV0FLQWMyWW5NY19XWF9fME10Z1RYTnh2eHBuVUIwNGlnU3BHRG9qdUJFVEdOdDhEN0hPbmZZTHJZaGNxVzhDM0dJSEZGdW12WG9SbEpYZEZ3ZzBXVFJ6SzVQaGFLaDVLQ3phSHBEdjZNYVlsQlFocnBEcTY2S1M2SlE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "4 Nov 2026",
+            "point": "BYOK and enterprise custom models in the Copilot usage API The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEpyY2VGZjhFb0tfbGRWWVk3c1hBY1l3by1JRlEyeXBWQUwxSndzN2QxeXFHb0t4cGE3V0d2R0VKRFRrWFk0V3JiTWlaZVhSZ0hvOHNSY1lkQlhfcXBYUmY0dEVxdmN3ZkYzeXg5cjkyc0x2NTBudzFjbGNjaTlfRWFuNmctalkzOHBhaFlBRE83VGdoWTBHNmwzY0k0T0tSNVE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "4 Nov 2026",
+            "point": "Dependabot version updates support Agent Package Manager The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGo3MWdwUEtSTW1YVW45dVdyMVVxZC1CZkxjS1Z4UTZ4LXhkWl82M2xSRzJoNFNNbnVOQm5FakwyWUJRcDVqdmVfdzJwR2sxY1hnVE1sRUIzUTBTV09oZmxMaWQ1UHllQUo1TE91SmV2LWd1bUc2YjI2WkVnZ09JUXAtLXdUeFhtOXBXWFMzRDBnU1ZQOVRxTG8xMDBsbFU?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "3 Nov 2026",
+            "point": "GitHub Copilot is now available in JetBrains Air The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0xGXzVzM0lQZEdJLUxzRjBkMFRSQjdMaXFnZktkcE01LWx0Ry1SUXJsOTVWLXBqUXBOa0ZieFR0bFRoUnVTVUltNXd0eFlLNDZVbE41RDZtWVk1ZkluZ1ZwS2lhSTEwVmdORUhWOUNIVVp2eHlTeGgtLWoybHJMVHFwTG0td0tKYXdSOUxJay13NTVo?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -427,38 +443,6 @@
             "when": "4 Nov 2026",
             "point": "Smart campaign active with ₹800 balance but getting 0 impressions / 0 clicks for over a month Google Help",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUkdWUTBPOHg2cTVJRkxnbEZITWtWWE52Rlg3RURfWWJ4bVIwWFRDcmlRQkh5MXFhRTVqSkNGc2FBVWdSSG5CWERSN0VNUWtHUnBkVXgzSF9IaF9GVlZ6TFQ0Y2kwMGc2cmNNbVFTc3Y3dlh4aEJ0NGRNZE9KNXdDSHE5bGdhTHFTemtZaGVxMTVZaFBHYnl6VlMtSGJieUE2SHN3Z01NS2psS25nTE9fX3RhZnZRQjlQdWExNTBrNUhQbllnS2FLa2Fab2JhYVlXUVRDTFdhZjFkVlhYZ0wxSnU0dFNYc25kV3hVa3AyZFdwUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Help",
-            "when": "4 Nov 2026",
-            "point": "My Ad Center is stuck on Kids/Teens mode despite successful 18+ ID age verification.",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdndKNE5iMWptUEhFQS1JN29IMVJlNDN2TEhnSnpqYU95V1JlTnNzdkpmeFl4WDVWdmlvbkRqMkhHZDZSYTRKcjFEcUxadWNmcEJELXlOclM5QkpGX1VGTzVCX1JtM3lYNThJM1psZEpjU0h3WWJONzBDQnBXa3doTGJOZ3N4VE96UGR1QzN4WDhEbnAwbXBEZHdKZThRRjgtUlhnN1RMbnp1YllqVTdUYVpUUzhVV2loLWg0b1ZvaXVrSmF4QXpqdW5uMDhCTk5OUXJQVXA1NFdKTlU?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "BYOK and enterprise custom models in the Copilot usage API - The GitHub Blog",
-        "status": "Cross-source coverage",
-        "common_context": "BYOK and enterprise custom models in the Copilot usage API The GitHub Blog",
-        "unique_points": [
-          {
-            "source": "The GitHub Blog",
-            "when": "4 Nov 2026",
-            "point": "BYOK and enterprise custom models in the Copilot usage API The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEpyY2VGZjhFb0tfbGRWWVk3c1hBY1l3by1JRlEyeXBWQUwxSndzN2QxeXFHb0t4cGE3V0d2R0VKRFRrWFk0V3JiTWlaZVhSZ0hvOHNSY1lkQlhfcXBYUmY0dEVxdmN3ZkYzeXg5cjkyc0x2NTBudzFjbGNjaTlfRWFuNmctalkzOHBhaFlBRE83VGdoWTBHNmwzY0k0T0tSNVE?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "4 Nov 2026",
-            "point": "Dependabot version updates support Agent Package Manager The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGo3MWdwUEtSTW1YVW45dVdyMVVxZC1CZkxjS1Z4UTZ4LXhkWl82M2xSRzJoNFNNbnVOQm5FakwyWUJRcDVqdmVfdzJwR2sxY1hnVE1sRUIzUTBTV09oZmxMaWQ1UHllQUo1TE91SmV2LWd1bUc2YjI2WkVnZ09JUXAtLXdUeFhtOXBXWFMzRDBnU1ZQOVRxTG8xMDBsbFU?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "3 Nov 2026",
-            "point": "GitHub Copilot is now available in JetBrains Air The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0xGXzVzM0lQZEdJLUxzRjBkMFRSQjdMaXFnZktkcE01LWx0Ry1SUXJsOTVWLXBqUXBOa0ZieFR0bFRoUnVTVUltNXd0eFlLNDZVbE41RDZtWVk1ZkluZ1ZwS2lhSTEwVmdORUhWOUNIVVp2eHlTeGgtLWoybHJMVHFwTG0td0tKYXdSOUxJay13NTVo?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

@@ -12,12 +12,12 @@
   "ticker": [
     "X Opens Updated Lead Gen Ads to Advertisers Worldwide: 2026 - ALM Corp",
     "AI Co. Launches Agentic Hub as Walmart Opens to AI Agents - Streetwise Reports",
-    "Amazon Blocks Meta's Muse As AI Shopping Agents Challenge Retail Ads - Dataconomy",
     "Copilot code review: API management and review overview updates - The GitHub Blog",
     "@GitHub in Slack and Teams is generally available and more - The GitHub Blog",
-    "AgentKit by Scalekit for AI agent authentication - Dynamic Business",
     "Wanaka Studio AI 3D game builder - Dynamic Business",
-    "Amazon tests Alexa shopping ads by text - ContentGrip"
+    "Amazon tests Alexa shopping ads by text - ContentGrip",
+    "Rainbrand brand management for AI workflows - Dynamic Business",
+    "Copilot impact dashboard adds chat and VS Code agent usage - The GitHub Blog"
   ],
   "sections": [
     {
@@ -29,7 +29,8 @@
           "source": "Google Ads Developer Blog",
           "when": "6 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TU8xNUpBVzc2ZndSazN4M2gwVHVEdmx2ZldQS0xrUGZ3RzRKcFpxc3pqV2VLNW9aa0FBRFFVWTBJU1l2ZGVoYUxyQXVsUnd1TTJQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -98,7 +99,8 @@
           "source": "TikTok",
           "when": "7 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDRFRkhlM1lRemhsMDQxa0NDdjdQNWV6dHFjQ2szc2FwLWJXWDNRQXZWZi1wTWJndXMxZXVfWTBSZ2ZjYlRSeXdUYmtheHlHNlZibDE4UXRQNmhTMHpYNGVyTF9HaC1NUEhyVWIyQ1IyVnl4M05HMVdSenZwOV9EZDZvZGFqTF8xNzRFajZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -171,19 +173,19 @@
           "image": ""
         },
         {
-          "title": "AgentKit by Scalekit for AI agent authentication - Dynamic Business",
-          "summary": "AgentKit by Scalekit for AI agent authentication Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Dynamic Business",
-          "when": "6 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWhSZVNZY0NJSjlRVDFVWDVnTlFpN0VLczdMUmFpeTdRbklucVdiUGFCTFduLWx6T293VlNCbW5VWE41c2IyZ1lhRnFsX090NVptTE5PUExUWWREdlZuM0wxMXdLTldVOXdEUGxDRElfWE5VYzBIcDJpWnpTbkl3T09pVEhBdFV5S1hadFpfMU5scGM1?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Wanaka Studio AI 3D game builder - Dynamic Business",
           "summary": "Wanaka Studio AI 3D game builder Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Dynamic Business",
           "when": "7 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RVFRzMlRCcWdiaEhVS0xId1dtR1YtTUQ0R0ZjUWNVbWtSdlBuNmM2b0VHSjE0N2RMSkk1RE9XaGhsd2c3Tzdsby1tYnJIQWtCYVFXaHl2UDQxNWlMWE92NHB5aUp3aHhOMVJuVUo2anEzVFIxcDFqN29jQ2k5ZDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Copilot impact dashboard adds chat and VS Code agent usage - The GitHub Blog",
+          "summary": "Copilot impact dashboard adds chat and VS Code agent usage The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "7 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTENtLVhGRk9DY2xELTQ0Y1BiRm5BbjEyR3dNMUtZUjdrZXlGY2k4cHc4U19wSWwyaFJZUzZwd3FfaGFvWGFTWEpJNDItdEp3a3JMUXpYVFNtM3ZDazVNOGMwT2VLRzZOdHlwUlR0M0JSeXdhM19sX0NGSW1NelZsTVJRV2FoM1k0S2NlUl9QNVM5S3g0a0RXQ0xaTTJoS2ttNXc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -197,14 +199,6 @@
           "source": "ALM Corp",
           "when": "7 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdW9pVWx0SmRIRUJ2SFhwRXd3REJ4N0RpSGhoc2xKYU9lWkpxWDJWaGVYN1J4TkRXNUhnQnFMeEc3NUx1YzZpSk9Ya0JGZ1J5UnAxanZGVWRuN3hibmhxNzlCeURiUmFNVzhLNTlvX09kdzQxelZhd0dGVW5aX2lqUW9BdTRMdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Best Video to Prompt Generator AI Free - Transform Any Video into Detailed AI Prompts Easily - openPR.com",
-          "summary": "Best Video to Prompt Generator AI Free - Transform Any Video into Detailed AI Prompts Easily openPR.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "openPR.com",
-          "when": "6 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN29CMzA0QlZqVkU5NFZja1RvYk51TDZHYmduVmlIWDBSdWplTnNvcFFsRlhmNUkwaHRpWWs1TEYyZU5rS0FncDM4UVF6YkFnN2FwX1lsSzNVWmRZczdBSEVySjhIMnYybWEyLUpzQlBRR0tGb0sxWDJwakdBcTlSXzRpbUJOUTJmdWRCWGQyOHJpcXV2eUlzd3VvY1RZdnMw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -231,14 +225,6 @@
           "source": "Streetwise Reports",
           "when": "6 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzJIMm82MFBOM2FZSVdRTi1MQ2NGV09UalJmcmF4UGFQNFZseE5LNGlXVmJjX181bFdsS0xvMlJjYlBHMEdaQ1VtcmIxRGY4ZXRFYXA5eTBDaV9lYkRKaHRJekxwbV9aNnFXS2Q4VlFNWTJHVHdnMi0xdlp6SlRFVTZkaE1lQ1BrYjd5d2ptX25GenRBb1Jka3dtM1JoU0lNRlFuUXdPY0FnS2UxZWhUako0RXY?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Amazon Blocks Meta's Muse As AI Shopping Agents Challenge Retail Ads - Dataconomy",
-          "summary": "Amazon Blocks Meta's Muse As AI Shopping Agents Challenge Retail Ads Dataconomy. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Dataconomy",
-          "when": "6 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXNUbUZNSnBXRC1JbHhWRVRZM214SVRON2dFRW83czJGdWtQcjNMblRZd3ktaGFVajFsalZDT0VCVGdzNW9KcHVCZjVmYjFCbVZTNnFDel80RDAtZ2VrRGdDeF9SS2JxbnV0MkxhMUVTUjgySG1CcFpqZUNxMmhNTlYxWjJ5Rl9TZm44UzBFeWtseGl0a1E?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -270,32 +256,6 @@
             "when": "7 Nov 2026",
             "point": "LinkedIn Adds Post Performance Table & Creator Metrics 2026 ALM Corp",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2lVQUNIRTVXT3ByZV9HdFBscTIxVlFKbDNpdDJDVktxS1ExXzB6U2Z3c3ItT040UkRPdVVYSFFMbU93SVpDbEVrYWVzMzVEOEFvbE5RVkpzOXRxYm5wMDVEWWNVM2VFVmVGR2NQLTFrTjQ3c1pSYnY5TFFNWG1OSWkzdEozb0NjNmc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Ads Developer Blog",
-            "when": "6 Nov 2026",
-            "point": "2026 - Google Ads Developer Blog",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TU8xNUpBVzc2ZndSazN4M2gwVHVEdmx2ZldQS0xrUGZ3RzRKcFpxc3pqV2VLNW9aa0FBRFFVWTBJU1l2ZGVoYUxyQXVsUnd1TTJQUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Amazon tests Alexa shopping ads by text - ContentGrip",
-        "status": "Cross-source coverage",
-        "common_context": "Amazon tests Alexa shopping ads by text ContentGrip",
-        "unique_points": [
-          {
-            "source": "ContentGrip",
-            "when": "7 Nov 2026",
-            "point": "Amazon tests Alexa shopping ads by text ContentGrip",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xZ19sQUJMSjNRX2Y1S0FNQWxpUXRJYWQ0bjd6V3Rtd1NEQW80eGk1Uzd4blppbUc2cTFhSHZ3UUR4YWRFWW15R2lwRndGY2kyRHVCVjUyVmJUSkxkNnFWU3hLd2dXc0d5ci1B?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Dataconomy",
-            "when": "6 Nov 2026",
-            "point": "Amazon Blocks Meta's Muse As AI Shopping Agents Challenge Retail Ads Dataconomy",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXNUbUZNSnBXRC1JbHhWRVRZM214SVRON2dFRW83czJGdWtQcjNMblRZd3ktaGFVajFsalZDT0VCVGdzNW9KcHVCZjVmYjFCbVZTNnFDel80RDAtZ2VrRGdDeF9SS2JxbnV0MkxhMUVTUjgySG1CcFpqZUNxMmhNTlYxWjJ5Rl9TZm44UzBFeWtseGl0a1E?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -348,12 +308,6 @@
             "when": "7 Nov 2026",
             "point": "Rainbrand brand management for AI workflows Dynamic Business",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGR5aGF3TTljc2hFSDZHNC1uSTE5MW56clQxVnVaV0Nrd0ozR1p5cGVXUUhpSjJvRFgxeWVOVlk4SnFKX1hLbHEtRjd4bEtyOE50NUg1QmtPb0pxVm4ydW5tY3c4WmVjeWZuLU5fVmhQSnR5V0lXVDZqMUw4Ri1LWUZ6T2dSUldyOHZZTkxB?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Dynamic Business",
-            "when": "6 Nov 2026",
-            "point": "AgentKit by Scalekit for AI agent authentication Dynamic Business",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWhSZVNZY0NJSjlRVDFVWDVnTlFpN0VLczdMUmFpeTdRbklucVdiUGFCTFduLWx6T293VlNCbW5VWE41c2IyZ1lhRnFsX090NVptTE5PUExUWWREdlZuM0wxMXdLTldVOXdEUGxDRElfWE5VYzBIcDJpWnpTbkl3T09pVEhBdFV5S1hadFpfMU5scGM1?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

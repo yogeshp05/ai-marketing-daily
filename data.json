@@ -1,34 +1,48 @@
 {
   "date": "8 November 2026",
   "lead": {
-    "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "deck": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "Google Help",
-    "when": "7 Nov 2026",
+    "title": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
+    "deck": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFkc1U5VTNxMEhodUNiWFIwUFM1aUdqd0hUSDFFbjlJVll1b2xWdUhLdVVuN05EVDlKQWpoc0hSMDJISHFYYmktMXpObUdhdFl1eDRwd0tGV0hMTFZrVUtXV29Ia3M3RzkzYXNrWnUtUkhTYUNhZUFBQzNUT3NwUnBrUnZBSUVBMHVsWGhmOGpyQVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "PPC Land",
+    "when": "8 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
     "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "Copilot code review: API management and review overview updates - The GitHub Blog",
-    "@GitHub in Slack and Teams is generally available and more - The GitHub Blog",
     "Wanaka Studio AI 3D game builder - Dynamic Business",
     "Amazon tests Alexa shopping ads by text - ContentGrip",
     "Rainbrand brand management for AI workflows - Dynamic Business",
-    "Copilot impact dashboard adds chat and VS Code agent usage - The GitHub Blog",
-    "Business Resource Center - TikTok"
+    "Google ties consistent PMax spend to 15 conversions every 30 days - PPC Land"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
+          "title": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
+          "summary": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "8 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFkc1U5VTNxMEhodUNiWFIwUFM1aUdqd0hUSDFFbjlJVll1b2xWdUhLdVVuN05EVDlKQWpoc0hSMDJISHFYYmktMXpObUdhdFl1eDRwd0tGV0hMTFZrVUtXV29Ia3M3RzkzYXNrWnUtUkhTYUNhZUFBQzNUT3NwUnBrUnZBSUVBMHVsWGhmOGpyQVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
           "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
           "when": "7 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google ties consistent PMax spend to 15 conversions every 30 days - PPC Land",
+          "summary": "Google ties consistent PMax spend to 15 conversions every 30 days PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "8 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmlybDJlS0JRX0cxQVpJVC0tOUh2b0p4amlZaDRGR0lRM19ySUlIZXJ0d09rcGNlWkRtZFNHQjdPb05ubnh0dkNmYUdRckhvY296Uk15Sm1Pd0dnOVJ3V1dDTHR5cG5EVVNyZXJFM3pQSHUtTVM3NjkyakEwYm9VX2oxZ0RhZFhOTm9r?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -83,7 +97,8 @@
           "source": "TikTok",
           "when": "7 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDRFRkhlM1lRemhsMDQxa0NDdjdQNWV6dHFjQ2szc2FwLWJXWDNRQXZWZi1wTWJndXMxZXVfWTBSZ2ZjYlRSeXdUYmtheHlHNlZibDE4UXRQNmhTMHpYNGVyTF9HaC1NUEhyVWIyQ1IyVnl4M05HMVdSenZwOV9EZDZvZGFqTF8xNzRFajZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -142,35 +157,11 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Copilot code review: API management and review overview updates - The GitHub Blog",
-          "summary": "Copilot code review: API management and review overview updates The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "7 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcXo3N09iUUg2M3dlVkJscjdGbDJFS0w2cWlSR1BRRHFoLU9QcC1wUHo2VTRULUxlaE1pVk9teXpPSy1lTi1mTy1BM3dESDkydk5NdTZGWk1TYVdzay1TMkItWEM5YUFvYnZOQ05kZHNrNDQ4YXM0X3NyVEFRcVlJSnViQmg2QUpWUUVWa2MyZ2l1ckdfcndrQjRLZjFEYXVzYXVfYjlVTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "@GitHub in Slack and Teams is generally available and more - The GitHub Blog",
-          "summary": "@GitHub in Slack and Teams is generally available and more The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "7 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1U0bzRLWXk3dlVienAyZmdISlNOajhZbkFxOTRUUTdQUzZVcHQ5NnRPT1dGNDFjQ3ZLc3hWRy1XUlN0Y1laMVpOSzk5dmNGZ2J0Yk9lZld3WndYMlNTSDdGam1BOFVPYng0TEd6UmFnaUVZbG9GdW5IWDhNNl95YjFRZ3diNXFITnM3SjhaOGplcFlaZDJIRjhhc1NDcXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Wanaka Studio AI 3D game builder - Dynamic Business",
           "summary": "Wanaka Studio AI 3D game builder Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Dynamic Business",
           "when": "7 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RVFRzMlRCcWdiaEhVS0xId1dtR1YtTUQ0R0ZjUWNVbWtSdlBuNmM2b0VHSjE0N2RMSkk1RE9XaGhsd2c3Tzdsby1tYnJIQWtCYVFXaHl2UDQxNWlMWE92NHB5aUp3aHhOMVJuVUo2anEzVFIxcDFqN29jQ2k5ZDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Copilot impact dashboard adds chat and VS Code agent usage - The GitHub Blog",
-          "summary": "Copilot impact dashboard adds chat and VS Code agent usage The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "7 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTENtLVhGRk9DY2xELTQ0Y1BiRm5BbjEyR3dNMUtZUjdrZXlGY2k4cHc4U19wSWwyaFJZUzZwd3FfaGFvWGFTWEpJNDItdEp3a3JMUXpYVFNtM3ZDazVNOGMwT2VLRzZOdHlwUlR0M0JSeXdhM19sX0NGSW1NelZsTVJRV2FoM1k0S2NlUl9QNVM5S3g0a0RXQ0xaTTJoS2ttNXc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -222,33 +213,33 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Copilot code review: API management and review overview updates - The GitHub Blog",
+        "topic": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
         "status": "Cross-source coverage",
-        "common_context": "Copilot code review: API management and review overview updates The GitHub Blog",
+        "common_context": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land",
         "unique_points": [
           {
-            "source": "The GitHub Blog",
-            "when": "7 Nov 2026",
-            "point": "Copilot code review: API management and review overview updates The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcXo3N09iUUg2M3dlVkJscjdGbDJFS0w2cWlSR1BRRHFoLU9QcC1wUHo2VTRULUxlaE1pVk9teXpPSy1lTi1mTy1BM3dESDkydk5NdTZGWk1TYVdzay1TMkItWEM5YUFvYnZOQ05kZHNrNDQ4YXM0X3NyVEFRcVlJSnViQmg2QUpWUUVWa2MyZ2l1ckdfcndrQjRLZjFEYXVzYXVfYjlVTQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "PPC Land",
+            "when": "8 Nov 2026",
+            "point": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFkc1U5VTNxMEhodUNiWFIwUFM1aUdqd0hUSDFFbjlJVll1b2xWdUhLdVVuN05EVDlKQWpoc0hSMDJISHFYYmktMXpObUdhdFl1eDRwd0tGV0hMTFZrVUtXV29Ia3M3RzkzYXNrWnUtUkhTYUNhZUFBQzNUT3NwUnBrUnZBSUVBMHVsWGhmOGpyQVU?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "The GitHub Blog",
-            "when": "7 Nov 2026",
-            "point": "Copilot impact dashboard adds chat and VS Code agent usage The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTENtLVhGRk9DY2xELTQ0Y1BiRm5BbjEyR3dNMUtZUjdrZXlGY2k4cHc4U19wSWwyaFJZUzZwd3FfaGFvWGFTWEpJNDItdEp3a3JMUXpYVFNtM3ZDazVNOGMwT2VLRzZOdHlwUlR0M0JSeXdhM19sX0NGSW1NelZsTVJRV2FoM1k0S2NlUl9QNVM5S3g0a0RXQ0xaTTJoS2ttNXc?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "PPC Land",
+            "when": "8 Nov 2026",
+            "point": "Google ties consistent PMax spend to 15 conversions every 30 days PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmlybDJlS0JRX0cxQVpJVC0tOUh2b0p4amlZaDRGR0lRM19ySUlIZXJ0d09rcGNlWkRtZFNHQjdPb05ubnh0dkNmYUdRckhvY296Uk15Sm1Pd0dnOVJ3V1dDTHR5cG5EVVNyZXJFM3pQSHUtTVM3NjkyakEwYm9VX2oxZ0RhZFhOTm9r?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "The GitHub Blog",
+            "source": "Google Help",
             "when": "7 Nov 2026",
-            "point": "GitHub Copilot weekly releases — November 2 The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWUwdGpqTmQzWHFCUWlWaE5Ka2ZWQmtrUnREVVR1N1VfY2hYVURxOVBRdUNzZHFnM2N5elFoMWJKbGt5QnAyRFpsOTkxd0J3R0lrMG8xeEtyOUJ1UGZUQWZidHV5MmU4RDh3cW5Tc3NvdEpwUEhNbVJhLVBQeVFac0l4TUdObm9QMmdv?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "The GitHub Blog",
+            "source": "ContentGrip",
             "when": "7 Nov 2026",
-            "point": "@GitHub in Slack and Teams is generally available and more The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1U0bzRLWXk3dlVienAyZmdISlNOajhZbkFxOTRUUTdQUzZVcHQ5NnRPT1dGNDFjQ3ZLc3hWRy1XUlN0Y1laMVpOSzk5dmNGZ2J0Yk9lZld3WndYMlNTSDdGam1BOFVPYng0TEd6UmFnaUVZbG9GdW5IWDhNNl95YjFRZ3diNXFITnM3SjhaOGplcFlaZDJIRjhhc1NDcXc?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Amazon tests Alexa shopping ads by text ContentGrip",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xZ19sQUJMSjNRX2Y1S0FNQWxpUXRJYWQ0bjd6V3Rtd1NEQW80eGk1Uzd4blppbUc2cTFhSHZ3UUR4YWRFWW15R2lwRndGY2kyRHVCVjUyVmJUSkxkNnFWU3hLd2dXc0d5ci1B?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

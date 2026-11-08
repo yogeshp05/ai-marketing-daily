@@ -1,5 +1,5 @@
 {
-  "date": "8 November 2026",
+  "date": "9 November 2026",
   "lead": {
     "title": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
     "deck": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -11,10 +11,7 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
-    "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "Wanaka Studio AI 3D game builder - Dynamic Business",
-    "Amazon tests Alexa shopping ads by text - ContentGrip",
-    "Rainbrand brand management for AI workflows - Dynamic Business",
     "Google ties consistent PMax spend to 15 conversions every 30 days - PPC Land"
   ],
   "sections": [
@@ -27,14 +24,6 @@
           "source": "PPC Land",
           "when": "8 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFkc1U5VTNxMEhodUNiWFIwUFM1aUdqd0hUSDFFbjlJVll1b2xWdUhLdVVuN05EVDlKQWpoc0hSMDJISHFYYmktMXpObUdhdFl1eDRwd0tGV0hMTFZrVUtXV29Ia3M3RzkzYXNrWnUtUkhTYUNhZUFBQzNUT3NwUnBrUnZBSUVBMHVsWGhmOGpyQVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
-          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "7 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -84,7 +73,8 @@
           "source": "ContentGrip",
           "when": "7 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xZ19sQUJMSjNRX2Y1S0FNQWxpUXRJYWQ0bjd6V3Rtd1NEQW80eGk1Uzd4blppbUc2cTFhSHZ3UUR4YWRFWW15R2lwRndGY2kyRHVCVjUyVmJUSkxkNnFWU3hLd2dXc0d5ci1B?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -189,7 +179,8 @@
           "source": "Dynamic Business",
           "when": "7 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGR5aGF3TTljc2hFSDZHNC1uSTE5MW56clQxVnVaV0Nrd0ozR1p5cGVXUUhpSjJvRFgxeWVOVlk4SnFKX1hLbHEtRjd4bEtyOE50NUg1QmtPb0pxVm4ydW5tY3c4WmVjeWZuLU5fVmhQSnR5V0lXVDZqMUw4Ri1LWUZ6T2dSUldyOHZZTkxB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -213,16 +204,10 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
+        "topic": "Google ties consistent PMax spend to 15 conversions every 30 days - PPC Land",
         "status": "Cross-source coverage",
-        "common_context": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land",
+        "common_context": "Google ties consistent PMax spend to 15 conversions every 30 days PPC Land",
         "unique_points": [
-          {
-            "source": "PPC Land",
-            "when": "8 Nov 2026",
-            "point": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFkc1U5VTNxMEhodUNiWFIwUFM1aUdqd0hUSDFFbjlJVll1b2xWdUhLdVVuN05EVDlKQWpoc0hSMDJISHFYYmktMXpObUdhdFl1eDRwd0tGV0hMTFZrVUtXV29Ia3M3RzkzYXNrWnUtUkhTYUNhZUFBQzNUT3NwUnBrUnZBSUVBMHVsWGhmOGpyQVU?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
           {
             "source": "PPC Land",
             "when": "8 Nov 2026",
@@ -230,36 +215,10 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmlybDJlS0JRX0cxQVpJVC0tOUh2b0p4amlZaDRGR0lRM19ySUlIZXJ0d09rcGNlWkRtZFNHQjdPb05ubnh0dkNmYUdRckhvY296Uk15Sm1Pd0dnOVJ3V1dDTHR5cG5EVVNyZXJFM3pQSHUtTVM3NjkyakEwYm9VX2oxZ0RhZFhOTm9r?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Google Help",
-            "when": "7 Nov 2026",
-            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "ContentGrip",
-            "when": "7 Nov 2026",
-            "point": "Amazon tests Alexa shopping ads by text ContentGrip",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xZ19sQUJMSjNRX2Y1S0FNQWxpUXRJYWQ0bjd6V3Rtd1NEQW80eGk1Uzd4blppbUc2cTFhSHZ3UUR4YWRFWW15R2lwRndGY2kyRHVCVjUyVmJUSkxkNnFWU3hLd2dXc0d5ci1B?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Wanaka Studio AI 3D game builder - Dynamic Business",
-        "status": "Cross-source coverage",
-        "common_context": "Wanaka Studio AI 3D game builder Dynamic Business",
-        "unique_points": [
-          {
-            "source": "Dynamic Business",
-            "when": "7 Nov 2026",
-            "point": "Wanaka Studio AI 3D game builder Dynamic Business",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RVFRzMlRCcWdiaEhVS0xId1dtR1YtTUQ0R0ZjUWNVbWtSdlBuNmM2b0VHSjE0N2RMSkk1RE9XaGhsd2c3Tzdsby1tYnJIQWtCYVFXaHl2UDQxNWlMWE92NHB5aUp3aHhOMVJuVUo2anEzVFIxcDFqN29jQ2k5ZDQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Dynamic Business",
-            "when": "7 Nov 2026",
-            "point": "Rainbrand brand management for AI workflows Dynamic Business",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGR5aGF3TTljc2hFSDZHNC1uSTE5MW56clQxVnVaV0Nrd0ozR1p5cGVXUUhpSjJvRFgxeWVOVlk4SnFKX1hLbHEtRjd4bEtyOE50NUg1QmtPb0pxVm4ydW5tY3c4WmVjeWZuLU5fVmhQSnR5V0lXVDZqMUw4Ri1LWUZ6T2dSUldyOHZZTkxB?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "PPC Land",
+            "when": "8 Nov 2026",
+            "point": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFkc1U5VTNxMEhodUNiWFIwUFM1aUdqd0hUSDFFbjlJVll1b2xWdUhLdVVuN05EVDlKQWpoc0hSMDJISHFYYmktMXpObUdhdFl1eDRwd0tGV0hMTFZrVUtXV29Ia3M3RzkzYXNrWnUtUkhTYUNhZUFBQzNUT3NwUnBrUnZBSUVBMHVsWGhmOGpyQVU?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

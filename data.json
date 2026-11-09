@@ -1,18 +1,20 @@
 {
   "date": "9 November 2026",
   "lead": {
-    "title": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
-    "deck": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFkc1U5VTNxMEhodUNiWFIwUFM1aUdqd0hUSDFFbjlJVll1b2xWdUhLdVVuN05EVDlKQWpoc0hSMDJISHFYYmktMXpObUdhdFl1eDRwd0tGV0hMTFZrVUtXV29Ia3M3RzkzYXNrWnUtUkhTYUNhZUFBQzNUT3NwUnBrUnZBSUVBMHVsWGhmOGpyQVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "PPC Land",
-    "when": "8 Nov 2026",
+    "title": "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence - The Globe and Mail",
+    "deck": "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence The Globe and Mail. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVDhoRGU5b19TWXNSV2F0aFZ4WTlvclNFT3drN3lQaURBSXM5SlpvMXc5RjUtX2ktWThyMS0wOVlSbGthRTM1VzYtZVJEMndSVjhScHlXWkNnLUwtb3VnWFBpSms4QVE5RUowcVJtYzhVWlRXcEJma3hfU2JMek9TYzN3VW5MeHJiVWw1WTJLaEFPUHdGaDJaNk55WHVUYXo3NlR3bG9vNVJ1ZmNlemZSaF83bEFkeWdGVmhoNE1DZlVmemZ1cXJKTi1zR21FYjkwS2V0V01oMkpsUmFWY2lLSEZsbE9KTUZ0dmNBVnFPWnJaYUFPdUdWV1V0MXJLcmtSa3dBcDRjOVJiMDd1YjF5MlY3UjlYMnFN?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "The Globe and Mail",
+    "when": "9 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence - The Globe and Mail",
+    "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 20 - Benzinga",
     "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
-    "Google Launches Gemini Omni 1.2 Flash With 15-Second AI Video Generation And 30% Lower Pricing - Pulse 2.0",
-    "Wanaka Studio AI 3D game builder - Dynamic Business",
+    "AI Agents Need Live Social Data. Social Fetch Wants to Be the Pipe. - Big News Network.com",
+    "OpenAI, Google, Microsoft, and Anthropic Back Unified AI Training Opt-Out in Robots.txt - OpenTools",
     "Google ties consistent PMax spend to 15 conversions every 30 days - PPC Land"
   ],
   "sections": [
@@ -148,11 +150,35 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Wanaka Studio AI 3D game builder - Dynamic Business",
-          "summary": "Wanaka Studio AI 3D game builder Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Dynamic Business",
-          "when": "7 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RVFRzMlRCcWdiaEhVS0xId1dtR1YtTUQ0R0ZjUWNVbWtSdlBuNmM2b0VHSjE0N2RMSkk1RE9XaGhsd2c3Tzdsby1tYnJIQWtCYVFXaHl2UDQxNWlMWE92NHB5aUp3aHhOMVJuVUo2anEzVFIxcDFqN29jQ2k5ZDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence - The Globe and Mail",
+          "summary": "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence The Globe and Mail. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Globe and Mail",
+          "when": "9 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVDhoRGU5b19TWXNSV2F0aFZ4WTlvclNFT3drN3lQaURBSXM5SlpvMXc5RjUtX2ktWThyMS0wOVlSbGthRTM1VzYtZVJEMndSVjhScHlXWkNnLUwtb3VnWFBpSms4QVE5RUowcVJtYzhVWlRXcEJma3hfU2JMek9TYzN3VW5MeHJiVWw1WTJLaEFPUHdGaDJaNk55WHVUYXo3NlR3bG9vNVJ1ZmNlemZSaF83bEFkeWdGVmhoNE1DZlVmemZ1cXJKTi1zR21FYjkwS2V0V01oMkpsUmFWY2lLSEZsbE9KTUZ0dmNBVnFPWnJaYUFPdUdWV1V0MXJLcmtSa3dBcDRjOVJiMDd1YjF5MlY3UjlYMnFN?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 20 - Benzinga",
+          "summary": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 20 Benzinga. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Benzinga",
+          "when": "9 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWUFGU0JWbF9vWlRMRWNIRElpakZ6UVBJQ21YcE9OeUpCdzRjSjlHWEtpU1pKc0gxVHN0eF93Rkx0QVgtUmR2YnE3aGNybGpTc0pCN0h2eXpkbzVEUDV5U3ltMTZNaEVTR25vT0d6V3ExMlFpUWtadk9nN09wMENPWUlJckNJcDlxSUVVeE1lN1N1WDRrYW5rQmNXTTdCLUU3QnRGRy1tMFl4MmgxRDB1elo2bzZqQTVZeklneGdpODUxQWJaVzVBUnBpUHZvVHFxVXJwaW0zV2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "AI Agents Need Live Social Data. Social Fetch Wants to Be the Pipe. - Big News Network.com",
+          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Big News Network.com",
+          "when": "9 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWTBZOGxtUXU4Sm00bXpNVnBCNVl6dl9zdFk5RE1LWjQ0cHFmSzNEdjQ1YTdobExtcXE0NWw1Z1hwc0tRcllDdTZBMTU5eklNbDkzMEJZNzlWTElvYjhoaUJoRFA0bWVLZVNvb0JMTjBtMnhsNmFETzNNeXFPOE9HRUVRdUtyM05XYVhaLThzam5EMEtXdUpjUk0zWlZmaHlQWmprSUZXalpVb3BHMXBfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "OpenAI, Google, Microsoft, and Anthropic Back Unified AI Training Opt-Out in Robots.txt - OpenTools",
+          "summary": "OpenAI, Google, Microsoft, and Anthropic Back Unified AI Training Opt-Out in Robots.txt OpenTools. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenTools",
+          "when": "9 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLU9WaVlOY093T0Y2bVZfQ25zNFY1R0ZqemYtUjlia1czQ2xQbGxnLWRjTHhZczl4TThWX0NCSmtfcGNveFBzaXliclRzalUzbUlrbmZPUnRFTk9DaWtwbjNzbTVGU2dkejZJRUlPTm90X013NFhSc2V5SV9jeUNLWFNFSjc0aE9SSjlrOUtLaldsR1N6?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -166,7 +192,8 @@
           "source": "Pulse 2.0",
           "when": "8 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVU5aa0xza05YNEhXS2dhMmp5c2ZuZjBxTHI1NGM4S2ZHM2ZyVl9oNzVrVU94NG9jMGZpUVVvdnlXRXlQU1FtczdKa0M2VTFvQjJ1T3hmTzJyejVhY0VVWUdMU3NHc3J0WlhMbVgtWldwajNkRU96QThRd2stM0x0WVpiTW9uWG1vam9tV1ByTHl0VDJ6ckFlTE4talFJakwySzNHem44MGtFRkRPZWVob2hKOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },

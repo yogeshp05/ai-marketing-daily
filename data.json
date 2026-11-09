@@ -1,5 +1,5 @@
 {
-  "date": "9 November 2026",
+  "date": "10 November 2026",
   "lead": {
     "title": "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence - The Globe and Mail",
     "deck": "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence The Globe and Mail. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -11,11 +11,13 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence - The Globe and Mail",
-    "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 20 - Benzinga",
+    "Google Ads MCP server gains 4 write tools, still can't change budgets - PPC Land",
+    "Bing Ads At Top Of AI Mode Results - Search Engine Roundtable",
+    "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - Benzinga",
     "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
-    "AI Agents Need Live Social Data. Social Fetch Wants to Be the Pipe. - Big News Network.com",
-    "OpenAI, Google, Microsoft, and Anthropic Back Unified AI Training Opt-Out in Robots.txt - OpenTools",
-    "Google ties consistent PMax spend to 15 conversions every 30 days - PPC Land"
+    "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns - PPC Land",
+    "CreatorDB: API & MCP - Data Infrastructure for the New Creator Economy - 巴士的報",
+    "AI Agents Need Live Social Data. Social Fetch Wants to Be the Pipe. - Big News Network.com"
   ],
   "sections": [
     {
@@ -27,6 +29,14 @@
           "source": "PPC Land",
           "when": "8 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFkc1U5VTNxMEhodUNiWFIwUFM1aUdqd0hUSDFFbjlJVll1b2xWdUhLdVVuN05EVDlKQWpoc0hSMDJISHFYYmktMXpObUdhdFl1eDRwd0tGV0hMTFZrVUtXV29Ia3M3RzkzYXNrWnUtUkhTYUNhZUFBQzNUT3NwUnBrUnZBSUVBMHVsWGhmOGpyQVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google moves Demand Gen Display opt-out to ad groups from December 1 - PPC Land",
+          "summary": "Google moves Demand Gen Display opt-out to ad groups from December 1 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeENfZ3p6ZUF5UHlsLVlNS0RRbmtkVVliRDM5bVNvOGZBbUtXODRDNkhsQXdaNEpIQlBNMzNTcEtWdm1NN2wxclNoT2g3RkV0TERYYm1FTndOa3QxalRldklnSk9zVmJVTWpYY00xTEhhd0FKQXJLRi02TzV3UTJkN05ZdHZ0aVE1amJCNElOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -43,13 +53,20 @@
       "name": "Microsoft Ads",
       "stories": [
         {
-          "title": "Adobe CX Coworker reaches ChatGPT and Copilot - ContentGrip",
-          "summary": "Adobe CX Coworker reaches ChatGPT and Copilot ContentGrip. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "ContentGrip",
-          "when": "6 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40WWsxLVA1cFloUzhRTG5HRU1WaFBxVzRSWlBKS1RyMGI4UW5sR0ZlOVQwMmtrUHpWR0JJN0ZZYjBJcHNudDFzVVRrVE9jWmFWTDNIMU9XZzdHV0UwNWpSQUNtQ0hWdVRoX0tN?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Bing Ads At Top Of AI Mode Results - Search Engine Roundtable",
+          "summary": "Bing Ads At Top Of AI Mode Results Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Roundtable",
+          "when": "9 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xQkdoMDZsN25TNDM4em1rRDlXR1duX0xlbmxXSURkYUljYjgwNnFRcGlEMks0NnV6U2RYczYtVGwzUy00WTFpemFXd19tbFlIRHgwcjdiOW9iN3lVeUdOMVE3bk00VUJmUFVCUlBUX05FcHlyMzNF?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns - PPC Land",
+          "summary": "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0Jlakt2cUlVU3JLQnhSVTJjeHh0dXFkc0E5eHhIOTF5YUg4Y01oRWtyVFNRbFJfSzl1ZF9GLVlSQkZMRVFwQ0pJVE1KQjhUb0NsMHppOGthU3dfYm9xU2xxdEp6S3ZYeHRYMTBkdEczenYyYk55MGxWZVFTMDBDZmhZQkhWTXp5UVBwRWt0NEFUN0tR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -57,13 +74,12 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "Design the Muse App, Just for You - Facebook",
-          "summary": "Design the Muse App, Just for You Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "Expanding Teen Account Protections to Teens Around the World - Facebook",
+          "summary": "Expanding Teen Account Protections to Teens Around the World Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Facebook",
-          "when": "6 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yWi0wcDNKVHpGWlZzQ3ZNdHBJb05yZ1MwMEc4OFVGR2Z6Z1gwTkZqZkk1SUtrTmxlcm5sbXMwa2NNd2IwWDVPRU9NVlR2cEZkNWdmYnFER3lpd0NsVUJhSmMxYXNUMWF4NFV4WndUakhYeGZZdHN6UGlLeVPSAYIBQVVfeXFMTkw4bDNDcHIySjhfMl9zOU5EWDJ5dVhWZjEwanF2SkYtQjViMHQ2REJvQ2RiYlBWTWNkd0dkNFFLSktOdjQ1Wk1iSmNBb01XZko2Yk1XMXIzY0x3eWJqSFFRWXlLRUhPeGI2enJJTm9yUEhQWmk0T0JfRk9Ub1poVU9yZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "when": "9 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzk0LTBCZUxUS1lfM3JQNGthcHdENnhqeGU2ekw1cnB6VDZGRjg0Ym1KQmNFbEpsUkJvZHUzSV84bE1iczE0RUp6UWFZeks4UjVHNkVUY0Jnb0RiY3B1NDhsSmZQcDFxQ05qWkVMOHlXZXVRYndMM0dqdkVjWF9vdFA4eWtqMTFLR0haWGZuN0pUVmdwTHNWMnZQc9IBoAFBVV95cUxPRGZQZ2hTRGZBRm1UVzNHUzBfbDdZUDBTc1ZsLU4yZHc1VDI4U1pyNXdDQkZqUW1tQlJySHlpSnRsZ0FoVGlVOGMxY0xVNlJHdU14LVpsOUs5ampQZ2xJSG1rRkNOTUNfeERIUjBaSzItbEpIcHh5N1VjVlFXT05KeXJmMGgtcnFMQ2xILW9uLTZEWmthYzBqRFNzUjhmQlYz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -158,27 +174,27 @@
           "image": ""
         },
         {
-          "title": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 20 - Benzinga",
-          "summary": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 20 Benzinga. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "title": "Google Ads MCP server gains 4 write tools, still can't change budgets - PPC Land",
+          "summary": "Google Ads MCP server gains 4 write tools, still can't change budgets PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PPC Land",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNei1rRGM4LThOdUdrWEE1OXp4ajRKQ2EyM0ZEUkxmdUZ5cGhXVURPTl9YbzlWLUJLa0JfbzVaSGhqeGJhMjN2eTZYV05MQ2dVaTdieWc4RlBSelNBY3Ryc19CbkVQUVplSTkzSEp1Y0RMSjFDanhkcldwcUhXQ3NQcnlqcnZWYUJsakQ5dXNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - Benzinga",
+          "summary": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 Benzinga. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Benzinga",
           "when": "9 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWUFGU0JWbF9vWlRMRWNIRElpakZ6UVBJQ21YcE9OeUpCdzRjSjlHWEtpU1pKc0gxVHN0eF93Rkx0QVgtUmR2YnE3aGNybGpTc0pCN0h2eXpkbzVEUDV5U3ltMTZNaEVTR25vT0d6V3ExMlFpUWtadk9nN09wMENPWUlJckNJcDlxSUVVeE1lN1N1WDRrYW5rQmNXTTdCLUU3QnRGRy1tMFl4MmgxRDB1elo2bzZqQTVZeklneGdpODUxQWJaVzVBUnBpUHZvVHFxVXJwaW0zV2s?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "AI Agents Need Live Social Data. Social Fetch Wants to Be the Pipe. - Big News Network.com",
-          "summary": ". For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Big News Network.com",
-          "when": "9 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWTBZOGxtUXU4Sm00bXpNVnBCNVl6dl9zdFk5RE1LWjQ0cHFmSzNEdjQ1YTdobExtcXE0NWw1Z1hwc0tRcllDdTZBMTU5eklNbDkzMEJZNzlWTElvYjhoaUJoRFA0bWVLZVNvb0JMTjBtMnhsNmFETzNNeXFPOE9HRUVRdUtyM05XYVhaLThzam5EMEtXdUpjUk0zWlZmaHlQWmprSUZXalpVb3BHMXBfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "OpenAI, Google, Microsoft, and Anthropic Back Unified AI Training Opt-Out in Robots.txt - OpenTools",
-          "summary": "OpenAI, Google, Microsoft, and Anthropic Back Unified AI Training Opt-Out in Robots.txt OpenTools. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenTools",
-          "when": "9 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLU9WaVlOY093T0Y2bVZfQ25zNFY1R0ZqemYtUjlia1czQ2xQbGxnLWRjTHhZczl4TThWX0NCSmtfcGNveFBzaXliclRzalUzbUlrbmZPUnRFTk9DaWtwbjNzbTVGU2dkejZJRUlPTm90X013NFhSc2V5SV9jeUNLWFNFSjc0aE9SSjlrOUtLaldsR1N6?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns - PPC Land",
+          "summary": "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PPC Land",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0Jlakt2cUlVU3JLQnhSVTJjeHh0dXFkc0E5eHhIOTF5YUg4Y01oRWtyVFNRbFJfSzl1ZF9GLVlSQkZMRVFwQ0pJVE1KQjhUb0NsMHppOGthU3dfYm9xU2xxdEp6S3ZYeHRYMTBkdEczenYyYk55MGxWZVFTMDBDZmhZQkhWTXp5UVBwRWt0NEFUN0tR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -192,8 +208,7 @@
           "source": "Pulse 2.0",
           "when": "8 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVU5aa0xza05YNEhXS2dhMmp5c2ZuZjBxTHI1NGM4S2ZHM2ZyVl9oNzVrVU94NG9jMGZpUVVvdnlXRXlQU1FtczdKa0M2VTFvQjJ1T3hmTzJyejVhY0VVWUdMU3NHc3J0WlhMbVgtWldwajNkRU96QThRd2stM0x0WVpiTW9uWG1vam9tV1ByTHl0VDJ6ckFlTE4talFJakwySzNHem44MGtFRkRPZWVob2hKOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "image": ""
         }
       ]
     },
@@ -201,13 +216,28 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "Rainbrand brand management for AI workflows - Dynamic Business",
-          "summary": "Rainbrand brand management for AI workflows Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Dynamic Business",
-          "when": "7 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGR5aGF3TTljc2hFSDZHNC1uSTE5MW56clQxVnVaV0Nrd0ozR1p5cGVXUUhpSjJvRFgxeWVOVlk4SnFKX1hLbHEtRjd4bEtyOE50NUg1QmtPb0pxVm4ydW5tY3c4WmVjeWZuLU5fVmhQSnR5V0lXVDZqMUw4Ri1LWUZ6T2dSUldyOHZZTkxB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "CreatorDB: API & MCP - Data Infrastructure for the New Creator Economy - 巴士的報",
+          "summary": "CreatorDB: API & MCP - Data Infrastructure for the New Creator Economy 巴士的報. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "巴士的報",
+          "when": "9 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVhFYi14U2ZXVGRIcm51UmgxUHRYT1JFLXNScG1vcXNfdjZGODRWcm9wbFJfa1V1VTUtMU5OZHlzQmZ2ZXJTM0pDbllhRUJubWlCb19EdmxDZ0toYkpJT2I4RFcyOXBHNUQ2UEJfOFBJYkU1OEdHMl9iTGZYZGJuN2Q5ZjdPSWItVEdrSW1ZeEhFaGUzMS1BVXMyUkFmWGZrQ25sVWhBSGtDSXNVWDlwNlp2SGQtUldt?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Red Hat OpenShift 5 Transforms Hybrid Cloud Operations with Real-Time Intelligence and Zero Trust Security - 01net",
+          "summary": "Red Hat OpenShift 5 Transforms Hybrid Cloud Operations with Real-Time Intelligence and Zero Trust Security 01net. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "01net",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYnd1eDZpdVhPUFVwZnY1Nl9QMG1FUlJxaTNka0FNSnhxTmxTblIwMm5ReUZ0MFItT0syWkZteElvT0d3MW5ZdWNZSEw4emtCZjhEUU50OUdLQzNvOGUtRnl0QXZaUnFxdGYtREJjQU45Um91ck9aVDRXanI3VERhX0RQVzlieTVuX0JLVVprVndvRFQ5b242NEdmbTJLZGg1aEgzY1I5MTlLdzI5dUxMQjZtMlBVbllNNldCdEE5eTJzZUl5eGlF?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "CLAUDE Code Course Starts Today at 8 30 PM EST - GreatAndhra",
+          "summary": "CLAUDE Code Course Starts Today at 8 30 PM EST GreatAndhra. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "GreatAndhra",
+          "when": "9 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHk0RjFIRmlseEwzS2JmTUJPNWhpN0pjQUdUclJuS1ZBMDlhZGJhSUt3d1FZZVF4cVRxai0tMEswVndnelI4cXJ3UWg0T3hRQVpFeHRhVE14RGZjSS0tNDM5dUFfbS0zdWduWXFoTkdNMDJpS3FpNTBDaWpVdFE1RVZUSFI1S083VzdSLUhjNGJFaFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -231,21 +261,33 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Google ties consistent PMax spend to 15 conversions every 30 days - PPC Land",
+        "topic": "Google Ads MCP server gains 4 write tools, still can't change budgets - PPC Land",
         "status": "Cross-source coverage",
-        "common_context": "Google ties consistent PMax spend to 15 conversions every 30 days PPC Land",
+        "common_context": "Google Ads MCP server gains 4 write tools, still can't change budgets PPC Land",
         "unique_points": [
           {
             "source": "PPC Land",
-            "when": "8 Nov 2026",
-            "point": "Google ties consistent PMax spend to 15 conversions every 30 days PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmlybDJlS0JRX0cxQVpJVC0tOUh2b0p4amlZaDRGR0lRM19ySUlIZXJ0d09rcGNlWkRtZFNHQjdPb05ubnh0dkNmYUdRckhvY296Uk15Sm1Pd0dnOVJ3V1dDTHR5cG5EVVNyZXJFM3pQSHUtTVM3NjkyakEwYm9VX2oxZ0RhZFhOTm9r?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "when": "10 Nov 2026",
+            "point": "Google Ads MCP server gains 4 write tools, still can't change budgets PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNei1rRGM4LThOdUdrWEE1OXp4ajRKQ2EyM0ZEUkxmdUZ5cGhXVURPTl9YbzlWLUJLa0JfbzVaSGhqeGJhMjN2eTZYV05MQ2dVaTdieWc4RlBSelNBY3Ryc19CbkVQUVplSTkzSEp1Y0RMSjFDanhkcldwcUhXQ3NQcnlqcnZWYUJsakQ5dXNR?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "PPC Land",
-            "when": "8 Nov 2026",
-            "point": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFkc1U5VTNxMEhodUNiWFIwUFM1aUdqd0hUSDFFbjlJVll1b2xWdUhLdVVuN05EVDlKQWpoc0hSMDJISHFYYmktMXpObUdhdFl1eDRwd0tGV0hMTFZrVUtXV29Ia3M3RzkzYXNrWnUtUkhTYUNhZUFBQzNUT3NwUnBrUnZBSUVBMHVsWGhmOGpyQVU?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "when": "10 Nov 2026",
+            "point": "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0Jlakt2cUlVU3JLQnhSVTJjeHh0dXFkc0E5eHhIOTF5YUg4Y01oRWtyVFNRbFJfSzl1ZF9GLVlSQkZMRVFwQ0pJVE1KQjhUb0NsMHppOGthU3dfYm9xU2xxdEp6S3ZYeHRYMTBkdEczenYyYk55MGxWZVFTMDBDZmhZQkhWTXp5UVBwRWt0NEFUN0tR?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "10 Nov 2026",
+            "point": "Google moves Demand Gen Display opt-out to ad groups from December 1 PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeENfZ3p6ZUF5UHlsLVlNS0RRbmtkVVliRDM5bVNvOGZBbUtXODRDNkhsQXdaNEpIQlBNMzNTcEtWdm1NN2wxclNoT2g3RkV0TERYYm1FTndOa3QxalRldklnSk9zVmJVTWpYY00xTEhhd0FKQXJLRi02TzV3UTJkN05ZdHZ0aVE1amJCNElOZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "OpenTools",
+            "when": "9 Nov 2026",
+            "point": "OpenAI, Google, Microsoft, and Anthropic Back Unified AI Training Opt-Out in Robots.txt OpenTools",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLU9WaVlOY093T0Y2bVZfQ25zNFY1R0ZqemYtUjlia1czQ2xQbGxnLWRjTHhZczl4TThWX0NCSmtfcGNveFBzaXliclRzalUzbUlrbmZPUnRFTk9DaWtwbjNzbTVGU2dkejZJRUlPTm90X013NFhSc2V5SV9jeUNLWFNFSjc0aE9SSjlrOUtLaldsR1N6?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

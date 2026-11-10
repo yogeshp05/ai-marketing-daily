@@ -14,37 +14,21 @@
     "Google Ads MCP server gains 4 write tools, still can't change budgets - PPC Land",
     "Bing Ads At Top Of AI Mode Results - Search Engine Roundtable",
     "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - Benzinga",
-    "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
+    "Microsoft Advertising overhauls interface after advertiser complaints - PPC Land",
     "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns - PPC Land",
-    "CreatorDB: API & MCP - Data Infrastructure for the New Creator Economy - 巴士的報",
-    "AI Agents Need Live Social Data. Social Fetch Wants to Be the Pipe. - Big News Network.com"
+    "Kuken Industries searches 70 years of drawings in minutes - OpenAI",
+    "Shopify AI Search Orders Up 3.3x: What Agencies Should Track - ALM Corp"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 - PPC Land",
-          "summary": "Google Ads Search and Shopping campaigns gain channel reporting in 2027 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
-          "when": "8 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFkc1U5VTNxMEhodUNiWFIwUFM1aUdqd0hUSDFFbjlJVll1b2xWdUhLdVVuN05EVDlKQWpoc0hSMDJISHFYYmktMXpObUdhdFl1eDRwd0tGV0hMTFZrVUtXV29Ia3M3RzkzYXNrWnUtUkhTYUNhZUFBQzNUT3NwUnBrUnZBSUVBMHVsWGhmOGpyQVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Google moves Demand Gen Display opt-out to ad groups from December 1 - PPC Land",
           "summary": "Google moves Demand Gen Display opt-out to ad groups from December 1 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "PPC Land",
           "when": "10 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeENfZ3p6ZUF5UHlsLVlNS0RRbmtkVVliRDM5bVNvOGZBbUtXODRDNkhsQXdaNEpIQlBNMzNTcEtWdm1NN2wxclNoT2g3RkV0TERYYm1FTndOa3QxalRldklnSk9zVmJVTWpYY00xTEhhd0FKQXJLRi02TzV3UTJkN05ZdHZ0aVE1amJCNElOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google ties consistent PMax spend to 15 conversions every 30 days - PPC Land",
-          "summary": "Google ties consistent PMax spend to 15 conversions every 30 days PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
-          "when": "8 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmlybDJlS0JRX0cxQVpJVC0tOUh2b0p4amlZaDRGR0lRM19ySUlIZXJ0d09rcGNlWkRtZFNHQjdPb05ubnh0dkNmYUdRckhvY296Uk15Sm1Pd0dnOVJ3V1dDTHR5cG5EVVNyZXJFM3pQSHUtTVM3NjkyakEwYm9VX2oxZ0RhZFhOTm9r?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -58,6 +42,14 @@
           "source": "Search Engine Roundtable",
           "when": "9 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xQkdoMDZsN25TNDM4em1rRDlXR1duX0xlbmxXSURkYUljYjgwNnFRcGlEMks0NnV6U2RYczYtVGwzUy00WTFpemFXd19tbFlIRHgwcjdiOW9iN3lVeUdOMVE3bk00VUJmUFVCUlBUX05FcHlyMzNF?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Microsoft Advertising overhauls interface after advertiser complaints - PPC Land",
+          "summary": "Microsoft Advertising overhauls interface after advertiser complaints PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTG9wTnVpS3ZGMUdPZm50aGpBa1d3OWFYa3NpWDBNU2t1bkN3N1JNZmVCNDBFNzgwZDNFT29UTTNXMFhIX0JFcE5PQklxOFA3OUNmWTl3bU11U2hZa3BRQ19nNEQ0VHNYanlvbVozYks4OW1iTG14T1Vrd09wS1ZCSEF1TG8tS2hfU05XUmtTTTc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -203,11 +195,11 @@
       "name": "Creative AI & Design",
       "stories": [
         {
-          "title": "Google Launches Gemini Omni 1.2 Flash With 15-Second AI Video Generation And 30% Lower Pricing - Pulse 2.0",
-          "summary": "Google Launches Gemini Omni 1.2 Flash With 15-Second AI Video Generation And 30% Lower Pricing Pulse 2.0. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Pulse 2.0",
-          "when": "8 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVU5aa0xza05YNEhXS2dhMmp5c2ZuZjBxTHI1NGM4S2ZHM2ZyVl9oNzVrVU94NG9jMGZpUVVvdnlXRXlQU1FtczdKa0M2VTFvQjJ1T3hmTzJyejVhY0VVWUdMU3NHc3J0WlhMbVgtWldwajNkRU96QThRd2stM0x0WVpiTW9uWG1vam9tV1ByTHl0VDJ6ckFlTE4talFJakwySzNHem44MGtFRkRPZWVob2hKOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Kuken Industries searches 70 years of drawings in minutes - OpenAI",
+          "summary": "Kuken Industries searches 70 years of drawings in minutes OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBdTZiWjRPOVk3NlhndEVvWE5Db1dkeTk4M3V2M0tYb0VTN3ptZzlHV3I3bmk5MVppNWZhUzk4Sk1DQTg4SEE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -245,13 +237,12 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "AI Co. Launches Agentic Hub as Walmart Opens to AI Agents - Streetwise Reports",
-          "summary": "Launches Agentic Hub as Walmart Opens to AI Agents Streetwise Reports. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Streetwise Reports",
-          "when": "6 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzJIMm82MFBOM2FZSVdRTi1MQ2NGV09UalJmcmF4UGFQNFZseE5LNGlXVmJjX181bFdsS0xvMlJjYlBHMEdaQ1VtcmIxRGY4ZXRFYXA5eTBDaV9lYkRKaHRJekxwbV9aNnFXS2Q4VlFNWTJHVHdnMi0xdlp6SlRFVTZkaE1lQ1BrYjd5d2ptX25GenRBb1Jka3dtM1JoU0lNRlFuUXdPY0FnS2UxZWhUako0RXY?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Shopify AI Search Orders Up 3.3x: What Agencies Should Track - ALM Corp",
+          "summary": "Shopify AI Search Orders Up 3.3x: What Agencies Should Track ALM Corp. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "ALM Corp",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QNEhyd1pYOFZZNEJvSnZleWFZMENyaHF5ajZnTW14SVlHQXJkZXByaFUxa0hHUEFXcnlLYmVVM0E2QnJGSkEwN3VwQlZaZXRwNFFZcHZvRUtfcDFFWFpqdXBzZG1SZFVMakE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     }
@@ -274,6 +265,12 @@
           {
             "source": "PPC Land",
             "when": "10 Nov 2026",
+            "point": "Microsoft Advertising overhauls interface after advertiser complaints PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTG9wTnVpS3ZGMUdPZm50aGpBa1d3OWFYa3NpWDBNU2t1bkN3N1JNZmVCNDBFNzgwZDNFT29UTTNXMFhIX0JFcE5PQklxOFA3OUNmWTl3bU11U2hZa3BRQ19nNEQ0VHNYanlvbVozYks4OW1iTG14T1Vrd09wS1ZCSEF1TG8tS2hfU05XUmtTTTc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "10 Nov 2026",
             "point": "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns PPC Land",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0Jlakt2cUlVU3JLQnhSVTJjeHh0dXFkc0E5eHhIOTF5YUg4Y01oRWtyVFNRbFJfSzl1ZF9GLVlSQkZMRVFwQ0pJVE1KQjhUb0NsMHppOGthU3dfYm9xU2xxdEp6S3ZYeHRYMTBkdEczenYyYk55MGxWZVFTMDBDZmhZQkhWTXp5UVBwRWt0NEFUN0tR?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
@@ -282,12 +279,6 @@
             "when": "10 Nov 2026",
             "point": "Google moves Demand Gen Display opt-out to ad groups from December 1 PPC Land",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeENfZ3p6ZUF5UHlsLVlNS0RRbmtkVVliRDM5bVNvOGZBbUtXODRDNkhsQXdaNEpIQlBNMzNTcEtWdm1NN2wxclNoT2g3RkV0TERYYm1FTndOa3QxalRldklnSk9zVmJVTWpYY00xTEhhd0FKQXJLRi02TzV3UTJkN05ZdHZ0aVE1amJCNElOZw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "OpenTools",
-            "when": "9 Nov 2026",
-            "point": "OpenAI, Google, Microsoft, and Anthropic Back Unified AI Training Opt-Out in Robots.txt OpenTools",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLU9WaVlOY093T0Y2bVZfQ25zNFY1R0ZqemYtUjlia1czQ2xQbGxnLWRjTHhZczl4TThWX0NCSmtfcGNveFBzaXliclRzalUzbUlrbmZPUnRFTk9DaWtwbjNzbTVGU2dkejZJRUlPTm90X013NFhSc2V5SV9jeUNLWFNFSjc0aE9SSjlrOUtLaldsR1N6?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

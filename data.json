@@ -1,23 +1,23 @@
 {
-  "date": "10 November 2026",
+  "date": "11 November 2026",
   "lead": {
-    "title": "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence - The Globe and Mail",
-    "deck": "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence The Globe and Mail. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVDhoRGU5b19TWXNSV2F0aFZ4WTlvclNFT3drN3lQaURBSXM5SlpvMXc5RjUtX2ktWThyMS0wOVlSbGthRTM1VzYtZVJEMndSVjhScHlXWkNnLUwtb3VnWFBpSms4QVE5RUowcVJtYzhVWlRXcEJma3hfU2JMek9TYzN3VW5MeHJiVWw1WTJLaEFPUHdGaDJaNk55WHVUYXo3NlR3bG9vNVJ1ZmNlemZSaF83bEFkeWdGVmhoNE1DZlVmemZ1cXJKTi1zR21FYjkwS2V0V01oMkpsUmFWY2lLSEZsbE9KTUZ0dmNBVnFPWnJaYUFPdUdWV1V0MXJLcmtSa3dBcDRjOVJiMDd1YjF5MlY3UjlYMnFN?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "The Globe and Mail",
-    "when": "9 Nov 2026",
+    "title": "Adobe Unveils AI Agents to Automate Creative and Marketing Tasks - Small Business Trends",
+    "deck": "Adobe Unveils AI Agents to Automate Creative and Marketing Tasks Small Business Trends. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMko3OXdYUU5aUExNekhTTUxMcUZSazItSHZnS1lQd2l0VHo5ajVQdW51UDVfTEpWaUQ3R3NtN1lZYWoxeG5MOUw4WUZqbGxZa0pSaE0wNkdYbm9jTXM2dkdpRmFBWmt4TDhjSmJBeWpDUDUyb1dnSm9sNVVqREtQaTAtRjhud2p1WHFrZHZRamlSeVh6eVV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Small Business Trends",
+    "when": "10 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence - The Globe and Mail",
+    "Adobe Unveils AI Agents to Automate Creative and Marketing Tasks - Small Business Trends",
     "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - StreetInsider",
     "Google Ads MCP server gains 4 write tools, still can't change budgets - PPC Land",
     "Bing Ads At Top Of AI Mode Results - Search Engine Roundtable",
-    "Microsoft Advertising overhauls interface after advertiser complaints - PPC Land",
-    "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns - PPC Land",
-    "Kuken Industries searches 70 years of drawings in minutes - OpenAI",
-    "Shopify AI Search Orders Up 3.3x: What Agencies Should Track - ALM Corp"
+    "Adobe opens Creative Cloud to third-party AI agents - Creative Boom",
+    "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 - Search Engine Journal",
+    "WordPress REST API vs MCP: Application Passwords, OAuth and When You Need Each - Themeisle",
+    "Microsoft Advertising overhauls interface after advertiser complaints - PPC Land"
   ],
   "sections": [
     {
@@ -27,7 +27,7 @@
           "title": "2026 - Google Ads Developer Blog",
           "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Ads Developer Blog",
-          "when": "10 Nov 2026",
+          "when": "9 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TU8xNUpBVzc2ZndSazN4M2gwVHVEdmx2ZldQS0xrUGZ3RzRKcFpxc3pqV2VLNW9aa0FBRFFVWTBJU1l2ZGVoYUxyQXVsUnd1TTJQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
@@ -74,6 +74,14 @@
       "name": "Meta Ads",
       "stories": [
         {
+          "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 - Search Engine Journal",
+          "summary": "Meta Pauses Its Updated Business And Ad Terms Due Nov. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Journal",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUR4cTNfOGZ3TTdSTzRVQ0FRamNKRlQ5S0VNYkN2TVBmbWFkcDdCckdqazVwOXJvd2NKRjJEZWd2a0E1TWt6enVBYS1YU1U5cGJ3LVZSS2JxQ1dON21kQWs2dTVUdENsRHhiWlMwRmE2M05KU1pQczY3NW15YlczTU1GaHNOcUxX?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Meta Andromeda 2.0: What it means for creative strategy - Performance Marketing World",
           "summary": "Meta Andromeda 2.0: What it means for creative strategy Performance Marketing World. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Performance Marketing World",
@@ -100,7 +108,8 @@
           "source": "AIM Media House",
           "when": "9 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk9TS2FvN2NxNVJHNUIwcXozNjRzamlSZ3JVRXFtbEk1dHpEblBjNFRvRG8yOW9FU2p6MnV2LVhwMzBTUnpfZkVoNUJVRWhsNGhZSV9XRE5qazBPS0xEQXNaTWE3WmNmVTN6RVZrM2ZXMEsxdHZ5YnVqZVo3VGF1V1dkcF9pd2t2cS1DcWpJMFhpc3htdGZzdmQybzIzZGZWRHpTZW5nUkhpQzhy?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -173,14 +182,6 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence - The Globe and Mail",
-          "summary": "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence The Globe and Mail. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Globe and Mail",
-          "when": "9 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVDhoRGU5b19TWXNSV2F0aFZ4WTlvclNFT3drN3lQaURBSXM5SlpvMXc5RjUtX2ktWThyMS0wOVlSbGthRTM1VzYtZVJEMndSVjhScHlXWkNnLUwtb3VnWFBpSms4QVE5RUowcVJtYzhVWlRXcEJma3hfU2JMek9TYzN3VW5MeHJiVWw1WTJLaEFPUHdGaDJaNk55WHVUYXo3NlR3bG9vNVJ1ZmNlemZSaF83bEFkeWdGVmhoNE1DZlVmemZ1cXJKTi1zR21FYjkwS2V0V01oMkpsUmFWY2lLSEZsbE9KTUZ0dmNBVnFPWnJaYUFPdUdWV1V0MXJLcmtSa3dBcDRjOVJiMDd1YjF5MlY3UjlYMnFN?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - StreetInsider",
           "summary": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 StreetInsider. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "StreetInsider",
@@ -203,12 +204,36 @@
           "when": "10 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0Jlakt2cUlVU3JLQnhSVTJjeHh0dXFkc0E5eHhIOTF5YUg4Y01oRWtyVFNRbFJfSzl1ZF9GLVlSQkZMRVFwQ0pJVE1KQjhUb0NsMHppOGthU3dfYm9xU2xxdEp6S3ZYeHRYMTBkdEczenYyYk55MGxWZVFTMDBDZmhZQkhWTXp5UVBwRWt0NEFUN0tR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Anthropic has its own AI-powered office suite now - The Verge",
+          "summary": "Anthropic has its own AI-powered office suite now The Verge. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Verge",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjc0QUZNb0FYTVFPN2d1Vld4eTZPWk52NHNKN1Jiblc5MW9ZNkV2Tm0xWU8zR0VtazQ1NV9LQlk2QnJPelVvaXp2QWJDVUxicmowX2Z5TWVhdjE0RlhnanNaSm9ITndEMFpJUjlCUXpVdHljRFY4N2VuRm44cmwxRU1aMnNrTElDeVN3ZGR4YXVBeWNWX29sSzFfYjRlVDNrTEFaU1llSkljU0VQRnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "Adobe Unveils AI Agents to Automate Creative and Marketing Tasks - Small Business Trends",
+          "summary": "Adobe Unveils AI Agents to Automate Creative and Marketing Tasks Small Business Trends. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Small Business Trends",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMko3OXdYUU5aUExNekhTTUxMcUZSazItSHZnS1lQd2l0VHo5ajVQdW51UDVfTEpWaUQ3R3NtN1lZYWoxeG5MOUw4WUZqbGxZa0pSaE0wNkdYbm9jTXM2dkdpRmFBWmt4TDhjSmJBeWpDUDUyb1dnSm9sNVVqREtQaTAtRjhud2p1WHFrZHZRamlSeVh6eVV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Adobe opens Creative Cloud to third-party AI agents - Creative Boom",
+          "summary": "Adobe opens Creative Cloud to third-party AI agents Creative Boom. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Creative Boom",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVNDZU9aNUJOWW9FOTlfLUNqeXoxSEVqMHNoVlVQU29WRDBBN0I3cG9jTS1NT1NvTHlPeENmdVNvaVhQdlFaRlFTUDBZZk02dmg0TmFwZ2RtemkwbzJYTmxJMGJ2QmxuVTNhTzVaNVRsRmZ4UGZlMHJSbXJPOWlNMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Kuken Industries searches 70 years of drawings in minutes - OpenAI",
           "summary": "Kuken Industries searches 70 years of drawings in minutes OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -218,27 +243,11 @@
           "image": ""
         },
         {
-          "title": "Free AI video generator: 5 best tools for beginners - www.daily-sun.com",
-          "summary": "Free AI video generator: 5 best tools for beginners www.daily-sun.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "www.daily-sun.com",
+          "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create - Morningstar",
+          "summary": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create Morningstar. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Morningstar",
           "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVW1SU0k4Y1JieGxWVC11R1lHclFkbEJmSUkwTG5Lb2d2cHl5eGZuNDRGQjJyMHR5SXlvOUNLa0hlWFJLQzRxUUQxWW1pTk9yVTl5VkVEdDlyMTE5N2I3RzZjTExyb3RULWVIQ0NQeXFoMmoycmIxdGhSTXpQLUZmcV91bjA2VXJGUlhnZXVTampSUzFrbjVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Closing the AI guidance gap in education - OpenAI",
-          "summary": "Closing the AI guidance gap in education OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PY2czTVhLaWY0UXdZVW9LX2Rpai1fSlY5d2M4Vm9OeFNHR01YZGlnd3czdzQwMnRxQW5ybHpIUXJGMU1VYWc0Z2ZfcWdaYnpvOXlmQU9MRDRFNzBJRFc3cEt3aVlsenhkb2pB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "How Boulder Small Businesses Can Turn a Product Page Into a Video Ad - aboutboulder.com",
-          "summary": "How Boulder Small Businesses Can Turn a Product Page Into a Video Ad aboutboulder.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "aboutboulder.com",
-          "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2JoVjRrOC12bGxxUXluQ0RNN3dXMDZRMm52cGVDVWgwVzlaVllHbjZWRS1rQ2ctakNkZkdyNTVBU1p1ckNNMFQxSENGNXNDUzNMUmNYV3pfcnpUOFhqdTBtY2p3eGo1MHBhR05RQ3kxejNuczFVZjdka192ZDhmODItNmFOcl9kQmpWU1MxRko0WTRqM0VEbmF6TGZmZDhv?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaE9wWkx3U3o1RmpIZFJpY2FGREtxU3REazNrVVhqTVZ4QUFSZmx6TWtHNG5Wd2s0dDJmYndVYWRPbzVnNUZ3QTEtN1JNOGd3N1hiM1lramtFcjY3alJHM1NiLV9ZNVlKMnE3OTl6djNocEU4VXZ6cmJRcGxwUk0wdjVQbGpwVnEzYlNHeV9NdmJKNXViOTVoOWtMN2E5UFRnQUNXWk9WcXhpenJFQUwyazZJMVZ2bjA2TDhZTWpDRjZ3U3hQRElVWjFyQ0JiMnpMa0d1MlNScVkta1FnazhOMnZWdXBGU1ZwRVUtSnhhUndJV1RRQmFmN0tLWVFvcEE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -246,6 +255,14 @@
     {
       "name": "MarTech & Automation",
       "stories": [
+        {
+          "title": "WordPress REST API vs MCP: Application Passwords, OAuth and When You Need Each - Themeisle",
+          "summary": "WordPress REST API vs MCP: Application Passwords, OAuth and When You Need Each Themeisle. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Themeisle",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wQUIwZVl5SG45Uy03YnlLdmpreW1kVmRfZmpxY3owWjFiQW1aRTdYay1URm9wOUM3VmYwYjM1eVhkNnNnSkc4d21lTzlnakNwbU4xQ2VjOWpqWDItek1QaUk3RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "CreatorDB: API & MCP - Data Infrastructure for the New Creator Economy - 巴士的報",
           "summary": "CreatorDB: API & MCP - Data Infrastructure for the New Creator Economy 巴士的報. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -282,14 +299,6 @@
           "when": "10 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QNEhyd1pYOFZZNEJvSnZleWFZMENyaHF5ajZnTW14SVlHQXJkZXByaFUxa0hHUEFXcnlLYmVVM0E2QnJGSkEwN3VwQlZaZXRwNFFZcHZvRUtfcDFFWFpqdXBzZG1SZFVMakE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "Amazon and Walmart Dominate a $74 Billion Ad Market Built for Human Shoppers - AIM Media House",
-          "summary": "Amazon and Walmart Dominate a $74 Billion Ad Market Built for Human Shoppers AIM Media House. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "AIM Media House",
-          "when": "9 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk9TS2FvN2NxNVJHNUIwcXozNjRzamlSZ3JVRXFtbEk1dHpEblBjNFRvRG8yOW9FU2p6MnV2LVhwMzBTUnpfZkVoNUJVRWhsNGhZSV9XRE5qazBPS0xEQXNaTWE3WmNmVTN6RVZrM2ZXMEsxdHZ5YnVqZVo3VGF1V1dkcF9pd2t2cS1DcWpJMFhpc3htdGZzdmQybzIzZGZWRHpTZW5nUkhpQzhy?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     }
@@ -299,16 +308,42 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "2026 - Google Ads Developer Blog",
+        "topic": "Adobe MAX 2026: Firefly and Premiere mobile to Provide New Ways to Create and Edit Content - No Film School",
         "status": "Cross-source coverage",
-        "common_context": "",
+        "common_context": "Adobe MAX 2026: Firefly and Premiere mobile to Provide New Ways to Create and Edit Content No Film School",
         "unique_points": [
           {
-            "source": "Google Ads Developer Blog",
+            "source": "No Film School",
             "when": "10 Nov 2026",
-            "point": "2026 - Google Ads Developer Blog",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TU8xNUpBVzc2ZndSazN4M2gwVHVEdmx2ZldQS0xrUGZ3RzRKcFpxc3pqV2VLNW9aa0FBRFFVWTBJU1l2ZGVoYUxyQXVsUnd1TTJQUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Adobe MAX 2026: Firefly and Premiere mobile to Provide New Ways to Create and Edit Content No Film School",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95cHFvREN1TGs1UzFfX1NWZ2oxZFBoZE9nX3lLQ2pEU0pCWTNTbHpENHJQS3ZwSmo2bFpiRkhGNjNCOWxFR256ckFLY0MxNWhPWUkwVWFDdmRXYzYyMTBVN2NhenBvV3hsUDkyUWhYVUduc1BC?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
+          {
+            "source": "Small Business Trends",
+            "when": "10 Nov 2026",
+            "point": "Adobe Unveils AI Agents to Automate Creative and Marketing Tasks Small Business Trends",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMko3OXdYUU5aUExNekhTTUxMcUZSazItSHZnS1lQd2l0VHo5ajVQdW51UDVfTEpWaUQ3R3NtN1lZYWoxeG5MOUw4WUZqbGxZa0pSaE0wNkdYbm9jTXM2dkdpRmFBWmt4TDhjSmJBeWpDUDUyb1dnSm9sNVVqREtQaTAtRjhud2p1WHFrZHZRamlSeVh6eVV3?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Performance Marketing World",
+            "when": "10 Nov 2026",
+            "point": "Meta Andromeda 2.0: What it means for creative strategy Performance Marketing World",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd09FTV9UVTRxajBXSU9ETnRJYWlWNDcwcklHZHdPcHd1ZENKUzJIZHhPcG1ZZzN1SXZiNHJFZUE2TXVfcElndXRNM3l6UnZRLVFBY1otalVKZzljNzN1SllHOFBVQ0c4YjI1ekZoejJIRHVYNWlGWU5NNFFjSERzRjEyVzdES29xdWlKUG5hZG1VSWJyZEc1YVEwTWQ5U0lD?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Morningstar",
+            "when": "10 Nov 2026",
+            "point": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaE9wWkx3U3o1RmpIZFJpY2FGREtxU3REazNrVVhqTVZ4QUFSZmx6TWtHNG5Wd2s0dDJmYndVYWRPbzVnNUZ3QTEtN1JNOGd3N1hiM1lramtFcjY3alJHM1NiLV9ZNVlKMnE3OTl6djNocEU4VXZ6cmJRcGxwUk0wdjVQbGpwVnEzYlNHeV9NdmJKNXViOTVoOWtMN2E5UFRnQUNXWk9WcXhpenJFQUwyazZJMVZ2bjA2TDhZTWpDRjZ3U3hQRElVWjFyQ0JiMnpMa0d1MlNScVkta1FnazhOMnZWdXBGU1ZwRVUtSnhhUndJV1RRQmFmN0tLWVFvcEE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Google Ads MCP server gains 4 write tools, still can't change budgets - PPC Land",
+        "status": "Cross-source coverage",
+        "common_context": "Google Ads MCP server gains 4 write tools, still can't change budgets PPC Land",
+        "unique_points": [
           {
             "source": "PPC Land",
             "when": "10 Nov 2026",
@@ -326,26 +361,52 @@
             "when": "10 Nov 2026",
             "point": "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns PPC Land",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0Jlakt2cUlVU3JLQnhSVTJjeHh0dXFkc0E5eHhIOTF5YUg4Y01oRWtyVFNRbFJfSzl1ZF9GLVlSQkZMRVFwQ0pJVE1KQjhUb0NsMHppOGthU3dfYm9xU2xxdEp6S3ZYeHRYMTBkdEczenYyYk55MGxWZVFTMDBDZmhZQkhWTXp5UVBwRWt0NEFUN0tR?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "10 Nov 2026",
+            "point": "Google moves Demand Gen Display opt-out to ad groups from December 1 PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeENfZ3p6ZUF5UHlsLVlNS0RRbmtkVVliRDM5bVNvOGZBbUtXODRDNkhsQXdaNEpIQlBNMzNTcEtWdm1NN2wxclNoT2g3RkV0TERYYm1FTndOa3QxalRldklnSk9zVmJVTWpYY00xTEhhd0FKQXJLRi02TzV3UTJkN05ZdHZ0aVE1amJCNElOZw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Free AI video generator: 5 best tools for beginners - www.daily-sun.com",
+        "topic": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 - Search Engine Journal",
         "status": "Cross-source coverage",
-        "common_context": "Free AI video generator: 5 best tools for beginners www.daily-sun.com",
+        "common_context": "Meta Pauses Its Updated Business And Ad Terms Due Nov.",
         "unique_points": [
           {
-            "source": "www.daily-sun.com",
+            "source": "Search Engine Journal",
             "when": "10 Nov 2026",
-            "point": "Free AI video generator: 5 best tools for beginners www.daily-sun.com",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVW1SU0k4Y1JieGxWVC11R1lHclFkbEJmSUkwTG5Lb2d2cHl5eGZuNDRGQjJyMHR5SXlvOUNLa0hlWFJLQzRxUUQxWW1pTk9yVTl5VkVEdDlyMTE5N2I3RzZjTExyb3RULWVIQ0NQeXFoMmoycmIxdGhSTXpQLUZmcV91bjA2VXJGUlhnZXVTampSUzFrbjVR?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Meta Pauses Its Updated Business And Ad Terms Due Nov.",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUR4cTNfOGZ3TTdSTzRVQ0FRamNKRlQ5S0VNYkN2TVBmbWFkcDdCckdqazVwOXJvd2NKRjJEZWd2a0E1TWt6enVBYS1YU1U5cGJ3LVZSS2JxQ1dON21kQWs2dTVUdENsRHhiWlMwRmE2M05KU1pQczY3NW15YlczTU1GaHNOcUxX?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "aboutboulder.com",
+            "source": "Search Engine Roundtable",
+            "when": "9 Nov 2026",
+            "point": "Bing Ads At Top Of AI Mode Results Search Engine Roundtable",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xQkdoMDZsN25TNDM4em1rRDlXR1duX0xlbmxXSURkYUljYjgwNnFRcGlEMks0NnV6U2RYczYtVGwzUy00WTFpemFXd19tbFlIRHgwcjdiOW9iN3lVeUdOMVE3bk00VUJmUFVCUlBUX05FcHlyMzNF?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "WordPress REST API vs MCP: Application Passwords, OAuth and When You Need Each - Themeisle",
+        "status": "Cross-source coverage",
+        "common_context": "WordPress REST API vs MCP: Application Passwords, OAuth and When You Need Each Themeisle",
+        "unique_points": [
+          {
+            "source": "Themeisle",
             "when": "10 Nov 2026",
-            "point": "How Boulder Small Businesses Can Turn a Product Page Into a Video Ad aboutboulder.com",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2JoVjRrOC12bGxxUXluQ0RNN3dXMDZRMm52cGVDVWgwVzlaVllHbjZWRS1rQ2ctakNkZkdyNTVBU1p1ckNNMFQxSENGNXNDUzNMUmNYV3pfcnpUOFhqdTBtY2p3eGo1MHBhR05RQ3kxejNuczFVZjdka192ZDhmODItNmFOcl9kQmpWU1MxRko0WTRqM0VEbmF6TGZmZDhv?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "WordPress REST API vs MCP: Application Passwords, OAuth and When You Need Each Themeisle",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wQUIwZVl5SG45Uy03YnlLdmpreW1kVmRfZmpxY3owWjFiQW1aRTdYay1URm9wOUM3VmYwYjM1eVhkNnNnSkc4d21lTzlnakNwbU4xQ2VjOWpqWDItek1QaUk3RQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "巴士的報",
+            "when": "9 Nov 2026",
+            "point": "CreatorDB: API & MCP - Data Infrastructure for the New Creator Economy 巴士的報",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVhFYi14U2ZXVGRIcm51UmgxUHRYT1JFLXNScG1vcXNfdjZGODRWcm9wbFJfa1V1VTUtMU5OZHlzQmZ2ZXJTM0pDbllhRUJubWlCb19EdmxDZ0toYkpJT2I4RFcyOXBHNUQ2UEJfOFBJYkU1OEdHMl9iTGZYZGJuN2Q5ZjdPSWItVEdrSW1ZeEhFaGUzMS1BVXMyUkFmWGZrQ25sVWhBSGtDSXNVWDlwNlp2SGQtUldt?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

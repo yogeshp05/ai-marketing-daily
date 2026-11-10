@@ -11,9 +11,9 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "31C Launches MCP ONE Server: AI Agents Join People and Machines as Users of ODUN.ONE Deep Packet Intelligence - The Globe and Mail",
+    "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - StreetInsider",
     "Google Ads MCP server gains 4 write tools, still can't change budgets - PPC Land",
     "Bing Ads At Top Of AI Mode Results - Search Engine Roundtable",
-    "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - Benzinga",
     "Microsoft Advertising overhauls interface after advertiser complaints - PPC Land",
     "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns - PPC Land",
     "Kuken Industries searches 70 years of drawings in minutes - OpenAI",
@@ -23,6 +23,14 @@
     {
       "name": "Google Ads",
       "stories": [
+        {
+          "title": "2026 - Google Ads Developer Blog",
+          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Ads Developer Blog",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TU8xNUpBVzc2ZndSazN4M2gwVHVEdmx2ZldQS0xrUGZ3RzRKcFpxc3pqV2VLNW9aa0FBRFFVWTBJU1l2ZGVoYUxyQXVsUnd1TTJQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Google moves Demand Gen Display opt-out to ad groups from December 1 - PPC Land",
           "summary": "Google moves Demand Gen Display opt-out to ad groups from December 1 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -66,6 +74,14 @@
       "name": "Meta Ads",
       "stories": [
         {
+          "title": "Meta Andromeda 2.0: What it means for creative strategy - Performance Marketing World",
+          "summary": "Meta Andromeda 2.0: What it means for creative strategy Performance Marketing World. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Performance Marketing World",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd09FTV9UVTRxajBXSU9ETnRJYWlWNDcwcklHZHdPcHd1ZENKUzJIZHhPcG1ZZzN1SXZiNHJFZUE2TXVfcElndXRNM3l6UnZRLVFBY1otalVKZzljNzN1SllHOFBVQ0c4YjI1ekZoejJIRHVYNWlGWU5NNFFjSERzRjEyVzdES29xdWlKUG5hZG1VSWJyZEc1YVEwTWQ5U0lD?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Expanding Teen Account Protections to Teens Around the World - Facebook",
           "summary": "Expanding Teen Account Protections to Teens Around the World Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Facebook",
@@ -79,13 +95,12 @@
       "name": "Amazon Ads",
       "stories": [
         {
-          "title": "Amazon tests Alexa shopping ads by text - ContentGrip",
-          "summary": "Amazon tests Alexa shopping ads by text ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ContentGrip",
-          "when": "7 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xZ19sQUJMSjNRX2Y1S0FNQWxpUXRJYWQ0bjd6V3Rtd1NEQW80eGk1Uzd4blppbUc2cTFhSHZ3UUR4YWRFWW15R2lwRndGY2kyRHVCVjUyVmJUSkxkNnFWU3hLd2dXc0d5ci1B?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Amazon and Walmart Dominate a $74 Billion Ad Market Built for Human Shoppers - AIM Media House",
+          "summary": "Amazon and Walmart Dominate a $74 Billion Ad Market Built for Human Shoppers AIM Media House. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "AIM Media House",
+          "when": "9 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk9TS2FvN2NxNVJHNUIwcXozNjRzamlSZ3JVRXFtbEk1dHpEblBjNFRvRG8yOW9FU2p6MnV2LVhwMzBTUnpfZkVoNUJVRWhsNGhZSV9XRE5qazBPS0xEQXNaTWE3WmNmVTN6RVZrM2ZXMEsxdHZ5YnVqZVo3VGF1V1dkcF9pd2t2cS1DcWpJMFhpc3htdGZzdmQybzIzZGZWRHpTZW5nUkhpQzhy?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -166,19 +181,19 @@
           "image": ""
         },
         {
+          "title": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - StreetInsider",
+          "summary": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 StreetInsider. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "StreetInsider",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZmVJcmFoSUVobUtlX1BQV3V4VTRxLUQydTRaR01zR1VxNjhlU1ZzOGRZLUlGVUh2cDg1Y3JMM2k5Tjl1Y0lrN3ZqSDBQQlBITk5aNEk2clJkSW04TzZ1N3ZocXV4Z3BNeTdxV3RFeWhYRURxVzY3UGEyQ0xIU1d0aFhBUmtQV3g1TW5ESEpLRlAtZV90aHVVcF9ZWk92TlJGb3lWQnliaUZLMHVYMVdDTGRJX2Z0Q2RKci0tODM3OVNVSG43bEQzaDlvMGR2X0Y5V3Baa3dReDBGSEw3NFIwcFpsam9XMmFFUndQSGZDZFlyZ3djdnFvVkpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Google Ads MCP server gains 4 write tools, still can't change budgets - PPC Land",
           "summary": "Google Ads MCP server gains 4 write tools, still can't change budgets PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "PPC Land",
           "when": "10 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNei1rRGM4LThOdUdrWEE1OXp4ajRKQ2EyM0ZEUkxmdUZ5cGhXVURPTl9YbzlWLUJLa0JfbzVaSGhqeGJhMjN2eTZYV05MQ2dVaTdieWc4RlBSelNBY3Ryc19CbkVQUVplSTkzSEp1Y0RMSjFDanhkcldwcUhXQ3NQcnlqcnZWYUJsakQ5dXNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - Benzinga",
-          "summary": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 Benzinga. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Benzinga",
-          "when": "9 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWUFGU0JWbF9vWlRMRWNIRElpakZ6UVBJQ21YcE9OeUpCdzRjSjlHWEtpU1pKc0gxVHN0eF93Rkx0QVgtUmR2YnE3aGNybGpTc0pCN0h2eXpkbzVEUDV5U3ltMTZNaEVTR25vT0d6V3ExMlFpUWtadk9nN09wMENPWUlJckNJcDlxSUVVeE1lN1N1WDRrYW5rQmNXTTdCLUU3QnRGRy1tMFl4MmgxRDB1elo2bzZqQTVZeklneGdpODUxQWJaVzVBUnBpUHZvVHFxVXJwaW0zV2s?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -200,6 +215,30 @@
           "source": "OpenAI",
           "when": "10 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBdTZiWjRPOVk3NlhndEVvWE5Db1dkeTk4M3V2M0tYb0VTN3ptZzlHV3I3bmk5MVppNWZhUzk4Sk1DQTg4SEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Free AI video generator: 5 best tools for beginners - www.daily-sun.com",
+          "summary": "Free AI video generator: 5 best tools for beginners www.daily-sun.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "www.daily-sun.com",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVW1SU0k4Y1JieGxWVC11R1lHclFkbEJmSUkwTG5Lb2d2cHl5eGZuNDRGQjJyMHR5SXlvOUNLa0hlWFJLQzRxUUQxWW1pTk9yVTl5VkVEdDlyMTE5N2I3RzZjTExyb3RULWVIQ0NQeXFoMmoycmIxdGhSTXpQLUZmcV91bjA2VXJGUlhnZXVTampSUzFrbjVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Closing the AI guidance gap in education - OpenAI",
+          "summary": "Closing the AI guidance gap in education OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PY2czTVhLaWY0UXdZVW9LX2Rpai1fSlY5d2M4Vm9OeFNHR01YZGlnd3czdzQwMnRxQW5ybHpIUXJGMU1VYWc0Z2ZfcWdaYnpvOXlmQU9MRDRFNzBJRFc3cEt3aVlsenhkb2pB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "How Boulder Small Businesses Can Turn a Product Page Into a Video Ad - aboutboulder.com",
+          "summary": "How Boulder Small Businesses Can Turn a Product Page Into a Video Ad aboutboulder.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "aboutboulder.com",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2JoVjRrOC12bGxxUXluQ0RNN3dXMDZRMm52cGVDVWgwVzlaVllHbjZWRS1rQ2ctakNkZkdyNTVBU1p1ckNNMFQxSENGNXNDUzNMUmNYV3pfcnpUOFhqdTBtY2p3eGo1MHBhR05RQ3kxejNuczFVZjdka192ZDhmODItNmFOcl9kQmpWU1MxRko0WTRqM0VEbmF6TGZmZDhv?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -243,6 +282,14 @@
           "when": "10 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QNEhyd1pYOFZZNEJvSnZleWFZMENyaHF5ajZnTW14SVlHQXJkZXByaFUxa0hHUEFXcnlLYmVVM0E2QnJGSkEwN3VwQlZaZXRwNFFZcHZvRUtfcDFFWFpqdXBzZG1SZFVMakE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Amazon and Walmart Dominate a $74 Billion Ad Market Built for Human Shoppers - AIM Media House",
+          "summary": "Amazon and Walmart Dominate a $74 Billion Ad Market Built for Human Shoppers AIM Media House. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "AIM Media House",
+          "when": "9 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk9TS2FvN2NxNVJHNUIwcXozNjRzamlSZ3JVRXFtbEk1dHpEblBjNFRvRG8yOW9FU2p6MnV2LVhwMzBTUnpfZkVoNUJVRWhsNGhZSV9XRE5qazBPS0xEQXNaTWE3WmNmVTN6RVZrM2ZXMEsxdHZ5YnVqZVo3VGF1V1dkcF9pd2t2cS1DcWpJMFhpc3htdGZzdmQybzIzZGZWRHpTZW5nUkhpQzhy?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     }
@@ -252,10 +299,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Google Ads MCP server gains 4 write tools, still can't change budgets - PPC Land",
+        "topic": "2026 - Google Ads Developer Blog",
         "status": "Cross-source coverage",
-        "common_context": "Google Ads MCP server gains 4 write tools, still can't change budgets PPC Land",
+        "common_context": "",
         "unique_points": [
+          {
+            "source": "Google Ads Developer Blog",
+            "when": "10 Nov 2026",
+            "point": "2026 - Google Ads Developer Blog",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TU8xNUpBVzc2ZndSazN4M2gwVHVEdmx2ZldQS0xrUGZ3RzRKcFpxc3pqV2VLNW9aa0FBRFFVWTBJU1l2ZGVoYUxyQXVsUnd1TTJQUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "PPC Land",
             "when": "10 Nov 2026",
@@ -273,12 +326,26 @@
             "when": "10 Nov 2026",
             "point": "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns PPC Land",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0Jlakt2cUlVU3JLQnhSVTJjeHh0dXFkc0E5eHhIOTF5YUg4Y01oRWtyVFNRbFJfSzl1ZF9GLVlSQkZMRVFwQ0pJVE1KQjhUb0NsMHppOGthU3dfYm9xU2xxdEp6S3ZYeHRYMTBkdEczenYyYk55MGxWZVFTMDBDZmhZQkhWTXp5UVBwRWt0NEFUN0tR?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Free AI video generator: 5 best tools for beginners - www.daily-sun.com",
+        "status": "Cross-source coverage",
+        "common_context": "Free AI video generator: 5 best tools for beginners www.daily-sun.com",
+        "unique_points": [
+          {
+            "source": "www.daily-sun.com",
+            "when": "10 Nov 2026",
+            "point": "Free AI video generator: 5 best tools for beginners www.daily-sun.com",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVW1SU0k4Y1JieGxWVC11R1lHclFkbEJmSUkwTG5Lb2d2cHl5eGZuNDRGQjJyMHR5SXlvOUNLa0hlWFJLQzRxUUQxWW1pTk9yVTl5VkVEdDlyMTE5N2I3RzZjTExyb3RULWVIQ0NQeXFoMmoycmIxdGhSTXpQLUZmcV91bjA2VXJGUlhnZXVTampSUzFrbjVR?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "PPC Land",
+            "source": "aboutboulder.com",
             "when": "10 Nov 2026",
-            "point": "Google moves Demand Gen Display opt-out to ad groups from December 1 PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeENfZ3p6ZUF5UHlsLVlNS0RRbmtkVVliRDM5bVNvOGZBbUtXODRDNkhsQXdaNEpIQlBNMzNTcEtWdm1NN2wxclNoT2g3RkV0TERYYm1FTndOa3QxalRldklnSk9zVmJVTWpYY00xTEhhd0FKQXJLRi02TzV3UTJkN05ZdHZ0aVE1amJCNElOZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "How Boulder Small Businesses Can Turn a Product Page Into a Video Ad aboutboulder.com",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2JoVjRrOC12bGxxUXluQ0RNN3dXMDZRMm52cGVDVWgwVzlaVllHbjZWRS1rQ2ctakNkZkdyNTVBU1p1ckNNMFQxSENGNXNDUzNMUmNYV3pfcnpUOFhqdTBtY2p3eGo1MHBhR05RQ3kxejNuczFVZjdka192ZDhmODItNmFOcl9kQmpWU1MxRko0WTRqM0VEbmF6TGZmZDhv?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

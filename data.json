@@ -14,23 +14,15 @@
     "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - StreetInsider",
     "Google Ads MCP server gains 4 write tools, still can't change budgets - PPC Land",
     "Bing Ads At Top Of AI Mode Results - Search Engine Roundtable",
-    "Adobe opens Creative Cloud to third-party AI agents - Creative Boom",
-    "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 - Search Engine Journal",
-    "WordPress REST API vs MCP: Application Passwords, OAuth and When You Need Each - Themeisle",
-    "Microsoft Advertising overhauls interface after advertiser complaints - PPC Land"
+    "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms - AOL.com",
+    "Adobe Expands Firefly With AI Agents and New Creative Tools - Small Business Trends",
+    "Adobe Expands Creative Cloud AI Agents and Editing Tools - Small Business Trends",
+    "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly - TechCrunch"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
-        {
-          "title": "2026 - Google Ads Developer Blog",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Ads Developer Blog",
-          "when": "9 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TU8xNUpBVzc2ZndSazN4M2gwVHVEdmx2ZldQS0xrUGZ3RzRKcFpxc3pqV2VLNW9aa0FBRFFVWTBJU1l2ZGVoYUxyQXVsUnd1TTJQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "Google moves Demand Gen Display opt-out to ad groups from December 1 - PPC Land",
           "summary": "Google moves Demand Gen Display opt-out to ad groups from December 1 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -206,11 +198,11 @@
           "image": ""
         },
         {
-          "title": "Anthropic has its own AI-powered office suite now - The Verge",
-          "summary": "Anthropic has its own AI-powered office suite now The Verge. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Verge",
+          "title": "10 Generative AI Companies to Know - Built In",
+          "summary": "10 Generative AI Companies to Know Built In. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Built In",
           "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjc0QUZNb0FYTVFPN2d1Vld4eTZPWk52NHNKN1Jiblc5MW9ZNkV2Tm0xWU8zR0VtazQ1NV9LQlk2QnJPelVvaXp2QWJDVUxicmowX2Z5TWVhdjE0RlhnanNaSm9ITndEMFpJUjlCUXpVdHljRFY4N2VuRm44cmwxRU1aMnNrTElDeVN3ZGR4YXVBeWNWX29sSzFfYjRlVDNrTEFaU1llSkljU0VQRnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fRklnSktTQ01LY2F4WEFoUVpySjJsekk4YnJjMkl6aWdEY084OTB5eWd4WHBLVlhlN1h3RWNsWmNvTXhWMFM4eHF3blhrelEyWGJqUWp2YXh2OXRTVUpuT2JMVjU4N0U?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -227,27 +219,27 @@
           "image": ""
         },
         {
-          "title": "Adobe opens Creative Cloud to third-party AI agents - Creative Boom",
-          "summary": "Adobe opens Creative Cloud to third-party AI agents Creative Boom. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Creative Boom",
+          "title": "Adobe Expands Firefly With AI Agents and New Creative Tools - Small Business Trends",
+          "summary": "Adobe Expands Firefly With AI Agents and New Creative Tools Small Business Trends. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Small Business Trends",
           "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVNDZU9aNUJOWW9FOTlfLUNqeXoxSEVqMHNoVlVQU29WRDBBN0I3cG9jTS1NT1NvTHlPeENmdVNvaVhQdlFaRlFTUDBZZk02dmg0TmFwZ2RtemkwbzJYTmxJMGJ2QmxuVTNhTzVaNVRsRmZ4UGZlMHJSbXJPOWlNMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2VGZlI0R0RxeDdIbWtpY2VBOTBob1Q5M2kyVGNYSkpjN3I2NWJicFVQdWVRWnRRbHcyTm5mM2hDLW96OEplSkRESGhjY1lEV1o5dllFeVJ3enRncHB5RnhXeE55WEYtQVh4VUw1WEJBeUhkM2VyOVE1ZkFCRlFCNVA5YkU3ZVBscXl5YnFBT2I?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Kuken Industries searches 70 years of drawings in minutes - OpenAI",
-          "summary": "Kuken Industries searches 70 years of drawings in minutes OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
+          "title": "Adobe Expands Creative Cloud AI Agents and Editing Tools - Small Business Trends",
+          "summary": "Adobe Expands Creative Cloud AI Agents and Editing Tools Small Business Trends. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Small Business Trends",
           "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBdTZiWjRPOVk3NlhndEVvWE5Db1dkeTk4M3V2M0tYb0VTN3ptZzlHV3I3bmk5MVppNWZhUzk4Sk1DQTg4SEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTm01aEh6dDFNenhhY0lCVm1rdGxtb19JYi1oNzUwRGlEcTFqdl80UlEwRUZkTjZDMVhKbmpOU1JEUVdMZGhnRXVZNmZwM053Q1MyVWZCUGRjcmpybnY0d0M5Vy1FdjlCM2hodnpodzRNU0hOMXg4SnQyWjBkajhvMHNWX0tUNjNLMVgyRw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create - Morningstar",
-          "summary": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create Morningstar. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Morningstar",
+          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly - TechCrunch",
+          "summary": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly TechCrunch. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "TechCrunch",
           "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaE9wWkx3U3o1RmpIZFJpY2FGREtxU3REazNrVVhqTVZ4QUFSZmx6TWtHNG5Wd2s0dDJmYndVYWRPbzVnNUZ3QTEtN1JNOGd3N1hiM1lramtFcjY3alJHM1NiLV9ZNVlKMnE3OTl6djNocEU4VXZ6cmJRcGxwUk0wdjVQbGpwVnEzYlNHeV9NdmJKNXViOTVoOWtMN2E5UFRnQUNXWk9WcXhpenJFQUwyazZJMVZ2bjA2TDhZTWpDRjZ3U3hQRElVWjFyQ0JiMnpMa0d1MlNScVkta1FnazhOMnZWdXBGU1ZwRVUtSnhhUndJV1RRQmFmN0tLWVFvcEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRk1iWnBiRk80V2l2bE5vdnVQYVU5LUdUdUhaMHFVdU90czRPZ3RoWnBhLWlVeVNXdzlFX2EtaWtPSnUteU1CQ2pBZHJsWlNIZWZMNV9idjh5VmxZZ2huaV9UWFVNQXJhRUlWMjJJQW9GY3A3RTlReDhzNEdlVTRFQ3h1MHFDa1ZVOG5XQTZGMmM4UTA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -293,6 +285,14 @@
       "name": "Ecommerce",
       "stories": [
         {
+          "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms - AOL.com",
+          "summary": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms AOL.com. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "AOL.com",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0tZZmh6ZTRUZDVxVkN1TUE4Z196alFVM0JObHlfWm5LVm9RMHZkVmZNLUhKR2FaQ0loU2FjMl9vZzVjS2hPU0ZNRjU5eHU4X3ZidWNOQk9qZnRVT3UzWFRlb3FCR3R0Q3hlb0t6NHo2UURCd3M4WFNfUzU2TG1ZUzdwRWZpdnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Shopify AI Search Orders Up 3.3x: What Agencies Should Track - ALM Corp",
           "summary": "Shopify AI Search Orders Up 3.3x: What Agencies Should Track ALM Corp. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "ALM Corp",
@@ -308,15 +308,21 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Adobe MAX 2026: Firefly and Premiere mobile to Provide New Ways to Create and Edit Content - No Film School",
+        "topic": "Adobe Expands Firefly With AI Agents and New Creative Tools - Small Business Trends",
         "status": "Cross-source coverage",
-        "common_context": "Adobe MAX 2026: Firefly and Premiere mobile to Provide New Ways to Create and Edit Content No Film School",
+        "common_context": "Adobe Expands Firefly With AI Agents and New Creative Tools Small Business Trends",
         "unique_points": [
           {
-            "source": "No Film School",
+            "source": "Small Business Trends",
             "when": "10 Nov 2026",
-            "point": "Adobe MAX 2026: Firefly and Premiere mobile to Provide New Ways to Create and Edit Content No Film School",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95cHFvREN1TGs1UzFfX1NWZ2oxZFBoZE9nX3lLQ2pEU0pCWTNTbHpENHJQS3ZwSmo2bFpiRkhGNjNCOWxFR256ckFLY0MxNWhPWUkwVWFDdmRXYzYyMTBVN2NhenBvV3hsUDkyUWhYVUduc1BC?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Adobe Expands Firefly With AI Agents and New Creative Tools Small Business Trends",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2VGZlI0R0RxeDdIbWtpY2VBOTBob1Q5M2kyVGNYSkpjN3I2NWJicFVQdWVRWnRRbHcyTm5mM2hDLW96OEplSkRESGhjY1lEV1o5dllFeVJ3enRncHB5RnhXeE55WEYtQVh4VUw1WEJBeUhkM2VyOVE1ZkFCRlFCNVA5YkU3ZVBscXl5YnFBT2I?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Small Business Trends",
+            "when": "10 Nov 2026",
+            "point": "Adobe Expands Creative Cloud AI Agents and Editing Tools Small Business Trends",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTm01aEh6dDFNenhhY0lCVm1rdGxtb19JYi1oNzUwRGlEcTFqdl80UlEwRUZkTjZDMVhKbmpOU1JEUVdMZGhnRXVZNmZwM053Q1MyVWZCUGRjcmpybnY0d0M5Vy1FdjlCM2hodnpodzRNU0hOMXg4SnQyWjBkajhvMHNWX0tUNjNLMVgyRw?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "Small Business Trends",
@@ -329,12 +335,26 @@
             "when": "10 Nov 2026",
             "point": "Meta Andromeda 2.0: What it means for creative strategy Performance Marketing World",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd09FTV9UVTRxajBXSU9ETnRJYWlWNDcwcklHZHdPcHd1ZENKUzJIZHhPcG1ZZzN1SXZiNHJFZUE2TXVfcElndXRNM3l6UnZRLVFBY1otalVKZzljNzN1SllHOFBVQ0c4YjI1ekZoejJIRHVYNWlGWU5NNFFjSERzRjEyVzdES29xdWlKUG5hZG1VSWJyZEc1YVEwTWQ5U0lD?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms - AOL.com",
+        "status": "Cross-source coverage",
+        "common_context": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms AOL.com",
+        "unique_points": [
+          {
+            "source": "AOL.com",
+            "when": "10 Nov 2026",
+            "point": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms AOL.com",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0tZZmh6ZTRUZDVxVkN1TUE4Z196alFVM0JObHlfWm5LVm9RMHZkVmZNLUhKR2FaQ0loU2FjMl9vZzVjS2hPU0ZNRjU5eHU4X3ZidWNOQk9qZnRVT3UzWFRlb3FCR3R0Q3hlb0t6NHo2UURCd3M4WFNfUzU2TG1ZUzdwRWZpdnc?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Morningstar",
+            "source": "StreetInsider",
             "when": "10 Nov 2026",
-            "point": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaE9wWkx3U3o1RmpIZFJpY2FGREtxU3REazNrVVhqTVZ4QUFSZmx6TWtHNG5Wd2s0dDJmYndVYWRPbzVnNUZ3QTEtN1JNOGd3N1hiM1lramtFcjY3alJHM1NiLV9ZNVlKMnE3OTl6djNocEU4VXZ6cmJRcGxwUk0wdjVQbGpwVnEzYlNHeV9NdmJKNXViOTVoOWtMN2E5UFRnQUNXWk9WcXhpenJFQUwyazZJMVZ2bjA2TDhZTWpDRjZ3U3hQRElVWjFyQ0JiMnpMa0d1MlNScVkta1FnazhOMnZWdXBGU1ZwRVUtSnhhUndJV1RRQmFmN0tLWVFvcEE?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 StreetInsider",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZmVJcmFoSUVobUtlX1BQV3V4VTRxLUQydTRaR01zR1VxNjhlU1ZzOGRZLUlGVUh2cDg1Y3JMM2k5Tjl1Y0lrN3ZqSDBQQlBITk5aNEk2clJkSW04TzZ1N3ZocXV4Z3BNeTdxV3RFeWhYRURxVzY3UGEyQ0xIU1d0aFhBUmtQV3g1TW5ESEpLRlAtZV90aHVVcF9ZWk92TlJGb3lWQnliaUZLMHVYMVdDTGRJX2Z0Q2RKci0tODM3OVNVSG43bEQzaDlvMGR2X0Y5V3Baa3dReDBGSEw3NFIwcFpsam9XMmFFUndQSGZDZFlyZ3djdnFvVkpn?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -407,6 +427,26 @@
             "when": "9 Nov 2026",
             "point": "CreatorDB: API & MCP - Data Infrastructure for the New Creator Economy 巴士的報",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVhFYi14U2ZXVGRIcm51UmgxUHRYT1JFLXNScG1vcXNfdjZGODRWcm9wbFJfa1V1VTUtMU5OZHlzQmZ2ZXJTM0pDbllhRUJubWlCb19EdmxDZ0toYkpJT2I4RFcyOXBHNUQ2UEJfOFBJYkU1OEdHMl9iTGZYZGJuN2Q5ZjdPSWItVEdrSW1ZeEhFaGUzMS1BVXMyUkFmWGZrQ25sVWhBSGtDSXNVWDlwNlp2SGQtUldt?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Gemini 4 Carbon in GitHub Copilot - The GitHub Blog",
+        "status": "Cross-source coverage",
+        "common_context": "Gemini 4 Carbon in GitHub Copilot The GitHub Blog",
+        "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "11 Nov 2026",
+            "point": "Gemini 4 Carbon in GitHub Copilot The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzk1bkR5U3l3enJYS2Qza01vd1E2Sy1fUjhtZWJnR0tVMjdwMnhlcDllalZLdF9QaldXdXZrMkFkMzA5aFJTVGd2UExlWTgyRWhrN1Vad1VpcUg2SzJPRlgycDZmczRCVWxYb0gtaF9LbEtjYkRxTThPbFlIU0dLNQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "10 Nov 2026",
+            "point": "C++ language server now auto-configures MSBuild builds The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRHVxU0c1NVZ3eTNtb0FmTjZHSVZpZzc3LVpsd3VnMjJsYl9qazJxVXV2VzlJdFdMcFVhQUdEX0VKUU1pX2FlbFJQRnhoQlFpSVN6ejk0cnRjSVpHYkJlUzhYaDJmTksyY092Z1lyZXl2SUZQNDV5cHhEaTZXZGJqZ1NDem5QMnN1dDBMc3Q4ZmJqb21oN095Uzl3?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

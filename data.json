@@ -1,5 +1,5 @@
 {
-  "date": "11 November 2026",
+  "date": "12 November 2026",
   "lead": {
     "title": "Layer launches Motion Designer Agent: Game studios can now create campaign-ready UA videos just by chatting - PocketGamer.biz",
     "deck": "Layer launches Motion Designer Agent: Game studios can now create campaign-ready UA videos just by chatting PocketGamer.biz. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -15,9 +15,9 @@
     "CreatorDB launches API v3 and MCP for influencer data - ContentGrip",
     "#e4mXplains: Will AI agents crash quick commerce's advertising party? - Exchange4Media",
     "Adobe widens AI agents across creative & marketing tools - IT Brief New Zealand",
-    "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - StreetInsider",
-    "Google Ads Gives You More Channel Control – But Not As Much As You Think - Search Engine Journal",
-    "BiteSpeed Launches AI Creative Studio, Aims to Build the Higgsfield for E-Commerce - Big News Network.com"
+    "Adobe Unveils AI Agents to Automate Creative and Marketing Tasks - Small Business Trends",
+    "AWS Automates Agent Registry Updates with Event-Driven Architecture - The Chenab Times",
+    "Issue types and fields are available for personal accounts - The GitHub Blog"
   ],
   "sections": [
     {
@@ -29,14 +29,6 @@
           "source": "Search Engine Journal",
           "when": "11 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObllFMlB0TzVFRnE4S2Zydi1ya2dFb2o2a2ZIb1VLRzVzNGVmT0hoNGZIcDVESlUzYzhUUXBLMXhYNUVvWDF3Q2lHb1hiN1dKSTlTLXFNVUdrWDU0QmFjczBjeXBjWjJDWHJubzEwc3JhcjZSbmdyREJ6X1JhZjVnc01UWnJBU1BONm9SVVFmRTBZM0g1ZndGTzhCek1LbE1ORDJ3V1dNU25HRnVsQjQtMTBKT3g?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "2026 - Google Ads Developer Blog",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Ads Developer Blog",
-          "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TU8xNUpBVzc2ZndSazN4M2gwVHVEdmx2ZldQS0xrUGZ3RzRKcFpxc3pqV2VLNW9aa0FBRFFVWTBJU1l2ZGVoYUxyQXVsUnd1TTJQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -57,14 +49,6 @@
     {
       "name": "Meta Ads",
       "stories": [
-        {
-          "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 - Search Engine Journal",
-          "summary": "Meta Pauses Its Updated Business And Ad Terms Due Nov. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Journal",
-          "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUR4cTNfOGZ3TTdSTzRVQ0FRamNKRlQ5S0VNYkN2TVBmbWFkcDdCckdqazVwOXJvd2NKRjJEZWd2a0E1TWt6enVBYS1YU1U5cGJ3LVZSS2JxQ1dON21kQWs2dTVUdENsRHhiWlMwRmE2M05KU1pQczY3NW15YlczTU1GaHNOcUxX?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "Meta Andromeda 2.0: What it means for creative strategy - Performance Marketing World",
           "summary": "Meta Andromeda 2.0: What it means for creative strategy Performance Marketing World. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -164,19 +148,19 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 - StreetInsider",
-          "summary": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 StreetInsider. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "StreetInsider",
-          "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZmVJcmFoSUVobUtlX1BQV3V4VTRxLUQydTRaR01zR1VxNjhlU1ZzOGRZLUlGVUh2cDg1Y3JMM2k5Tjl1Y0lrN3ZqSDBQQlBITk5aNEk2clJkSW04TzZ1N3ZocXV4Z3BNeTdxV3RFeWhYRURxVzY3UGEyQ0xIU1d0aFhBUmtQV3g1TW5ESEpLRlAtZV90aHVVcF9ZWk92TlJGb3lWQnliaUZLMHVYMVdDTGRJX2Z0Q2RKci0tODM3OVNVSG43bEQzaDlvMGR2X0Y5V3Baa3dReDBGSEw3NFIwcFpsam9XMmFFUndQSGZDZFlyZ3djdnFvVkpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Issue types and fields are available for personal accounts - The GitHub Blog",
+          "summary": "Issue types and fields are available for personal accounts The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "11 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWdLN181d29EWmpvN1ZhU3hCam5Oa1l5WlRUWWxkd29uUWtKV3k3Vjd4Yl9icmZaV3Vubi1Oa2p5Nk1UakpqZ0Q5SEZLNzF5SHFXVVFxZWtvQVRSOHhIQ20wM0pBeDdPSF9ncGlUV3VHMDFEY3hqMW9oUkpZdTlKaFZMVXFPakFNZ3BRWlBoRFBGVHN3WklSQW9OXzhHdzNBWmc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Anthropic launches roadshow for proposed initial public offering - Anthropic",
-          "summary": "Anthropic launches roadshow for proposed initial public offering Anthropic. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Anthropic",
-          "when": "10 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Spacefast web deployment for AI agents - Dynamic Business",
+          "summary": "Spacefast web deployment for AI agents Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Dynamic Business",
+          "when": "11 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHd2Zmx2NjJ6LTZZWXpHMHY3YU1tY2UzVnNFR0lrM3R2WEE1Mm5HZlpqRkh5eWJ1WjU4MFBjT2VITEVic2N1eXRFSUV5VVctcmFHbzB4bDdGU3Y4SjlWdmtRamR0M3ExYUpxZ24tOWtnZmRBX1JESkN6MVhFTDFYYjZvVHpHMTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -188,11 +172,11 @@
           "image": ""
         },
         {
-          "title": "GitHub App support for Enterprise Copilot seat management - The GitHub Blog",
-          "summary": "GitHub App support for Enterprise Copilot seat management The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
+          "title": "Claude Can Now Join Your Meetings and Do the Work for You - ProPakistani",
+          "summary": "Claude Can Now Join Your Meetings and Do the Work for You ProPakistani. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "ProPakistani",
           "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUI5dEZ1RUFTMUtrc19PVGRCVVZFRFZ3NEVuYlQ0RmRNVjFDN0FwaV9teE9wRkQ4SG9RdlMwdVhfOE11M09oVGpWZTdqZXoyRTNuMmZvMmcxYmFRU0JaamQ4NkM0VXh1NkZuSnNvMC13STd3LTZPeTIyY1B3V24tb0tVRTRBY1E0R3VNSnRtOXAxYU9NNXJoZzBuYkF1c3oz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qZ0dEVXpVRDZtSEtxR1hiVnRmeW5ONE9pbFJCdllYSzI2Mzh3R2xCdTUxN19GZ1pjanQ1a2l1QWViWGFzcTYyMERn0gGeAUFVX3lxTFA5YWl4a0F0RmQ5aWpvWXZTbWlPRGtzRk1VdDhLblAxenVXLUF4Y1lhVXk1VEhzaTVXUUk1NW90XzVvOGJzc0xxWE4tcmliR3VvN1JTVGNYbEtHSGppaG03ZEEybFIxSUwteXhWUUUyTk1yMHZSM0IyS0JZRzNPZlNjTTh5VnR3N1Y4eHZUdE95aGlmN0RnMlVId2dhTVhR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -217,19 +201,19 @@
           "image": ""
         },
         {
-          "title": "BiteSpeed Launches AI Creative Studio, Aims to Build the Higgsfield for E-Commerce - Big News Network.com",
-          "summary": "BiteSpeed Launches AI Creative Studio, Aims to Build the Higgsfield for E-Commerce Big News Network.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Big News Network.com",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0trckF1emRqSm1aU01NTjFybzh1R0lkNGRRWlJaSVhGelVWT1ZYTDltZkFOdzd1MTVRWE5xeDIxUFpGeHlvaTh6TEFQNjdTVEJKS1lNV3hmZ0FPcWFvcTYzUHp6Q2JzODZpUGV2eVpRNFBVSDhxY0U4Nm1oMk1NdFJkQkJKRnhVRjF6MU0zekdjU3dZaHVEUFh6cU1pQXRZMC1sUjlSS3RESTY4MXRIWWVNQUNJQTM4alROWGdGbEJGMFhsenc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Adobe Unveils AI Agents to Automate Creative and Marketing Tasks - Small Business Trends",
+          "summary": "Adobe Unveils AI Agents to Automate Creative and Marketing Tasks Small Business Trends. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Small Business Trends",
+          "when": "10 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMko3OXdYUU5aUExNekhTTUxMcUZSazItSHZnS1lQd2l0VHo5ajVQdW51UDVfTEpWaUQ3R3NtN1lZYWoxeG5MOUw4WUZqbGxZa0pSaE0wNkdYbm9jTXM2dkdpRmFBWmt4TDhjSmJBeWpDUDUyb1dnSm9sNVVqREtQaTAtRjhud2p1WHFrZHZRamlSeVh6eVV3?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "TikTok Updates Its Gen-AI Video Ad Creation Capabilities 11/11/2026 - MediaPost",
-          "summary": "TikTok Updates Its Gen-AI Video Ad Creation Capabilities 11/11/2026 MediaPost. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "MediaPost",
+          "title": "BiteSpeed Launches AI Creative Studio, Aims to Build the Higgsfield for E- Commerce - Livemint",
+          "summary": "BiteSpeed Launches AI Creative Studio, Aims to Build the Higgsfield for E- Commerce Livemint. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Livemint",
           "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdHItQkVLajNWQy1pRlE2eURjQUpQUkE2MmFuZ3RYVXhaQ0ZvWWNpUlg2M3V5VkhVaHFwR1NSWW5wd1RfZWFpNzFHYlJRRXY4Y0RySnFUTXhNTGtYcFptTHhKOTBFdFpFZl8tV3prTlp4NUgyR2xsNTVfQUFIc25vM0lRSTdDM2oweHNUR3BfWEpqRWZZb0hNMFFmN2VMNU9NOHFFblRUQVNvVDN2MXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZHZfdE5WQ21WMTFscmJmZFlBdFpNemF3Y1praEJXYXBsV3RJRk95OUxyUlpSMWc4QnM2bURLSjkzNk53YmZVU2lkQzNmUFAxTzd1ZU5FMnU4MFZEYUtycHVxQXdrV09jeDZSdEs2Q2dYRl81RFlIWlhaaUNaeDZIbG1CbERGY0Zna0N3RDRmZVVYTzA5TnQxMVhzZnZia3ktVjJJQXNpbEV2cTUzUDlWVl9leUsxdkE3b25RS2xsT1J5aTVHZFNGRFByTGk?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -243,6 +227,14 @@
           "source": "ContentGrip",
           "when": "11 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUEY1eXdhb01xbDZVYkZ0aFQ3T3Fad1ZYQWdTRHE4VHI4Zy1CSi16THlSYVJmVVY5OHA0M2U4NFRxUVFYcXlsZFhsWU85bFRpREJiaE9oelJ1anBfYzNQamxFUWIwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "AWS Automates Agent Registry Updates with Event-Driven Architecture - The Chenab Times",
+          "summary": "AWS Automates Agent Registry Updates with Event-Driven Architecture The Chenab Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Chenab Times",
+          "when": "12 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM09lMm9HUDdPRlZiX0FGeG9GYl9SS3k2eHlDeGEzY1AyUmtZNGgtc2xOb3dZckZwTnBsSFIzM0Nnc0ItcDVWVF83aGUycGp5NUQ3VXZaOWh3bmdpUkJvejczaXd4U1R4OU5QYjZlT0dTU1ZkaFdLVHVkVGZrZ0l2eDZrWDJrX3I2Vl9Gb3N0TXNoZG5GV3NXU012NWtGcy1zUDFuZ2RlTmtrUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -309,97 +301,57 @@
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNREprOElrTlFYcWwzWnpBcmdVc0pzbjhUN05pWFhLX2c0bGtsaXQ1aGE1Q3I2SUlRdmZjeFNvbEtjQzNMNnhCTjdWVkFzSlhDeXkwTEkwRWRmWVhWUXpVR3h5cWxfMktOS0tzSmhSN3pQZkxMSTgzLUZ6d3BMQXQ2YV82YVUyMjJPeE5ZODJfTFlXWTV3dms0?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "PPC Land",
-            "when": "11 Nov 2026",
-            "point": "Supermetrics AI campaign tool gains ChatGPT Ads, its 7th ad platform PPC Land",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1Z3c2JGXzNxN205Z280SGRDNnFZQUg5OTFaR1NWdFVKbVNXSGowaGFpWU01RGRmdlY2cVFrZVlXQkhJM3dCRE01N0JYRWJYc04ydEVOTnJBMmU3MTVKMG1vdWF3bzNFc3hNdk03cGNjNnRrRkxJTU1KS2Fla1dpVGtYY0xSdGRQTGptbmJn?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
             "source": "AOL.com",
             "when": "10 Nov 2026",
             "point": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms AOL.com",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0tZZmh6ZTRUZDVxVkN1TUE4Z196alFVM0JObHlfWm5LVm9RMHZkVmZNLUhKR2FaQ0loU2FjMl9vZzVjS2hPU0ZNRjU5eHU4X3ZidWNOQk9qZnRVT3UzWFRlb3FCR3R0Q3hlb0t6NHo2UURCd3M4WFNfUzU2TG1ZUzdwRWZpdnc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "StreetInsider",
-            "when": "10 Nov 2026",
-            "point": "Altegio Announces Open Platform Connecting Beauty and Wellness Businesses With AI Agents at Web Summit 2026 StreetInsider",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZmVJcmFoSUVobUtlX1BQV3V4VTRxLUQydTRaR01zR1VxNjhlU1ZzOGRZLUlGVUh2cDg1Y3JMM2k5Tjl1Y0lrN3ZqSDBQQlBITk5aNEk2clJkSW04TzZ1N3ZocXV4Z3BNeTdxV3RFeWhYRURxVzY3UGEyQ0xIU1d0aFhBUmtQV3g1TW5ESEpLRlAtZV90aHVVcF9ZWk92TlJGb3lWQnliaUZLMHVYMVdDTGRJX2Z0Q2RKci0tODM3OVNVSG43bEQzaDlvMGR2X0Y5V3Baa3dReDBGSEw3NFIwcFpsam9XMmFFUndQSGZDZFlyZ3djdnFvVkpn?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Adobe widens AI agents across creative & marketing tools - IT Brief New Zealand",
+        "topic": "Spacefast web deployment for AI agents - Dynamic Business",
         "status": "Cross-source coverage",
-        "common_context": "Adobe widens AI agents across creative & marketing tools IT Brief New Zealand",
+        "common_context": "Spacefast web deployment for AI agents Dynamic Business",
         "unique_points": [
+          {
+            "source": "Dynamic Business",
+            "when": "11 Nov 2026",
+            "point": "Spacefast web deployment for AI agents Dynamic Business",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHd2Zmx2NjJ6LTZZWXpHMHY3YU1tY2UzVnNFR0lrM3R2WEE1Mm5HZlpqRkh5eWJ1WjU4MFBjT2VITEVic2N1eXRFSUV5VVctcmFHbzB4bDdGU3Y4SjlWdmtRamR0M3ExYUpxZ24tOWtnZmRBX1JESkN6MVhFTDFYYjZvVHpHMTQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Dynamic Business",
+            "when": "11 Nov 2026",
+            "point": "Living Brain AI memory layer Dynamic Business",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsdkhJLWxRU2g4TmxvMXNSY3JrQVEtTHJJYUthZG1ORVJRMkl0bm5TUUNPUlM5VnV6S09ncDVXbWc1Y1pwUHpwaVU1b3NMYzhIbEtFbXM0NmlaQW4tdUZFcVEtTjY3UFV6RUlkbWNRUUMzQWNDSHVRWnB3?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Storyboard18",
+            "when": "11 Nov 2026",
+            "point": "Adobe expands AI agents and creative tools for creators, professionals and marketers Storyboard18",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2s1eE5qVk9nZ3UxMVBMcF9CM1VBNF9zQVpZUVFUbll5R05OSl9CZGV2QVNtYmZGdHdyOEpvZFpiVjV2VGZtek9XSUdfbE9GeV9PMktkWW1vSDFlTEUyMHF5STQ2NlZHa0tHc2xLSlYzRmJwYzRiRlo1MUtDOElnM19UeURMdUVRejVXU2ZfZjJBVlJRcHl4djN5X1UxZ1JYOGtHZGhTVEV3VDJUbEhuakxqMC1pYkJjdGtUelJhWXlFT0JOTlAwUm9uTzdxRV9UOG9hS1FoZ9IB1wFBVV95cUxNX2s1eE5qVk9nZ3UxMVBMcF9CM1VBNF9zQVpZUVFUbll5R05OSl9CZGV2QVNtYmZGdHdyOEpvZFpiVjV2VGZtek9XSUdfbE9GeV9PMktkWW1vSDFlTEUyMHF5STQ2NlZHa0tHc2xLSlYzRmJwYzRiRlo1MUtDOElnM19UeURMdUVRejVXU2ZfZjJBVlJRcHl4djN5X1UxZ1JYOGtHZGhTVEV3VDJUbEhuakxqMC1pYkJjdGtUelJhWXlFT0JOTlAwUm9uTzdxRV9UOG9hS1FoZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "IT Brief New Zealand",
             "when": "11 Nov 2026",
             "point": "Adobe widens AI agents across creative & marketing tools IT Brief New Zealand",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUU9Ccm5MazJPZEtIZVNKLTh2Z3M4NEhoS2RhUFI1b1V1TUIzSjZhMzhQQy1hTGE3WmNkSHpaczUwalZQNGlFUDlRNUlQVHh0STBFb3QtLTlYQjdwR0lZSVBOdjZPd1RPQlRoVmJib05TX3BvZHpuYlNLQUl3VEJKU0tNbnZ1eS1VSWc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Performance Marketing World",
-            "when": "10 Nov 2026",
-            "point": "Meta Andromeda 2.0: What it means for creative strategy Performance Marketing World",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd09FTV9UVTRxajBXSU9ETnRJYWlWNDcwcklHZHdPcHd1ZENKUzJIZHhPcG1ZZzN1SXZiNHJFZUE2TXVfcElndXRNM3l6UnZRLVFBY1otalVKZzljNzN1SllHOFBVQ0c4YjI1ekZoejJIRHVYNWlGWU5NNFFjSERzRjEyVzdES29xdWlKUG5hZG1VSWJyZEc1YVEwTWQ5U0lD?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Creative Boom",
-            "when": "10 Nov 2026",
-            "point": "Bring your own agent: Adobe opens Creative Cloud to outside AI Creative Boom",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVNDZU9aNUJOWW9FOTlfLUNqeXoxSEVqMHNoVlVQU29WRDBBN0I3cG9jTS1NT1NvTHlPeENmdVNvaVhQdlFaRlFTUDBZZk02dmg0TmFwZ2RtemkwbzJYTmxJMGJ2QmxuVTNhTzVaNVRsRmZ4UGZlMHJSbXJPOWlNMg?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Google Ads Gives You More Channel Control – But Not As Much As You Think - Search Engine Journal",
+        "topic": "Issue types and fields are available for personal accounts - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "Google Ads Gives You More Channel Control – But Not As Much As You Think Search Engine Journal",
+        "common_context": "Issue types and fields are available for personal accounts The GitHub Blog",
         "unique_points": [
           {
-            "source": "Search Engine Journal",
+            "source": "The GitHub Blog",
             "when": "11 Nov 2026",
-            "point": "Google Ads Gives You More Channel Control – But Not As Much As You Think Search Engine Journal",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObllFMlB0TzVFRnE4S2Zydi1ya2dFb2o2a2ZIb1VLRzVzNGVmT0hoNGZIcDVESlUzYzhUUXBLMXhYNUVvWDF3Q2lHb1hiN1dKSTlTLXFNVUdrWDU0QmFjczBjeXBjWjJDWHJubzEwc3JhcjZSbmdyREJ6X1JhZjVnc01UWnJBU1BONm9SVVFmRTBZM0g1ZndGTzhCek1LbE1ORDJ3V1dNU25HRnVsQjQtMTBKT3g?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Issue types and fields are available for personal accounts The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWdLN181d29EWmpvN1ZhU3hCam5Oa1l5WlRUWWxkd29uUWtKV3k3Vjd4Yl9icmZaV3Vubi1Oa2p5Nk1UakpqZ0Q5SEZLNzF5SHFXVVFxZWtvQVRSOHhIQ20wM0pBeDdPSF9ncGlUV3VHMDFEY3hqMW9oUkpZdTlKaFZMVXFPakFNZ3BRWlBoRFBGVHN3WklSQW9OXzhHdzNBWmc?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
-          {
-            "source": "Search Engine Journal",
-            "when": "10 Nov 2026",
-            "point": "Meta Pauses Its Updated Business And Ad Terms Due Nov.",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUR4cTNfOGZ3TTdSTzRVQ0FRamNKRlQ5S0VNYkN2TVBmbWFkcDdCckdqazVwOXJvd2NKRjJEZWd2a0E1TWt6enVBYS1YU1U5cGJ3LVZSS2JxQ1dON21kQWs2dTVUdENsRHhiWlMwRmE2M05KU1pQczY3NW15YlczTU1GaHNOcUxX?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
-        "status": "Cross-source coverage",
-        "common_context": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks TechCrunch",
-        "unique_points": [
-          {
-            "source": "TechCrunch",
-            "when": "10 Nov 2026",
-            "point": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks TechCrunch",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkN0VWFWT3BuM1RBTG1ZWVp6TWs3RVpNZ2JHSGp2Q0NmcEh6Z3p6anZYY1FYYXpSTXRYZ2hoX2dXY2MyaXdGSXptUFlxWXhMRmVyLVgwbEw0N05PTWJmMmF5bE9uYzF5RkhGOHpueGpuUzA3UE5mekh1UE1oWmp1dWhvWTVEaHhacXJkb0poVklsRWd1V2xWVkpuWlZBbDQ3X3RHajUzWmlabGM5Wml4Ni1KWDZLOV9PYlhPag?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Anthropic",
-            "when": "10 Nov 2026",
-            "point": "Anthropic launches roadshow for proposed initial public offering Anthropic",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "GitHub App support for Enterprise Copilot seat management - The GitHub Blog",
-        "status": "Cross-source coverage",
-        "common_context": "GitHub App support for Enterprise Copilot seat management The GitHub Blog",
-        "unique_points": [
           {
             "source": "The GitHub Blog",
             "when": "11 Nov 2026",
@@ -411,12 +363,26 @@
             "when": "11 Nov 2026",
             "point": "Gemini 4 Carbon in GitHub Copilot The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzk1bkR5U3l3enJYS2Qza01vd1E2Sy1fUjhtZWJnR0tVMjdwMnhlcDllalZLdF9QaldXdXZrMkFkMzA5aFJTVGd2UExlWTgyRWhrN1Vad1VpcUg2SzJPRlgycDZmczRCVWxYb0gtaF9LbEtjYkRxTThPbFlIU0dLNQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Claude Can Now Join Your Meetings and Do the Work for You - ProPakistani",
+        "status": "Cross-source coverage",
+        "common_context": "Claude Can Now Join Your Meetings and Do the Work for You ProPakistani",
+        "unique_points": [
+          {
+            "source": "ProPakistani",
+            "when": "11 Nov 2026",
+            "point": "Claude Can Now Join Your Meetings and Do the Work for You ProPakistani",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qZ0dEVXpVRDZtSEtxR1hiVnRmeW5ONE9pbFJCdllYSzI2Mzh3R2xCdTUxN19GZ1pjanQ1a2l1QWViWGFzcTYyMERn0gGeAUFVX3lxTFA5YWl4a0F0RmQ5aWpvWXZTbWlPRGtzRk1VdDhLblAxenVXLUF4Y1lhVXk1VEhzaTVXUUk1NW90XzVvOGJzc0xxWE4tcmliR3VvN1JTVGNYbEtHSGppaG03ZEEybFIxSUwteXhWUUUyTk1yMHZSM0IyS0JZRzNPZlNjTTh5VnR3N1Y4eHZUdE95aGlmN0RnMlVId2dhTVhR?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "The GitHub Blog",
+            "source": "TechCrunch",
             "when": "10 Nov 2026",
-            "point": "C++ language server now auto-configures MSBuild builds The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRHVxU0c1NVZ3eTNtb0FmTjZHSVZpZzc3LVpsd3VnMjJsYl9qazJxVXV2VzlJdFdMcFVhQUdEX0VKUU1pX2FlbFJQRnhoQlFpSVN6ejk0cnRjSVpHYkJlUzhYaDJmTksyY092Z1lyZXl2SUZQNDV5cHhEaTZXZGJqZ1NDem5QMnN1dDBMc3Q4ZmJqb21oN095Uzl3?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks TechCrunch",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkN0VWFWT3BuM1RBTG1ZWVp6TWs3RVpNZ2JHSGp2Q0NmcEh6Z3p6anZYY1FYYXpSTXRYZ2hoX2dXY2MyaXdGSXptUFlxWXhMRmVyLVgwbEw0N05PTWJmMmF5bE9uYzF5RkhGOHpueGpuUzA3UE5mekh1UE1oWmp1dWhvWTVEaHhacXJkb0poVklsRWd1V2xWVkpuWlZBbDQ3X3RHajUzWmlabGM5Wml4Ni1KWDZLOV9PYlhPag?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

@@ -1,5 +1,5 @@
 {
-  "date": "12 November 2026",
+  "date": "13 November 2026",
   "lead": {
     "title": "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns - PPC Land",
     "deck": "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -11,13 +11,13 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns - PPC Land",
-    "Shopify expands AI marketing tool with SEO and ad automation - Marketing Tech News",
     "OpenAI Lets Businesses Claim ChatGPT Profiles and Launch Their Own Agents - Technology Org",
-    "CreatorDB launches API v3 and MCP for influencer data - ContentGrip",
     "We’re introducing a new transparency tool for invalid traffic in Google Ads. - blog.google",
     "AppLovin stock faces lawsuit over AI advertising claims - ad-hoc-news.de",
     "Tano raises US$4M for AI creator advertising - ContentGrip",
-    "AWS Automates Agent Registry Updates with Event-Driven Architecture - The Chenab Times"
+    "AWS Automates Agent Registry Updates with Event-Driven Architecture - The Chenab Times",
+    "Issue types and fields are available for personal accounts - The GitHub Blog",
+    "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split - Search Engine Journal"
   ],
   "sections": [
     {
@@ -53,11 +53,11 @@
       "name": "Microsoft Ads",
       "stories": [
         {
-          "title": "Shopify expands AI marketing tool with SEO and ad automation - Marketing Tech News",
-          "summary": "Shopify expands AI marketing tool with SEO and ad automation Marketing Tech News. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Marketing Tech News",
+          "title": "Your inbox, your photos, their ads? - Fernandina Observer",
+          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Fernandina Observer",
           "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0tKQzFmZ2xEalRXRHRRLUdUWjlHNkNMV1o3YVRNdTRhWHllZFVSRkxDbTZGeXJaZ09Xd2pJU0d3LWhZdFgwT0taa2hBSl9FVk5vd2JvbGFZaUlpU3BkdHlhNU1NU0YzRldHbzFIUUs1MlNKRC1Ib0FkT00xYjR3X2NYRkN5VkU5Q18w?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2ZUMEkzT2NHbHpHTnhPaUMtQmJTcVlzODU2V3VSQmo2YVI5aTNjZU1vNm83VXVBai1xVXZjbGpPVkM0SmFqUHYwYjFUb3dWNWxEMVVHRF9YZ2NpZmxxeFlhN3FPcW9QUkFJREhoU2FJRnk3UDdvaTU5MHZjTURNWkwwelRBQjZyb3c?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -124,22 +124,12 @@
       "name": "LinkedIn Ads",
       "stories": [
         {
-          "title": "Supermetrics Lets Claude Build Ads Across 6 Platforms: 2026 - ALM Corp",
-          "summary": "Supermetrics Lets Claude Build Ads Across 6 Platforms: 2026 ALM Corp. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ALM Corp",
-          "when": "7 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0Z4YTllT2g2MFJUUWZaZGNRRW5TYmZBU1QtMDJpSkRncm1yeWlvQ0FpckM4RFBSQU55SFlHbU93X1NPNWV3TDB2WGp5bElhbjFLczBQX21pYUJVeEIzREhDbTdfZkNCLWw0cG9HOGFLbHltMkMweHFTNXR2MVVDTFQ2a0s5bEpXN01SOWY4S2pMNURQVTIzWEI3Ri0?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
-        },
-        {
-          "title": "LinkedIn Adds Post Performance Table & Creator Metrics 2026 - ALM Corp",
-          "summary": "LinkedIn Adds Post Performance Table & Creator Metrics 2026 ALM Corp. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ALM Corp",
-          "when": "7 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2lVQUNIRTVXT3ByZV9HdFBscTIxVlFKbDNpdDJDVktxS1ExXzB6U2Z3c3ItT040UkRPdVVYSFFMbU93SVpDbEVrYWVzMzVEOEFvbE5RVkpzOXRxYm5wMDVEWWNVM2VFVmVGR2NQLTFrTjQ3c1pSYnY5TFFNWG1OSWkzdEozb0NjNmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "After the lift test: Make incrementality part of weekly PPC reporting - Search Engine Land",
+          "summary": "After the lift test: Make incrementality part of weekly PPC reporting Search Engine Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Search Engine Land",
+          "when": "12 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlR3RMekFHRFVxamY4eDVBelJtdDE5LXlWLTVUdXNzaTdsbU54S2NRWWlYbWYxYlZmNDkzQ3l0anFDeV9oOGcwYUNXZUx4RVlUNW94Vmw1bGFLWUgxajZPQlo3NngxbERYOGFuc2toN2tMSkxoQmFoblBNdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -152,7 +142,8 @@
           "source": "Google for Developers",
           "when": "11 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fQ1B3bFBScDFZa1NVT3ZTdWlqa29EaHlWX0NwemtjZU5Nc2xDRGNSM1U1WTdhVXAwd3B0SFhDc21VaktNcDdYbDhaekIzTGh2NDRmZkNOeUhwRGwwaC1FWlFlTXo3TmVFNHBNLTU4RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -160,13 +151,12 @@
       "name": "Analytics",
       "stories": [
         {
-          "title": "Mobile Analytics Market Size, Share, Industry Overview, Latest Insights and Forecast 2026-2034 - openPR.com",
-          "summary": "Mobile Analytics Market Size, Share, Industry Overview, Latest Insights and Forecast 2026-2034 openPR.com. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "openPR.com",
-          "when": "2 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlVEV2R1amlWaXJVLVRySEE3dVFTZGloTDVIaWZNSWQwREpzQ24wQ0QxYURHaU1lQzhYTC0yTTYxLUo3RWltQzZ1SzhnNDNjRmZDWmk3bElRT1VVS1huQnkyVlItSmdfR1kwY1VMM3N4ZmZ4czFTWGU1WElfbXZOMkM5SDVhQ3lLRDFWMXVpam9nMHhsdV9yVVN5aw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "How to build a cross-channel measurement framework for an AI-first media landscape - MarTech",
+          "summary": "How to build a cross-channel measurement framework for an AI-first media landscape MarTech. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "MarTech",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjJFc0t1U0NCT3d5NkN4a2FNY0xNNGJESnNLTFNOTjRUbkp6czUxLXJURXZXb0xacGwzMFptYkdoc0stUS1zTGVJalZYd3Bnci1ic2hjV1c2MFNlaE1GeFFWTXltN3M0ZlZLTmx3MFV5OUdPbmlNSnhDZTExT2w3eTBQQkkxekdIQUdMMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -198,11 +188,11 @@
           "image": ""
         },
         {
-          "title": "Innovid Named Most Valuable Pioneer in QKS Group’s 2026 AI Maturity Matrix for AdTech - Business Wire",
-          "summary": "Innovid Named Most Valuable Pioneer in QKS Group’s 2026 AI Maturity Matrix for AdTech Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Business Wire",
-          "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZVEzMzVPaVNfNnExREdBd2lTWHFTcFBOUnZzMlk4Y29JZXI1NzJTbTdFNXp6ZkgzWjZ5akY5akEzOUJ6N1lrM01KaHNXeUJCb3lsM25EdVFkRXFSS3g3NDBRNDRBSVpueUp1NjNBcnk1cmNHdm81Z3FhOG45VDZlaVVxTDVyWlVBZmlIR0o4QXc2RHUza2VDVjh1RzZpU1ZHWHNTOHBya0RSdGFvdjJFOWtfb1hYcGVaVHVnQkpkenRsS19mSjRpU0dBbzk3M0FQQ1pKMEROelc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market - CBC",
+          "summary": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market CBC. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "CBC",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcksyNVltUUlTYUc1eXh6RW1fblZocVZOd3RYeFRsaUVQaFRYN1lfNEdUbGFuNmwwbWRfbF9jc0M3QndsYXBSZUd4RVlxRzllR3ItWmZhMXNmaTZFcDk5UkR0Zk9GNGs?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -227,19 +217,11 @@
           "image": ""
         },
         {
-          "title": "Adobe expands Firefly, Creative Cloud and GenStudio with new AI agents and creative tools - FoneArena.com",
-          "summary": "Adobe expands Firefly, Creative Cloud and GenStudio with new AI agents and creative tools FoneArena.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "FoneArena.com",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2sxY1I0bjBKeVNyREFVZUNZM2pMdWNEWVctbzJfZGJwMjgwcUVzbm1FS2dmNENPelNhX2tGUTdMVGVfTk9KdHlOZGhiUDc1Sk5GOVVmcEExcE1jNUNmNURXT0NHMFE1ZEJGM1hmNjdLZ2I1OFdFaXBJeGtJb1BaNlpSRC1ZandsNjl1LUdLZVJBMHFrR3dLQ2cwZklYZ01hYXJzTUJLdi16UdIBrwFBVV95cUxOWWs5TWR4cG5EdXktWlc4bUtNTVlrWmlsYTFpYWlhTWoyTV8xMW5aM29NazQ5MUdPQUNCcV81WVpPcG51em82Y2F4NElRZDdCeGtoOS00VlZUSXBkRlllY09MUWhrR0hHUThrWTBvMFpjSGNDVVhIX2lIN0I4WU1nVDlpNXFrb2h2VGppR3dYQnVhNnNwN2FiazBLVFpUTjh1UVBUYmpxamJhQUhvM2hV?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Singapore Airlines elevates travel & work with OpenAI technology - OpenAI",
-          "summary": "Singapore Airlines elevates travel & work with OpenAI technology OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI - OpenAI",
+          "summary": "How Amplitude ships product improvements in 1–2 days with OpenAI OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "OpenAI",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NUzdYcWZucWtDS2FlTjR4ODIzajRvX0UxWGd0S3ZhZ2dkV19aNWlaal9UVW40RWt4X1lKQ21qRDZKV3pnSmNScFNwT2V6eVlHRnBWdkQ5Q3BRTXNvVU5yc2w1VllUb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3VHFDbWMzQ0IwbGV3a2V5OTZpV01xNmxvbnM1ZzhkdUg3aWxhWC00dU1zTm1LVkxrcURSVzZlb0pZR05hVVd2TVRpWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -248,27 +230,11 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "CreatorDB launches API v3 and MCP for influencer data - ContentGrip",
-          "summary": "CreatorDB launches API v3 and MCP for influencer data ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ContentGrip",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUEY1eXdhb01xbDZVYkZ0aFQ3T3Fad1ZYQWdTRHE4VHI4Zy1CSi16THlSYVJmVVY5OHA0M2U4NFRxUVFYcXlsZFhsWU85bFRpREJiaE9oelJ1anBfYzNQamxFUWIwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "AWS Automates Agent Registry Updates with Event-Driven Architecture - The Chenab Times",
           "summary": "AWS Automates Agent Registry Updates with Event-Driven Architecture The Chenab Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The Chenab Times",
           "when": "12 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM09lMm9HUDdPRlZiX0FGeG9GYl9SS3k2eHlDeGEzY1AyUmtZNGgtc2xOb3dZckZwTnBsSFIzM0Nnc0ItcDVWVF83aGUycGp5NUQ3VXZaOWh3bmdpUkJvejczaXd4U1R4OU5QYjZlT0dTU1ZkaFdLVHVkVGZrZ0l2eDZrWDJrX3I2Vl9Gb3N0TXNoZG5GV3NXU012NWtGcy1zUDFuZ2RlTmtrUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Living Brain AI memory layer - Dynamic Business",
-          "summary": "Living Brain AI memory layer Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Dynamic Business",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsdkhJLWxRU2g4TmxvMXNSY3JrQVEtTHJJYUthZG1ORVJRMkl0bm5TUUNPUlM5VnV6S09ncDVXbWc1Y1pwUHpwaVU1b3NMYzhIbEtFbXM0NmlaQW4tdUZFcVEtTjY3UFV6RUlkbWNRUUMzQWNDSHVRWnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -282,6 +248,14 @@
           "source": "Technology Org",
           "when": "11 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNREprOElrTlFYcWwzWnpBcmdVc0pzbjhUN05pWFhLX2c0bGtsaXQ1aGE1Q3I2SUlRdmZjeFNvbEtjQzNMNnhCTjdWVkFzSlhDeXkwTEkwRWRmWVhWUXpVR3h5cWxfMktOS0tzSmhSN3pQZkxMSTgzLUZ6d3BMQXQ2YV82YVUyMjJPeE5ZODJfTFlXWTV3dms0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "ChatGPT Brand Metrics, $64B Anthropic IPO: DesignRush AI Roundup - DesignRush",
+          "summary": "ChatGPT Brand Metrics, $64B Anthropic IPO: DesignRush AI Roundup DesignRush. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "DesignRush",
+          "when": "12 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHd0NFpOS2JwQUo4LUU3VTZXVXZKNkZlUFFCZHk0MHpyMExvX2YxMHk0aU5wWDlLQ0oyWWRvb3dDOWNMazloRzR5WEhiTFVpbXlYMEM3S3lsZXphMkVBQjFYZkJQX2JYTXdYQU9pZnBPNHpOOGlzVUJ3dUpPUlpJM2w4d0NydGZLUUlCS0dBdXdnMGdzWnVRbUFB?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -300,10 +274,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "We’re introducing a new transparency tool for invalid traffic in Google Ads. - blog.google",
+        "topic": "After the lift test: Make incrementality part of weekly PPC reporting - Search Engine Land",
         "status": "Cross-source coverage",
-        "common_context": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+        "common_context": "After the lift test: Make incrementality part of weekly PPC reporting Search Engine Land",
         "unique_points": [
+          {
+            "source": "Search Engine Land",
+            "when": "12 Nov 2026",
+            "point": "After the lift test: Make incrementality part of weekly PPC reporting Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlR3RMekFHRFVxamY4eDVBelJtdDE5LXlWLTVUdXNzaTdsbU54S2NRWWlYbWYxYlZmNDkzQ3l0anFDeV9oOGcwYUNXZUx4RVlUNW94Vmw1bGFLWUgxajZPQlo3NngxbERYOGFuc2toN2tMSkxoQmFoblBNdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "blog.google",
             "when": "12 Nov 2026",
@@ -326,41 +306,21 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "OpenAI Lets Businesses Claim ChatGPT Profiles and Launch Their Own Agents - Technology Org",
+        "topic": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market - CBC",
         "status": "Cross-source coverage",
-        "common_context": "OpenAI Lets Businesses Claim ChatGPT Profiles and Launch Their Own Agents Technology Org",
+        "common_context": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market CBC",
         "unique_points": [
           {
-            "source": "Technology Org",
-            "when": "11 Nov 2026",
-            "point": "OpenAI Lets Businesses Claim ChatGPT Profiles and Launch Their Own Agents Technology Org",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNREprOElrTlFYcWwzWnpBcmdVc0pzbjhUN05pWFhLX2c0bGtsaXQ1aGE1Q3I2SUlRdmZjeFNvbEtjQzNMNnhCTjdWVkFzSlhDeXkwTEkwRWRmWVhWUXpVR3h5cWxfMktOS0tzSmhSN3pQZkxMSTgzLUZ6d3BMQXQ2YV82YVUyMjJPeE5ZODJfTFlXWTV3dms0?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "CBC",
+            "when": "13 Nov 2026",
+            "point": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market CBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcksyNVltUUlTYUc1eXh6RW1fblZocVZOd3RYeFRsaUVQaFRYN1lfNEdUbGFuNmwwbWRfbF9jc0M3QndsYXBSZUd4RVlxRzllR3ItWmZhMXNmaTZFcDk5UkR0Zk9GNGs?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "OpenAI",
-            "when": "11 Nov 2026",
-            "point": "Singapore Airlines elevates travel & work with OpenAI technology OpenAI",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NUzdYcWZucWtDS2FlTjR4ODIzajRvX0UxWGd0S3ZhZ2dkV19aNWlaal9UVW40RWt4X1lKQ21qRDZKV3pnSmNScFNwT2V6eVlHRnBWdkQ5Q3BRTXNvVU5yc2w1VllUb0E?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Spacefast web deployment for AI agents - Dynamic Business",
-        "status": "Cross-source coverage",
-        "common_context": "Spacefast web deployment for AI agents Dynamic Business",
-        "unique_points": [
-          {
-            "source": "Dynamic Business",
-            "when": "11 Nov 2026",
-            "point": "Spacefast web deployment for AI agents Dynamic Business",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHd2Zmx2NjJ6LTZZWXpHMHY3YU1tY2UzVnNFR0lrM3R2WEE1Mm5HZlpqRkh5eWJ1WjU4MFBjT2VITEVic2N1eXRFSUV5VVctcmFHbzB4bDdGU3Y4SjlWdmtRamR0M3ExYUpxZ24tOWtnZmRBX1JESkN6MVhFTDFYYjZvVHpHMTQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Dynamic Business",
-            "when": "11 Nov 2026",
-            "point": "Living Brain AI memory layer Dynamic Business",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsdkhJLWxRU2g4TmxvMXNSY3JrQVEtTHJJYUthZG1ORVJRMkl0bm5TUUNPUlM5VnV6S09ncDVXbWc1Y1pwUHpwaVU1b3NMYzhIbEtFbXM0NmlaQW4tdUZFcVEtTjY3UFV6RUlkbWNRUUMzQWNDSHVRWnB3?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "DesignRush",
+            "when": "12 Nov 2026",
+            "point": "ChatGPT Brand Metrics, $64B Anthropic IPO: DesignRush AI Roundup DesignRush",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHd0NFpOS2JwQUo4LUU3VTZXVXZKNkZlUFFCZHk0MHpyMExvX2YxMHk0aU5wWDlLQ0oyWWRvb3dDOWNMazloRzR5WEhiTFVpbXlYMEM3S3lsZXphMkVBQjFYZkJQX2JYTXdYQU9pZnBPNHpOOGlzVUJ3dUpPUlpJM2w4d0NydGZLUUlCS0dBdXdnMGdzWnVRbUFB?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

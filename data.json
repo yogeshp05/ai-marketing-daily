@@ -11,13 +11,13 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns - PPC Land",
-    "OpenAI Lets Businesses Claim ChatGPT Profiles and Launch Their Own Agents - Technology Org",
+    "Meta launches new ad tools in Thailand - Bangkok Post",
+    "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "We’re introducing a new transparency tool for invalid traffic in Google Ads. - blog.google",
     "AppLovin stock faces lawsuit over AI advertising claims - ad-hoc-news.de",
     "Tano raises US$4M for AI creator advertising - ContentGrip",
     "AWS Automates Agent Registry Updates with Event-Driven Architecture - The Chenab Times",
-    "Issue types and fields are available for personal accounts - The GitHub Blog",
-    "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split - Search Engine Journal"
+    "Issue types and fields are available for personal accounts - The GitHub Blog"
   ],
   "sections": [
     {
@@ -32,19 +32,19 @@
           "image": ""
         },
         {
+          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads. - blog.google",
           "summary": "We’re introducing a new transparency tool for invalid traffic in Google Ads. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "blog.google",
           "when": "12 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzdTMkRJNXJHZDZHcmw1NDVRd0ppckdFcG1KZWZIc3ZiOHVGVERsU293Skt2VHVzTmp5dkk1MWZIUFZYZVdoVTVqYzF1S2V3UjRja2lQM0swSXVremtxakdleGhiZG1HeTBuaTJRV1VpMkpmeDA2dXlFRnNEN1hPc2xERXA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split - Search Engine Journal",
-          "summary": "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split Search Engine Journal. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Journal",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObllFMlB0TzVFRnE4S2Zydi1ya2dFb2o2a2ZIb1VLRzVzNGVmT0hoNGZIcDVESlUzYzhUUXBLMXhYNUVvWDF3Q2lHb1hiN1dKSTlTLXFNVUdrWDU0QmFjczBjeXBjWjJDWHJubzEwc3JhcjZSbmdyREJ6X1JhZjVnc01UWnJBU1BONm9SVVFmRTBZM0g1ZndGTzhCek1LbE1ORDJ3V1dNU25HRnVsQjQtMTBKT3g?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -52,14 +52,6 @@
     {
       "name": "Microsoft Ads",
       "stories": [
-        {
-          "title": "Your inbox, your photos, their ads? - Fernandina Observer",
-          "summary": ". For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Fernandina Observer",
-          "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2ZUMEkzT2NHbHpHTnhPaUMtQmJTcVlzODU2V3VSQmo2YVI5aTNjZU1vNm83VXVBai1xVXZjbGpPVkM0SmFqUHYwYjFUb3dWNWxEMVVHRF9YZ2NpZmxxeFlhN3FPcW9QUkFJREhoU2FJRnk3UDdvaTU5MHZjTURNWkwwelRBQjZyb3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "XBOX Video for Brands: A New Way to Get Closer to Play - Microsoft",
           "summary": "XBOX Video for Brands: A New Way to Get Closer to Play Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -180,19 +172,19 @@
           "image": ""
         },
         {
-          "title": "Spacefast web deployment for AI agents - Dynamic Business",
-          "summary": "Spacefast web deployment for AI agents Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Dynamic Business",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHd2Zmx2NjJ6LTZZWXpHMHY3YU1tY2UzVnNFR0lrM3R2WEE1Mm5HZlpqRkh5eWJ1WjU4MFBjT2VITEVic2N1eXRFSUV5VVctcmFHbzB4bDdGU3Y4SjlWdmtRamR0M3ExYUpxZ24tOWtnZmRBX1JESkN6MVhFTDFYYjZvVHpHMTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market - CBC",
           "summary": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market CBC. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "CBC",
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcksyNVltUUlTYUc1eXh6RW1fblZocVZOd3RYeFRsaUVQaFRYN1lfNEdUbGFuNmwwbWRfbF9jc0M3QndsYXBSZUd4RVlxRzllR3ItWmZhMXNmaTZFcDk5UkR0Zk9GNGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Nonprofits Sue OpenAI, Anthropic, Google to Freeze AI Models - FourWeekMBA",
+          "summary": "Nonprofits Sue OpenAI, Anthropic, Google to Freeze AI Models FourWeekMBA. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "FourWeekMBA",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEhfek5OY2lIOEdOOERqTEV1NV9Eb0hxd1U5WWtKTVdkQTlXcDFvcXo3R3Bhem5RV2tIaDYta05OSExaNkRxdVVOb2RrbXpDdW1zRFN4N0htdm1oU2Z3YWpjdWN1RGtxTFUySEIwd1d2bEM0aGduYm14SkJqQV8xb1VDbXlSalVzU0FCYW81RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -201,19 +193,19 @@
       "name": "Creative AI & Design",
       "stories": [
         {
+          "title": "Meta launches new ad tools in Thailand - Bangkok Post",
+          "summary": "Meta launches new ad tools in Thailand Bangkok Post. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Bangkok Post",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0dnXy1EQlNoRWJUWkw2d29BVFJhUzFrX3FBc0d4WTQ2N3ZnbHVGTUdjRkQ1Vy0tZEhyeVpTUUFWNE0xUkM1THVEU1ZMQncwemljejdmVDJsdkZ6MERyMXZQSHFUcHVrcXRDZ1JBMWJ1RGJuVmlLaGYwRXBxZF9GOVVLTlhxWnppNDBRNDhTVnAwM0V2b0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "AppLovin stock faces lawsuit over AI advertising claims - ad-hoc-news.de",
           "summary": "AppLovin stock faces lawsuit over AI advertising claims ad-hoc-news.de. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "ad-hoc-news.de",
           "when": "12 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQek5BNFFsejhkTkJINFd2aGlYdklxV0NvUHVOUUNlc252RGg2azlJVEprMFF5UXI3SUlpWklpdFpyeXN2WnhpajdPbVhMbnJCaTZjWHJTMXBMako3MjJ5Mnhlam5ZN3ZyWW9kbTRScGpRMDJVVENmTmc2WjhtUEdNQTBBRER6eDJ5bU1iODN4VkdnVFg3WTQ1cy05aGd0dHZmRW9CNXVPcDVTcF9FOTlKaG85VjdhWEE4aFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "BiteSpeed Launches AI Creative Studio, Aims to Build the Higgsfield for E- Commerce - Livemint",
-          "summary": "BiteSpeed Launches AI Creative Studio, Aims to Build the Higgsfield for E- Commerce Livemint. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Livemint",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZHZfdE5WQ21WMTFscmJmZFlBdFpNemF3Y1praEJXYXBsV3RJRk95OUxyUlpSMWc4QnM2bURLSjkzNk53YmZVU2lkQzNmUFAxTzd1ZU5FMnU4MFZEYUtycHVxQXdrV09jeDZSdEs2Q2dYRl81RFlIWlhaaUNaeDZIbG1CbERGY0Zna0N3RDRmZVVYTzA5TnQxMVhzZnZia3ktVjJJQXNpbEV2cTUzUDlWVl9leUsxdkE3b25RS2xsT1J5aTVHZFNGRFByTGk?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -243,14 +235,6 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "OpenAI Lets Businesses Claim ChatGPT Profiles and Launch Their Own Agents - Technology Org",
-          "summary": "OpenAI Lets Businesses Claim ChatGPT Profiles and Launch Their Own Agents Technology Org. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Technology Org",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNREprOElrTlFYcWwzWnpBcmdVc0pzbjhUN05pWFhLX2c0bGtsaXQ1aGE1Q3I2SUlRdmZjeFNvbEtjQzNMNnhCTjdWVkFzSlhDeXkwTEkwRWRmWVhWUXpVR3h5cWxfMktOS0tzSmhSN3pQZkxMSTgzLUZ6d3BMQXQ2YV82YVUyMjJPeE5ZODJfTFlXWTV3dms0?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "ChatGPT Brand Metrics, $64B Anthropic IPO: DesignRush AI Roundup - DesignRush",
           "summary": "ChatGPT Brand Metrics, $64B Anthropic IPO: DesignRush AI Roundup DesignRush. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "DesignRush",
@@ -274,10 +258,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "After the lift test: Make incrementality part of weekly PPC reporting - Search Engine Land",
+        "topic": "Update your app SDK version for Google Ads conversion measurement - Google Help",
         "status": "Cross-source coverage",
-        "common_context": "After the lift test: Make incrementality part of weekly PPC reporting Search Engine Land",
+        "common_context": "Update your app SDK version for Google Ads conversion measurement Google Help",
         "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "13 Nov 2026",
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Search Engine Land",
             "when": "12 Nov 2026",
@@ -295,12 +285,6 @@
             "when": "12 Nov 2026",
             "point": "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns PPC Land",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1NFV0lqUl90bXU4RU5iVlY1dEEtNXMwa0I3ZFVKaXlUUVhsN3VFUFBvcmg3TU40NkFVUE5IcmE5RS1qb1NUdzU1enpFMHJSZkIyR3pPd1h2SUFXdkN1MS10cDVkQ0ZTdGRoMmd0cTgzTEJHNWl6XzdyLXpORFA3RHdXNW5vSDE0c0lBRjJwRDl3QUpBTFJv?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Journal",
-            "when": "11 Nov 2026",
-            "point": "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split Search Engine Journal",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObllFMlB0TzVFRnE4S2Zydi1ya2dFb2o2a2ZIb1VLRzVzNGVmT0hoNGZIcDVESlUzYzhUUXBLMXhYNUVvWDF3Q2lHb1hiN1dKSTlTLXFNVUdrWDU0QmFjczBjeXBjWjJDWHJubzEwc3JhcjZSbmdyREJ6X1JhZjVnc01UWnJBU1BONm9SVVFmRTBZM0g1ZndGTzhCek1LbE1ORDJ3V1dNU25HRnVsQjQtMTBKT3g?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -321,6 +305,26 @@
             "when": "12 Nov 2026",
             "point": "ChatGPT Brand Metrics, $64B Anthropic IPO: DesignRush AI Roundup DesignRush",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHd0NFpOS2JwQUo4LUU3VTZXVXZKNkZlUFFCZHk0MHpyMExvX2YxMHk0aU5wWDlLQ0oyWWRvb3dDOWNMazloRzR5WEhiTFVpbXlYMEM3S3lsZXphMkVBQjFYZkJQX2JYTXdYQU9pZnBPNHpOOGlzVUJ3dUpPUlpJM2w4d0NydGZLUUlCS0dBdXdnMGdzWnVRbUFB?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Nonprofits Sue OpenAI, Anthropic, Google to Freeze AI Models - FourWeekMBA",
+        "status": "Cross-source coverage",
+        "common_context": "Nonprofits Sue OpenAI, Anthropic, Google to Freeze AI Models FourWeekMBA",
+        "unique_points": [
+          {
+            "source": "FourWeekMBA",
+            "when": "13 Nov 2026",
+            "point": "Nonprofits Sue OpenAI, Anthropic, Google to Freeze AI Models FourWeekMBA",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEhfek5OY2lIOEdOOERqTEV1NV9Eb0hxd1U5WWtKTVdkQTlXcDFvcXo3R3Bhem5RV2tIaDYta05OSExaNkRxdVVOb2RrbXpDdW1zRFN4N0htdm1oU2Z3YWpjdWN1RGtxTFUySEIwd1d2bEM0aGduYm14SkJqQV8xb1VDbXlSalVzU0FCYW81RQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "AI: Reset to Zero",
+            "when": "12 Nov 2026",
+            "point": "AI: Anthropic & OpenAI Use AI to Design AI Chips.",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1amxOVW8tTHJXMEdkTVFSbXE2UUJKS0dGQXowT08wTmhCWXNCYWRRUzhudF9rclF0QmdxSmxSQy1uZmg2M0h1VmJNR3lTWFF2WERqWnlNV250bmdCX1h2SHd6ZmZtVG9aenNwaFQtVURUT1VnTlhOVEhn?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

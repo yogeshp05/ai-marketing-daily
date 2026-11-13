@@ -11,13 +11,13 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns - PPC Land",
-    "Meta launches new ad tools in Thailand - Bangkok Post",
+    "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves - Performance Marketing World",
     "Update your app SDK version for Google Ads conversion measurement - Google Help",
+    "Meta launches new ad tools in Thailand - Bangkok Post",
     "We’re introducing a new transparency tool for invalid traffic in Google Ads. - blog.google",
     "AppLovin stock faces lawsuit over AI advertising claims - ad-hoc-news.de",
-    "Tano raises US$4M for AI creator advertising - ContentGrip",
-    "AWS Automates Agent Registry Updates with Event-Driven Architecture - The Chenab Times",
-    "Issue types and fields are available for personal accounts - The GitHub Blog"
+    "Anthropic Launches Claude Meetings, Whiteboards, and Sheets - TechJuice",
+    "Pomerado turns websites into APIs - Dynamic Business"
   ],
   "sections": [
     {
@@ -156,19 +156,19 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Tano raises US$4M for AI creator advertising - ContentGrip",
-          "summary": "Tano raises US$4M for AI creator advertising ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ContentGrip",
-          "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ySUVNTEdEV3VVelpKd1BGLVVfU01wMnIyNmJGMEhfLXd6Ylp2TXZMMzB0NTJ4c1Y4bERxbzZBVWdZWngxT1NHRVYzaGtKMGE3YmRST0dQenJTQUlEWk1pbl9BQ0d0WDZTeXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Anthropic Launches Claude Meetings, Whiteboards, and Sheets - TechJuice",
+          "summary": "Anthropic Launches Claude Meetings, Whiteboards, and Sheets TechJuice. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "TechJuice",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xZkRTUkMtVHpDajFsSW80VVRwQnZaTEV4SFp0QzNRYmRWdE1RRWpyMFRJV3ZwTGNZcHdrbXk2dXhCV2hZaXZIMG4xUGV0RXllcHFnVXJhRDFYcnhaeklteEdpZEt3aTB3V0JCNFJIbHM1N3dvU3VxY3RR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Issue types and fields are available for personal accounts - The GitHub Blog",
-          "summary": "Issue types and fields are available for personal accounts The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWdLN181d29EWmpvN1ZhU3hCam5Oa1l5WlRUWWxkd29uUWtKV3k3Vjd4Yl9icmZaV3Vubi1Oa2p5Nk1UakpqZ0Q5SEZLNzF5SHFXVVFxZWtvQVRSOHhIQ20wM0pBeDdPSF9ncGlUV3VHMDFEY3hqMW9oUkpZdTlKaFZMVXFPakFNZ3BRWlBoRFBGVHN3WklSQW9OXzhHdzNBWmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Pomerado turns websites into APIs - Dynamic Business",
+          "summary": "Pomerado turns websites into APIs Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Dynamic Business",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmtTZTdQaG02SThyMFJhWld0REloSG9xczJfM0RnLWF6Umw5SUFmSFM0UzNlV3p3RjdkMW92bkM5ZzBOTk1kSE5YeGZ2VVhrYlhNSDhIaWpCbW9ORUJuclhjSzRtNnlNMmJxSUk1bXBPUkMwSzRTeHNlRjNodW9QZg?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -192,6 +192,14 @@
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves - Performance Marketing World",
+          "summary": "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves Performance Marketing World. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Performance Marketing World",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2l6Ml9Xdk5NNHNhUVFGS25JNWtJSV93UURKam4xdktMVjlFN0VUQ0ktSzJfX2o0LW1hS3NhMklCeVA2c18tZjVsamYwUmdUblNOS3pUM3pWOWNrOEZpSGN3WkFJb2VaMXRqd1d5cUpOSTcyRjVFRGU4S21VNzJZSkZPaWZXcnV3cHEtcU5GOE5qZ2x4U05GX09vQy1feWlZM19qTFliNmhsWG8zTVBoS0FvYnJvYmlfMFRYVU9iam5oZEc2LUtaNEhDZl9uS0hqS2xzWlNQV2VJeXF2YjJMTkxqWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Meta launches new ad tools in Thailand - Bangkok Post",
           "summary": "Meta launches new ad tools in Thailand Bangkok Post. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -227,7 +235,8 @@
           "source": "The Chenab Times",
           "when": "12 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM09lMm9HUDdPRlZiX0FGeG9GYl9SS3k2eHlDeGEzY1AyUmtZNGgtc2xOb3dZckZwTnBsSFIzM0Nnc0ItcDVWVF83aGUycGp5NUQ3VXZaOWh3bmdpUkJvejczaXd4U1R4OU5QYjZlT0dTU1ZkaFdLVHVkVGZrZ0l2eDZrWDJrX3I2Vl9Gb3N0TXNoZG5GV3NXU012NWtGcy1zUDFuZ2RlTmtrUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -240,14 +249,6 @@
           "source": "DesignRush",
           "when": "12 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHd0NFpOS2JwQUo4LUU3VTZXVXZKNkZlUFFCZHk0MHpyMExvX2YxMHk0aU5wWDlLQ0oyWWRvb3dDOWNMazloRzR5WEhiTFVpbXlYMEM3S3lsZXphMkVBQjFYZkJQX2JYTXdYQU9pZnBPNHpOOGlzVUJ3dUpPUlpJM2w4d0NydGZLUUlCS0dBdXdnMGdzWnVRbUFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "New Ecommerce Tools: November 11, 2026 - Practical Ecommerce",
-          "summary": "New Ecommerce Tools: November 11, 2026 Practical Ecommerce. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Practical Ecommerce",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iZE85LWMzSTJmdjFlcnY5Smh3YVg2d0JaMjRkWGJ3NFBqUFp3Y29ZWUttRnFnc1hBVFlDcmd6SEVLRXN4dVRtQ0RGUGhUTmVmWmZVajJKNFljQ2Npem9rNi1hcmdsVVZRUTRPYWt4VmxnOUxSSTlleFZnWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -285,6 +286,26 @@
             "when": "12 Nov 2026",
             "point": "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns PPC Land",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1NFV0lqUl90bXU4RU5iVlY1dEEtNXMwa0I3ZFVKaXlUUVhsN3VFUFBvcmg3TU40NkFVUE5IcmE5RS1qb1NUdzU1enpFMHJSZkIyR3pPd1h2SUFXdkN1MS10cDVkQ0ZTdGRoMmd0cTgzTEJHNWl6XzdyLXpORFA3RHdXNW5vSDE0c0lBRjJwRDl3QUpBTFJv?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Anthropic Launches Claude Meetings, Whiteboards, and Sheets - TechJuice",
+        "status": "Cross-source coverage",
+        "common_context": "Anthropic Launches Claude Meetings, Whiteboards, and Sheets TechJuice",
+        "unique_points": [
+          {
+            "source": "TechJuice",
+            "when": "13 Nov 2026",
+            "point": "Anthropic Launches Claude Meetings, Whiteboards, and Sheets TechJuice",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xZkRTUkMtVHpDajFsSW80VVRwQnZaTEV4SFp0QzNRYmRWdE1RRWpyMFRJV3ZwTGNZcHdrbXk2dXhCV2hZaXZIMG4xUGV0RXllcHFnVXJhRDFYcnhaeklteEdpZEt3aTB3V0JCNFJIbHM1N3dvU3VxY3RR?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Performance Marketing World",
+            "when": "13 Nov 2026",
+            "point": "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves Performance Marketing World",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2l6Ml9Xdk5NNHNhUVFGS25JNWtJSV93UURKam4xdktMVjlFN0VUQ0ktSzJfX2o0LW1hS3NhMklCeVA2c18tZjVsamYwUmdUblNOS3pUM3pWOWNrOEZpSGN3WkFJb2VaMXRqd1d5cUpOSTcyRjVFRGU4S21VNzJZSkZPaWZXcnV3cHEtcU5GOE5qZ2x4U05GX09vQy1feWlZM19qTFliNmhsWG8zTVBoS0FvYnJvYmlfMFRYVU9iam5oZEc2LUtaNEhDZl9uS0hqS2xzWlNQV2VJeXF2YjJMTkxqWQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

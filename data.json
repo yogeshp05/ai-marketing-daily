@@ -1,5 +1,5 @@
 {
-  "date": "13 November 2026",
+  "date": "14 November 2026",
   "lead": {
     "title": "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
     "deck": "Why AI search is bringing SEO and brand marketing together Search Engine Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -12,12 +12,12 @@
   "ticker": [
     "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
     "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns - PPC Land",
+    "YouArt Launches YouArt Desktop App, AI Creative Teammate on the Computer - The Manila Times",
     "Amazon’s plan to own the world’s product data and fight AI shopping agents - The Express Tribune",
     "New York launches RAISE portal, big AI developers must register by Jan 1 - Pasquale Pillitteri",
     "Manage AI Scan for repositories using the REST API - The GitHub Blog",
     "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves - Performance Marketing World",
-    "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "Meta launches new ad tools in Thailand - Bangkok Post"
+    "Update your app SDK version for Google Ads conversion measurement - Google Help"
   ],
   "sections": [
     {
@@ -79,13 +79,12 @@
       "name": "Amazon Ads",
       "stories": [
         {
-          "title": "Amazon and Walmart Dominate a $74 Billion Ad Market Built for Human Shoppers - AIM Media House",
-          "summary": "Amazon and Walmart Dominate a $74 Billion Ad Market Built for Human Shoppers AIM Media House. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "AIM Media House",
-          "when": "9 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk9TS2FvN2NxNVJHNUIwcXozNjRzamlSZ3JVRXFtbEk1dHpEblBjNFRvRG8yOW9FU2p6MnV2LVhwMzBTUnpfZkVoNUJVRWhsNGhZSV9XRE5qazBPS0xEQXNaTWE3WmNmVTN6RVZrM2ZXMEsxdHZ5YnVqZVo3VGF1V1dkcF9pd2t2cS1DcWpJMFhpc3htdGZzdmQybzIzZGZWRHpTZW5nUkhpQzhy?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves - Performance Marketing World",
+          "summary": "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves Performance Marketing World. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Performance Marketing World",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2l6Ml9Xdk5NNHNhUVFGS25JNWtJSV93UURKam4xdktMVjlFN0VUQ0ktSzJfX2o0LW1hS3NhMklCeVA2c18tZjVsamYwUmdUblNOS3pUM3pWOWNrOEZpSGN3WkFJb2VaMXRqd1d5cUpOSTcyRjVFRGU4S21VNzJZSkZPaWZXcnV3cHEtcU5GOE5qZ2x4U05GX09vQy1feWlZM19qTFliNmhsWG8zTVBoS0FvYnJvYmlfMFRYVU9iam5oZEc2LUtaNEhDZl9uS0hqS2xzWlNQV2VJeXF2YjJMTkxqWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -121,6 +120,14 @@
           "source": "Search Engine Land",
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS2tBa041U0NRaGdFMDNFUjE5TXBFWFpVc0RkSDJMalI5Ync1V2xNZDMxYmtlX1FydDVqT1NTWlZkOGd1Q2w2Qjc0aEQ1a1JMLTlwSGlZUnplaDVOLWV1TXg4Y0NfVzEtMU1PaDRmRkZoby1mYk5Mbk5CMDVrcjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Top 10 Best Advertising Platforms In South Africa 2026 - Nubia Magazine!",
+          "summary": "Top 10 Best Advertising Platforms In South Africa 2026 Nubia Magazine! For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Nubia Magazine!",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kQkFzM040NEZ0MU9CVnhlX3hQbE1BX3M5QllwMEVTUF9TcmxLUzdSRGF6akdZaUwzNW1Gd3F0Y2kyTFpHdFM2cHgzX0g0R3Z5amlrQzlWN1BWT0ZhNlpiWFRVZS01LXVwWXFCdU5NWmY4Rko2N3R6SkNWeTY?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -201,27 +208,19 @@
       "name": "Creative AI & Design",
       "stories": [
         {
+          "title": "YouArt Launches YouArt Desktop App, AI Creative Teammate on the Computer - The Manila Times",
+          "summary": "YouArt Launches YouArt Desktop App, AI Creative Teammate on the Computer The Manila Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Manila Times",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUkFfa0JWYk5CM1N3WXF5eVNwQTZtTzU4NU81b1IzTVZGWmdjeUZka0hVMHhQUWNrRjhEaW05eXBRM3NSZENPUHNDRXVCS3hPY0NFWXNoWDFxeDBUQm5BcEMyX19IdnRIdmM4Rm1uWFVsb1JxdGt2cVM5RzdlNmdodW5icTVSRk9iZ3JKTzRUSlVFTXp4QnVIMEhoMGdGd2ZtZ2pnRlYtZEgtbkNWMXJlWTRXMW40V3ZiUTVRVmRwTUZSN2gtTFhUZm1GME1ZdGtzeGJleEYxY2xhRndXT1HSAeMBQVVfeXFMTkloeTZCX0RRcDFGVGZEN2w2b0cwWTRiczZ5b29BbVNmRGxQekZod0gzUW9GMUEyU01LLXBNTXRJRmhKOTZsaWJrdFhhc1lZTVhfVk5zV1FnRWl6U1FWVERlWWVIRUYyaGhZbDN3ak1Uam5kdThSNThBeWpvNTZNaTNoSEdEZDk2aWlkcUplUGFhVGFIQTEyaXl5OFZiV1draG1KVFhIazdtbGhnUTN1eTBFNFpIX2dCSlpwUnJUdzhMZGdDb2tyclFKSXVmT0JqOFBMMDJQeU5nVXBfbHVRUll0dkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves - Performance Marketing World",
           "summary": "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves Performance Marketing World. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Performance Marketing World",
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2l6Ml9Xdk5NNHNhUVFGS25JNWtJSV93UURKam4xdktMVjlFN0VUQ0ktSzJfX2o0LW1hS3NhMklCeVA2c18tZjVsamYwUmdUblNOS3pUM3pWOWNrOEZpSGN3WkFJb2VaMXRqd1d5cUpOSTcyRjVFRGU4S21VNzJZSkZPaWZXcnV3cHEtcU5GOE5qZ2x4U05GX09vQy1feWlZM19qTFliNmhsWG8zTVBoS0FvYnJvYmlfMFRYVU9iam5oZEc2LUtaNEhDZl9uS0hqS2xzWlNQV2VJeXF2YjJMTkxqWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta launches new ad tools in Thailand - Bangkok Post",
-          "summary": "Meta launches new ad tools in Thailand Bangkok Post. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Bangkok Post",
-          "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0dnXy1EQlNoRWJUWkw2d29BVFJhUzFrX3FBc0d4WTQ2N3ZnbHVGTUdjRkQ1Vy0tZEhyeVpTUUFWNE0xUkM1THVEU1ZMQncwemljejdmVDJsdkZ6MERyMXZQSHFUcHVrcXRDZ1JBMWJ1RGJuVmlLaGYwRXBxZF9GOVVLTlhxWnppNDBRNDhTVnAwM0V2b0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "AppLovin stock faces lawsuit over AI advertising claims - ad-hoc-news.de",
-          "summary": "AppLovin stock faces lawsuit over AI advertising claims ad-hoc-news.de. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ad-hoc-news.de",
-          "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQek5BNFFsejhkTkJINFd2aGlYdklxV0NvUHVOUUNlc252RGg2azlJVEprMFF5UXI3SUlpWklpdFpyeXN2WnhpajdPbVhMbnJCaTZjWHJTMXBMako3MjJ5Mnhlam5ZN3ZyWW9kbTRScGpRMDJVVENmTmc2WjhtUEdNQTBBRER6eDJ5bU1iODN4VkdnVFg3WTQ1cy05aGd0dHZmRW9CNXVPcDVTcF9FOTlKaG85VjdhWEE4aFE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {

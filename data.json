@@ -11,40 +11,24 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
-    "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns - PPC Land",
     "YouArt Launches YouArt Desktop App, AI Creative Teammate on the Computer - The Manila Times",
     "Amazon’s plan to own the world’s product data and fight AI shopping agents - The Express Tribune",
-    "New York launches RAISE portal, big AI developers must register by Jan 1 - Pasquale Pillitteri",
     "Manage AI Scan for repositories using the REST API - The GitHub Blog",
     "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves - Performance Marketing World",
-    "Update your app SDK version for Google Ads conversion measurement - Google Help"
+    "Update your app SDK version for Google Ads conversion measurement - Google Help",
+    "Top 10 Best Advertising Platforms In South Africa 2026 - Nubia Magazine!",
+    "How Amplitude ships product improvements in 1–2 days with OpenAI - OpenAI"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns - PPC Land",
-          "summary": "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
-          "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1NFV0lqUl90bXU4RU5iVlY1dEEtNXMwa0I3ZFVKaXlUUVhsN3VFUFBvcmg3TU40NkFVUE5IcmE5RS1qb1NUdzU1enpFMHJSZkIyR3pPd1h2SUFXdkN1MS10cDVkQ0ZTdGRoMmd0cTgzTEJHNWl6XzdyLXpORFA3RHdXNW5vSDE0c0lBRjJwRDl3QUpBTFJv?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
           "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads. - blog.google",
-          "summary": "We’re introducing a new transparency tool for invalid traffic in Google Ads. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "blog.google",
-          "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzdTMkRJNXJHZDZHcmw1NDVRd0ppckdFcG1KZWZIc3ZiOHVGVERsU293Skt2VHVzTmp5dkk1MWZIUFZYZVdoVTVqYzF1S2V3UjRja2lQM0swSXVremtxakdleGhiZG1HeTBuaTJRV1VpMkpmeDA2dXlFRnNEN1hPc2xERXA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -58,7 +42,8 @@
           "source": "Microsoft",
           "when": "12 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3VsT2JrR0FkbHJFM0JiRjJMVDltVm9GRWNmajFyZC1FcTd3NXE5ZHk4djFkaTFKcEVQZHk0SG5lb3dxV21URmpmakt5Z2NRb202OHhpLUpkVWNJMTJJSG5YZkw4WWROdkhXMkUtOW9vdS1OR1dmeGF2Z2hLMGZuSzFheThNaGtYaEJVVVhrMm8zZEdpXzdkd1dHY2xlWUNaMmx0amFwRXRqWWR6ektvY2VR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -71,7 +56,8 @@
           "source": "Facebook",
           "when": "12 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVng2NFo1ajNiSlZ6dE5taTZqa1MyUllIZ3BWVGRUWXFhTTI4RVNGRHd4U2dxVF9fSGtNc3B2dTUxQ0Z5aEYzd1ZSLTNraS1KbUU0XzZubGxmTC1PSGxQRzU4NlZLXy01dDFFWm4tdmdVTGlOdktrZ2tMWkFuRERzRHdWbnRjLTc5VGg5Rk03SGZERjVLVXFDazJKX19HNzBrZVHSAacBQVVfeXFMT1lCTFNMUmN1a2xHMzZzeFhtT0JJU2ExSzhuR1lzYklqc295OWxMUlVXVTFOeDJyZ3Z6VkNPYzJ2VTJnN082alFudmIwNy1hMFdBdjRHZGgzNm43UFc2akNxN2t2ZVdxTTZGRkRaVF92UFVRVkRQSm9VNnRCV196MUJHVkFrWV9rcW4wNGlxMUFhakxwVzV5cFU2NkE3X29SRENrUjUwRjA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -84,7 +70,8 @@
           "source": "Performance Marketing World",
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2l6Ml9Xdk5NNHNhUVFGS25JNWtJSV93UURKam4xdktMVjlFN0VUQ0ktSzJfX2o0LW1hS3NhMklCeVA2c18tZjVsamYwUmdUblNOS3pUM3pWOWNrOEZpSGN3WkFJb2VaMXRqd1d5cUpOSTcyRjVFRGU4S21VNzJZSkZPaWZXcnV3cHEtcU5GOE5qZ2x4U05GX09vQy1feWlZM19qTFliNmhsWG8zTVBoS0FvYnJvYmlfMFRYVU9iam5oZEc2LUtaNEhDZl9uS0hqS2xzWlNQV2VJeXF2YjJMTkxqWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -129,14 +116,6 @@
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kQkFzM040NEZ0MU9CVnhlX3hQbE1BX3M5QllwMEVTUF9TcmxLUzdSRGF6akdZaUwzNW1Gd3F0Y2kyTFpHdFM2cHgzX0g0R3Z5amlrQzlWN1BWT0ZhNlpiWFRVZS01LXVwWXFCdU5NWmY4Rko2N3R6SkNWeTY?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "After the lift test: Make incrementality part of weekly PPC reporting - Search Engine Land",
-          "summary": "After the lift test: Make incrementality part of weekly PPC reporting Search Engine Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Search Engine Land",
-          "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlR3RMekFHRFVxamY4eDVBelJtdDE5LXlWLTVUdXNzaTdsbU54S2NRWWlYbWYxYlZmNDkzQ3l0anFDeV9oOGcwYUNXZUx4RVlUNW94Vmw1bGFLWUgxajZPQlo3NngxbERYOGFuc2toN2tMSkxoQmFoblBNdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -171,14 +150,6 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "New York launches RAISE portal, big AI developers must register by Jan 1 - Pasquale Pillitteri",
-          "summary": "New York launches RAISE portal, big AI developers must register by Jan 1 Pasquale Pillitteri. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Pasquale Pillitteri",
-          "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0hEdG9vMXBIemJNLXJPZVhPcWE0d0NTaHhieURSZzBwanJGSVJPRzJqZWRXcXpuVlBrWkxSYnZzVHJGX2FhMEszVkZnVmxJVkpmTEFCenh0NWp1cnNudUJfZjBHU2U1c0hkdGt5R0ZFTTlpR0dQbmw0c2FFZERxT05ZSm5ZSW81T29QdmZ2aGR5cWo2MUFTMmpWWFYxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Manage AI Scan for repositories using the REST API - The GitHub Blog",
           "summary": "Manage AI Scan for repositories using the REST API The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
@@ -187,19 +158,27 @@
           "image": ""
         },
         {
-          "title": "Pomerado turns websites into APIs - Dynamic Business",
-          "summary": "Pomerado turns websites into APIs Dynamic Business. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Dynamic Business",
-          "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmtTZTdQaG02SThyMFJhWld0REloSG9xczJfM0RnLWF6Umw5SUFmSFM0UzNlV3p3RjdkMW92bkM5ZzBOTk1kSE5YeGZ2VVhrYlhNSDhIaWpCbW9ORUJuclhjSzRtNnlNMmJxSUk1bXBPUkMwSzRTeHNlRjNodW9QZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market - CBC",
           "summary": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market CBC. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "CBC",
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcksyNVltUUlTYUc1eXh6RW1fblZocVZOd3RYeFRsaUVQaFRYN1lfNEdUbGFuNmwwbWRfbF9jc0M3QndsYXBSZUd4RVlxRzllR3ItWmZhMXNmaTZFcDk5UkR0Zk9GNGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Nonprofits Sue OpenAI, Anthropic, Google to Freeze AI Models - FourWeekMBA",
+          "summary": "Nonprofits Sue OpenAI, Anthropic, Google to Freeze AI Models FourWeekMBA. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "FourWeekMBA",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEhfek5OY2lIOEdOOERqTEV1NV9Eb0hxd1U5WWtKTVdkQTlXcDFvcXo3R3Bhem5RV2tIaDYta05OSExaNkRxdVVOb2RrbXpDdW1zRFN4N0htdm1oU2Z3YWpjdWN1RGtxTFUySEIwd1d2bEM0aGduYm14SkJqQV8xb1VDbXlSalVzU0FCYW81RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Upcoming deprecation of selected GitHub Copilot models in December - The GitHub Blog",
+          "summary": "Upcoming deprecation of selected GitHub Copilot models in December The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "14 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSldwUWpESGFaQkc1QVM0RlZ0d19HUExJUkxVdVJPTDV3Q2hrV2lSRmNMZlFnUXJBNHlXQmZMUElJdE0yMklCY05IQkUzcjZ6UzVyd1JBVXZ4eXNSWWxuWXZ2Q01Va1FJYWVwM0VGbk1MdFlGaGxNcGdBMVZaZGVvTDdqWWVlNDd3RjJwLXpPVlp4YjZXSjI5ZHF0VmY2WHRlQi1nTUxhVWZaWTBR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -257,14 +236,6 @@
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFFTQ0hkUmNXN0pLci16dmZuWEZKZTdDY0I4dTFkdWxkRWFZRkh2dHhpUDZnRDRWQkhSZkt0MzByYTZEWGgyUUpzMjhGTE5URW5ZVVl4YXhDS05keTJscE1pVXNXc3AtVS1LYW1rUHVKaDFheGFXM1QyU2MwVlowZDBHNlpjT2QzNGVKUXRQeDAtRmVlaE1YcU9mTGRBRUIyNHY3amN2MnlvVHRlcXfSAbYBQVVfeXFMT3lUSTNuT280Rm55S1VHY1ExNmY0OVRHRHBZR19HZVVTV1BONFhXTTc2T1dHMG9hZzloUlltZFl3NHhOUG56Z2s2V1Fxc1ZHUmxyV0tYVVprTDJ0OVQ4WlFCSzNlYmRKVWJoMTA4WklRUUswSjA2VWgtOUJVVTVtOGZzYlZFTHhiWHpKV3lVcVhncUZWSUZJRlBTdFN1MDc4MjVvdGZjVVRYVTFfYmdBNVlsQzNsNnc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "ChatGPT Brand Metrics, $64B Anthropic IPO: DesignRush AI Roundup - DesignRush",
-          "summary": "ChatGPT Brand Metrics, $64B Anthropic IPO: DesignRush AI Roundup DesignRush. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "DesignRush",
-          "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHd0NFpOS2JwQUo4LUU3VTZXVXZKNkZlUFFCZHk0MHpyMExvX2YxMHk0aU5wWDlLQ0oyWWRvb3dDOWNMazloRzR5WEhiTFVpbXlYMEM3S3lsZXphMkVBQjFYZkJQX2JYTXdYQU9pZnBPNHpOOGlzVUJ3dUpPUlpJM2w4d0NydGZLUUlCS0dBdXdnMGdzWnVRbUFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     }
@@ -274,53 +245,33 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
+        "topic": "Upcoming deprecation of selected GitHub Copilot models in December - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "Why AI search is bringing SEO and brand marketing together Search Engine Land",
+        "common_context": "Upcoming deprecation of selected GitHub Copilot models in December The GitHub Blog",
         "unique_points": [
           {
-            "source": "Search Engine Land",
+            "source": "The GitHub Blog",
+            "when": "14 Nov 2026",
+            "point": "Upcoming deprecation of selected GitHub Copilot models in December The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSldwUWpESGFaQkc1QVM0RlZ0d19HUExJUkxVdVJPTDV3Q2hrV2lSRmNMZlFnUXJBNHlXQmZMUElJdE0yMklCY05IQkUzcjZ6UzVyd1JBVXZ4eXNSWWxuWXZ2Q01Va1FJYWVwM0VGbk1MdFlGaGxNcGdBMVZaZGVvTDdqWWVlNDd3RjJwLXpPVlp4YjZXSjI5ZHF0VmY2WHRlQi1nTUxhVWZaWTBR?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
             "when": "13 Nov 2026",
-            "point": "Why AI search is bringing SEO and brand marketing together Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS2tBa041U0NRaGdFMDNFUjE5TXBFWFpVc0RkSDJMalI5Ync1V2xNZDMxYmtlX1FydDVqT1NTWlZkOGd1Q2w2Qjc0aEQ1a1JMLTlwSGlZUnplaDVOLWV1TXg4Y0NfVzEtMU1PaDRmRkZoby1mYk5Mbk5CMDVrcjQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "GitHub Enterprise Server support in the GitHub Copilot app The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VkcVVOYTN1VVZLb2dVcUhpanEzR2dHWmEzQlpVMWFtZVc4VWhGMkJuWlVIUzdxOXZ3djVHd24tTVdkckNJU3ZrYjllYjhSRXBBVEpBQXRHaW1ad0NiUTlBUEdEZDh6U1paS1ZXdC1ibU1tMkt1ZW5KcTFsOXJuWHdZbzc1cEV4T2szdHBXNzJKNWNrZ29IajJwTDNkN01ueEE?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Google Help",
+            "source": "The GitHub Blog",
             "when": "13 Nov 2026",
-            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Gemini 4 Hydrogen in GitHub Copilot The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOUI2N2tMVm9aU2d4SWNfV1RPbEN1R21pOVI5Vnh6UmlETjUwT3ZLTUY5amxTTW5sNXpKTjd5ZE9mcU5BdVllUDVXN1pMZk5QN0l3MVRTUFcwYWlURlJkZ1Q1UW9wVWNoNEtLQ2ptRXMxWTJmaFVsYjFTV3VLZjRFMUNMNA?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Search Engine Land",
-            "when": "12 Nov 2026",
-            "point": "After the lift test: Make incrementality part of weekly PPC reporting Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlR3RMekFHRFVxamY4eDVBelJtdDE5LXlWLTVUdXNzaTdsbU54S2NRWWlYbWYxYlZmNDkzQ3l0anFDeV9oOGcwYUNXZUx4RVlUNW94Vmw1bGFLWUgxajZPQlo3NngxbERYOGFuc2toN2tMSkxoQmFoblBNdw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "blog.google",
-            "when": "12 Nov 2026",
-            "point": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzdTMkRJNXJHZDZHcmw1NDVRd0ppckdFcG1KZWZIc3ZiOHVGVERsU293Skt2VHVzTmp5dkk1MWZIUFZYZVdoVTVqYzF1S2V3UjRja2lQM0swSXVremtxakdleGhiZG1HeTBuaTJRV1VpMkpmeDA2dXlFRnNEN1hPc2xERXA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market - CBC",
-        "status": "Cross-source coverage",
-        "common_context": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market CBC",
-        "unique_points": [
-          {
-            "source": "CBC",
+            "source": "The GitHub Blog",
             "when": "13 Nov 2026",
-            "point": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market CBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcksyNVltUUlTYUc1eXh6RW1fblZocVZOd3RYeFRsaUVQaFRYN1lfNEdUbGFuNmwwbWRfbF9jc0M3QndsYXBSZUd4RVlxRzllR3ItWmZhMXNmaTZFcDk5UkR0Zk9GNGs?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "DesignRush",
-            "when": "12 Nov 2026",
-            "point": "ChatGPT Brand Metrics, $64B Anthropic IPO: DesignRush AI Roundup DesignRush",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHd0NFpOS2JwQUo4LUU3VTZXVXZKNkZlUFFCZHk0MHpyMExvX2YxMHk0aU5wWDlLQ0oyWWRvb3dDOWNMazloRzR5WEhiTFVpbXlYMEM3S3lsZXphMkVBQjFYZkJQX2JYTXdYQU9pZnBPNHpOOGlzVUJ3dUpPUlpJM2w4d0NydGZLUUlCS0dBdXdnMGdzWnVRbUFB?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Manage AI Scan for repositories using the REST API The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0g0d2swNWRQSHpBVkI1dExYaFNLZXIwVUwtREZqa3d6elRSMFF3TzMyUDM5Z0pTSm9YV3VOTWE4dzBMc1JVOWdyb3pLeXE2RUMwWUtKQ0UwZXRsd3ZOTTZ1NDNrMkc1TkwwUk9TdlVkbmZ0UjR0RFpzZGZRaGhnVHpiSjNITE1ENGRQeWF5X3podzNlR1FR?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

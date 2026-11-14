@@ -11,13 +11,13 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
+    "Nectar Creator Agent brings AI to influencer outreach - ContentGrip",
     "YouArt Launches YouArt Desktop App, AI Creative Teammate on the Computer - The Manila Times",
-    "Amazon’s plan to own the world’s product data and fight AI shopping agents - The Express Tribune",
+    "New York launches RAISE portal, big AI developers must register by Jan 1 - Pasquale Pillitteri",
     "Manage AI Scan for repositories using the REST API - The GitHub Blog",
+    "Amazon plans to own international product data, battle AI shopping agents - The Jerusalem Post",
     "ITV cuts costs as ad revenues fall and Anthropic launches workplace software: Latest industry moves - Performance Marketing World",
-    "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "Top 10 Best Advertising Platforms In South Africa 2026 - Nubia Magazine!",
-    "How Amplitude ships product improvements in 1–2 days with OpenAI - OpenAI"
+    "Update your app SDK version for Google Ads conversion measurement - Google Help"
   ],
   "sections": [
     {
@@ -142,7 +142,8 @@
           "source": "MarTech",
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjJFc0t1U0NCT3d5NkN4a2FNY0xNNGJESnNLTFNOTjRUbkp6czUxLXJURXZXb0xacGwzMFptYkdoc0stUS1zTGVJalZYd3Bnci1ic2hjV1c2MFNlaE1GeFFWTXltN3M0ZlZLTmx3MFV5OUdPbmlNSnhDZTExT2w3eTBQQkkxekdIQUdMMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -150,27 +151,27 @@
       "name": "AI & Agents",
       "stories": [
         {
+          "title": "Nectar Creator Agent brings AI to influencer outreach - ContentGrip",
+          "summary": "Nectar Creator Agent brings AI to influencer outreach ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "ContentGrip",
+          "when": "14 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82UTE1cFBMY2NUNk5oUWNYQUNZWW1qb05CT1FySkMtdG9JSVE2MW1DMkVpSm1PZEFDQ0hFZTVWQXNXdFRGdlpTQVpRbm1DSG81bjJobkdVeDF6OG5YOFlaVzdlX2U5ckFLN2ZTa3h1eU9OMndZWENweg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "New York launches RAISE portal, big AI developers must register by Jan 1 - Pasquale Pillitteri",
+          "summary": "New York launches RAISE portal, big AI developers must register by Jan 1 Pasquale Pillitteri. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Pasquale Pillitteri",
+          "when": "13 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0hEdG9vMXBIemJNLXJPZVhPcWE0d0NTaHhieURSZzBwanJGSVJPRzJqZWRXcXpuVlBrWkxSYnZzVHJGX2FhMEszVkZnVmxJVkpmTEFCenh0NWp1cnNudUJfZjBHU2U1c0hkdGt5R0ZFTTlpR0dQbmw0c2FFZERxT05ZSm5ZSW81T29QdmZ2aGR5cWo2MUFTMmpWWFYxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Manage AI Scan for repositories using the REST API - The GitHub Blog",
           "summary": "Manage AI Scan for repositories using the REST API The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0g0d2swNWRQSHpBVkI1dExYaFNLZXIwVUwtREZqa3d6elRSMFF3TzMyUDM5Z0pTSm9YV3VOTWE4dzBMc1JVOWdyb3pLeXE2RUMwWUtKQ0UwZXRsd3ZOTTZ1NDNrMkc1TkwwUk9TdlVkbmZ0UjR0RFpzZGZRaGhnVHpiSjNITE1ENGRQeWF5X3podzNlR1FR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market - CBC",
-          "summary": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market CBC. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "CBC",
-          "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcksyNVltUUlTYUc1eXh6RW1fblZocVZOd3RYeFRsaUVQaFRYN1lfNEdUbGFuNmwwbWRfbF9jc0M3QndsYXBSZUd4RVlxRzllR3ItWmZhMXNmaTZFcDk5UkR0Zk9GNGs?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Nonprofits Sue OpenAI, Anthropic, Google to Freeze AI Models - FourWeekMBA",
-          "summary": "Nonprofits Sue OpenAI, Anthropic, Google to Freeze AI Models FourWeekMBA. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "FourWeekMBA",
-          "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEhfek5OY2lIOEdOOERqTEV1NV9Eb0hxd1U5WWtKTVdkQTlXcDFvcXo3R3Bhem5RV2tIaDYta05OSExaNkRxdVVOb2RrbXpDdW1zRFN4N0htdm1oU2Z3YWpjdWN1RGtxTFUySEIwd1d2bEM0aGduYm14SkJqQV8xb1VDbXlSalVzU0FCYW81RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -201,14 +202,6 @@
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2l6Ml9Xdk5NNHNhUVFGS25JNWtJSV93UURKam4xdktMVjlFN0VUQ0ktSzJfX2o0LW1hS3NhMklCeVA2c18tZjVsamYwUmdUblNOS3pUM3pWOWNrOEZpSGN3WkFJb2VaMXRqd1d5cUpOSTcyRjVFRGU4S21VNzJZSkZPaWZXcnV3cHEtcU5GOE5qZ2x4U05GX09vQy1feWlZM19qTFliNmhsWG8zTVBoS0FvYnJvYmlfMFRYVU9iam5oZEc2LUtaNEhDZl9uS0hqS2xzWlNQV2VJeXF2YjJMTkxqWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI - OpenAI",
-          "summary": "How Amplitude ships product improvements in 1–2 days with OpenAI OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3VHFDbWMzQ0IwbGV3a2V5OTZpV01xNmxvbnM1ZzhkdUg3aWxhWC00dU1zTm1LVkxrcURSVzZlb0pZR05hVVd2TVRpWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -216,13 +209,12 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "AWS Automates Agent Registry Updates with Event-Driven Architecture - The Chenab Times",
-          "summary": "AWS Automates Agent Registry Updates with Event-Driven Architecture The Chenab Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Chenab Times",
-          "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM09lMm9HUDdPRlZiX0FGeG9GYl9SS3k2eHlDeGEzY1AyUmtZNGgtc2xOb3dZckZwTnBsSFIzM0Nnc0ItcDVWVF83aGUycGp5NUQ3VXZaOWh3bmdpUkJvejczaXd4U1R4OU5QYjZlT0dTU1ZkaFdLVHVkVGZrZ0l2eDZrWDJrX3I2Vl9Gb3N0TXNoZG5GV3NXU012NWtGcy1zUDFuZ2RlTmtrUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Nectar Creator Agent brings AI to influencer outreach - ContentGrip",
+          "summary": "Nectar Creator Agent brings AI to influencer outreach ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "ContentGrip",
+          "when": "14 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82UTE1cFBMY2NUNk5oUWNYQUNZWW1qb05CT1FySkMtdG9JSVE2MW1DMkVpSm1PZEFDQ0hFZTVWQXNXdFRGdlpTQVpRbm1DSG81bjJobkdVeDF6OG5YOFlaVzdlX2U5ckFLN2ZTa3h1eU9OMndZWENweg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -230,11 +222,11 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "Amazon’s plan to own the world’s product data and fight AI shopping agents - The Express Tribune",
-          "summary": "Amazon’s plan to own the world’s product data and fight AI shopping agents The Express Tribune. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "The Express Tribune",
+          "title": "Amazon plans to own international product data, battle AI shopping agents - The Jerusalem Post",
+          "summary": "Amazon plans to own international product data, battle AI shopping agents The Jerusalem Post. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "The Jerusalem Post",
           "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFFTQ0hkUmNXN0pLci16dmZuWEZKZTdDY0I4dTFkdWxkRWFZRkh2dHhpUDZnRDRWQkhSZkt0MzByYTZEWGgyUUpzMjhGTE5URW5ZVVl4YXhDS05keTJscE1pVXNXc3AtVS1LYW1rUHVKaDFheGFXM1QyU2MwVlowZDBHNlpjT2QzNGVKUXRQeDAtRmVlaE1YcU9mTGRBRUIyNHY3amN2MnlvVHRlcXfSAbYBQVVfeXFMT3lUSTNuT280Rm55S1VHY1ExNmY0OVRHRHBZR19HZVVTV1BONFhXTTc2T1dHMG9hZzloUlltZFl3NHhOUG56Z2s2V1Fxc1ZHUmxyV0tYVVprTDJ0OVQ4WlFCSzNlYmRKVWJoMTA4WklRUUswSjA2VWgtOUJVVTVtOGZzYlZFTHhiWHpKV3lVcVhncUZWSUZJRlBTdFN1MDc4MjVvdGZjVVRYVTFfYmdBNVlsQzNsNnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sWlNjdmRyZFd3M2l1eGR1eW42NEpjQ2QtYi13Q1JNMnJNS2xWME9Dc0JrUHdIa2hWOWZFcnN0Zl9ZZ0Y0aTdhNkl0cTl0ejkzT1lkZmdiY1R2Vm5wSXdXRjh4Y2ptU3MydGNFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]

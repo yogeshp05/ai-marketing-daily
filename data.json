@@ -11,10 +11,7 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "Adobe stock: MAX launch expands AI across Creative Cloud - ad-hoc-news.de",
-    "82% of B2B buyers value thought leadership more as AI spreads, Edelman finds - PPC Land",
-    "Nectar Creator Agent brings AI to influencer outreach - ContentGrip",
-    "Upcoming deprecation of selected GitHub Copilot models in December - The GitHub Blog"
+    "AI Development Freeze Lawsuit: Nonprofits Sue 5 Labs, Say Real Freeze Needs Government Inspections - Tech Times"
   ],
   "sections": [
     {
@@ -104,7 +101,8 @@
           "source": "PPC Land",
           "when": "14 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkZodkJxZ3VkWEVOMURkamhZdFd5QXgyUmVrY1pQbmY3a3pCZm5sWkVzUVRqbEFoaFpfZE5PX2FETTVuOUVEZHJsMkgxWXRhdUJLYm11QnFtWlJDVUhEMjdpU3N1UlhiN0U0QUJTZENMcFI4V2hlYkxqbEVjNDhuWGZyNlMyUmtLTk8yenNrS1BoQ1FyYkVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -140,19 +138,11 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "Nectar Creator Agent brings AI to influencer outreach - ContentGrip",
-          "summary": "Nectar Creator Agent brings AI to influencer outreach ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ContentGrip",
+          "title": "AI Development Freeze Lawsuit: Nonprofits Sue 5 Labs, Say Real Freeze Needs Government Inspections - Tech Times",
+          "summary": "AI Development Freeze Lawsuit: Nonprofits Sue 5 Labs, Say Real Freeze Needs Government Inspections Tech Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Tech Times",
           "when": "14 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82UTE1cFBMY2NUNk5oUWNYQUNZWW1qb05CT1FySkMtdG9JSVE2MW1DMkVpSm1PZEFDQ0hFZTVWQXNXdFRGdlpTQVpRbm1DSG81bjJobkdVeDF6OG5YOFlaVzdlX2U5ckFLN2ZTa3h1eU9OMndZWENweg?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Upcoming deprecation of selected GitHub Copilot models in December - The GitHub Blog",
-          "summary": "Upcoming deprecation of selected GitHub Copilot models in December The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "14 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSldwUWpESGFaQkc1QVM0RlZ0d19HUExJUkxVdVJPTDV3Q2hrV2lSRmNMZlFnUXJBNHlXQmZMUElJdE0yMklCY05IQkUzcjZ6UzVyd1JBVXZ4eXNSWWxuWXZ2Q01Va1FJYWVwM0VGbk1MdFlGaGxNcGdBMVZaZGVvTDdqWWVlNDd3RjJwLXpPVlp4YjZXSjI5ZHF0VmY2WHRlQi1nTUxhVWZaWTBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnNEdTkzdFdpaElZeE5idEVZTG5Ranl0aHZ2SGE1R1hZcWJzcTFrUVlVOUxFYjM4UmRFTDNQUC1oZFBoTGgzTlJmNkZxODdack1VY0Rid2VqXzRTQ3RKUzdkN1hRc3o3RW5neGNNNHo1bTJJanktdW5ocU5CQnBycFFrWjI3MXB6cmhoRFFfNndubHQ3anNlSFo3cGFIaHNvNkh4VmxjRUZ6M3I3bjZMbnVndS1TZVE5TmRfRE1FZVlQNmRYV3BaQjJ1RjRRNjNHRjVRYi13Um9feTJ6bkNWY3h4d2RzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -166,7 +156,8 @@
           "source": "ad-hoc-news.de",
           "when": "14 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmNUcjdudTBwek50T1EyQjhUX0NxSi1CWEF6NGZ2NU5fVEw5RUljRUEzdFB1V0c0RWtjQ1F1czNldVdfVzdkbDFNZmZzczBadnA3ck9pejJ5clhMSVFkLVRvMndkUTROY08wRE9Zb29ucDlJZHptRHdpcXI2SUV4TEl2ek84N2NGZ1U4ejJBUW96bEFKRWVBa2N4UDVwM3lDYnA0aHhPUUo1b2NER3BDQmM5RUlzT242dFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -179,7 +170,8 @@
           "source": "ContentGrip",
           "when": "14 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82UTE1cFBMY2NUNk5oUWNYQUNZWW1qb05CT1FySkMtdG9JSVE2MW1DMkVpSm1PZEFDQ0hFZTVWQXNXdFRGdlpTQVpRbm1DSG81bjJobkdVeDF6OG5YOFlaVzdlX2U5ckFLN2ZTa3h1eU9OMndZWENweg?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },

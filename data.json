@@ -1,23 +1,20 @@
 {
   "date": "15 November 2026",
   "lead": {
-    "title": "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
-    "deck": "Why AI search is bringing SEO and brand marketing together Search Engine Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS2tBa041U0NRaGdFMDNFUjE5TXBFWFpVc0RkSDJMalI5Ync1V2xNZDMxYmtlX1FydDVqT1NTWlZkOGd1Q2w2Qjc0aEQ1a1JMLTlwSGlZUnplaDVOLWV1TXg4Y0NfVzEtMU1PaDRmRkZoby1mYk5Mbk5CMDVrcjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "Search Engine Land",
-    "when": "13 Nov 2026",
+    "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
+    "deck": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Google Help",
+    "when": "14 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
     "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "Adobe stock: MAX launch expands AI across Creative Cloud - ad-hoc-news.de",
+    "82% of B2B buyers value thought leadership more as AI spreads, Edelman finds - PPC Land",
     "Nectar Creator Agent brings AI to influencer outreach - ContentGrip",
-    "YouArt Launches YouArt Desktop App, AI Creative Teammate on the Computer - The Manila Times",
-    "Amazon’s plan to own the world’s product data and fight AI shopping agents - The Express Tribune",
-    "New York launches RAISE portal, big AI developers must register by Jan 1 - Pasquale Pillitteri",
-    "Manage AI Scan for repositories using the REST API - The GitHub Blog"
+    "Upcoming deprecation of selected GitHub Copilot models in December - The GitHub Blog"
   ],
   "sections": [
     {
@@ -102,11 +99,11 @@
       "name": "LinkedIn Ads",
       "stories": [
         {
-          "title": "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
-          "summary": "Why AI search is bringing SEO and brand marketing together Search Engine Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Search Engine Land",
-          "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS2tBa041U0NRaGdFMDNFUjE5TXBFWFpVc0RkSDJMalI5Ync1V2xNZDMxYmtlX1FydDVqT1NTWlZkOGd1Q2w2Qjc0aEQ1a1JMLTlwSGlZUnplaDVOLWV1TXg4Y0NfVzEtMU1PaDRmRkZoby1mYk5Mbk5CMDVrcjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "82% of B2B buyers value thought leadership more as AI spreads, Edelman finds - PPC Land",
+          "summary": "82% of B2B buyers value thought leadership more as AI spreads, Edelman finds PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PPC Land",
+          "when": "14 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkZodkJxZ3VkWEVOMURkamhZdFd5QXgyUmVrY1pQbmY3a3pCZm5sWkVzUVRqbEFoaFpfZE5PX2FETTVuOUVEZHJsMkgxWXRhdUJLYm11QnFtWlJDVUhEMjdpU3N1UlhiN0U0QUJTZENMcFI4V2hlYkxqbEVjNDhuWGZyNlMyUmtLTk8yenNrS1BoQ1FyYkVR?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -151,22 +148,6 @@
           "image": ""
         },
         {
-          "title": "New York launches RAISE portal, big AI developers must register by Jan 1 - Pasquale Pillitteri",
-          "summary": "New York launches RAISE portal, big AI developers must register by Jan 1 Pasquale Pillitteri. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Pasquale Pillitteri",
-          "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0hEdG9vMXBIemJNLXJPZVhPcWE0d0NTaHhieURSZzBwanJGSVJPRzJqZWRXcXpuVlBrWkxSYnZzVHJGX2FhMEszVkZnVmxJVkpmTEFCenh0NWp1cnNudUJfZjBHU2U1c0hkdGt5R0ZFTTlpR0dQbmw0c2FFZERxT05ZSm5ZSW81T29QdmZ2aGR5cWo2MUFTMmpWWFYxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Manage AI Scan for repositories using the REST API - The GitHub Blog",
-          "summary": "Manage AI Scan for repositories using the REST API The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0g0d2swNWRQSHpBVkI1dExYaFNLZXIwVUwtREZqa3d6elRSMFF3TzMyUDM5Z0pTSm9YV3VOTWE4dzBMc1JVOWdyb3pLeXE2RUMwWUtKQ0UwZXRsd3ZOTTZ1NDNrMkc1TkwwUk9TdlVkbmZ0UjR0RFpzZGZRaGhnVHpiSjNITE1ENGRQeWF5X3podzNlR1FR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Upcoming deprecation of selected GitHub Copilot models in December - The GitHub Blog",
           "summary": "Upcoming deprecation of selected GitHub Copilot models in December The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
@@ -185,14 +166,6 @@
           "source": "ad-hoc-news.de",
           "when": "14 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmNUcjdudTBwek50T1EyQjhUX0NxSi1CWEF6NGZ2NU5fVEw5RUljRUEzdFB1V0c0RWtjQ1F1czNldVdfVzdkbDFNZmZzczBadnA3ck9pejJ5clhMSVFkLVRvMndkUTROY08wRE9Zb29ucDlJZHptRHdpcXI2SUV4TEl2ek84N2NGZ1U4ejJBUW96bEFKRWVBa2N4UDVwM3lDYnA0aHhPUUo1b2NER3BDQmM5RUlzT242dFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "YouArt Launches YouArt Desktop App, AI Creative Teammate on the Computer - The Manila Times",
-          "summary": "YouArt Launches YouArt Desktop App, AI Creative Teammate on the Computer The Manila Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Manila Times",
-          "when": "13 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUkFfa0JWYk5CM1N3WXF5eVNwQTZtTzU4NU81b1IzTVZGWmdjeUZka0hVMHhQUWNrRjhEaW05eXBRM3NSZENPUHNDRXVCS3hPY0NFWXNoWDFxeDBUQm5BcEMyX19IdnRIdmM4Rm1uWFVsb1JxdGt2cVM5RzdlNmdodW5icTVSRk9iZ3JKTzRUSlVFTXp4QnVIMEhoMGdGd2ZtZ2pnRlYtZEgtbkNWMXJlWTRXMW40V3ZiUTVRVmRwTUZSN2gtTFhUZm1GME1ZdGtzeGJleEYxY2xhRndXT1HSAeMBQVVfeXFMTkloeTZCX0RRcDFGVGZEN2w2b0cwWTRiczZ5b29BbVNmRGxQekZod0gzUW9GMUEyU01LLXBNTXRJRmhKOTZsaWJrdFhhc1lZTVhfVk5zV1FnRWl6U1FWVERlWWVIRUYyaGhZbDN3ak1Uam5kdThSNThBeWpvNTZNaTNoSEdEZDk2aWlkcUplUGFhVGFIQTEyaXl5OFZiV1draG1KVFhIazdtbGhnUTN1eTBFNFpIX2dCSlpwUnJUdzhMZGdDb2tyclFKSXVmT0JqOFBMMDJQeU5nVXBfbHVRUll0dkk?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -219,7 +192,8 @@
           "source": "The Express Tribune",
           "when": "13 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFFTQ0hkUmNXN0pLci16dmZuWEZKZTdDY0I4dTFkdWxkRWFZRkh2dHhpUDZnRDRWQkhSZkt0MzByYTZEWGgyUUpzMjhGTE5URW5ZVVl4YXhDS05keTJscE1pVXNXc3AtVS1LYW1rUHVKaDFheGFXM1QyU2MwVlowZDBHNlpjT2QzNGVKUXRQeDAtRmVlaE1YcU9mTGRBRUIyNHY3amN2MnlvVHRlcXfSAbYBQVVfeXFMT3lUSTNuT280Rm55S1VHY1ExNmY0OVRHRHBZR19HZVVTV1BONFhXTTc2T1dHMG9hZzloUlltZFl3NHhOUG56Z2s2V1Fxc1ZHUmxyV0tYVVprTDJ0OVQ4WlFCSzNlYmRKVWJoMTA4WklRUUswSjA2VWgtOUJVVTVtOGZzYlZFTHhiWHpKV3lVcVhncUZWSUZJRlBTdFN1MDc4MjVvdGZjVVRYVTFfYmdBNVlsQzNsNnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     }
@@ -227,40 +201,7 @@
   "summary": {
     "title": "Summary — What’s Actually New",
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
-    "topics": [
-      {
-        "topic": "Upcoming deprecation of selected GitHub Copilot models in December - The GitHub Blog",
-        "status": "Cross-source coverage",
-        "common_context": "Upcoming deprecation of selected GitHub Copilot models in December The GitHub Blog",
-        "unique_points": [
-          {
-            "source": "The GitHub Blog",
-            "when": "14 Nov 2026",
-            "point": "Upcoming deprecation of selected GitHub Copilot models in December The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSldwUWpESGFaQkc1QVM0RlZ0d19HUExJUkxVdVJPTDV3Q2hrV2lSRmNMZlFnUXJBNHlXQmZMUElJdE0yMklCY05IQkUzcjZ6UzVyd1JBVXZ4eXNSWWxuWXZ2Q01Va1FJYWVwM0VGbk1MdFlGaGxNcGdBMVZaZGVvTDdqWWVlNDd3RjJwLXpPVlp4YjZXSjI5ZHF0VmY2WHRlQi1nTUxhVWZaWTBR?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "13 Nov 2026",
-            "point": "GitHub Enterprise Server support in the GitHub Copilot app The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VkcVVOYTN1VVZLb2dVcUhpanEzR2dHWmEzQlpVMWFtZVc4VWhGMkJuWlVIUzdxOXZ3djVHd24tTVdkckNJU3ZrYjllYjhSRXBBVEpBQXRHaW1ad0NiUTlBUEdEZDh6U1paS1ZXdC1ibU1tMkt1ZW5KcTFsOXJuWHdZbzc1cEV4T2szdHBXNzJKNWNrZ29IajJwTDNkN01ueEE?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "13 Nov 2026",
-            "point": "Gemini 4 Hydrogen in GitHub Copilot The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOUI2N2tMVm9aU2d4SWNfV1RPbEN1R21pOVI5Vnh6UmlETjUwT3ZLTUY5amxTTW5sNXpKTjd5ZE9mcU5BdVllUDVXN1pMZk5QN0l3MVRTUFcwYWlURlJkZ1Q1UW9wVWNoNEtLQ2ptRXMxWTJmaFVsYjFTV3VLZjRFMUNMNA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "13 Nov 2026",
-            "point": "Manage AI Scan for repositories using the REST API The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0g0d2swNWRQSHpBVkI1dExYaFNLZXIwVUwtREZqa3d6elRSMFF3TzMyUDM5Z0pTSm9YV3VOTWE4dzBMc1JVOWdyb3pLeXE2RUMwWUtKQ0UwZXRsd3ZOTTZ1NDNrMkc1TkwwUk9TdlVkbmZ0UjR0RFpzZGZRaGhnVHpiSjNITE1ENGRQeWF5X3podzNlR1FR?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      }
-    ]
+    "topics": []
   },
   "engine": {
     "model": "none",

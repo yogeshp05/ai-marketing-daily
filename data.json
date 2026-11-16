@@ -1,28 +1,27 @@
 {
   "date": "16 November 2026",
   "lead": {
-    "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "deck": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "[video] New Google Shopping Marketing Content Feature - Google Ads Community - Google Help",
+    "deck": "[video] New Google Shopping Marketing Content Feature - Google Ads Community Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY0NucVNhNXNYRnNCbjlMajhKdzRjaUhMM210ZVJuVV9pZ09GODZ5eE9iRWhyUkJ3Rlp4VUxLWkJVVkJ1dFNqWms4ZkF5Q1VmMnl6Z2ZnT3FCRnZMTFpoQjd2Tld2YzVHOFpHNGc5dUhyMC1IaWtwTXhhcDMtaGVpZzlQZmdoamdkeTZuXzJuZjE1R05qdC1JMDNIMDVRZENua0hIWmhCVW4xWWpDT3F3S3E1eUtjWWVXc2lIWA?oc=5&hl=en-US&gl=US&ceid=US:en",
     "source": "Google Help",
-    "when": "14 Nov 2026",
+    "when": "16 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "AI Development Freeze Lawsuit: Nonprofits Sue 5 Labs, Say Real Freeze Needs Government Inspections - Tech Times"
+    "[video] New Google Shopping Marketing Content Feature - Google Ads Community - Google Help"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
-          "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "[video] New Google Shopping Marketing Content Feature - Google Ads Community - Google Help",
+          "summary": "[video] New Google Shopping Marketing Content Feature - Google Ads Community Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
-          "when": "14 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UEx4bHgyX3JBTnN5MHIyaVRHU2I1WkxDX1J5bjdXME55QmJBenluTmxaNXpMUzdweTZjZGZ1cUFSSDBBY09xVWN0U1VNaDhXdktyNFA3YjFCUXh3cVo1aFFMWUVaNk8tUktmY2RYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "when": "16 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY0NucVNhNXNYRnNCbjlMajhKdzRjaUhMM210ZVJuVV9pZ09GODZ5eE9iRWhyUkJ3Rlp4VUxLWkJVVkJ1dFNqWms4ZkF5Q1VmMnl6Z2ZnT3FCRnZMTFpoQjd2Tld2YzVHOFpHNGc5dUhyMC1IaWtwTXhhcDMtaGVpZzlQZmdoamdkeTZuXzJuZjE1R05qdC1JMDNIMDVRZENua0hIWmhCVW4xWWpDT3F3S3E1eUtjWWVXc2lIWA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -143,7 +142,8 @@
           "source": "Tech Times",
           "when": "14 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnNEdTkzdFdpaElZeE5idEVZTG5Ranl0aHZ2SGE1R1hZcWJzcTFrUVlVOUxFYjM4UmRFTDNQUC1oZFBoTGgzTlJmNkZxODdack1VY0Rid2VqXzRTQ3RKUzdkN1hRc3o3RW5neGNNNHo1bTJJanktdW5ocU5CQnBycFFrWjI3MXB6cmhoRFFfNndubHQ3anNlSFo3cGFIaHNvNkh4VmxjRUZ6M3I3bjZMbnVndS1TZVE5TmRfRE1FZVlQNmRYV3BaQjJ1RjRRNjNHRjVRYi13Um9feTJ6bkNWY3h4d2RzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },

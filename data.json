@@ -1,23 +1,23 @@
 {
   "date": "17 November 2026",
   "lead": {
-    "title": "How to make AI agents work for your PPC campaigns - Search Engine Land",
-    "deck": "How to make AI agents work for your PPC campaigns Search Engine Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PUUs2VFc3dHZkVmhDSTZ1a29OMHItR1pzRGR6WGwwa1AxQlJpNGZ0WWloY1VoT3prMjhJVkRYdXlROW9MTGNPdkk1VlpvcEZ1V1JVeEJkYTRLQi1CT0s3cUkwV1daM2Uxck8ydHpCT1lRWENXd1JpdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Microsoft Advertising adds AI Max landing page reporting - Search Engine Land",
+    "deck": "Microsoft Advertising adds AI Max landing page reporting Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2FtV1pBS2hFYTZsdzUwVFNJQjRENi03MlZSSmRyZDkzSi1ZS0VJYTE5MUQ1aWtaaTctSDZNZGtOQXdzMGJuUlp5SUJtRFdtMUpneEJvZEFYOEtPNHhyUkVkOU9JWUtqdXdVU2hzaHZEMmRvQVRzTC1XTnRkNXFMSGZTT0R6MUxERnVvb19idkRTa19TTHc?oc=5&hl=en-US&gl=US&ceid=US:en",
     "source": "Search Engine Land",
     "when": "16 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Microsoft Advertising adds AI Max landing page reporting - Search Engine Land",
     "How to make AI agents work for your PPC campaigns - Search Engine Land",
     "Rappler. . Launching a campaign is easy. Measuring impact requires seeing through the static. Uncover the insights shaping your company. November 21, 2026. - Facebook",
     "PopNow AI Launches PopNow Protect, Calling Itself the World's First AI Studio With Automatic Price Protection - The Detroit News",
+    "New filtering and reporting capabilities in the Search Analytics API | Google Search Central Blog - Google for Developers",
     "The King’s Trust and OpenAI launch £1m partnership - OpenAI",
-    "LVMH’s Media Division announces strategic partnership with OpenAI - OpenAI",
-    "How Gadget Brands Are Using AI to Create More Engaging Product Launch Videos - PC Tech Magazine",
-    "Adobe Firefly Becomes An AI Creative Studio With Agents - WeRSM",
-    "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore - Amazon Web Services (AWS)"
+    "Nunn Media partners with Amazon Ads to enhance data capabilities - Mumbrella",
+    "Bulk start AI Scan for repositories - The GitHub Blog"
   ],
   "sections": [
     {
@@ -38,13 +38,12 @@
       "name": "Microsoft Ads",
       "stories": [
         {
-          "title": "XBOX Video for Brands: A New Way to Get Closer to Play - Microsoft",
-          "summary": "XBOX Video for Brands: A New Way to Get Closer to Play Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Microsoft",
-          "when": "12 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3VsT2JrR0FkbHJFM0JiRjJMVDltVm9GRWNmajFyZC1FcTd3NXE5ZHk4djFkaTFKcEVQZHk0SG5lb3dxV21URmpmakt5Z2NRb202OHhpLUpkVWNJMTJJSG5YZkw4WWROdkhXMkUtOW9vdS1OR1dmeGF2Z2hLMGZuSzFheThNaGtYaEJVVVhrMm8zZEdpXzdkd1dHY2xlWUNaMmx0amFwRXRqWWR6ektvY2VR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Microsoft Advertising adds AI Max landing page reporting - Search Engine Land",
+          "summary": "Microsoft Advertising adds AI Max landing page reporting Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Land",
+          "when": "16 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2FtV1pBS2hFYTZsdzUwVFNJQjRENi03MlZSSmRyZDkzSi1ZS0VJYTE5MUQ1aWtaaTctSDZNZGtOQXdzMGJuUlp5SUJtRFdtMUpneEJvZEFYOEtPNHhyUkVkOU9JWUtqdXdVU2hzaHZEMmRvQVRzTC1XTnRkNXFMSGZTT0R6MUxERnVvb19idkRTa19TTHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -57,13 +56,22 @@
           "source": "Facebook",
           "when": "16 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZG15MHB0c3cxTjl3UVkwMHl2bDdYWHZCT29kMGxEbERoUUFSeTZmUHRXdDZYWDlvaG5iTHp2YVpRUWVOQU5hOUZNcFVMZk5BUl9ZR0pIOE1qQzhIeWxFSXlVbGdsTTctSGNManBJcnlqRTc4NFNlMXEwdGtfYjZFclRhWVZReEQ0THdkWGY1cm1NNXI4MnFVSkFYNWE3dktvZFVtdVVuN0NWR2R6Y1lfNHlR0gG3AUFVX3lxTE5DX0xrY1BCXzlMOVd5UUdnSGJIVzkydDE2WGdwZjd6RVJ0NVVIQk1lbHVaRlVLbUJCTWhqTmwyM0Y3ZXBGNmpMa1dHeHJlX3RJX29Yd0ZRYkJNTzVLd05UTHF3NHJxNkhSS3ZzRlJIT1ZqdFNWMkFvX0NWVnFhVU16V3g4RnBXZnhmRmlFTXFPUmtza0UweXV6aVlkbHA0UXRzcWZlZ2pQTjFlLWZiemVQNHdZRUpkMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
     {
       "name": "Amazon Ads",
       "stories": [
+        {
+          "title": "Nunn Media partners with Amazon Ads to enhance data capabilities - Mumbrella",
+          "summary": "Nunn Media partners with Amazon Ads to enhance data capabilities Mumbrella. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Mumbrella",
+          "when": "17 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYVpKUjhFdTNOZUh2YVJORlRvc0FkQUlUYjVBN2ZpSUVXM25IMVJOSk55aVZaaFZfMzFkd2N5OUppdHRkY0ZySUI3Nk53amRQbzBMZm14LTktdnlyeVM5T0lmT2RhMlRMTmllVmhQREo3VGxwNGhOUmJwQ1A0QzgtbHk0OFJ6am1fTTNRZ0kyVHFycUNheXIzX2tKd1A?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Twitch adds shoppable and skippable video ads - ContentGrip",
           "summary": "Twitch adds shoppable and skippable video ads ContentGrip. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -115,13 +123,12 @@
       "name": "Search & SEO",
       "stories": [
         {
-          "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot) - Google for Developers",
-          "summary": "Moving to a CDN without overwhelming your origin (or blocking Googlebot) Google for Developers. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
+          "title": "New filtering and reporting capabilities in the Search Analytics API | Google Search Central Blog - Google for Developers",
+          "summary": "New filtering and reporting capabilities in the Search Analytics API | Google Search Central Blog Google for Developers. For search teams, the key implication is how this changes visibility, query behavior, content strategy, or measurement in AI-driven search.",
           "source": "Google for Developers",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fQ1B3bFBScDFZa1NVT3ZTdWlqa29EaHlWX0NwemtjZU5Nc2xDRGNSM1U1WTdhVXAwd3B0SFhDc21VaktNcDdYbDhaekIzTGh2NDRmZkNOeUhwRGwwaC1FWlFlTXo3TmVFNHBNLTU4RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "when": "16 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3hBY2VhMDUyU1hYM0c2UTljU2hJdDRTVTRvVEdCemJ2eVJYell4eGtaa2tLd04wUndiVGJyTjBYYUdXb2NqelBiQ280RFNyWUd4eDlpTlN0TllNQ1NMcVlINmQ2Z19nMExXTVl5WkZ5M1FldVhNTDBRTEFsSVZsWndIRQ?oc=5",
+          "image": ""
         }
       ]
     },
@@ -143,22 +150,6 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "How to make AI agents work for your PPC campaigns - Search Engine Land",
-          "summary": "How to make AI agents work for your PPC campaigns Search Engine Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Search Engine Land",
-          "when": "16 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PUUs2VFc3dHZkVmhDSTZ1a29OMHItR1pzRGR6WGwwa1AxQlJpNGZ0WWloY1VoT3prMjhJVkRYdXlROW9MTGNPdkk1VlpvcEZ1V1JVeEJkYTRLQi1CT0s3cUkwV1daM2Uxck8ydHpCT1lRWENXd1JpdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
-          "summary": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore Amazon Web Services (AWS). For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Amazon Web Services (AWS)",
-          "when": "16 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVpMbmM1Y01zV1FWX1QtTXVGbG5DcGpJUFlfb1Y2UzNCcFdUeHNPeEVneGltSEhRb1R4RHp1MWpicFdiakhfXzlMSEtVX051cVFhbXdhS2l5LXEzZWRra0lrOVhoUjFnUGtrSEoxX3Z0SU9ZZTQ1WnZPUzlXV1pyS0czZUlldnZfbGotZm9XOWRXVzVQVTZqTGktYkRROFVMd3ZXNW1CSlZwYzlOSGhrcERyclFNQ2JHSU1FMUtR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Bulk start AI Scan for repositories - The GitHub Blog",
           "summary": "Bulk start AI Scan for repositories The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
@@ -172,6 +163,22 @@
           "source": "GlobeNewswire",
           "when": "16 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQeXBOUC1DNkFvX0pFcy1mdmdaWmdOVXZWTE1fRFhpejNZdUZ5TURSVE1SVVg5QlZHaDhYbHRFdTdxZDlDWndpYlAzTERLT3ZRbnBvMnBxbFBkc05yNDVQRVk0R242TW5lYWRCZzZ6N3VvZFc3VTY4TWRuNlBsUmVhZWVqbDNHUDhLTlVTbnlfT1hfVDBZUGd5QW9PRTVBQ1B1STBmS2RBQWRNMno0eFFsTXlKMkV2WWVpYW5QVUJXamtod2dHc2RsZ3gzSDRaNjVFTTBKUDdpRnRfaGJRMElRRi16azdBWnFHMEd3LVpPVzMzTmZhcERFZ050ZlhWQ0dfR2JDaEpWdnhZMFJ6VWd4Xzk1YXBtOXdHaV9XYm0zM0U5TlN0S1ZtS0ZJMXpSclF4bWcwVHdORmdEdUtVQUR1MnIyOXRIbnBOZlRkNDAwcTdoU3lXSUlvTGNPMlJ5UUFi?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Trump to name Nvidia, Amazon, Microsoft, OpenAI, Anthropic and other AI firms as US national champions - Beinsure",
+          "summary": "Trump to name Nvidia, Amazon, Microsoft, OpenAI, Anthropic and other AI firms as US national champions Beinsure. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Beinsure",
+          "when": "16 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTM2MTJ2bXNNVjgxREVGTk1xYVFDQ2lGUFR0Sjc0OHh5cHl2clRmMWV0TDlOb1FzTzJQeXNObmJUSkg4QURCZFNHakVVTjdEcEhhVG95a0tBNTFJeUE3a20wQ2lFLUpYXy0tOGZfNFBxMkJtMlNVUkF0eVpPX1FDdnloSlMxUlhBcElLSTQ3MHZRZ00ySUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Dependabot alert dismissal requests now last one year - The GitHub Blog",
+          "summary": "Dependabot alert dismissal requests now last one year The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "17 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWpHR1JySTBXcHpncE1LSnJwYzVTUktZR3MtQUdXdU9EQW81SFhZM2hvVm0tS2pLNlphQ1YtVXhSY3VLSXlWcFZUYzBWSGdDSTI1Y3ppbzVJdWJCRE5mbnBUc1pCSHlBMlNrek85cWVNY2hnOTlRMUNkQ3lqZHU2TUgyeXFZdGFudkcwY2lJcUQ5NTN3WnlrbS1tOA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -200,15 +207,7 @@
           "summary": "The King’s Trust and OpenAI launch £1m partnership OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "OpenAI",
           "when": "16 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pb042R3RuWUtaRENqVHhKRWViSUNySWpobVNIRVVhNmU3d1lZaXk5UFV1RWU3djl6bWJOdHBYYkZHSnZfY1BBcXF2MXAyNkJRXzNGbWpCNk1SelFmQ0hFT2dB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "LVMH’s Media Division announces strategic partnership with OpenAI - OpenAI",
-          "summary": "LVMH’s Media Division announces strategic partnership with OpenAI OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "16 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZ25YbUVjZkxVNVdVTHlNVkFkWXF3TzVyZ2MtVy11anBmNFp4eGhhXzZaMHZqNkU3eTVEWDRmZFBod3NPNUJQSldIMHlKOGVpWU82SjdKX3YyS1VUMGRkcUdGNDhtS2Nf?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pb042R3RuWUtaRENqVHhKRWViSUNySWpobVNIRVVhNmU3d1lZaXk5UFV1RWU3djl6bWJOdHBYYkZHSnZfY1BBcXF2MXAyNkJRXzNGbWpCNk1SelFmQ0hFT2dB?oc=5",
           "image": ""
         }
       ]
@@ -221,7 +220,7 @@
           "summary": "How to make AI agents work for your PPC campaigns Search Engine Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Search Engine Land",
           "when": "16 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PUUs2VFc3dHZkVmhDSTZ1a29OMHItR1pzRGR6WGwwa1AxQlJpNGZ0WWloY1VoT3prMjhJVkRYdXlROW9MTGNPdkk1VlpvcEZ1V1JVeEJkYTRLQi1CT0s3cUkwV1daM2Uxck8ydHpCT1lRWENXd1JpdQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PUUs2VFc3dHZkVmhDSTZ1a29OMHItR1pzRGR6WGwwa1AxQlJpNGZ0WWloY1VoT3prMjhJVkRYdXlROW9MTGNPdkk1VlpvcEZ1V1JVeEJkYTRLQi1CT0s3cUkwV1daM2Uxck8ydHpCT1lRWENXd1JpdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -246,41 +245,59 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "GitHub Copilot models deprecated on November 16, 2026 - The GitHub Blog",
+        "topic": "Microsoft Advertising adds AI Max landing page reporting - Search Engine Land",
         "status": "Cross-source coverage",
-        "common_context": "GitHub Copilot models deprecated on November 16, 2026 The GitHub Blog",
+        "common_context": "Microsoft Advertising adds AI Max landing page reporting Search Engine Land",
         "unique_points": [
           {
-            "source": "The GitHub Blog",
-            "when": "17 Nov 2026",
-            "point": "GitHub Copilot models deprecated on November 16, 2026 The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0NSTW1CMHpzT0lMd0VpOGZGZW1CSUVuSDhzQUhHNDJvOXVjMjVEOGUyOEZYMnBqd1Z1SWFXeHhScDIxNjExam83XzNMZGVsdkY3eU8wa3hkV3hqaFp2WnRHX3JfTlpmR2h2bVl5ZFJUOWdzamR5VFZEQldRSXZIb091d2ZEWkJvWGVIaWxtVkEtVy1yTVFCQ1hn?oc=5"
+            "source": "Search Engine Land",
+            "when": "16 Nov 2026",
+            "point": "Microsoft Advertising adds AI Max landing page reporting Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2FtV1pBS2hFYTZsdzUwVFNJQjRENi03MlZSSmRyZDkzSi1ZS0VJYTE5MUQ1aWtaaTctSDZNZGtOQXdzMGJuUlp5SUJtRFdtMUpneEJvZEFYOEtPNHhyUkVkOU9JWUtqdXdVU2hzaHZEMmRvQVRzTC1XTnRkNXFMSGZTT0R6MUxERnVvb19idkRTa19TTHc?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Facebook",
+            "source": "Google for Developers",
             "when": "16 Nov 2026",
-            "point": "Measuring impact requires seeing through the static.",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdW9pNmFnYWs4OEItVV9rQUdLWG16X0RxTnBhVGp4RVZ6UlpiQ2pnME9tSGh1aTlsLWkyMzhvMWM0MXRoRE9fSHJGazlwMVJmbmhXVTBxS3M1NkYteng3YkNzenpicFFLUEkzQ1dfT1gwc1pzaElGZ3VzVm01X1Biakw1VGc1STF0dDY1VS13cw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "New filtering and reporting capabilities in the Search Analytics API | Google Search Central Blog Google for Developers",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3hBY2VhMDUyU1hYM0c2UTljU2hJdDRTVTRvVEdCemJ2eVJYell4eGtaa2tLd04wUndiVGJyTjBYYUdXb2NqelBiQ280RFNyWUd4eDlpTlN0TllNQ1NMcVlINmQ2Z19nMExXTVl5WkZ5M1FldVhNTDBRTEFsSVZsWndIRQ?oc=5"
+          },
+          {
+            "source": "Search Engine Land",
+            "when": "16 Nov 2026",
+            "point": "How to make AI agents work for your PPC campaigns Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PUUs2VFc3dHZkVmhDSTZ1a29OMHItR1pzRGR6WGwwa1AxQlJpNGZ0WWloY1VoT3prMjhJVkRYdXlROW9MTGNPdkk1VlpvcEZ1V1JVeEJkYTRLQi1CT0s3cUkwV1daM2Uxck8ydHpCT1lRWENXd1JpdQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "The King’s Trust and OpenAI launch £1m partnership - OpenAI",
+        "topic": "Dependabot alert dismissal requests now last one year - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "The King’s Trust and OpenAI launch £1m partnership OpenAI",
+        "common_context": "Dependabot alert dismissal requests now last one year The GitHub Blog",
         "unique_points": [
           {
-            "source": "OpenAI",
-            "when": "16 Nov 2026",
-            "point": "The King’s Trust and OpenAI launch £1m partnership OpenAI",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pb042R3RuWUtaRENqVHhKRWViSUNySWpobVNIRVVhNmU3d1lZaXk5UFV1RWU3djl6bWJOdHBYYkZHSnZfY1BBcXF2MXAyNkJRXzNGbWpCNk1SelFmQ0hFT2dB?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "The GitHub Blog",
+            "when": "17 Nov 2026",
+            "point": "Dependabot alert dismissal requests now last one year The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWpHR1JySTBXcHpncE1LSnJwYzVTUktZR3MtQUdXdU9EQW81SFhZM2hvVm0tS2pLNlphQ1YtVXhSY3VLSXlWcFZUYzBWSGdDSTI1Y3ppbzVJdWJCRE5mbnBUc1pCSHlBMlNrek85cWVNY2hnOTlRMUNkQ3lqZHU2TUgyeXFZdGFudkcwY2lJcUQ5NTN3WnlrbS1tOA?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "OpenAI",
+            "source": "The GitHub Blog",
+            "when": "17 Nov 2026",
+            "point": "GitHub Copilot weekly releases — November 9 The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGVxUGQxcVlwV3BvZDVwcFBFMFRPcEN3NW9sc1hxcnFyaWxhbHVFWDdrcFJGaVMwVVNpWVh2ci0wRjBoTFVDeTRhZzVLU25FaUwzLTh4MWRQT2ZhcFJXMnd0cWhrNzdaSVYtSmdQX1pyUUo4d25Hd1dTR2hUaUMwRW4wMzZqbzZ1aVNr?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "17 Nov 2026",
+            "point": "Budget limit increased to 40,000 budgets per account The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGJoOUZQQUhIWVhlWm02NHpjTGxaZi0xTXhvTWE2dHBpOWlGLThLOGNhdURfYWxwY2JfZjA0QnZsMV9VY0IyNmtJMWpXSEhXZHlJVTNlQWNYZ3NtTHFWUVM2OUFrbnNwMEhTRVBNS1BsdmJkSDc5cm1TTEE4S3gza19SdGNXOU5oTzFUM0xxR19lajFxN2dKTg?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
             "when": "16 Nov 2026",
-            "point": "LVMH’s Media Division announces strategic partnership with OpenAI OpenAI",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZ25YbUVjZkxVNVdVTHlNVkFkWXF3TzVyZ2MtVy11anBmNFp4eGhhXzZaMHZqNkU3eTVEWDRmZFBod3NPNUJQSldIMHlKOGVpWU82SjdKX3YyS1VUMGRkcUdGNDhtS2Nf?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Bulk start AI Scan for repositories The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNk5GRVl0dFJJeXA4TC05TmFYMkNYRGlFQXEwOVh3SXNiUjZqdXNYZFp0SnJsU3oteUdPeU8wU015TUIyLVJrcF9LUzczejd2QnFOZW9QSHJ0V04xYk9POVFVVVdiOGViVlpCdnhmMlZMR21BV1dsSC1XcjMtUWhscDJkdw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -300,7 +317,7 @@
             "source": "Beinsure",
             "when": "16 Nov 2026",
             "point": "Trump to name Nvidia, Amazon, Microsoft, OpenAI, Anthropic and other AI firms as US national champions Beinsure",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTM2MTJ2bXNNVjgxREVGTk1xYVFDQ2lGUFR0Sjc0OHh5cHl2clRmMWV0TDlOb1FzTzJQeXNObmJUSkg4QURCZFNHakVVTjdEcEhhVG95a0tBNTFJeUE3a20wQ2lFLUpYXy0tOGZfNFBxMkJtMlNVUkF0eVpPX1FDdnloSlMxUlhBcElLSTQ3MHZRZ00ySUE?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTM2MTJ2bXNNVjgxREVGTk1xYVFDQ2lGUFR0Sjc0OHh5cHl2clRmMWV0TDlOb1FzTzJQeXNObmJUSkg4QURCZFNHakVVTjdEcEhhVG95a0tBNTFJeUE3a20wQ2lFLUpYXy0tOGZfNFBxMkJtMlNVUkF0eVpPX1FDdnloSlMxUlhBcElLSTQ3MHZRZ00ySUE?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

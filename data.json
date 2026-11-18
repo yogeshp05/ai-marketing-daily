@@ -11,13 +11,13 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone - Facebook",
-    "How Retailers Can Make Preparations for AI Shopping Agents - E-Commerce Times",
+    "The Future of Intelligent Creativity: How AI Is Reshaping Digital Media Production - TechBullion",
+    "How Retailers Can Prepare for AI Shopping Agents - E-Commerce Times",
     "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available - The GitHub Blog",
     "Introducing GPT-6.2 Astra and Sol - OpenAI",
-    "PopNow AI Launches PopNow Protect, Calling Itself the World's First AI Studio With Automatic Price Protection - The Detroit News",
-    "New filtering and reporting capabilities in the Search Analytics API | Google Search Central Blog - Google for Developers",
     "The Most Promising Companies in AI Creative Content Generation - BBN Times",
-    "Google Cloud launches Gemini Omni 1.2 Flash for video - IT Brief New Zealand"
+    "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot - The GitHub Blog",
+    "Monitor GitHub Copilot activity through Microsoft Agent 365 - The GitHub Blog"
   ],
   "sections": [
     {
@@ -29,7 +29,8 @@
           "source": "Business News This Week",
           "when": "17 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVVOWHJYTEFDVjRicC0wYjlmV05teEpzSldBcmpWUDdUbTBzLWJZQUs0YlgtTjZsb3lBaklrY3ZvOHpsX2NIaGZNNUNacTJhcHpvSV8tbU5vSU9mSWRvS0VLU0R5N1AtOUhaeWtoeTZhakhrcmdJZGlUX2N0cER6VDdmWVpEY01jZzNvbEl2NnBMWGJVSXhJZ3k1QjZZT1lvcVRuSjNzd1FSd3RaYnJkWlcwMVVlcVRYMW5vNzhvLVhVdHNaNlZDSzRB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -135,7 +136,8 @@
           "source": "Google for Developers",
           "when": "16 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3hBY2VhMDUyU1hYM0c2UTljU2hJdDRTVTRvVEdCemJ2eVJYell4eGtaa2tLd04wUndiVGJyTjBYYUdXb2NqelBiQ280RFNyWUd4eDlpTlN0TllNQ1NMcVlINmQ2Z19nMExXTVl5WkZ5M1FldVhNTDBRTEFsSVZsWndIRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -180,11 +182,11 @@
           "image": ""
         },
         {
-          "title": "GitHub Copilot Evals is now in public preview - The GitHub Blog",
-          "summary": "GitHub Copilot Evals is now in public preview The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
+          "title": "California sues OpenAI over the Hugging Face hack - Pasquale Pillitteri",
+          "summary": "California sues OpenAI over the Hugging Face hack Pasquale Pillitteri. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Pasquale Pillitteri",
           "when": "17 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaFBQU19id3VEc24tN1dmN2dYM1FIbS04RmtDV19taUgwbDg4N1BSQ2tEYUdPU1M5TjJqTEYwNUFqVVNtUEJkeUhWRnFycXlHankxM09FTjdMbUVVMFBXbzl4LU1tZTBKazFtMURCcDdHLU1VTGljYld6clNwY0N3Y1hyaVNCLWg2c2ZpUDVfRGo?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTGpWNGtTQ044cFpKYlJWT2ZfTFRMU1VSblBjRHFUMGstZ1VHZ0V3bVAwX0U1blBkUHNDNjEwOGNmZHJERXJkemlpanFjelYyOEFtSDZiTER5Y1djMU1lRU1GY2JPZ3hickRuUGhFc3RmRGNwOXpKbmJhRElQRWtBTm9lSTQ5YXNmV2RxVw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -192,6 +194,14 @@
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "The Future of Intelligent Creativity: How AI Is Reshaping Digital Media Production - TechBullion",
+          "summary": "The Future of Intelligent Creativity: How AI Is Reshaping Digital Media Production TechBullion. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "TechBullion",
+          "when": "18 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVhoQWF6WldOWmZZcGhSWUxnUV9zOURMWFdkM0N0aC1VNUlrX0t1MzFLcGdoNGlNNDhGWF9VVEQ0N08wZ1E5RWtHMHVxdzFiVE9oVGZMSi1wam9ZLW0wSFpkYWVjQ1l2WUFZcGt3dzlZMV9GNV8wSXdlNkdHazI3TGV1eFZfZUI4bF9MSXk3VzRiMmVpTjJxSGpDamlwX015eF9xVnYyTGx6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Introducing GPT-6.2 Astra and Sol - OpenAI",
           "summary": "Introducing GPT-6.2 Astra and Sol OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -201,27 +211,11 @@
           "image": ""
         },
         {
-          "title": "PopNow AI Launches PopNow Protect, Calling Itself the World's First AI Studio With Automatic Price Protection - The Detroit News",
-          "summary": "PopNow AI Launches PopNow Protect, Calling Itself the World's First AI Studio With Automatic Price Protection The Detroit News. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The Detroit News",
-          "when": "16 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYzVvZlgwQTY3NUREcU0ybzl1OTdGMWlVdW51dEh1Sy1iWTc2eXVkVlhqM3ZnYUZEZ1Y0dmZ5SS1fek0wUkQwMmM1TmloUXZOMVI3UVJ1MWZqTjNra1Nsb0tMZTZQYzBMNVFoaXJlYkVWeUtLUVNWaDJadUVlRnZiMm9EMnRtOWotNnk5U2x1QVcxOE96VTE5TWxRdFBWRm5HMnJlVDg3TndkSzRXNmJkakhYaGpiVHkzR2dLMDZFZ0NJdmJrelB4YURSVk0xSFpmcUxzNk5kVTRzZFNpb3dOUC1DemVOSDlXRlBXM2RCRERpaDE2bUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "The Most Promising Companies in AI Creative Content Generation - BBN Times",
           "summary": "The Most Promising Companies in AI Creative Content Generation BBN Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "BBN Times",
           "when": "18 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORV9FTlZoOXY1RWs5WkMwMm5vX0FFMG9qb0xFaGRXVy1ldk9nRE9UcEhJS2FKZUFSRUhyd01CcC1TRDJ1RHNMMzBDY2pWQXBVXzB6dlhRSG42LXBCOFZEOVI5RE1PTlRqNUR5MTF6cXZXb2lZbHVpVTc5WFV1M1hNVGhxOWJvVjg0NnJvS0I3aXpDY05TZ2VsSjNGX3o2Y1k?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google Cloud launches Gemini Omni 1.2 Flash for video - IT Brief New Zealand",
-          "summary": "Google Cloud launches Gemini Omni 1.2 Flash for video IT Brief New Zealand. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "IT Brief New Zealand",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3RKLVZKVGJLOUU5MDZFVW1zdHdLOWd6OEJNSmRFWG9jX2syZS1xNm4yenlVZnlXMjBNaFFRMjh1ZzVHaDIzU3hXS1p6LTdTUUNZUnV4RGZubnFEZFN0VnYyV2taN2taRUpVdkJCbXFMLWJ2WFdRZThTSUh5cDhXMGtndHk0bGZL?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -244,8 +238,8 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "How Retailers Can Make Preparations for AI Shopping Agents - E-Commerce Times",
-          "summary": "How Retailers Can Make Preparations for AI Shopping Agents E-Commerce Times. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "title": "How Retailers Can Prepare for AI Shopping Agents - E-Commerce Times",
+          "summary": "How Retailers Can Prepare for AI Shopping Agents E-Commerce Times. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "E-Commerce Times",
           "when": "18 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbG9leG1kc3kyYnk3ZXBteG1YZ2Znbm5kQkxCWWxsNWhOMC10UEFVTWdkZFpKZm9aR2pUSW5jbGttN0NWQnlESmRxTDRwUmg5S2c0OUtCbXBneUt5VTBBcE1HMHphQ1BWVGFTN21nLTRVb2ZlOUh6WWFrbmJmUlZKd09ISzdHODEwc01laDItRHhycE9xTm9uc1JHekM2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -272,6 +266,12 @@
           {
             "source": "The GitHub Blog",
             "when": "17 Nov 2026",
+            "point": "GitHub Copilot app, Microsoft Ignite releases The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWVVhZlB6VDRvcmFXZVJNQXJVRVJZaHhyZjh2X1RWdzQ1b2IyNjNZaTViR1NrbW1yVFMyVWdCWWdmQ0poUjhOUWRxMW1Wcnhob3BhRXFlU0p2NWlZT0tIN3Fub1dmb2VZaFd2QkFUSXlhX3JLNVFySGpFU1dJcl9vMDc0TkF3b1NIcG5mbjNWcw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "17 Nov 2026",
             "point": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTVKdzdxTkV3LTlET01vT3Q5enl1OVU4Ukwwb3k4T2J0dXA5d0NhZEx4X2RYb1ZmTVRIaVoxQ1Z0N0hEdmkxTktYdUFaTWhKMFVHZlF5WjUwYzFxVkFkOURWanlQalRoYkd1NEQtM2VYMUxQbGZJQ0I1UUVzQWU2eWE4V1BtXzFCbjRKRUpWMFhDekZuTVE?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
@@ -280,12 +280,26 @@
             "when": "17 Nov 2026",
             "point": "Monitor GitHub Copilot activity through Microsoft Agent 365 The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWxMTFVKY1pFVDRoYlZCMzlDbnNDMWJjaXFDTTNHc282MTJ0M3VoeGpYaHZac1ljLWIzWG5YWVZKRmFyRkNiZGxJWGdIdm5Za0R6cEpVM243Y29JMkdGcU0takhzRnR5QTBUc0RXXzlHRzZ0TGlIY0p2cWV1Vzd0dTgzN0hYQmY0Zl9MdFM0enZjbWJtSFJQSVI0NGpxTElHb1N3?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "How long do chatbots keep your private chats? Six services compared - Pasquale Pillitteri",
+        "status": "Cross-source coverage",
+        "common_context": "How long do chatbots keep your private chats? Six services compared Pasquale Pillitteri",
+        "unique_points": [
+          {
+            "source": "Pasquale Pillitteri",
+            "when": "18 Nov 2026",
+            "point": "How long do chatbots keep your private chats?",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0R1SGppcWZmT2NUTmRUQWZvWEEwajVVZkhiM3ByY0s3TldzUFZVNG5URktSaW01NVV3VENtelNwUkp3eV85NHZBUXlSNVNRY3RzQzl5dHF2X3puNWZuNDNqOWhnY1dBeFVFOERQS3owOUNqcWw1cUUtS3k3ZzZrbmJVQnlYYnE3UGhjYmJXbG91TlJVaGtv?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "The GitHub Blog",
+            "source": "Pasquale Pillitteri",
             "when": "17 Nov 2026",
-            "point": "GitHub Copilot Evals is now in public preview The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaFBQU19id3VEc24tN1dmN2dYM1FIbS04RmtDV19taUgwbDg4N1BSQ2tEYUdPU1M5TjJqTEYwNUFqVVNtUEJkeUhWRnFycXlHankxM09FTjdMbUVVMFBXbzl4LU1tZTBKazFtMURCcDdHLU1VTGljYld6clNwY0N3Y1hyaVNCLWg2c2ZpUDVfRGo?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "California sues OpenAI over the Hugging Face hack Pasquale Pillitteri",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTGpWNGtTQ044cFpKYlJWT2ZfTFRMU1VSblBjRHFUMGstZ1VHZ0V3bVAwX0U1blBkUHNDNjEwOGNmZHJERXJkemlpanFjelYyOEFtSDZiTER5Y1djMU1lRU1GY2JPZ3hickRuUGhFc3RmRGNwOXpKbmJhRElQRWtBTm9lSTQ5YXNmV2RxVw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

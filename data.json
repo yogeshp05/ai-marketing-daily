@@ -10,14 +10,14 @@
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Creatify launches Creatify Max, an AI teammate that runs paid ads from insight to creative to launch - PRWeb",
     "Microsoft Advertising Announces Biggest Upgrade To Bidding Models - Search Engine Roundtable",
     "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone - Facebook",
+    "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User - The Detroit News",
+    "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "Microsoft Advertising upgrades automated bidding for faster, more consistent results - Search Engine Land",
     "The Future of Intelligent Creativity: How AI Is Reshaping Digital Media Production - TechBullion",
-    "Kuaishou launches Kling Image 4 with native 8K output - TNGlobal",
-    "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "How Retailers Can Prepare for AI Shopping Agents - E-Commerce Times",
-    "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available - The GitHub Blog"
+    "Kuaishou launches Kling Image 4 with native 8K output - TNGlobal"
   ],
   "sections": [
     {
@@ -28,7 +28,7 @@
           "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
           "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaXI4ZEVSUGVhSGZOSEVEVHFyNGNuQ2YxMWJmQWVINjZUVGNFYzBUNTJWekFkYl8zZk96RzYyd1Q4UjNsX0thYnRFSHFwSVBxSVlQU2dtaWk4dHZiS25EbUFkYVhwd0tqOVdpcTNZX0xlZFRpSWc5LVFQTlA5VjRuakFBdkZxX3g5VFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0NxQnZWd21kVHpyeXhTX3ZISEJOdDFhRUpPQjZSblZHZWRrT19TM3B6Um1RTjZRaUVQZTcwQ0lPQkxaYnZDdmtpNS11ZWpjVE5zcnR6OGE1ZnFCYkl4WTlSYWJUSHIwcE1fcGVRT0NFNmhIanEwSUdnUkpuazc5M2ZKZkVacmZP?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -79,6 +79,14 @@
           "source": "Facebook",
           "when": "17 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdVV4U2pvSHY0ek9fT0hieVhIYkRzQWUzVm5FWEhTcmE1RlQtd29RanMybUlXWTFBcnlSMmdOLURwUlpfRFhBRkVXajJxT3RUam5heERsMW1BMlBlQ2xOU09LNmZBSFpicHp2QzdfR3ltUGpabDIyTtIBfkFVX3lxTE1RcHJVTWFUUGlSNExVZzBhdm5NS3BrN0R3V0pnYXY4YzQzWHY3WGljNDB3UW9ubnVUS3ZpcDhTa2VCOHVQNkhBc3EwanQxWUpkRWxQQ0NxYTVJNWhtNTBkekJSdUU1eng0T3RrWW1aWnVjcE5PLUVheEM5cjhPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Our Approach to Updating Our Commercial Terms of Service - Facebook",
+          "summary": "Our Approach to Updating Our Commercial Terms of Service Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Facebook",
+          "when": "18 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHB0cndjX1gzeVZLWEl4bnVhZ2wwNFVGd2laT0NUR29mUXJNX2p2WTJYdENvYWlrZzU2Ukl5Tmx1VklTai1tTjFVSzBTZ0RENTl0VW1sTWd5b1B1Q3ZyTnNJZ09Nekl4MDhWTzZuMEFrQ2gydFA1VGc5cURObFFBZURFcEVHVW5QeFNKOXVjWWUzaEJsSVHSAZsBQVVfeXFMUFpjR29FX2hjallaZ0FxSzdxMFlwYUk2cld5bnpsZGU1V3AyMmlHYVItdS1YZHQ4ZERfSlVoMEpFTWMxV2MtaU9LTm40d3Z2RDFmZTVZWlY3Y0J6UWpTZ2tXM2ZUelFXYWRuZ3FaQmhSQld0dUJ2WjlqcDRadTlMVVM5ZWRRcVVGOXNZU1AwR2ZSZUg2WmdYM2xCQk0?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -151,11 +159,11 @@
       "name": "Analytics",
       "stories": [
         {
-          "title": "Release notes - Google Help",
-          "summary": ". For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
-          "source": "Google Help",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1WFVkZS1iSGlGczNOb1gyRnQ3QURuR3pOa1VKUy1PVEF2OGJwQjM0Q0VaakQzNTFUcGI0M3EwU1lLdFRSc3FVVlhEYy1wd1hEbXdZanVEVFAwcFhvRUUtUUcxRDVIeWlFN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User - The Detroit News",
+          "summary": "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User The Detroit News. For performance teams, the important question is how this changes attribution, conversion quality, reporting or optimization signals.",
+          "source": "The Detroit News",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMXJDVnQzS3JlRUR4TWcwQ0dUNEI3TU9Rd0ZWVWgyaWQ4c1JoY0V5U2pYMGt2RGh3OElMby1ReldXQmhfMnN0S0NVX1Q1aWxBY3BqdU5rRFBHTXh4bUJDZklJVnBaTk9QNzFOd2lNeEJidDU3Qjc2a2xsWDJ4MHVhQnlUU1J0UUtHS0ZzTFlKZjV5OHd3bWZzY0FfYV9RS3dCU01xLTAwcF9PelRUWHB5ZkZrRzgyd3EtckJ6MFZzemlPSTZaNVBET2NuNEQ2Z3hkdlgtbzVXaU9tdUFTQ1FlekFIR1Z1RnFHY1lWaEx4MmJhemw0bzJ3MFZyTDVvcWI1UlE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -180,19 +188,19 @@
           "image": ""
         },
         {
+          "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models - Yahoo Finance",
+          "summary": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models Yahoo Finance. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Yahoo Finance",
+          "when": "17 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY204cWRjMmQwMnNNSEI1b2Q1RDFJVV96dTFwSXdta1luWWxtdTZvSW1hNUFCQlZsZlE5Zi1obVYwSG0yVC0wT1ZrNDdudnQ5SzVHX2lLSTVadGVqT1lJOXAwaGpHbG5ocG9GTnVleGx5Z0lKNWtnMEVwNWZsY3NJRUNtOXpBb2JQcFRURVJwbWpwWnZKRTE5TUF1RVNlaUh0Y1ZWOUtKWGE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot - The GitHub Blog",
           "summary": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
           "when": "17 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTVKdzdxTkV3LTlET01vT3Q5enl1OVU4Ukwwb3k4T2J0dXA5d0NhZEx4X2RYb1ZmTVRIaVoxQ1Z0N0hEdmkxTktYdUFaTWhKMFVHZlF5WjUwYzFxVkFkOURWanlQalRoYkd1NEQtM2VYMUxQbGZJQ0I1UUVzQWU2eWE4V1BtXzFCbjRKRUpWMFhDekZuTVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Monitor GitHub Copilot activity through Microsoft Agent 365 - The GitHub Blog",
-          "summary": "Monitor GitHub Copilot activity through Microsoft Agent 365 The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "17 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWxMTFVKY1pFVDRoYlZCMzlDbnNDMWJjaXFDTTNHc282MTJ0M3VoeGpYaHZac1ljLWIzWG5YWVZKRmFyRkNiZGxJWGdIdm5Za0R6cEpVM243Y29JMkdGcU0takhzRnR5QTBUc0RXXzlHRzZ0TGlIY0p2cWV1Vzd0dTgzN0hYQmY0Zl9MdFM0enZjbWJtSFJQSVI0NGpxTElHb1N3?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -200,6 +208,14 @@
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "Creatify launches Creatify Max, an AI teammate that runs paid ads from insight to creative to launch - PRWeb",
+          "summary": "Creatify launches Creatify Max, an AI teammate that runs paid ads from insight to creative to launch PRWeb. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PRWeb",
+          "when": "18 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVFk3eW12aE9HWU1YSVNSWDZUVlFCVm0wT0VJa21GcEtVVnVRSWZfYlVGVWdhUTJFRzlYa0g3ckJVZGxNZUdhZlM4YWRNN0FPUm9SU3JvMGllMjZCVXlLRHJ0ajhKVTBFZ0tSMUNYbnZKS1VqVVBBQ0FIYzVndVE1dmY3d1otR2lMeXdNZFJYMkt4WGpja2VHQlhnZWZ6Vnk1WDNXUnlhMDk5S0kxcEZYeTlYd1NfTkZEMWh5OUdrNnZVd2c4U3Jyb1BDUUtiUDZPV0tuR3dFM0hURkFjT2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "The Future of Intelligent Creativity: How AI Is Reshaping Digital Media Production - TechBullion",
           "summary": "The Future of Intelligent Creativity: How AI Is Reshaping Digital Media Production TechBullion. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -217,19 +233,11 @@
           "image": ""
         },
         {
-          "title": "TikTok Symphony Adds 30-Second AI Videos & 50 References - ALM Corp",
-          "summary": "TikTok Symphony Adds 30-Second AI Videos & 50 References ALM Corp. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ALM Corp",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uUGo3VmlBd3FYRDVPZVgxUS1kYjdlMmxrR1dpWUIwcDZLRC04ZkgtUC1NdHFoSXlTT2Y2NzNoRnNYQVY0amRfU05JcHAteF8xUlNuT3R0aEJlZlQydGJvNHpvUkJJcmkwT2pfMzV3?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "The Most Promising Companies in AI Creative Content Generation - BBN Times",
-          "summary": "The Most Promising Companies in AI Creative Content Generation BBN Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "BBN Times",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORV9FTlZoOXY1RWs5WkMwMm5vX0FFMG9qb0xFaGRXVy1ldk9nRE9UcEhJS2FKZUFSRUhyd01CcC1TRDJ1RHNMMzBDY2pWQXBVXzB6dlhRSG42LXBCOFZEOVI5RE1PTlRqNUR5MTF6cXZXb2lZbHVpVTc5WFV1M1hNVGhxOWJvVjg0NnJvS0I3aXpDY05TZ2VsSjNGX3o2Y1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Introducing GPT-6.2 Astra and Sol - OpenAI",
+          "summary": "Introducing GPT-6.2 Astra and Sol OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "17 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uaG9wYm5WLWZad2xnSC12anhNVVhCQ0d2aWJUY0l5V1JFNlE3SkhjdE5JSk0zRjVhZk5Da3NzVkp5bDkwcnFnbVZ0RjV1TjFQSVZoSVNUdm5jYW13ZDZ5TTU2eVRBZw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -327,6 +335,26 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
+        "topic": "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User - The Detroit News",
+        "status": "Cross-source coverage",
+        "common_context": "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User The Detroit News",
+        "unique_points": [
+          {
+            "source": "The Detroit News",
+            "when": "19 Nov 2026",
+            "point": "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User The Detroit News",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMXJDVnQzS3JlRUR4TWcwQ0dUNEI3TU9Rd0ZWVWgyaWQ4c1JoY0V5U2pYMGt2RGh3OElMby1ReldXQmhfMnN0S0NVX1Q1aWxBY3BqdU5rRFBHTXh4bUJDZklJVnBaTk9QNzFOd2lNeEJidDU3Qjc2a2xsWDJ4MHVhQnlUU1J0UUtHS0ZzTFlKZjV5OHd3bWZzY0FfYV9RS3dCU01xLTAwcF9PelRUWHB5ZkZrRzgyd3EtckJ6MFZzemlPSTZaNVBET2NuNEQ2Z3hkdlgtbzVXaU9tdUFTQ1FlekFIR1Z1RnFHY1lWaEx4MmJhemw0bzJ3MFZyTDVvcWI1UlE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Social Media Examiner",
+            "when": "17 Nov 2026",
+            "point": "YouTube Customer Acquisition, Facebook Marketing Tactics, and Industry News Social Media Examiner",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORXJOWENHTkdXd29nc0ZvZmhKUWY4TXVqRlZFeXNEb1NhWnl4bGV1RmtoeVI0aWp0SFFEZ3FaRFN0VkhrQ2Eyc21hSjVMZldHdjdiWnFpZFRpS216emRMSUE0OUdUVlB3TThGN0NrbHJCakprQm53LXB2UnVNWHFNSEd6R3lGYlhOZFNOU1JucldnZUlLbXNDbElmMzZISVM1SzBXT0hrYjY4YmVsM1Bz?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
         "topic": "Win the holiday shopping season with November’s Demand Gen Drop. - blog.google",
         "status": "Cross-source coverage",
         "common_context": "Win the holiday shopping season with November’s Demand Gen Drop.",
@@ -346,14 +374,28 @@
           {
             "source": "Google Help",
             "when": "18 Nov 2026",
-            "point": "Release notes - Google Help",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1WFVkZS1iSGlGczNOb1gyRnQ3QURuR3pOa1VKUy1PVEF2OGJwQjM0Q0VaakQzNTFUcGI0M3EwU1lLdFRSc3FVVlhEYy1wd1hEbXdZanVEVFAwcFhvRUUtUUcxRDVIeWlFN1E?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0NxQnZWd21kVHpyeXhTX3ZISEJOdDFhRUpPQjZSblZHZWRrT19TM3B6Um1RTjZRaUVQZTcwQ0lPQkxaYnZDdmtpNS11ZWpjVE5zcnR6OGE1ZnFCYkl4WTlSYWJUSHIwcE1fcGVRT0NFNmhIanEwSUdnUkpuazc5M2ZKZkVacmZP?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Microsoft (MSFT) Stock: New AI Model Takes Aim at Anthropic and OpenAI on Price - Blockonomi",
+        "status": "Cross-source coverage",
+        "common_context": "Microsoft (MSFT) Stock: New AI Model Takes Aim at Anthropic and OpenAI on Price Blockonomi",
+        "unique_points": [
+          {
+            "source": "Blockonomi",
+            "when": "18 Nov 2026",
+            "point": "Microsoft (MSFT) Stock: New AI Model Takes Aim at Anthropic and OpenAI on Price Blockonomi",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3lFMWFTTnBhU21mU3BPU1R6cDJUVTVpS1JLMTRrOUZReVBtb05ad2tHQVNJdDMwRFoyR0hLLThhNDkybUFaQlFVSTNoOHJqbFdKWmNZbEVfeXRpQnZ6WmZiMWFEdVd1ejlqMDJOeWg0MTZadC16YWtQT0JSOHlYWlNTemxLM1gyR1ZNOTV5MXVSQnp4WmZ1YTAwZ2pHckpYV2c?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Google Help",
-            "when": "18 Nov 2026",
-            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaXI4ZEVSUGVhSGZOSEVEVHFyNGNuQ2YxMWJmQWVINjZUVGNFYzBUNTJWekFkYl8zZk96RzYyd1Q4UjNsX0thYnRFSHFwSVBxSVlQU2dtaWk4dHZiS25EbUFkYVhwd0tqOVdpcTNZX0xlZFRpSWc5LVFQTlA5VjRuakFBdkZxX3g5VFE?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "source": "Yahoo Finance",
+            "when": "17 Nov 2026",
+            "point": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY204cWRjMmQwMnNNSEI1b2Q1RDFJVV96dTFwSXdta1luWWxtdTZvSW1hNUFCQlZsZlE5Zi1obVYwSG0yVC0wT1ZrNDdudnQ5SzVHX2lLSTVadGVqT1lJOXAwaGpHbG5ocG9GTnVleGx5Z0lKNWtnMEVwNWZsY3NJRUNtOXpBb2JQcFRURVJwbWpwWnZKRTE5TUF1RVNlaUh0Y1ZWOUtKWGE?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

@@ -1,23 +1,23 @@
 {
   "date": "19 November 2026",
   "lead": {
-    "title": "Creatify launches Creatify Max, an AI teammate that runs paid ads from insight to creative to launch - PRWeb",
-    "deck": "Creatify launches Creatify Max, an AI teammate that runs paid ads from insight to creative to launch PRWeb. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVFk3eW12aE9HWU1YSVNSWDZUVlFCVm0wT0VJa21GcEtVVnVRSWZfYlVGVWdhUTJFRzlYa0g3ckJVZGxNZUdhZlM4YWRNN0FPUm9SU3JvMGllMjZCVXlLRHJ0ajhKVTBFZ0tSMUNYbnZKS1VqVVBBQ0FIYzVndVE1dmY3d1otR2lMeXdNZFJYMkt4WGpja2VHQlhnZWZ6Vnk1WDNXUnlhMDk5S0kxcEZYeTlYd1NfTkZEMWh5OUdrNnZVd2c4U3Jyb1BDUUtiUDZPV0tuR3dFM0hURkFjT2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "PRWeb",
-    "when": "18 Nov 2026",
+    "title": "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language - Business Wire",
+    "deck": "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQVZLamV2cklmelRtUG94bGxsWTNqclF1YlV4aHlfTTdiU1ZhQmlsZ3JFZjdLMzFKT3RuSnEzc01GaWM2cjBDczNpSWxaaGRLQjN5LVYzRTZLUmQycWtPcEV2WEY2N1hNelh1LXNhQ3AtdmlOTzg3WHJPcnBHNXBGUUJnVG4xMGNxSTVFWHFVM1pJcjBoOW5KcFBmY05KeW5oNmk1S1YtQTJjSzg5aUNGNDNJU3Z4N3FYUWxFS1FJamtndzAxUlQ5R1hJQmhESUlyWEt5TkFFQ0wxQUM1LXRYaGR0ZnFGR2xRa3dJVzNvanpnR2dwTTV6S21PYmNCZlF5R3pONVdiTE9UVjJOMTZ5MVIyNnU0ZU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Business Wire",
+    "when": "19 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language - Business Wire",
+    "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads - PPC Land",
     "Creatify launches Creatify Max, an AI teammate that runs paid ads from insight to creative to launch - PRWeb",
+    "AI UGC Ads in 2026: What Works, What’s Risky, and What Still Needs a Human - TechBullion",
     "Research acceleration: The jagged frontier - OpenAI",
-    "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User - The Detroit News",
-    "Google Ads Bans AI Impersonation of Public Figures Even With a Disclosure Label - ALM Corp",
     "Update your app SDK version for Google Ads conversion measurement - Google Help",
     "Microsoft Advertising upgrades automated bidding for faster, more consistent results - Search Engine Land",
-    "The Future of Intelligent Creativity: How AI Is Reshaping Digital Media Production - TechBullion",
-    "Kuaishou launches Kling Image 4 with native 8K output - TNGlobal"
+    "Wait for pull request events with GitHub CLI - The GitHub Blog"
   ],
   "sections": [
     {
@@ -27,7 +27,7 @@
           "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
           "summary": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Google Help",
-          "when": "18 Nov 2026",
+          "when": "19 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0NxQnZWd21kVHpyeXhTX3ZISEJOdDFhRUpPQjZSblZHZWRrT19TM3B6Um1RTjZRaUVQZTcwQ0lPQkxaYnZDdmtpNS11ZWpjVE5zcnR6OGE1ZnFCYkl4WTlSYWJUSHIwcE1fcGVRT0NFNmhIanEwSUdnUkpuazc5M2ZKZkVacmZP?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
@@ -37,6 +37,14 @@
           "source": "blog.google",
           "when": "18 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM1czc1FBVDV5TGZjZENhTXZVejMxZTVhUGlJSjEwMFVkTFNXOElNY1dVQm9DRUk4bG1nVVplTFQ2Tkl1anBzWlZTVGJDSEs4Q25JZEFrNGQtSWRsVmJhU3RBbmxobXRldUF6LUtIbkFjcVpRaHBOdTlES1M1S0JDWnRHS19XTHBUREE0b2Q0eEdHb0lJSmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Build strategic A/B tests to grow your ad performance. - blog.google",
+          "summary": "Build strategic A/B tests to grow your ad performance. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "blog.google",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BT3QySFZJVnhQZzdrMlJTbXk4YXczUWc1TVU0emRmcHBrbVhodFNNSlJHaTU2V3RiZjhFbVlDR0ZTeE1qTXU2dEgtVHpwNkhYYm9RanZIZVVadHhrczdtVDYzc0pYRndOdUtiMnlIZHZPbDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -67,12 +75,36 @@
           "when": "19 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaU51RDZMNWdsUzVHcTBpbWNzaHFlUnJmWHlaeEJNQWxTRzk2YWIyTlNtUG51X3BXNXo0V2t0RVQwU0E2ZUEtRG9iQ1BRRnVvR0Nsdi1ES3JmUEZncXJ2d1pVS0FWd2haQzBGWTJWVDNyOFhvc29pcW1YWTV1VmVCN2NmZG9tMWtlbDdkZDQ4dENCeEkzdl9V?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Microsoft rebuilds its bid model, citing 10% more value per click - PPC Land",
+          "summary": "Microsoft rebuilds its bid model, citing 10% more value per click PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "18 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUFNaHB3U0FvaWI2cTBiQ1o3TDZ1MEFjZm1iWE5ITjN3bXYyNFFfd3NuaXBwbHF0Z1lENW1lOUc4ekw4anIzRTZrUi1Pc2pHM0tuam92YTJOQW84bHRCSFhadGcwcy1aU0dwV0U2ZVFxMXdPTGo4RW1fanIweVExYzlFVUdUN09E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
     {
       "name": "Meta Ads",
       "stories": [
+        {
+          "title": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads - PPC Land",
+          "summary": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMk53ZEdCcnlVNTh5aV9oQ19HTURzODlnM3MtbFdRNm41MHhwaklUampKcjlyRVJKZ0ZqQ1BMaXhMSW9GTDlVeFJranVjbE9HcnVuNEJROWs1d2J4cE5HaUxvZFEyRmZWY0JONV8xbk9wTVBBMFp1ZmVST0ZOYkdTeGhPbW5ZYUV5QWtoa2lJRjlHWEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Meta premieres India’s First Government-Led Microdrama Series on Scams Awareness - Facebook",
+          "summary": "Meta premieres India’s First Government-Led Microdrama Series on Scams Awareness Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Facebook",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUR5a2YtZjIyc1k3QXR4SC0xNmdvekhyTUE4V2h5eEpRbHNYUXRVVlhpVk9VWFNtbEtRWmJrdHk2a05uQmtuTW9EN29GelhqNGJkc05tMGhWdmdId2UtdXBwVzZfVnBQc2hnT0lJWGZqc0VGUzQtWXFldkl5djRVb1ZVcGY0RjVHTDhrLS1IZFQ0QkpNSXJhSWJuMC10RnctYVd6emhvMDB5cEdNeDI2UE5uWnbSAboBQVVfeXFMTVZhTkx5TTJhRDlTOG5veHk2MlcyQ1g5aF8tZGQ4SW93TEdJVjc1OTU2Tm9TdXNBcWtqcnZlNVFBU3BJbnlLdWFHQUtRSXhvazdyVExjejNjSjF3V3Ezc1VMVEJFZl9PTHJxUVhIdmp5RkFRVDFXSkJfV2VRQnVRNHU0eHQ5ZDNCR0ktTEI0Rk1LQktvRXZDNnNfNDhDX2k0VXI3eFpESkJnSzNKYWM3Y2NMcXBsbXNjc1VB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Our Approach to Updating Our Commercial Terms of Service - Facebook",
           "summary": "Our Approach to Updating Our Commercial Terms of Service Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -87,13 +119,12 @@
       "name": "Amazon Ads",
       "stories": [
         {
-          "title": "Nunn Media partners with Amazon Ads to enhance data capabilities - Mumbrella",
-          "summary": "Nunn Media partners with Amazon Ads to enhance data capabilities Mumbrella. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Mumbrella",
-          "when": "17 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYVpKUjhFdTNOZUh2YVJORlRvc0FkQUlUYjVBN2ZpSUVXM25IMVJOSk55aVZaaFZfMzFkd2N5OUppdHRkY0ZySUI3Nk53amRQbzBMZm14LTktdnlyeVM5T0lmT2RhMlRMTmllVmhQREo3VGxwNGhOUmJwQ1A0QzgtbHk0OFJ6am1fTTNRZ0kyVHFycUNheXIzX2tKd1A?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language - Business Wire",
+          "summary": "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Business Wire",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQVZLamV2cklmelRtUG94bGxsWTNqclF1YlV4aHlfTTdiU1ZhQmlsZ3JFZjdLMzFKT3RuSnEzc01GaWM2cjBDczNpSWxaaGRLQjN5LVYzRTZLUmQycWtPcEV2WEY2N1hNelh1LXNhQ3AtdmlOTzg3WHJPcnBHNXBGUUJnVG4xMGNxSTVFWHFVM1pJcjBoOW5KcFBmY05KeW5oNmk1S1YtQTJjSzg5aUNGNDNJU3Z4N3FYUWxFS1FJamtndzAxUlQ5R1hJQmhESUlyWEt5TkFFQ0wxQUM1LXRYaGR0ZnFGR2xRa3dJVzNvanpnR2dwTTV6S21PYmNCZlF5R3pONVdiTE9UVjJOMTZ5MVIyNnU0ZU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -157,7 +188,8 @@
           "source": "The Detroit News",
           "when": "19 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMXJDVnQzS3JlRUR4TWcwQ0dUNEI3TU9Rd0ZWVWgyaWQ4c1JoY0V5U2pYMGt2RGh3OElMby1ReldXQmhfMnN0S0NVX1Q1aWxBY3BqdU5rRFBHTXh4bUJDZklJVnBaTk9QNzFOd2lNeEJidDU3Qjc2a2xsWDJ4MHVhQnlUU1J0UUtHS0ZzTFlKZjV5OHd3bWZzY0FfYV9RS3dCU01xLTAwcF9PelRUWHB5ZkZrRzgyd3EtckJ6MFZzemlPSTZaNVBET2NuNEQ2Z3hkdlgtbzVXaU9tdUFTQ1FlekFIR1Z1RnFHY1lWaEx4MmJhemw0bzJ3MFZyTDVvcWI1UlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         },
         {
           "title": "Release notes - Google Help",
@@ -165,7 +197,8 @@
           "source": "Google Help",
           "when": "18 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1WFVkZS1iSGlGczNOb1gyRnQ3QURuR3pOa1VKUy1PVEF2OGJwQjM0Q0VaakQzNTFUcGI0M3EwU1lLdFRSc3FVVlhEYy1wd1hEbXdZanVEVFAwcFhvRUUtUUcxRDVIeWlFN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -189,19 +222,19 @@
           "image": ""
         },
         {
+          "title": "S3 audit log streaming with OpenID Connect expands to GHE.com - The GitHub Blog",
+          "summary": "S3 audit log streaming with OpenID Connect expands to GHE.com The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0lfOFlNN2YxVVVHT1psZUlJYmI4RERGUHpSX0kzS2ZmWkNOSFVOWXZEeFBublJia3NwYzBLZGVIczNubjJPQndJYU1IVXk0SG51X09LZWVqRVZmLV9qSUZsNnNmVC00ZEhvbnhrSzZwSEdsS0NmZGI0QVFOU25jc1pfRkM4cG16b2hPQlJoaUdlRExocUxWVUIwZmZRTFlNYXc1OUhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Connect Supabase, Box, Calendly, and more to Copilot - The GitHub Blog",
           "summary": "Connect Supabase, Box, Calendly, and more to Copilot The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
           "when": "19 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3daT1JPQTVMOEVGQnRCLUxoR1BYZmhQZEJSbWhJX1lNMUktTHdfc29nbElndVBOY3VIRHQzdEdDZzhmRjBvRDRHM2JYaFRNNDFicGZnT0NpbXcxMm5SM2ZTTnNQdmEtbmk1UFVZb2t5UWtFckJ3SXhSemZwUDBjTmJxdnFtN1p1aEZBSkJEZjVRYnpKQWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Gemini 4 Neon in GitHub Copilot - The GitHub Blog",
-          "summary": "Gemini 4 Neon in GitHub Copilot The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMS1FJZ2psbEdtam53b1NNNV90Y1NvZUNOcDVnYkxvUkxSY0JKOXpWVFktdUNMMTA4eUVMT3phdVRDRzJtcHM5N0JxMEZVYjZfdTNERE9uaXNGdm0wTkRNYm96b2pEZFd6NzRTSGdabVlVbGE3V211UzI3YnFqQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -218,6 +251,14 @@
           "image": ""
         },
         {
+          "title": "AI UGC Ads in 2026: What Works, What’s Risky, and What Still Needs a Human - TechBullion",
+          "summary": "AI UGC Ads in 2026: What Works, What’s Risky, and What Still Needs a Human TechBullion. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "TechBullion",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORUU3Z1pZdHBYWU4tVnlTOC1MTlRkWjd0b2JCd2JtNmRTSDRSNkhQaWNWb29xMUpJa0JXV3dVVTJmazBkbi1LZUI5aUdvV1NmZFRLRTYtX09QLTNSVjVwdlI3Szl3NzRLN3dLU252LW1JM2w4MzMxN2NZU0hGUzV5MjZjRTBLeXJSU1QtMDhQRkZITzJTTk5ZbmZqWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Research acceleration: The jagged frontier - OpenAI",
           "summary": "Research acceleration: The jagged frontier OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "OpenAI",
@@ -226,19 +267,11 @@
           "image": ""
         },
         {
-          "title": "Google Ads Bans AI Impersonation of Public Figures Even With a Disclosure Label - ALM Corp",
-          "summary": "Google Ads Bans AI Impersonation of Public Figures Even With a Disclosure Label ALM Corp. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "ALM Corp",
+          "title": "Advancing chip design with OpenAI models - OpenAI",
+          "summary": "Advancing chip design with OpenAI models OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
           "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalNLWUtwZ3IxcjNQN1NGQW5nVTJ3Yl9RdnlYemJ2bWdQNF84bG1XU284d3ZYRHY1RlVMc0g5UHJwUVV6bFJFcGVKZWVaeDRUWkZCSWJ5dDdkbVQ0YXU3blBsR2FCY1pJZkxXWmttRGxWNFRIdDdDMFV3dTJ6d2FJQ21zZzYtQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "The Future of Intelligent Creativity: How AI Is Reshaping Digital Media Production - TechBullion",
-          "summary": "The Future of Intelligent Creativity: How AI Is Reshaping Digital Media Production TechBullion. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "TechBullion",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVhoQWF6WldOWmZZcGhSWUxnUV9zOURMWFdkM0N0aC1VNUlrX0t1MzFLcGdoNGlNNDhGWF9VVEQ0N08wZ1E5RWtHMHVxdzFiVE9oVGZMSi1wam9ZLW0wSFpkYWVjQ1l2WUFZcGt3dzlZMV9GNV8wSXdlNkdHazI3TGV1eFZfZUI4bF9MSXk3VzRiMmVpTjJxSGpDamlwX015eF9xVnYyTGx6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RejBWQml3ekRqeU9ieU5OdmN6ZGNMNHd6UkZhcWMzYlRfbEV1Uk1fRlVNZ2pkNXhlR2dJZTVfUEdoSzVaV2ZNQ2JZX05PRnppRm9BY3lYOG1YSTVBYll2bWNLdlNMbFkxRkxHaHh6QjE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -261,14 +294,6 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "How Retailers Can Prepare for AI Shopping Agents - E-Commerce Times",
-          "summary": "How Retailers Can Prepare for AI Shopping Agents E-Commerce Times. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "E-Commerce Times",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbG9leG1kc3kyYnk3ZXBteG1YZ2Znbm5kQkxCWWxsNWhOMC10UEFVTWdkZFpKZm9aR2pUSW5jbGttN0NWQnlESmRxTDRwUmg5S2c0OUtCbXBneUt5VTBBcE1HMHphQ1BWVGFTN21nLTRVb2ZlOUh6WWFrbmJmUlZKd09ISzdHODEwc01laDItRHhycE9xTm9uc1JHekM2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "New Ecommerce Tools: November 18, 2026 - Practical Ecommerce",
           "summary": "New Ecommerce Tools: November 18, 2026 Practical Ecommerce. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "Practical Ecommerce",
@@ -284,53 +309,33 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User - The Detroit News",
+        "topic": "Build strategic A/B tests to grow your ad performance. - blog.google",
         "status": "Cross-source coverage",
-        "common_context": "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User The Detroit News",
+        "common_context": "Build strategic A/B tests to grow your ad performance.",
         "unique_points": [
           {
-            "source": "The Detroit News",
+            "source": "blog.google",
             "when": "19 Nov 2026",
-            "point": "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User The Detroit News",
-            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMXJDVnQzS3JlRUR4TWcwQ0dUNEI3TU9Rd0ZWVWgyaWQ4c1JoY0V5U2pYMGt2RGh3OElMby1ReldXQmhfMnN0S0NVX1Q1aWxBY3BqdU5rRFBHTXh4bUJDZklJVnBaTk9QNzFOd2lNeEJidDU3Qjc2a2xsWDJ4MHVhQnlUU1J0UUtHS0ZzTFlKZjV5OHd3bWZzY0FfYV9RS3dCU01xLTAwcF9PelRUWHB5ZkZrRzgyd3EtckJ6MFZzemlPSTZaNVBET2NuNEQ2Z3hkdlgtbzVXaU9tdUFTQ1FlekFIR1Z1RnFHY1lWaEx4MmJhemw0bzJ3MFZyTDVvcWI1UlE?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Build strategic A/B tests to grow your ad performance.",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BT3QySFZJVnhQZzdrMlJTbXk4YXczUWc1TVU0emRmcHBrbVhodFNNSlJHaTU2V3RiZjhFbVlDR0ZTeE1qTXU2dEgtVHpwNkhYYm9RanZIZVVadHhrczdtVDYzc0pYRndOdUtiMnlIZHZPbDQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "19 Nov 2026",
+            "point": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMk53ZEdCcnlVNTh5aV9oQ19HTURzODlnM3MtbFdRNm41MHhwaklUampKcjlyRVJKZ0ZqQ1BMaXhMSW9GTDlVeFJranVjbE9HcnVuNEJROWs1d2J4cE5HaUxvZFEyRmZWY0JONV8xbk9wTVBBMFp1ZmVST0ZOYkdTeGhPbW5ZYUV5QWtoa2lJRjlHWEk?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "Google Help",
-            "when": "18 Nov 2026",
-            "point": "Release notes - Google Help",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1WFVkZS1iSGlGczNOb1gyRnQ3QURuR3pOa1VKUy1PVEF2OGJwQjM0Q0VaakQzNTFUcGI0M3EwU1lLdFRSc3FVVlhEYy1wd1hEbXdZanVEVFAwcFhvRUUtUUcxRDVIeWlFN1E?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Win the holiday shopping season with November’s Demand Gen Drop. - blog.google",
-        "status": "Cross-source coverage",
-        "common_context": "Win the holiday shopping season with November’s Demand Gen Drop.",
-        "unique_points": [
+            "when": "19 Nov 2026",
+            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0NxQnZWd21kVHpyeXhTX3ZISEJOdDFhRUpPQjZSblZHZWRrT19TM3B6Um1RTjZRaUVQZTcwQ0lPQkxaYnZDdmtpNS11ZWpjVE5zcnR6OGE1ZnFCYkl4WTlSYWJUSHIwcE1fcGVRT0NFNmhIanEwSUdnUkpuazc5M2ZKZkVacmZP?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "blog.google",
             "when": "18 Nov 2026",
             "point": "Win the holiday shopping season with November’s Demand Gen Drop.",
             "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2RGRIWUppZkRtUE9mbV9wTXlxbm1qZ01KOHdUT3poTlBGdVZ3LWNSanJFaUZ6TS05Y1lHb0c4TGFqMzA2eFkzUENPNjkwRGdMWDRrVGNLakppeEJrd2NrMU4wekJNZGstaVNESDEyY2VFaXZpQlhqUDgyT2c?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "ALM Corp",
-            "when": "18 Nov 2026",
-            "point": "Google Ads Bans AI Impersonation of Public Figures Even With a Disclosure Label ALM Corp",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalNLWUtwZ3IxcjNQN1NGQW5nVTJ3Yl9RdnlYemJ2bWdQNF84bG1XU284d3ZYRHY1RlVMc0g5UHJwUVV6bFJFcGVKZWVaeDRUWkZCSWJ5dDdkbVQ0YXU3blBsR2FCY1pJZkxXWmttRGxWNFRIdDdDMFV3dTJ6d2FJQ21zZzYtQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "blog.google",
-            "when": "18 Nov 2026",
-            "point": "Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop.",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM1czc1FBVDV5TGZjZENhTXZVejMxZTVhUGlJSjEwMFVkTFNXOElNY1dVQm9DRUk4bG1nVVplTFQ2Tkl1anBzWlZTVGJDSEs4Q25JZEFrNGQtSWRsVmJhU3RBbmxobXRldUF6LUtIbkFjcVpRaHBOdTlES1M1S0JDWnRHS19XTHBUREE0b2Q0eEdHb0lJSmc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Help",
-            "when": "18 Nov 2026",
-            "point": "Update your app SDK version for Google Ads conversion measurement Google Help",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0NxQnZWd21kVHpyeXhTX3ZISEJOdDFhRUpPQjZSblZHZWRrT19TM3B6Um1RTjZRaUVQZTcwQ0lPQkxaYnZDdmtpNS11ZWpjVE5zcnR6OGE1ZnFCYkl4WTlSYWJUSHIwcE1fcGVRT0NFNmhIanEwSUdnUkpuazc5M2ZKZkVacmZP?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -347,6 +352,12 @@
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaU51RDZMNWdsUzVHcTBpbWNzaHFlUnJmWHlaeEJNQWxTRzk2YWIyTlNtUG51X3BXNXo0V2t0RVQwU0E2ZUEtRG9iQ1BRRnVvR0Nsdi1ES3JmUEZncXJ2d1pVS0FWd2haQzBGWTJWVDNyOFhvc29pcW1YWTV1VmVCN2NmZG9tMWtlbDdkZDQ4dENCeEkzdl9V?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
+            "source": "PPC Land",
+            "when": "18 Nov 2026",
+            "point": "Microsoft rebuilds its bid model, citing 10% more value per click PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUFNaHB3U0FvaWI2cTBiQ1o3TDZ1MEFjZm1iWE5ITjN3bXYyNFFfd3NuaXBwbHF0Z1lENW1lOUc4ekw4anIzRTZrUi1Pc2pHM0tuam92YTJOQW84bHRCSFhadGcwcy1aU0dwV0U2ZVFxMXdPTGo4RW1fanIweVExYzlFVUdUN09E?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
             "source": "Search Engine Land",
             "when": "18 Nov 2026",
             "point": "Microsoft Advertising upgrades automated bidding for faster, more consistent results Search Engine Land",
@@ -356,10 +367,16 @@
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
       },
       {
-        "topic": "Wait for pull request events with GitHub CLI - The GitHub Blog",
+        "topic": "S3 audit log streaming with OpenID Connect expands to GHE.com - The GitHub Blog",
         "status": "Cross-source coverage",
-        "common_context": "Wait for pull request events with GitHub CLI The GitHub Blog",
+        "common_context": "S3 audit log streaming with OpenID Connect expands to GHE.com The GitHub Blog",
         "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "19 Nov 2026",
+            "point": "S3 audit log streaming with OpenID Connect expands to GHE.com The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0lfOFlNN2YxVVVHT1psZUlJYmI4RERGUHpSX0kzS2ZmWkNOSFVOWXZEeFBublJia3NwYzBLZGVIczNubjJPQndJYU1IVXk0SG51X09LZWVqRVZmLV9qSUZsNnNmVC00ZEhvbnhrSzZwSEdsS0NmZGI0QVFOU25jc1pfRkM4cG16b2hPQlJoaUdlRExocUxWVUIwZmZRTFlNYXc1OUhR?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "The GitHub Blog",
             "when": "19 Nov 2026",
@@ -377,12 +394,6 @@
             "when": "19 Nov 2026",
             "point": "Gemini 4 Neon in GitHub Copilot The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMS1FJZ2psbEdtam53b1NNNV90Y1NvZUNOcDVnYkxvUkxSY0JKOXpWVFktdUNMMTA4eUVMT3phdVRDRzJtcHM5N0JxMEZVYjZfdTNERE9uaXNGdm0wTkRNYm96b2pEZFd6NzRTSGdabVlVbGE3V211UzI3YnFqQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "18 Nov 2026",
-            "point": "Security risk assessments run automatically on GitHub Team The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeEo0Mmd4QWF0SGRjVmdvOVp3Nnd4RHBveVpZeW4wUGo1a2twSGUzSzYxNzY5czdEaU4yQlhQa3ZaMTFwWVhzWHZPeEVpdFZyZHFOVm9pa1hKUDZIT1c0N25kd2dmMkVaZUZ1U1FnR1R3MTFXVmtQSnBEOFdhVjdvaXpGejlGR2pEUno5OEtpZ3BDTmhYa2IyN19kbmxHMThJelE?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

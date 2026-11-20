@@ -11,13 +11,13 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language - Business Wire",
+    "Walmart mulls role advertising will play in an agentic shopping world - Marketing Dive",
     "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads - PPC Land",
-    "Microsoft Advertising Announces Biggest Upgrade To Bidding Models - Search Engine Roundtable",
     "Adspirer joins Claude’s connector directory with read-only ad analytics - Superpower Daily",
     "Put AI to work engaging customers in more places: What's new in Microsoft Advertising this November - Microsoft",
     "Enterprise Live Migrations from Azure DevOps generally available - The GitHub Blog",
-    "AI UGC Ads in 2026: What Works, What’s Risky, and What Still Needs a Human - TechBullion",
-    "Research acceleration: The jagged frontier - OpenAI"
+    "NAV Fund Services Launches Powerful Tool Suite Featuring Fund Marketing CRM - Newswire",
+    "AI UGC Ads in 2026: What Works, What’s Risky, and What Still Needs a Human - TechBullion"
   ],
   "sections": [
     {
@@ -29,14 +29,6 @@
           "source": "Google Help",
           "when": "19 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0NxQnZWd21kVHpyeXhTX3ZISEJOdDFhRUpPQjZSblZHZWRrT19TM3B6Um1RTjZRaUVQZTcwQ0lPQkxaYnZDdmtpNS11ZWpjVE5zcnR6OGE1ZnFCYkl4WTlSYWJUSHIwcE1fcGVRT0NFNmhIanEwSUdnUkpuazc5M2ZKZkVacmZP?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop. - blog.google",
-          "summary": "Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "blog.google",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM1czc1FBVDV5TGZjZENhTXZVejMxZTVhUGlJSjEwMFVkTFNXOElNY1dVQm9DRUk4bG1nVVplTFQ2Tkl1anBzWlZTVGJDSEs4Q25JZEFrNGQtSWRsVmJhU3RBbmxobXRldUF6LUtIbkFjcVpRaHBOdTlES1M1S0JDWnRHS19XTHBUREE0b2Q0eEdHb0lJSmc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -61,14 +53,6 @@
       "name": "Microsoft Ads",
       "stories": [
         {
-          "title": "Microsoft Advertising Announces Biggest Upgrade To Bidding Models - Search Engine Roundtable",
-          "summary": "Microsoft Advertising Announces Biggest Upgrade To Bidding Models Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Roundtable",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR0ZCZC1EdWtTQVBEZU5MUkVoZ21ad0o1SDNkeVVNYmxuRW52b0gyTzEzbnhKVm85MDFZTVpMSDB1ZmpQWlF3MmRCaG9TRXY2WEV0c1RUZkZXeVFteTJKMjZFUzFxeTVNSWFLbzFpSk5KLVZZby1sWFFmb3dSVVU3QS00ZzlJbkNVaGlr?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Put AI to work engaging customers in more places: What's new in Microsoft Advertising this November - Microsoft",
           "summary": "Put AI to work engaging customers in more places: What's new in Microsoft Advertising this November Microsoft. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Microsoft",
@@ -77,19 +61,19 @@
           "image": ""
         },
         {
-          "title": "Daily Search Forum Recap: November 18, 2026 - Search Engine Roundtable",
-          "summary": "Daily Search Forum Recap: November 18, 2026 Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Roundtable",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16Mm1qVnBkejVpOVVhNDFwcHNJcjFLTHVRdkRITFVRTmk3bno2SnhUeXp2R1Etd0FqS0V6d0VTckR3eEdIdldZZk13TTAwcmcxbWNKampSR3FXRFc4elBoSzItTWJlczA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Microsoft cuts ads per page 35% in its new Discover feed - PPC Land",
+          "summary": "Microsoft cuts ads per page 35% in its new Discover feed PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "20 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZFVOeWctM1hRdUg4V1BtV2x4eVY4TXpOclduTkp2bGtWenEyZXBub1VDbUtTS0MzV3d5alNmY3FtU1Z1bTlnd0xnYk5TbVYxbmxjd1dLdU9rMGVxM0tLSlF3OWpWelNrQll4SjRncm40UUNMS3dnWWZIV0JNdw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Microsoft Advertising upgrades automated bidding for faster, more consistent results - Search Engine Land",
-          "summary": "Microsoft Advertising upgrades automated bidding for faster, more consistent results Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmltM3pUWXpSZVdIVWVBTkNITy04Qm9UVkd5SWRPUWF4M0t0UmZHQmVBNWNSakZ1cU5uV1ctRXpIVlNtSlgtOFpPNF9lT3ppLVVRcEJMT25yNGV0VHUwclFVZnYxZjU2WjNSTjA0X2U4M3lsbkRFZXFucGp2NjNQR3h3YlVFQ0k2Z3VBSERvVlA4ZXUwQ1JOeFZiUy05WWtiSTJ2bGc1NG5SQ2dKRXVLeHpxWHVvMTNVUURn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Creators become a $116bn ad engine as Microsoft rebuilds its bidding models - PPC Land",
+          "summary": "Creators become a $116bn ad engine as Microsoft rebuilds its bidding models PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaU51RDZMNWdsUzVHcTBpbWNzaHFlUnJmWHlaeEJNQWxTRzk2YWIyTlNtUG51X3BXNXo0V2t0RVQwU0E2ZUEtRG9iQ1BRRnVvR0Nsdi1ES3JmUEZncXJ2d1pVS0FWd2haQzBGWTJWVDNyOFhvc29pcW1YWTV1VmVCN2NmZG9tMWtlbDdkZDQ4dENCeEkzdl9V?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -140,22 +124,12 @@
       "name": "TikTok Ads",
       "stories": [
         {
-          "title": "Supermetrics AI campaign tool gains ChatGPT Ads, its 7th ad platform - PPC Land",
-          "summary": "Supermetrics AI campaign tool gains ChatGPT Ads, its 7th ad platform PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads - PPC Land",
+          "summary": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "PPC Land",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1Z3c2JGXzNxN205Z280SGRDNnFZQUg5OTFaR1NWdFVKbVNXSGowaGFpWU01RGRmdlY2cVFrZVlXQkhJM3dCRE01N0JYRWJYc04ydEVOTnJBMmU3MTVKMG1vdWF3bzNFc3hNdk03cGNjNnRrRkxJTU1KS2Fla1dpVGtYY0xSdGRQTGptbmJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
-        },
-        {
-          "title": "TikTok Updates Its Gen-AI Video Ad Creation Capabilities 11/11/2026 - MediaPost",
-          "summary": "TikTok Updates Its Gen-AI Video Ad Creation Capabilities 11/11/2026 MediaPost. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "MediaPost",
-          "when": "11 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdHItQkVLajNWQy1pRlE2eURjQUpQUkE2MmFuZ3RYVXhaQ0ZvWWNpUlg2M3V5VkhVaHFwR1NSWW5wd1RfZWFpNzFHYlJRRXY4Y0RySnFUTXhNTGtYcFptTHhKOTBFdFpFZl8tV3prTlp4NUgyR2xsNTVfQUFIc25vM0lRSTdDM2oweHNUR3BfWEpqRWZZb0hNMFFmN2VMNU9NOHFFblRUQVNvVDN2MXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMk53ZEdCcnlVNTh5aV9oQ19HTURzODlnM3MtbFdRNm41MHhwaklUampKcjlyRVJKZ0ZqQ1BMaXhMSW9GTDlVeFJranVjbE9HcnVuNEJROWs1d2J4cE5HaUxvZFEyRmZWY0JONV8xbk9wTVBBMFp1ZmVST0ZOYkdTeGhPbW5ZYUV5QWtoa2lJRjlHWEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -220,19 +194,19 @@
           "image": ""
         },
         {
-          "title": "Amid Anthropic’s IPO, Google, Microsoft and OpenAI Drop New AI Models - CNET",
-          "summary": "Amid Anthropic’s IPO, Google, Microsoft and OpenAI Drop New AI Models CNET. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "CNET",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnhfSEI1RENvMW1jMExyT2ZQSjNabEF3dGgxQjc2RHVacnJYN2VadzJMSURlTDhNbk05aHJ5cXBMbWZRWFJjZ3U2WUwyMkhBRDZlQVdWc19tV3BxQ3Q0amxxWnpLUDdSU3JiQmVzamU4RURlTlZDZmxkZDBLUmFYZjJJM3dnWnR1RnpQRHdPdk42RjhjZ0pLTW90SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Google shrinks idle tools in Gemini agents to about 26 tokens each - PPC Land",
+          "summary": "Google shrinks idle tools in Gemini agents to about 26 tokens each PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PPC Land",
+          "when": "20 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmszSmV5MGJFVHVhNWNCRXBCTHF2Qk1HYVBLbDNqZVZmcjBhcEY2eHpicFVzTG11ekFBLXpMd0xScTI0VGF5WTlwcnRiYkpiX2hEck5LUnRDRHF2NGxNb3FkQXVGRVhwOFpHTHZRRWxJZHROTzV4dFJnNHRmalZhVGJZVzF6SUpoVVhmVw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Microsoft (MSFT) Stock: New AI Model Takes Aim at Anthropic and OpenAI on Price - Blockonomi",
-          "summary": "Microsoft (MSFT) Stock: New AI Model Takes Aim at Anthropic and OpenAI on Price Blockonomi. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Blockonomi",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3lFMWFTTnBhU21mU3BPU1R6cDJUVTVpS1JLMTRrOUZReVBtb05ad2tHQVNJdDMwRFoyR0hLLThhNDkybUFaQlFVSTNoOHJqbFdKWmNZbEVfeXRpQnZ6WmZiMWFEdVd1ejlqMDJOeWg0MTZadC16YWtQT0JSOHlYWlNTemxLM1gyR1ZNOTV5MXVSQnp4WmZ1YTAwZ2pHckpYV2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Wait for pull request events with GitHub CLI - The GitHub Blog",
+          "summary": "Wait for pull request events with GitHub CLI The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXFXWGk4V21DalVkcWFRUXdheXJVd3JDekFCZzFhdi1SMmhZTjA3STltRTBxUGtQWHJoRFNwNTg4WHN6X20zazVZOVRJMVFqTll2eGJqcEs0eGltWjBYak5sMVdkZE92NmhFVmY5RkdyWVpBTVk0MWJSWlZDVkgxV1AxZ21tTVcwdGo2cWc5VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -249,14 +223,6 @@
           "image": ""
         },
         {
-          "title": "Research acceleration: The jagged frontier - OpenAI",
-          "summary": "Research acceleration: The jagged frontier OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "OpenAI",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaWUlLUnMybWl2WE5UeHVkWU9MZUhuZjZoa09ZNHJrV0VfZVlwVVRmQXkzYk83Mk11dWpSYmVlVHRhRU5mRlZFVGNZS04zUmQyZldYdFBhRDJ2dnhxWEhlajdGV0g1OEp5UWhZVWJlRV8?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Advancing chip design with OpenAI models - OpenAI",
           "summary": "Advancing chip design with OpenAI models OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "OpenAI",
@@ -270,13 +236,12 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "How to make AI agents work for your PPC campaigns - Search Engine Land",
-          "summary": "How to make AI agents work for your PPC campaigns Search Engine Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Search Engine Land",
-          "when": "16 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PUUs2VFc3dHZkVmhDSTZ1a29OMHItR1pzRGR6WGwwa1AxQlJpNGZ0WWloY1VoT3prMjhJVkRYdXlROW9MTGNPdkk1VlpvcEZ1V1JVeEJkYTRLQi1CT0s3cUkwV1daM2Uxck8ydHpCT1lRWENXd1JpdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "NAV Fund Services Launches Powerful Tool Suite Featuring Fund Marketing CRM - Newswire",
+          "summary": "NAV Fund Services Launches Powerful Tool Suite Featuring Fund Marketing CRM Newswire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Newswire",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDkzczB5Sm5mTV9Gc0w1UVlqaUR0VHhJR01JMjNJek8tMkNyajBDYkl1MnVyU2NMT3RXMW1nY3VDS2h0ZkFZQVVtcEtZREJpN3BNTHdpVEhGNzB1M0RhVEJpMXZMeXRIVVdYOGx3eExaUkxDUzI2MVpMeE1UOXdFMHJocjExcmpwbkFMYVlDWlZ1MXhwNUVyWXY2ZHBDOHVwLWlrVERfM0I?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -284,11 +249,19 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "New Ecommerce Tools: November 18, 2026 - Practical Ecommerce",
-          "summary": "New Ecommerce Tools: November 18, 2026 Practical Ecommerce. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Practical Ecommerce",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PT1c5UjN6SXNsTFViaVE4QXdXZXl2NGNRcmd6UHpJV3J5SVcxODFzM3pfOFRxdXhqMkRDZDBHZzQzd1hzSU1OaS1Pekp3MV9IdXE5eV9sNWlJYWxPNkFxczlXMjZsTEtNcXN5Ni1tVFlDeUtKa1ZoUF84UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Walmart mulls role advertising will play in an agentic shopping world - Marketing Dive",
+          "summary": "Walmart mulls role advertising will play in an agentic shopping world Marketing Dive. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Marketing Dive",
+          "when": "19 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlpDcTlQZ3MwZ0JKR2JrMnJ1RTNBMFNvdDhYbVhwODNQakh6LXlBMkxsVXYxWENNR2NkRk5mbDBSWGNqOTQwUjB0TU5wb0lDaWVhZjhWOU15bEFoOGMtUmtxX2pheW91VjJpR19WRjhKb2hvb0pEakVYZkROcU1lSWIzanRkZ0xScVR3V1h6dWljT0VtNTdadlY3b3pKcjV4X291V3QyTnc0bS1OMUxteW93?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Walmart raises full-year outlook for third time as e-commerce sales surge 23% - The American Bazaar",
+          "summary": "Walmart raises full-year outlook for third time as e-commerce sales surge 23% The American Bazaar. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "The American Bazaar",
+          "when": "20 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmxfckY0RzlRY2ZUM19oX2NXU3dsLWdKUjNtQlVRQUMwd3ZTZEFHWkFYSHR0NXJFVEVTdTBuNWhUZDQ3MW9pZ3Q2YWNmOGlMTWhsdlJmRUdsVVZ3WU9qaFhXZW1KYU5jaDlFVUwwMVIzSWFwWmZyRW9OVFphLTlNVzlzU0pqVG8zSlVOZG9aejF6dHpFMXNUcHJxd25Fd3lKQ1lULUJKd2xJbDhSME84X3FKU0c1Ym55ZnJTb205SGVUZVNKNEhF?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -299,10 +272,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Microsoft cuts ads per page 35% in its new Discover feed - PPC Land",
+        "topic": "Google shrinks idle tools in Gemini agents to about 26 tokens each - PPC Land",
         "status": "Cross-source coverage",
-        "common_context": "Microsoft cuts ads per page 35% in its new Discover feed PPC Land",
+        "common_context": "Google shrinks idle tools in Gemini agents to about 26 tokens each PPC Land",
         "unique_points": [
+          {
+            "source": "PPC Land",
+            "when": "20 Nov 2026",
+            "point": "Google shrinks idle tools in Gemini agents to about 26 tokens each PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmszSmV5MGJFVHVhNWNCRXBCTHF2Qk1HYVBLbDNqZVZmcjBhcEY2eHpicFVzTG11ekFBLXpMd0xScTI0VGF5WTlwcnRiYkpiX2hEck5LUnRDRHF2NGxNb3FkQXVGRVhwOFpHTHZRRWxJZHROTzV4dFJnNHRmalZhVGJZVzF6SUpoVVhmVw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "PPC Land",
             "when": "20 Nov 2026",
@@ -316,48 +295,10 @@
             "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BT3QySFZJVnhQZzdrMlJTbXk4YXczUWc1TVU0emRmcHBrbVhodFNNSlJHaTU2V3RiZjhFbVlDR0ZTeE1qTXU2dEgtVHpwNkhYYm9RanZIZVVadHhrczdtVDYzc0pYRndOdUtiMnlIZHZPbDQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "CNET",
-            "when": "19 Nov 2026",
-            "point": "Amid Anthropic’s IPO, Google, Microsoft and OpenAI Drop New AI Models CNET",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnhfSEI1RENvMW1jMExyT2ZQSjNabEF3dGgxQjc2RHVacnJYN2VadzJMSURlTDhNbk05aHJ5cXBMbWZRWFJjZ3U2WUwyMkhBRDZlQVdWc19tV3BxQ3Q0amxxWnpLUDdSU3JiQmVzamU4RURlTlZDZmxkZDBLUmFYZjJJM3dnWnR1RnpQRHdPdk42RjhjZ0pLTW90SQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
             "source": "PPC Land",
             "when": "19 Nov 2026",
             "point": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads PPC Land",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMk53ZEdCcnlVNTh5aV9oQ19HTURzODlnM3MtbFdRNm41MHhwaklUampKcjlyRVJKZ0ZqQ1BMaXhMSW9GTDlVeFJranVjbE9HcnVuNEJROWs1d2J4cE5HaUxvZFEyRmZWY0JONV8xbk9wTVBBMFp1ZmVST0ZOYkdTeGhPbW5ZYUV5QWtoa2lJRjlHWEk?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Put AI to work engaging customers in more places: What's new in Microsoft Advertising this November - Microsoft",
-        "status": "Cross-source coverage",
-        "common_context": "Put AI to work engaging customers in more places: What's new in Microsoft Advertising this November Microsoft",
-        "unique_points": [
-          {
-            "source": "Microsoft",
-            "when": "20 Nov 2026",
-            "point": "Put AI to work engaging customers in more places: What's new in Microsoft Advertising this November Microsoft",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWkNPLXRScFNzVFFfcDhPSVVXMTVxenh3TS1XT2F6MWwxQ1N2Qk1xcmRLX2hmSV90cWpveHlQUlJSSTcxdjFMQTE1TzR5TmRreE92Nm52d0dRdnE0aENNLV9QWGRoMnRSRlBTUHJXajJkVjB1U2ZlM3Q5Q0lEUjF4OGdkOWpkcHFfdzZkYkxGR2o1V3dvR0g0Sy10V0pwaUI4QmtFNHZhNFZISzFvbXVWLUZXcFpXc2pZZi1UcVV2YjBkeVFLc2xRUFo2UFdXalJmeEdfenpZdnAtbXAwM3ZiUGI4THVBTjBkWWdFeQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Roundtable",
-            "when": "18 Nov 2026",
-            "point": "Daily Search Forum Recap: November 18, 2026 Search Engine Roundtable",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16Mm1qVnBkejVpOVVhNDFwcHNJcjFLTHVRdkRITFVRTmk3bno2SnhUeXp2R1Etd0FqS0V6d0VTckR3eEdIdldZZk13TTAwcmcxbWNKampSR3FXRFc4elBoSzItTWJlczA?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Practical Ecommerce",
-            "when": "18 Nov 2026",
-            "point": "New Ecommerce Tools: November 18, 2026 Practical Ecommerce",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PT1c5UjN6SXNsTFViaVE4QXdXZXl2NGNRcmd6UHpJV3J5SVcxODFzM3pfOFRxdXhqMkRDZDBHZzQzd1hzSU1OaS1Pekp3MV9IdXE5eV9sNWlJYWxPNkFxczlXMjZsTEtNcXN5Ni1tVFlDeUtKa1ZoUF84UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Microsoft",
-            "when": "18 Nov 2026",
-            "point": "Building the next generation of automated bidding at Microsoft Advertising Microsoft",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX1RvbW1JX1czMDlpRVVUTlBmbHQ0ZjVHS3BCMHpvTzlnRWRmY0NLR2liUUpwNWJzYnVRU2pfVG96QkRfSFY4N0xId3ZUVExKNkF1RGo1RC15MTJ0SWt3RTkzWXRnTTRhdDRzbmxvWFNEa2YxckM1RlZkUTNMT0hScHR6a3NyaVI4WWlXQ1ZiVTNLNnI3dnhZWFVVd3dtWnV0a0tlZTYyaUtTRVBidzk4OGpEdzBaVmNYMmF0UlNuR29jQWVNc3pZaXFCQnpEdw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -376,8 +317,8 @@
           {
             "source": "The GitHub Blog",
             "when": "19 Nov 2026",
-            "point": "S3 audit log streaming with OpenID Connect expands to GHE.com The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0lfOFlNN2YxVVVHT1psZUlJYmI4RERGUHpSX0kzS2ZmWkNOSFVOWXZEeFBublJia3NwYzBLZGVIczNubjJPQndJYU1IVXk0SG51X09LZWVqRVZmLV9qSUZsNnNmVC00ZEhvbnhrSzZwSEdsS0NmZGI0QVFOU25jc1pfRkM4cG16b2hPQlJoaUdlRExocUxWVUIwZmZRTFlNYXc1OUhR?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Wait for pull request events with GitHub CLI The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXFXWGk4V21DalVkcWFRUXdheXJVd3JDekFCZzFhdi1SMmhZTjA3STltRTBxUGtQWHJoRFNwNTg4WHN6X20zazVZOVRJMVFqTll2eGJqcEs0eGltWjBYak5sMVdkZE92NmhFVmY5RkdyWVpBTVk0MWJSWlZDVkgxV1AxZ21tTVcwdGo2cWc5VQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

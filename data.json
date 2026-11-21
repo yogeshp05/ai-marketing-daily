@@ -1,5 +1,5 @@
 {
-  "date": "21 November 2026",
+  "date": "22 November 2026",
   "lead": {
     "title": "Microsoft Advertising brings ads to AI Overviews on Bing - Search Engine Land",
     "deck": "Microsoft Advertising brings ads to AI Overviews on Bing Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -15,22 +15,45 @@
     "Microsoft Expands Bing AI Search and Advertising Features - cwibc.co.id",
     "Microsoft Advertising adds URL inclusions to AI Max campaigns - Search Engine Land",
     "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade - Search Engine Roundtable",
+    "View your balance, update your payment methods and profile (Google Ads mobile app) - Google Help",
     "Security advisory permissions are now generally available - The GitHub Blog",
-    "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace - dev.ua",
-    "Apple is late to the AI party, but could shake up the race against rivals with iPhone ecosystem - The Economic Times"
+    "[video] New Google Shopping Marketing Content Feature - Google Ads Community - Google Help"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "Build strategic A/B tests to grow your ad performance. - blog.google",
-          "summary": "Build strategic A/B tests to grow your ad performance. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "blog.google",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BT3QySFZJVnhQZzdrMlJTbXk4YXczUWc1TVU0emRmcHBrbVhodFNNSlJHaTU2V3RiZjhFbVlDR0ZTeE1qTXU2dEgtVHpwNkhYYm9RanZIZVVadHhrczdtVDYzc0pYRndOdUtiMnlIZHZPbDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "View your balance, update your payment methods and profile (Google Ads mobile app) - Google Help",
+          "summary": "View your balance, update your payment methods and profile (Google Ads mobile app) Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWVWeWdobWJsZGVCYXdxbVVrazFiUnRWR3d6TGhKNzk1dG9XWW4zZVRmVTNsM0hqSV9UTlhBMzZ2V2t6QnZfM1dvc1ZvTV80VHdOaGRNZDYtdUpKNnU2VzVoWXBNcE9rTFlKOWRiMjVKNmlQLUV6emJNOHJyd291MExFUk5xdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "[video] New Google Shopping Marketing Content Feature - Google Ads Community - Google Help",
+          "summary": "[video] New Google Shopping Marketing Content Feature - Google Ads Community Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzdRMkJ3TzVVUTNoMDhhUmEwdE94U2wxMFZxOE12ZDBiY0FsaUxOZC1vZkR6SHFhNGluX0o0VkwtT1hMMFF3S09FSGtzVEpDZEt0ZW5oRjlqTXhDaGF6ZFMzS0RGc0U3WnVDZVhuUkpQSnVtOFRzMHVicWRWdUs0LTFGUlhPaHFsMGRadXdRNGZ1N3ktR3VHVUEyZXZvWGpoZG9LSHdqVmdodkVES2J6SDBDOTJILVZYTjNjTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Use Lookalike segments to grow your audience - Google Help",
+          "summary": "Use Lookalike segments to grow your audience Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFpYbTJUdlowOHNFd3B6bkVoRG44OE1VUVRPRmViV0JjSjZya0pTNDJrV1hYSkQ0b0l0Q2dULVoyX1NURjZvSEFkd0I4UUtNdVFQLV9iTTZfLTJ5b0xaTVlkOWVic0M4SEVxRDZKdmgtRW5lQm5wNkhwRDh2cDBiY3Zkd3RSX2s3WVk4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Change address and contact settings - Google Help",
+          "summary": "Change address and contact settings Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fMm1GckJtbnBEOU9yRC1mVGhtMG5pTHNWRzZRTVN2eF9aMXIzcl9SQ0xEM3JiQjFid25naG0wZ2xYTVlmMFY0WUx2dkUtYU95UFo5cmxDcFpEaThEaU9zM3o1cWpIQlVKYmVLNWJaRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -88,13 +111,12 @@
       "name": "Amazon Ads",
       "stories": [
         {
-          "title": "Adweek launches a dedicated commerce newsletter - MarkHub24",
-          "summary": "Adweek launches a dedicated commerce newsletter MarkHub24. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "MarkHub24",
-          "when": "20 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazZJTjVxTHZwQ1NMdEFaM0g4Q1NFQUR0cWpWcjZZVThiMVBjMll4QXNqSE1XOGpaLVY0NTJBM2dRd0lWUk1zTkhDczlzT0ZzN0RpUExycUZaRUNhSlJiQXM5eWlvZVJFcWlNcDB6eUV6NEpvQy03dDlEVmxjeGV6S2VFclU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Location-based Interactive Video Ads arrive in new EU - Amazon Ads",
+          "summary": "Location-based Interactive Video Ads arrive in new EU Amazon Ads. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Amazon Ads",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlBqclRUY1hibXNjRGZldjVhV21ZdFRHV012cGVZQXl4akVvYkhlcGlxTTE5UHJmdXJTb3dmT1lTbnJKY2NxSHNCLTN6Mk5NMURQUy1ENERPcFpvTU9sNEt2UTRDendCOXpFeDRNREFGWncyT3NYdW04VWdxLU5qanQteDIzTHc2NV9xeUlTVTJFcFdUQzNRYmJ6UDV4OEpKeFBNRHRTUk5qZWR5eWE1Uk5yeU96YU1rZHhmOFlsTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -201,6 +223,14 @@
           "when": "20 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Picsart Opens the AI Behind Its Platform to Developers & Businesses - Business Wire",
+          "summary": "Picsart Opens the AI Behind Its Platform to Developers & Businesses Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Business Wire",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEFvY1JZVW1TUTdfZEV3UHM3OURzR3hUTU9jenhuTWxVRlNCRjV2THo2SGtDSkpiNFBZVEtYYUpKQkpmUkRwY0N1a0RSZnNjUi1EQ1J4d0xIb0Z4dzl5Vm1yVDVITEFodHRVSzlqV3pNMUVPekpPVkVsdlMxdWJVd0QzaXhwR3poTGRfY1puNnNXTS1rdXJhSF9DalhLZDdwdlZ6ZWtMNXlYSjZRSnNDUmdDMU9VZUZqOTF4MXlmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -265,42 +295,22 @@
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uZTNaaEF1TzN5RnVRdFpOdDB3M3VEUXRmNmJwX25pQkxhamhEUkFvSjFOTmxLUnN1Q3J0dHRXZ1cyZUxsYlcyNFREdzlIYVZlOEJwZ3R4RU83TmNDLXNz?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Search Engine Land",
-            "when": "20 Nov 2026",
-            "point": "Microsoft Advertising adds URL inclusions to AI Max campaigns Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC1UOVc0N3U2M2ppbmF5SzBaamRjY1JrR3ZJR2w4dHc4OEVXWFoxX1NEaE9Fcmx2MXRYRzdkTUZHX2VsYktMbFp2MU5EQTFxdkExdE9MdWd6T1lSWVhSekhoQkZOTE80Vm51VU9kcllJWnctaUtHaEFlT1pKMFcxVW1jdGdVR18ybjhLYTZpSWVXNncxX3ZoU2htN29OQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Google Cloud",
-            "when": "20 Nov 2026",
-            "point": "Google Cloud latest news and announcements Google Cloud",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREwxdGg2aXlreXo5blo4WENaSFZEV2NGckE3MzBTbk1WeDQ5eVJsMkdjdlNnVUx5R1QxbHJSMmVRUmRHbkZWeV9PY2ExYXhxZ19tQnpjTFlPTWtPZy1VWmdxUFBKV2dFZmt2WHR0NmQtUlR6bzRVUVZpcHpVOGVuYnR5UHBUdw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
-            "when": "20 Nov 2026",
-            "point": "Microsoft Advertising brings ads to AI Overviews on Bing Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlE0bEpmY0ZTblgtUFAtTEtNUkR1QnNuRlBJZTl5S3ZhOG9RVzlhRXd1N2dydTNxTWVTalZqS0V1QmhqUUhJWUdSS090c1ZnTkx2Uno0M3Q5bFZhV2thQ0lPZ2RDc1J6ckpqSjBMRVRqXzJrY2VJZDd0MGotUHUwOFJHaGlJcm00RElqWlk5WnI3TzJaWjJj?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Security advisory permissions are now generally available - The GitHub Blog",
-        "status": "Cross-source coverage",
-        "common_context": "Security advisory permissions are now generally available The GitHub Blog",
-        "unique_points": [
-          {
-            "source": "The GitHub Blog",
+            "source": "Google Help",
             "when": "21 Nov 2026",
-            "point": "Security advisory permissions are now generally available The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmdKVHZka0R4WE0wa0Nibl9OZ1NTTlJEbFY0U0V5Slk2M1cxeVg5blp2aHZMWkprOUljZzZuWVNQSS1DYzdFY2gxQXBXWk1hNEdYYmhOYlZPUmJ0Y1RRZ1FPQmJjZUdNNXVIbDU3Zk1EdVN0R05hYUN0Sk1lOEJoZlhxMHN5ZnQ1dV9kWUJ0UmNzVzByUEZ6X0VNUUNDSUlZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Use Lookalike segments to grow your audience Google Help",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFpYbTJUdlowOHNFd3B6bkVoRG44OE1VUVRPRmViV0JjSjZya0pTNDJrV1hYSkQ0b0l0Q2dULVoyX1NURjZvSEFkd0I4UUtNdVFQLV9iTTZfLTJ5b0xaTVlkOWVic0M4SEVxRDZKdmgtRW5lQm5wNkhwRDh2cDBiY3Zkd3RSX2s3WVk4?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "The GitHub Blog",
+            "source": "Amazon Ads",
             "when": "21 Nov 2026",
-            "point": "GitHub Enterprise Server 3.23 release candidate The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjdKb01yeUZYbjA5eEdvd0JjcEN6ZktmZHZkN2lIaWlXeXF5ZUdVcEJrX3VCdnpkN2duMmw2Qkdxd2JzNWFvaDlDV3RRN2pZdDB2amI4MmdTbHUwTVZzZ2hQV283U2RiTmU4ZUFLckJUcmxVV09KU0xZcEdiYzZuODQ0WVljSWhIN21sVWJhc2VRMFk?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Location-based Interactive Video Ads arrive in new EU Amazon Ads",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlBqclRUY1hibXNjRGZldjVhV21ZdFRHV012cGVZQXl4akVvYkhlcGlxTTE5UHJmdXJTb3dmT1lTbnJKY2NxSHNCLTN6Mk5NMURQUy1ENERPcFpvTU9sNEt2UTRDendCOXpFeDRNREFGWncyT3NYdW04VWdxLU5qanQteDIzTHc2NV9xeUlTVTJFcFdUQzNRYmJ6UDV4OEpKeFBNRHRTUk5qZWR5eWE1Uk5yeU96YU1rZHhmOFlsTQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "21 Nov 2026",
+            "point": "Change address and contact settings Google Help",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fMm1GckJtbnBEOU9yRC1mVGhtMG5pTHNWRzZRTVN2eF9aMXIzcl9SQ0xEM3JiQjFid25naG0wZ2xYTVlmMFY0WUx2dkUtYU95UFo5cmxDcFpEaThEaU9zM3o1cWpIQlVKYmVLNWJaRQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

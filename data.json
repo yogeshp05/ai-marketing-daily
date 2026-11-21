@@ -1,23 +1,23 @@
 {
   "date": "21 November 2026",
   "lead": {
-    "title": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
-    "deck": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "title": "Microsoft Advertising brings ads to AI Overviews on Bing - Search Engine Land",
+    "deck": "Microsoft Advertising brings ads to AI Overviews on Bing Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlE0bEpmY0ZTblgtUFAtTEtNUkR1QnNuRlBJZTl5S3ZhOG9RVzlhRXd1N2dydTNxTWVTalZqS0V1QmhqUUhJWUdSS090c1ZnTkx2Uno0M3Q5bFZhV2thQ0lPZ2RDc1J6ckpqSjBMRVRqXzJrY2VJZDd0MGotUHUwOFJHaGlJcm00RElqWlk5WnI3TzJaWjJj?oc=5&hl=en-US&gl=US&ceid=US:en",
     "source": "Search Engine Land",
     "when": "20 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Microsoft Advertising brings ads to AI Overviews on Bing - Search Engine Land",
     "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
     "Microsoft Advertising adds URL inclusions to AI Max campaigns - Search Engine Land",
     "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade - Search Engine Roundtable",
-    "Google's November 2026 core update draws muted ranking chatter as search adds AI features - news.lavx.hu",
-    "Walmart mulls role advertising will play in an agentic shopping world - Marketing Dive",
     "Security advisory permissions are now generally available - The GitHub Blog",
     "Adspirer joins Claude’s connector directory with read-only ad analytics - Superpower Daily",
-    "Put AI to work engaging customers in more places: What's new in Microsoft Advertising this November - Microsoft"
+    "Apple is late to the AI party, but could shake up the race against rivals with iPhone ecosystem - The Economic Times",
+    "Picsart Opens the AI Behind Its Platform to Developers & Businesses - Business Wire"
   ],
   "sections": [
     {
@@ -29,13 +29,22 @@
           "source": "blog.google",
           "when": "19 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BT3QySFZJVnhQZzdrMlJTbXk4YXczUWc1TVU0emRmcHBrbVhodFNNSlJHaTU2V3RiZjhFbVlDR0ZTeE1qTXU2dEgtVHpwNkhYYm9RanZIZVVadHhrczdtVDYzc0pYRndOdUtiMnlIZHZPbDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
     {
       "name": "Microsoft Ads",
       "stories": [
+        {
+          "title": "Microsoft Advertising brings ads to AI Overviews on Bing - Search Engine Land",
+          "summary": "Microsoft Advertising brings ads to AI Overviews on Bing Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Land",
+          "when": "20 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlE0bEpmY0ZTblgtUFAtTEtNUkR1QnNuRlBJZTl5S3ZhOG9RVzlhRXd1N2dydTNxTWVTalZqS0V1QmhqUUhJWUdSS090c1ZnTkx2Uno0M3Q5bFZhV2thQ0lPZ2RDc1J6ckpqSjBMRVRqXzJrY2VJZDd0MGotUHUwOFJHaGlJcm00RElqWlk5WnI3TzJaWjJj?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
           "summary": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -58,14 +67,6 @@
           "source": "Search Engine Roundtable",
           "when": "20 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FRE90YnpFc0JVOUZzai1jQXhseGtrYUVRNWZYYXJ2dktEMWpyMjRHb0F6bFZldG5yN1U4MkpHRTM2Wl9ZbjlFUlBydmpLWmJ4c3hOU002bjY1dkp3RHRJZmVhU3d5MFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Google's November 2026 core update draws muted ranking chatter as search adds AI features - news.lavx.hu",
-          "summary": "Google's November 2026 core update draws muted ranking chatter as search adds AI features news.lavx.hu. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "news.lavx.hu",
-          "when": "20 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjloOTRNaTVHWWdZWW5MV2VhT3FKbHhxeG1ReTdILWsweWNBaHdJNnU5UjI4YWttQ2QxcGF5ZlNfdG5iWWlzQm5BelpUVkdpRnVHejlZRXhOZWZHREJyY051enYxMzU3ejlKZ1FsM2JEMngyUVFUUlhQU090bjRoX3N4X2tESTBDamNrU0lKNFVMQ2ZyaFVxNkdudW5hWUxSSThteUdBX1FzMkEtdjdmNmlVSktvR2FFcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -163,11 +164,11 @@
           "image": ""
         },
         {
-          "title": "Enterprise Live Migrations from Azure DevOps generally available - The GitHub Blog",
-          "summary": "Enterprise Live Migrations from Azure DevOps generally available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "20 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODVwUEg1VGlEdGdlZEk5RnJ1Z09aTUZZUmg3WDdjVS15cHFCT3hxMXVIUl9fWDktdkpNOFl6WndvRE95LVZVT0phMzBqdW9PamNLR0NTUXdWaHZBXzRDTk1CY3RLZ2RfNnNIeUdPNGVZLVdmTzg1Q1c0SEdhb21kY1BjNU9Bd0lOd2NreW53bkpQdk1icFVndnFhVHFoaDdEVnB0VDFtRVh3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Apple is late to the AI party, but could shake up the race against rivals with iPhone ecosystem - The Economic Times",
+          "summary": "Apple is late to the AI party, but could shake up the race against rivals with iPhone ecosystem The Economic Times. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The Economic Times",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSWpyX1pjYllMQ3gwSFA2MnZqMm85N2hKUlFXLTZENTYtb0NhWC15amx5a2FwU2c4MFZvNXFCNzM3WTFQNDhSZGp1dFEtRGxYT24tMGdMalkzYmFBYWhSMHE2cy13T1dmclRSRzkxVUJVbG9IbkJ3N3hReDVwSHB1dXF5djJmUV9CejJPNFJYMXlxc21LRDdDbFlXU0I2WVlGamZHaWhfQnJ6ZzZHeU5ENkd5MHk1UExKYUZaWnJqTk85X3gxeU1nQ2pXYVVMNkJGX2psZTdpQjBrLWJSV05Nd013MHF3NDM4d3ZRb1pxSG1hekw2d2JxSUFfZWRyTHVYbEhSRmxFWmRVVXhYMVpheEdmUHFMZFNjZkHSAZ8CQVVfeXFMUFRQQ0RaakJvamdqT3F4VERxb1NPNVNSY21vTXNTNWg1MzVMZFJPaWcxX0thN2ZVQTBGbmJSRHRJYU9GSkRkb1JDWElwaFZXSE9fZnREazhlaW1RclY0Zlp5ZThFZ1NuRXBrYldoUDZrMExWbzJZcXYta2I2d2pDNVBUTjBvdXlmT0dJdFdILWM0eHFUVmJDU2FUWUQ4d1dCTDl6VklhdEljYlpRY2lMZWxCNjk0aUpPdHhBYkZFRGJVS3RCZ2VPVGpwQTRXaTg1TVdCZkFiTzdoSFZ4Z0NYQWw2clA5V2Jib1YxdEU5MkNhZnFlNDdWeFFobTVYNFo4ZUJLbTViSjM0WXpkbjJQTEJ0X3lOWVoxOWo2Mmw3NVU?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -200,11 +201,11 @@
           "image": ""
         },
         {
-          "title": "Picsart Opens the AI Behind Its Platform to Developers & Businesses - StreetInsider",
-          "summary": "Picsart Opens the AI Behind Its Platform to Developers & Businesses StreetInsider. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "StreetInsider",
+          "title": "Picsart Opens the AI Behind Its Platform to Developers & Businesses - Business Wire",
+          "summary": "Picsart Opens the AI Behind Its Platform to Developers & Businesses Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Business Wire",
           "when": "21 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1hYWGhZUDZrUWFtWmpyaF9IaWVHVUVhbGNwRnBvdmxuX1BmVWRZd2VqN3l5bnVXSGpzZU1VbHBjaWNkeGUtMWUxclFNUkNmS3plOERoSjY4ZVRiQ3U5OVdDSjZlVTI1bHd3SUdJQW1KcTVXZFg0bW5UMmhsZWt6OC1RS2RUTUVLXy1LOWRsd2hfMHc4Tm9CM3hyM3FYd0EtYk1aZVhxT3BrTlQ5N25YY2ZzdHQ3REVzNmVOQ0hKOFpJTXhjaFdIcmhqOHBkZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEFvY1JZVW1TUTdfZEV3UHM3OURzR3hUTU9jenhuTWxVRlNCRjV2THo2SGtDSkpiNFBZVEtYYUpKQkpmUkRwY0N1a0RSZnNjUi1EQ1J4d0xIb0Z4dzl5Vm1yVDVITEFodHRVSzlqV3pNMUVPekpPVkVsdlMxdWJVd0QzaXhwR3poTGRfY1puNnNXTS1rdXJhSF9DalhLZDdwdlZ6ZWtMNXlYSjZRSnNDUmdDMU9VZUZqOTF4MXlmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -231,7 +232,8 @@
           "source": "Marketing Dive",
           "when": "19 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlpDcTlQZ3MwZ0JKR2JrMnJ1RTNBMFNvdDhYbVhwODNQakh6LXlBMkxsVXYxWENNR2NkRk5mbDBSWGNqOTQwUjB0TU5wb0lDaWVhZjhWOU15bEFoOGMtUmtxX2pheW91VjJpR19WRjhKb2hvb0pEakVYZkROcU1lSWIzanRkZ0xScVR3V1h6dWljT0VtNTdadlY3b3pKcjV4X291V3QyTnc0bS1OMUxteW93?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         },
         {
           "title": "Walmart raises full-year outlook for third time as e-commerce sales surge 23% - The American Bazaar",
@@ -239,7 +241,8 @@
           "source": "The American Bazaar",
           "when": "20 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmxfckY0RzlRY2ZUM19oX2NXU3dsLWdKUjNtQlVRQUMwd3ZTZEFHWkFYSHR0NXJFVEVTdTBuNWhUZDQ3MW9pZ3Q2YWNmOGlMTWhsdlJmRUdsVVZ3WU9qaFhXZW1KYU5jaDlFVUwwMVIzSWFwWmZyRW9OVFphLTlNVzlzU0pqVG8zSlVOZG9aejF6dHpFMXNUcHJxd25Fd3lKQ1lULUJKd2xJbDhSME84X3FKU0c1Ym55ZnJTb205SGVUZVNKNEhF?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     }
@@ -268,14 +271,14 @@
           {
             "source": "Search Engine Land",
             "when": "20 Nov 2026",
-            "point": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Microsoft Advertising brings ads to AI Overviews on Bing Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlE0bEpmY0ZTblgtUFAtTEtNUkR1QnNuRlBJZTl5S3ZhOG9RVzlhRXd1N2dydTNxTWVTalZqS0V1QmhqUUhJWUdSS090c1ZnTkx2Uno0M3Q5bFZhV2thQ0lPZ2RDc1J6ckpqSjBMRVRqXzJrY2VJZDd0MGotUHUwOFJHaGlJcm00RElqWlk5WnI3TzJaWjJj?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Search Engine Roundtable",
+            "source": "Search Engine Land",
             "when": "20 Nov 2026",
-            "point": "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade Search Engine Roundtable",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FRE90YnpFc0JVOUZzai1jQXhseGtrYUVRNWZYYXJ2dktEMWpyMjRHb0F6bFZldG5yN1U4MkpHRTM2Wl9ZbjlFUlBydmpLWmJ4c3hOU002bjY1dkp3RHRJZmVhU3d5MFU?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images Search Engine Land",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -300,28 +303,8 @@
           {
             "source": "The GitHub Blog",
             "when": "20 Nov 2026",
-            "point": "Enterprise Live Migrations from Azure DevOps generally available The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODVwUEg1VGlEdGdlZEk5RnJ1Z09aTUZZUmg3WDdjVS15cHFCT3hxMXVIUl9fWDktdkpNOFl6WndvRE95LVZVT0phMzBqdW9PamNLR0NTUXdWaHZBXzRDTk1CY3RLZ2RfNnNIeUdPNGVZLVdmTzg1Q1c0SEdhb21kY1BjNU9Bd0lOd2NreW53bkpQdk1icFVndnFhVHFoaDdEVnB0VDFtRVh3QQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Picsart Opens the AI Behind Its Platform to Developers & Businesses - StreetInsider",
-        "status": "Cross-source coverage",
-        "common_context": "Picsart Opens the AI Behind Its Platform to Developers & Businesses StreetInsider",
-        "unique_points": [
-          {
-            "source": "StreetInsider",
-            "when": "21 Nov 2026",
-            "point": "Picsart Opens the AI Behind Its Platform to Developers & Businesses StreetInsider",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1hYWGhZUDZrUWFtWmpyaF9IaWVHVUVhbGNwRnBvdmxuX1BmVWRZd2VqN3l5bnVXSGpzZU1VbHBjaWNkeGUtMWUxclFNUkNmS3plOERoSjY4ZVRiQ3U5OVdDSjZlVTI1bHd3SUdJQW1KcTVXZFg0bW5UMmhsZWt6OC1RS2RUTUVLXy1LOWRsd2hfMHc4Tm9CM3hyM3FYd0EtYk1aZVhxT3BrTlQ5N25YY2ZzdHQ3REVzNmVOQ0hKOFpJTXhjaFdIcmhqOHBkZw?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Business Wire",
-            "when": "21 Nov 2026",
-            "point": "Picsart Opens the AI Behind Its Platform to Developers & Businesses Business Wire",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEFvY1JZVW1TUTdfZEV3UHM3OURzR3hUTU9jenhuTWxVRlNCRjV2THo2SGtDSkpiNFBZVEtYYUpKQkpmUkRwY0N1a0RSZnNjUi1EQ1J4d0xIb0Z4dzl5Vm1yVDVITEFodHRVSzlqV3pNMUVPekpPVkVsdlMxdWJVd0QzaXhwR3poTGRfY1puNnNXTS1rdXJhSF9DalhLZDdwdlZ6ZWtMNXlYSjZRSnNDUmdDMU9VZUZqOTF4MXlmaw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Pin your favorite repositories to your dashboard The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmhrU3dIdVI1ZmZvNzJWS0RCRGFjSlBUMVNLTGJpblJXaGMxSEtOYV9aczhYMkRjY0tDZW1qOEFacV92aUtFWTV4UUlFakJ3NURJQkFkb243Zko0WFZyYjkyTzc2dU4ycE1IMVVvaVJ2SUVqNXc4Rm45dV9fQl9xZF9MVmN2bFA1b0JFVjVodE5rM0Fw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

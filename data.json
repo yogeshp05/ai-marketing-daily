@@ -1,21 +1,21 @@
 {
   "date": "21 November 2026",
   "lead": {
-    "title": "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language - Business Wire",
-    "deck": "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQVZLamV2cklmelRtUG94bGxsWTNqclF1YlV4aHlfTTdiU1ZhQmlsZ3JFZjdLMzFKT3RuSnEzc01GaWM2cjBDczNpSWxaaGRLQjN5LVYzRTZLUmQycWtPcEV2WEY2N1hNelh1LXNhQ3AtdmlOTzg3WHJPcnBHNXBGUUJnVG4xMGNxSTVFWHFVM1pJcjBoOW5KcFBmY05KeW5oNmk1S1YtQTJjSzg5aUNGNDNJU3Z4N3FYUWxFS1FJamtndzAxUlQ5R1hJQmhESUlyWEt5TkFFQ0wxQUM1LXRYaGR0ZnFGR2xRa3dJVzNvanpnR2dwTTV6S21PYmNCZlF5R3pONVdiTE9UVjJOMTZ5MVIyNnU0ZU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "Business Wire",
-    "when": "19 Nov 2026",
+    "title": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
+    "deck": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Search Engine Land",
+    "when": "20 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
-    "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language - Business Wire",
+    "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
     "Microsoft Advertising adds URL inclusions to AI Max campaigns - Search Engine Land",
-    "Microsoft Ads adds ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
     "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade - Search Engine Roundtable",
     "Google's November 2026 core update draws muted ranking chatter as search adds AI features - news.lavx.hu",
     "Walmart mulls role advertising will play in an agentic shopping world - Marketing Dive",
+    "Security advisory permissions are now generally available - The GitHub Blog",
     "Adspirer joins Claude’s connector directory with read-only ad analytics - Superpower Daily",
     "Put AI to work engaging customers in more places: What's new in Microsoft Advertising this November - Microsoft"
   ],
@@ -30,14 +30,6 @@
           "when": "19 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BT3QySFZJVnhQZzdrMlJTbXk4YXczUWc1TVU0emRmcHBrbVhodFNNSlJHaTU2V3RiZjhFbVlDR0ZTeE1qTXU2dEgtVHpwNkhYYm9RanZIZVVadHhrczdtVDYzc0pYRndOdUtiMnlIZHZPbDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "About automatically enabled app conversion actions - Google Help",
-          "summary": "About automatically enabled app conversion actions Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Google Help",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaDJ3N1gxZXh2eG9JdkdleHZoZ2VSTl96MDlVeDZoWWNXZ3R2RlBUUXZQdld3a0x4ZTFQNlBTTVpmT0RWNXpGLU05bkE5T3l6b0lBc1dBWFpodXliNHNNREkzMFpOQlBKRXZpdjgteGE0WmllN0o5ZnBZY2V5eGloY0RNT1hNNDZGalA0cQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
@@ -45,19 +37,19 @@
       "name": "Microsoft Ads",
       "stories": [
         {
+          "title": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
+          "summary": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Search Engine Land",
+          "when": "20 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Microsoft Advertising adds URL inclusions to AI Max campaigns - Search Engine Land",
           "summary": "Microsoft Advertising adds URL inclusions to AI Max campaigns Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Search Engine Land",
           "when": "20 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC1UOVc0N3U2M2ppbmF5SzBaamRjY1JrR3ZJR2w4dHc4OEVXWFoxX1NEaE9Fcmx2MXRYRzdkTUZHX2VsYktMbFp2MU5EQTFxdkExdE9MdWd6T1lSWVhSekhoQkZOTE80Vm51VU9kcllJWnctaUtHaEFlT1pKMFcxVW1jdGdVR18ybjhLYTZpSWVXNncxX3ZoU2htN29OQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Microsoft Ads adds ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
-          "summary": "Microsoft Ads adds ‘Made with AI’ labels to AI-generated ad images Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Land",
-          "when": "20 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -82,45 +74,18 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads - PPC Land",
-          "summary": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMk53ZEdCcnlVNTh5aV9oQ19HTURzODlnM3MtbFdRNm41MHhwaklUampKcjlyRVJKZ0ZqQ1BMaXhMSW9GTDlVeFJranVjbE9HcnVuNEJROWs1d2J4cE5HaUxvZFEyRmZWY0JONV8xbk9wTVBBMFp1ZmVST0ZOYkdTeGhPbW5ZYUV5QWtoa2lJRjlHWEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
-        },
-        {
-          "title": "Meta premieres India’s First Government-Led Microdrama Series on Scams Awareness - Facebook",
-          "summary": "Meta premieres India’s First Government-Led Microdrama Series on Scams Awareness Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit - Facebook",
+          "summary": "Advancing Science Together: Highlights From the Open Source AI For Science Summit Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Facebook",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUR5a2YtZjIyc1k3QXR4SC0xNmdvekhyTUE4V2h5eEpRbHNYUXRVVlhpVk9VWFNtbEtRWmJrdHk2a05uQmtuTW9EN29GelhqNGJkc05tMGhWdmdId2UtdXBwVzZfVnBQc2hnT0lJWGZqc0VGUzQtWXFldkl5djRVb1ZVcGY0RjVHTDhrLS1IZFQ0QkpNSXJhSWJuMC10RnctYVd6emhvMDB5cEdNeDI2UE5uWnbSAboBQVVfeXFMTVZhTkx5TTJhRDlTOG5veHk2MlcyQ1g5aF8tZGQ4SW93TEdJVjc1OTU2Tm9TdXNBcWtqcnZlNVFBU3BJbnlLdWFHQUtRSXhvazdyVExjejNjSjF3V3Ezc1VMVEJFZl9PTHJxUVhIdmp5RkFRVDFXSkJfV2VRQnVRNHU0eHQ5ZDNCR0ktTEI0Rk1LQktvRXZDNnNfNDhDX2k0VXI3eFpESkJnSzNKYWM3Y2NMcXBsbXNjc1VB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
-        },
-        {
-          "title": "Our Approach to Updating Our Commercial Terms of Service - Facebook",
-          "summary": "Our Approach to Updating Our Commercial Terms of Service Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "18 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHB0cndjX1gzeVZLWEl4bnVhZ2wwNFVGd2laT0NUR29mUXJNX2p2WTJYdENvYWlrZzU2Ukl5Tmx1VklTai1tTjFVSzBTZ0RENTl0VW1sTWd5b1B1Q3ZyTnNJZ09Nekl4MDhWTzZuMEFrQ2gydFA1VGc5cURObFFBZURFcEVHVW5QeFNKOXVjWWUzaEJsSVHSAZsBQVVfeXFMUFpjR29FX2hjallaZ0FxSzdxMFlwYUk2cld5bnpsZGU1V3AyMmlHYVItdS1YZHQ4ZERfSlVoMEpFTWMxV2MtaU9LTm40d3Z2RDFmZTVZWlY3Y0J6UWpTZ2tXM2ZUelFXYWRuZ3FaQmhSQld0dUJ2WjlqcDRadTlMVVM5ZWRRcVVGOXNZU1AwR2ZSZUg2WmdYM2xCQk0?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSW4xS01zcjYtaXB1bVpQT3ZyQmFvR0pQMnhkSDRkNEMxbVVmV29RaWRLdndxRjhDSzIxT2pqVUZ1bjBoaDM0UV9kbjZoNEpvUlBib2tLX2pEMkQ1akptandodVB0X3dDalh5RklBS0F4YmVVcTJFa094d01XYUZBUml4WFhLc3U1ZWtYTGNYcHZwMElhZlVWM3NQMTdTR3ZsRFJ6VXJfcnlKUzFLYmlDM0VPa1pIZ9IBuwFBVV95cUxNT0hzNGUyVVItSTl5WHcxb2ptZjZnbTlmcWRQbTc5N0E5dDZLUXkzajZrbUJRV0I2YzVfX1FwMWRQYm9xcHhmNS10TUx2dE9tT0Z1ZUQwVnB3a29zdDVxaTBWSGJXZm5lZnQ5QW9KM1Azc2RYUFZienp4Sy0zQXhsd29uaDdFc0s5eDJ6Sms5VXdRbDY5dW9EN1JibVkxalNiSERVR3NTU1N3aGpDRnM0eU1rVnVmY0NSTV80?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
     {
       "name": "Amazon Ads",
       "stories": [
-        {
-          "title": "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language - Business Wire",
-          "summary": "Xnurta Expands MCP Capabilities to both Read and Write, Enabling AI Agents to Execute Advertising Campaigns Through Natural Language Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Business Wire",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQVZLamV2cklmelRtUG94bGxsWTNqclF1YlV4aHlfTTdiU1ZhQmlsZ3JFZjdLMzFKT3RuSnEzc01GaWM2cjBDczNpSWxaaGRLQjN5LVYzRTZLUmQycWtPcEV2WEY2N1hNelh1LXNhQ3AtdmlOTzg3WHJPcnBHNXBGUUJnVG4xMGNxSTVFWHFVM1pJcjBoOW5KcFBmY05KeW5oNmk1S1YtQTJjSzg5aUNGNDNJU3Z4N3FYUWxFS1FJamtndzAxUlQ5R1hJQmhESUlyWEt5TkFFQ0wxQUM1LXRYaGR0ZnFGR2xRa3dJVzNvanpnR2dwTTV6S21PYmNCZlF5R3pONVdiTE9UVjJOMTZ5MVIyNnU0ZU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "Adweek launches a dedicated commerce newsletter - MarkHub24",
           "summary": "Adweek launches a dedicated commerce newsletter MarkHub24. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -190,19 +155,19 @@
       "name": "AI & Agents",
       "stories": [
         {
+          "title": "Security advisory permissions are now generally available - The GitHub Blog",
+          "summary": "Security advisory permissions are now generally available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmdKVHZka0R4WE0wa0Nibl9OZ1NTTlJEbFY0U0V5Slk2M1cxeVg5blp2aHZMWkprOUljZzZuWVNQSS1DYzdFY2gxQXBXWk1hNEdYYmhOYlZPUmJ0Y1RRZ1FPQmJjZUdNNXVIbDU3Zk1EdVN0R05hYUN0Sk1lOEJoZlhxMHN5ZnQ1dV9kWUJ0UmNzVzByUEZ6X0VNUUNDSUlZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Enterprise Live Migrations from Azure DevOps generally available - The GitHub Blog",
           "summary": "Enterprise Live Migrations from Azure DevOps generally available The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
           "when": "20 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODVwUEg1VGlEdGdlZEk5RnJ1Z09aTUZZUmg3WDdjVS15cHFCT3hxMXVIUl9fWDktdkpNOFl6WndvRE95LVZVT0phMzBqdW9PamNLR0NTUXdWaHZBXzRDTk1CY3RLZ2RfNnNIeUdPNGVZLVdmTzg1Q1c0SEdhb21kY1BjNU9Bd0lOd2NreW53bkpQdk1icFVndnFhVHFoaDdEVnB0VDFtRVh3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Turn Conversations into Completion: Discover How AI Agents Can Get Work Done - TechGig",
-          "summary": "Turn Conversations into Completion: Discover How AI Agents Can Get Work Done TechGig. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "TechGig",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY012ei1JWGRLa1ZRZEVJdHVMUm8wR0d5MHVmZ2tlSlpETy0wTll4cm1BZE5ENzhVUjI4ZExZVmVGZ19XUF9LM2lwZ25COXFaYXdySi1zTlhpTlAtOWxMM1F2ajB0UDl1cTZpWnBZXzYtd0MxbS00TkR4NHZha0VqRldXdjhBYlRZeVVCalBfLXV3dFF6ZFR2dWRNRHI0aTdzUXlwVFBLOU5mVHppRlNhODhsVkVlZm4zOW1KSlV3?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -227,6 +192,14 @@
       "name": "Creative AI & Design",
       "stories": [
         {
+          "title": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
+          "summary": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images Search Engine Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Search Engine Land",
+          "when": "20 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Picsart Opens the AI Behind Its Platform to Developers & Businesses - StreetInsider",
           "summary": "Picsart Opens the AI Behind Its Platform to Developers & Businesses StreetInsider. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "StreetInsider",
@@ -239,14 +212,6 @@
     {
       "name": "MarTech & Automation",
       "stories": [
-        {
-          "title": "NAV Fund Services Launches Powerful Tool Suite Featuring Fund Marketing CRM - Newswire",
-          "summary": "NAV Fund Services Launches Powerful Tool Suite Featuring Fund Marketing CRM Newswire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Newswire",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDkzczB5Sm5mTV9Gc0w1UVlqaUR0VHhJR01JMjNJek8tMkNyajBDYkl1MnVyU2NMT3RXMW1nY3VDS2h0ZkFZQVVtcEtZREJpN3BNTHdpVEhGNzB1M0RhVEJpMXZMeXRIVVdYOGx3eExaUkxDUzI2MVpMeE1UOXdFMHJocjExcmpwbkFMYVlDWlZ1MXhwNUVyWXY2ZHBDOHVwLWlrVERfM0I?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
         {
           "title": "Google Cloud latest news and announcements - Google Cloud",
           "summary": "Google Cloud latest news and announcements Google Cloud. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -303,7 +268,7 @@
           {
             "source": "Search Engine Land",
             "when": "20 Nov 2026",
-            "point": "Microsoft Ads adds ‘Made with AI’ labels to AI-generated ad images Search Engine Land",
+            "point": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
@@ -311,6 +276,32 @@
             "when": "20 Nov 2026",
             "point": "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade Search Engine Roundtable",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FRE90YnpFc0JVOUZzai1jQXhseGtrYUVRNWZYYXJ2dktEMWpyMjRHb0F6bFZldG5yN1U4MkpHRTM2Wl9ZbjlFUlBydmpLWmJ4c3hOU002bjY1dkp3RHRJZmVhU3d5MFU?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Security advisory permissions are now generally available - The GitHub Blog",
+        "status": "Cross-source coverage",
+        "common_context": "Security advisory permissions are now generally available The GitHub Blog",
+        "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "21 Nov 2026",
+            "point": "Security advisory permissions are now generally available The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmdKVHZka0R4WE0wa0Nibl9OZ1NTTlJEbFY0U0V5Slk2M1cxeVg5blp2aHZMWkprOUljZzZuWVNQSS1DYzdFY2gxQXBXWk1hNEdYYmhOYlZPUmJ0Y1RRZ1FPQmJjZUdNNXVIbDU3Zk1EdVN0R05hYUN0Sk1lOEJoZlhxMHN5ZnQ1dV9kWUJ0UmNzVzByUEZ6X0VNUUNDSUlZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "21 Nov 2026",
+            "point": "GitHub Enterprise Server 3.23 release candidate The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjdKb01yeUZYbjA5eEdvd0JjcEN6ZktmZHZkN2lIaWlXeXF5ZUdVcEJrX3VCdnpkN2duMmw2Qkdxd2JzNWFvaDlDV3RRN2pZdDB2amI4MmdTbHUwTVZzZ2hQV283U2RiTmU4ZUFLckJUcmxVV09KU0xZcEdiYzZuODQ0WVljSWhIN21sVWJhc2VRMFk?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "20 Nov 2026",
+            "point": "Enterprise Live Migrations from Azure DevOps generally available The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODVwUEg1VGlEdGdlZEk5RnJ1Z09aTUZZUmg3WDdjVS15cHFCT3hxMXVIUl9fWDktdkpNOFl6WndvRE95LVZVT0phMzBqdW9PamNLR0NTUXdWaHZBXzRDTk1CY3RLZ2RfNnNIeUdPNGVZLVdmTzg1Q1c0SEdhb21kY1BjNU9Bd0lOd2NreW53bkpQdk1icFVndnFhVHFoaDdEVnB0VDFtRVh3QQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

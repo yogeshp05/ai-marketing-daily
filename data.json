@@ -12,12 +12,12 @@
   "ticker": [
     "Microsoft Advertising brings ads to AI Overviews on Bing - Search Engine Land",
     "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
+    "Microsoft Expands Bing AI Search and Advertising Features - cwibc.co.id",
     "Microsoft Advertising adds URL inclusions to AI Max campaigns - Search Engine Land",
     "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade - Search Engine Roundtable",
     "Security advisory permissions are now generally available - The GitHub Blog",
-    "Adspirer joins Claude’s connector directory with read-only ad analytics - Superpower Daily",
-    "Apple is late to the AI party, but could shake up the race against rivals with iPhone ecosystem - The Economic Times",
-    "Picsart Opens the AI Behind Its Platform to Developers & Businesses - Business Wire"
+    "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace - dev.ua",
+    "Apple is late to the AI party, but could shake up the race against rivals with iPhone ecosystem - The Economic Times"
   ],
   "sections": [
     {
@@ -54,19 +54,19 @@
           "image": ""
         },
         {
+          "title": "Microsoft Expands Bing AI Search and Advertising Features - cwibc.co.id",
+          "summary": "Microsoft Expands Bing AI Search and Advertising Features cwibc.co.id. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "cwibc.co.id",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uZTNaaEF1TzN5RnVRdFpOdDB3M3VEUXRmNmJwX25pQkxhamhEUkFvSjFOTmxLUnN1Q3J0dHRXZ1cyZUxsYlcyNFREdzlIYVZlOEJwZ3R4RU83TmNDLXNz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Microsoft Advertising adds URL inclusions to AI Max campaigns - Search Engine Land",
           "summary": "Microsoft Advertising adds URL inclusions to AI Max campaigns Search Engine Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Search Engine Land",
           "when": "20 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC1UOVc0N3U2M2ppbmF5SzBaamRjY1JrR3ZJR2w4dHc4OEVXWFoxX1NEaE9Fcmx2MXRYRzdkTUZHX2VsYktMbFp2MU5EQTFxdkExdE9MdWd6T1lSWVhSekhoQkZOTE80Vm51VU9kcllJWnctaUtHaEFlT1pKMFcxVW1jdGdVR18ybjhLYTZpSWVXNncxX3ZoU2htN29OQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade - Search Engine Roundtable",
-          "summary": "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Roundtable",
-          "when": "20 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FRE90YnpFc0JVOUZzai1jQXhseGtrYUVRNWZYYXJ2dktEMWpyMjRHb0F6bFZldG5yN1U4MkpHRTM2Wl9ZbjlFUlBydmpLWmJ4c3hOU002bjY1dkp3RHRJZmVhU3d5MFU?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -93,7 +93,8 @@
           "source": "MarkHub24",
           "when": "20 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazZJTjVxTHZwQ1NMdEFaM0g4Q1NFQUR0cWpWcjZZVThiMVBjMll4QXNqSE1XOGpaLVY0NTJBM2dRd0lWUk1zTkhDczlzT0ZzN0RpUExycUZaRUNhSlJiQXM5eWlvZVJFcWlNcDB6eUV6NEpvQy03dDlEVmxjeGV6S2VFclU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -148,7 +149,8 @@
           "source": "Superpower Daily",
           "when": "20 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMG80VFZYRmNjSGh4QnlsMWo2bkVLaFl2S3dVZDVFZWFzSW15OHNZMmE0dTFGNGxIN3hHNVVobWZiV19lSTBrUDd3N2FWSnZRVWEyWklZQ0l1VlNvaGo2akhHa2NsTzhQM1M4VFhnVUh6ZGdBOHd5ZlRWWFhQYW41a0FaZFJDbFV3UkZxSU1INFF1cmRvWkhqMXZGQndCOTlhUWl0QXk0Ums?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -172,19 +174,19 @@
           "image": ""
         },
         {
+          "title": "Anthropic's 5 Biggest Rivals: How the Blockbuster IPO Could Reshape OpenAI, Google, xAI, Meta and Microsoft - International Business Times Australia",
+          "summary": "Anthropic's 5 Biggest Rivals: How the Blockbuster IPO Could Reshape OpenAI, Google, xAI, Meta and Microsoft International Business Times Australia. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "International Business Times Australia",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcHdBX1dJZUM5RWR2Ul9IcXJjQlJpNHY3bUV5N29idTRSMjJrM0tkd1ZJRVVEYm43MkQzZ1YxRGcwNjF1ejlSaVE0aUFtSWpocUJPX2RvRFF5Y2IxNkluaUc5VmtuSUJKUXVWNkdyRWZhQkVjdTladEFzZUdHTW0zZEtSVFdUZzlETHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
           "title": "Picsart Opens the AI Behind Its Platform to Developers & Businesses - Business Wire",
           "summary": "Picsart Opens the AI Behind Its Platform to Developers & Businesses Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Business Wire",
           "when": "21 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEFvY1JZVW1TUTdfZEV3UHM3OURzR3hUTU9jenhuTWxVRlNCRjV2THo2SGtDSkpiNFBZVEtYYUpKQkpmUkRwY0N1a0RSZnNjUi1EQ1J4d0xIb0Z4dzl5Vm1yVDVITEFodHRVSzlqV3pNMUVPekpPVkVsdlMxdWJVd0QzaXhwR3poTGRfY1puNnNXTS1rdXJhSF9DalhLZDdwdlZ6ZWtMNXlYSjZRSnNDUmdDMU9VZUZqOTF4MXlmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Anthropic’s historic IPO in the face of AI doomsday concerns, Microsoft and United Airlines outages - PRWeek",
-          "summary": "Anthropic’s historic IPO in the face of AI doomsday concerns, Microsoft and United Airlines outages PRWeek. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "PRWeek",
-          "when": "20 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2RqMlRPNXRtektiY0RQUUJRcHg4TzFFQ00yNmZxdU9oWF96d0V1Qkg4OXRhSEM0WGpMU2pNY2ZfWWZ1OVBXb1lBdTJIMHlpR2Z2YUxvVGpfWnozWTlCXy1hU3FiNUR2ZnNZeGNvUWhuUnpBZjVic1FVbGlHak5NeVVuTENOa1VpUEFFa3Z6YkpzWDRLcHFoSnBpTmoySUd3RXpxU2RMMThrYmVxejlaeTg4dWxJRDBuYlIwcHFiQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -199,20 +201,20 @@
           "when": "20 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
-        },
-        {
-          "title": "Picsart Opens the AI Behind Its Platform to Developers & Businesses - Business Wire",
-          "summary": "Picsart Opens the AI Behind Its Platform to Developers & Businesses Business Wire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Business Wire",
-          "when": "21 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEFvY1JZVW1TUTdfZEV3UHM3OURzR3hUTU9jenhuTWxVRlNCRjV2THo2SGtDSkpiNFBZVEtYYUpKQkpmUkRwY0N1a0RSZnNjUi1EQ1J4d0xIb0Z4dzl5Vm1yVDVITEFodHRVSzlqV3pNMUVPekpPVkVsdlMxdWJVd0QzaXhwR3poTGRfY1puNnNXTS1rdXJhSF9DalhLZDdwdlZ6ZWtMNXlYSjZRSnNDUmdDMU9VZUZqOTF4MXlmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
         }
       ]
     },
     {
       "name": "MarTech & Automation",
       "stories": [
+        {
+          "title": "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace - dev.ua",
+          "summary": "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace dev.ua. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "dev.ua",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0RHTTBWOUtIN0M1Z2psaENsN09XUnBJM2JIYURxYTFqb29OM0JBZmJ6LXdweWkxSW1mMjF0b3RCMjFKYnRCT0NvUlpJcmNXTF8wYlhHZTZVQ0plaGV3dU55X1hGREVrRWh6SjhJWlROd1dITjhySm5GYXJCT0hJQjJoTGRSQm1MdXp0eTFyYVFoQXZYZ3NIQm1teEpYQU44MGVxSGpzNW1qT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "Google Cloud latest news and announcements - Google Cloud",
           "summary": "Google Cloud latest news and announcements Google Cloud. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -252,10 +254,16 @@
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
     "topics": [
       {
-        "topic": "Microsoft Advertising adds URL inclusions to AI Max campaigns - Search Engine Land",
+        "topic": "Microsoft Expands Bing AI Search and Advertising Features - cwibc.co.id",
         "status": "Cross-source coverage",
-        "common_context": "Microsoft Advertising adds URL inclusions to AI Max campaigns Search Engine Land",
+        "common_context": "Microsoft Expands Bing AI Search and Advertising Features cwibc.co.id",
         "unique_points": [
+          {
+            "source": "cwibc.co.id",
+            "when": "21 Nov 2026",
+            "point": "Microsoft Expands Bing AI Search and Advertising Features cwibc.co.id",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uZTNaaEF1TzN5RnVRdFpOdDB3M3VEUXRmNmJwX25pQkxhamhEUkFvSjFOTmxLUnN1Q3J0dHRXZ1cyZUxsYlcyNFREdzlIYVZlOEJwZ3R4RU83TmNDLXNz?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
           {
             "source": "Search Engine Land",
             "when": "20 Nov 2026",
@@ -273,12 +281,6 @@
             "when": "20 Nov 2026",
             "point": "Microsoft Advertising brings ads to AI Overviews on Bing Search Engine Land",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlE0bEpmY0ZTblgtUFAtTEtNUkR1QnNuRlBJZTl5S3ZhOG9RVzlhRXd1N2dydTNxTWVTalZqS0V1QmhqUUhJWUdSS090c1ZnTkx2Uno0M3Q5bFZhV2thQ0lPZ2RDc1J6ckpqSjBMRVRqXzJrY2VJZDd0MGotUHUwOFJHaGlJcm00RElqWlk5WnI3TzJaWjJj?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Search Engine Land",
-            "when": "20 Nov 2026",
-            "point": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -299,12 +301,32 @@
             "when": "21 Nov 2026",
             "point": "GitHub Enterprise Server 3.23 release candidate The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjdKb01yeUZYbjA5eEdvd0JjcEN6ZktmZHZkN2lIaWlXeXF5ZUdVcEJrX3VCdnpkN2duMmw2Qkdxd2JzNWFvaDlDV3RRN2pZdDB2amI4MmdTbHUwTVZzZ2hQV283U2RiTmU4ZUFLckJUcmxVV09KU0xZcEdiYzZuODQ0WVljSWhIN21sVWJhc2VRMFk?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Apple is late to the AI party, but could shake up the race against rivals with iPhone ecosystem - The Economic Times",
+        "status": "Cross-source coverage",
+        "common_context": "Apple is late to the AI party, but could shake up the race against rivals with iPhone ecosystem The Economic Times",
+        "unique_points": [
+          {
+            "source": "The Economic Times",
+            "when": "21 Nov 2026",
+            "point": "Apple is late to the AI party, but could shake up the race against rivals with iPhone ecosystem The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSWpyX1pjYllMQ3gwSFA2MnZqMm85N2hKUlFXLTZENTYtb0NhWC15amx5a2FwU2c4MFZvNXFCNzM3WTFQNDhSZGp1dFEtRGxYT24tMGdMalkzYmFBYWhSMHE2cy13T1dmclRSRzkxVUJVbG9IbkJ3N3hReDVwSHB1dXF5djJmUV9CejJPNFJYMXlxc21LRDdDbFlXU0I2WVlGamZHaWhfQnJ6ZzZHeU5ENkd5MHk1UExKYUZaWnJqTk85X3gxeU1nQ2pXYVVMNkJGX2psZTdpQjBrLWJSV05Nd013MHF3NDM4d3ZRb1pxSG1hekw2d2JxSUFfZWRyTHVYbEhSRmxFWmRVVXhYMVpheEdmUHFMZFNjZkHSAZ8CQVVfeXFMUFRQQ0RaakJvamdqT3F4VERxb1NPNVNSY21vTXNTNWg1MzVMZFJPaWcxX0thN2ZVQTBGbmJSRHRJYU9GSkRkb1JDWElwaFZXSE9fZnREazhlaW1RclY0Zlp5ZThFZ1NuRXBrYldoUDZrMExWbzJZcXYta2I2d2pDNVBUTjBvdXlmT0dJdFdILWM0eHFUVmJDU2FUWUQ4d1dCTDl6VklhdEljYlpRY2lMZWxCNjk0aUpPdHhBYkZFRGJVS3RCZ2VPVGpwQTRXaTg1TVdCZkFiTzdoSFZ4Z0NYQWw2clA5V2Jib1YxdEU5MkNhZnFlNDdWeFFobTVYNFo4ZUJLbTViSjM0WXpkbjJQTEJ0X3lOWVoxOWo2Mmw3NVU?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "The GitHub Blog",
+            "source": "International Business Times Australia",
+            "when": "21 Nov 2026",
+            "point": "Anthropic's 5 Biggest Rivals: How the Blockbuster IPO Could Reshape OpenAI, Google, xAI, Meta and Microsoft International Business Times Australia",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcHdBX1dJZUM5RWR2Ul9IcXJjQlJpNHY3bUV5N29idTRSMjJrM0tkd1ZJRVVEYm43MkQzZ1YxRGcwNjF1ejlSaVE0aUFtSWpocUJPX2RvRFF5Y2IxNkluaUc5VmtuSUJKUXVWNkdyRWZhQkVjdTladEFzZUdHTW0zZEtSVFdUZzlETHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PRWeek",
             "when": "20 Nov 2026",
-            "point": "Pin your favorite repositories to your dashboard The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmhrU3dIdVI1ZmZvNzJWS0RCRGFjSlBUMVNLTGJpblJXaGMxSEtOYV9aczhYMkRjY0tDZW1qOEFacV92aUtFWTV4UUlFakJ3NURJQkFkb243Zko0WFZyYjkyTzc2dU4ycE1IMVVvaVJ2SUVqNXc4Rm45dV9fQl9xZF9MVmN2bFA1b0JFVjVodE5rM0Fw?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Anthropic’s historic IPO in the face of AI doomsday concerns, Microsoft and United Airlines outages PRWeek",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2RqMlRPNXRtektiY0RQUUJRcHg4TzFFQ00yNmZxdU9oWF96d0V1Qkg4OXRhSEM0WGpMU2pNY2ZfWWZ1OVBXb1lBdTJIMHlpR2Z2YUxvVGpfWnozWTlCXy1hU3FiNUR2ZnNZeGNvUWhuUnpBZjVic1FVbGlHak5NeVVuTENOa1VpUEFFa3Z6YkpzWDRLcHFoSnBpTmoySUd3RXpxU2RMMThrYmVxejlaeTg4dWxJRDBuYlIwcHFiQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

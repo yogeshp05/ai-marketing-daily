@@ -1,5 +1,5 @@
 {
-  "date": "22 November 2026",
+  "date": "23 November 2026",
   "lead": {
     "title": "Microsoft Expands Bing AI Search and Advertising Features - SuaraGarut.ID",
     "deck": "Microsoft Expands Bing AI Search and Advertising Features SuaraGarut.ID. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -13,14 +13,22 @@
     "Microsoft Expands Bing AI Search and Advertising Features - SuaraGarut.ID",
     "Microsoft Expands Bing AI Search and Advertising Features - cwibc.co.id",
     "Bing Opens AI Overviews to Ads in Every Market Except China - https://www.thekeyword.co/",
+    "[video] New Google Shopping Marketing Content Feature - Google Ads Community - Google Help",
     "Walmart Ad Sales Climb 25% as AI Shopping Grows - Wisevoter",
-    "Apple is late to the AI party, but could shake up the race against rivals with iPhone ecosystem - The Economic Times",
     "About purchase signal annotations - Google Help"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
+        {
+          "title": "[video] New Google Shopping Marketing Content Feature - Google Ads Community - Google Help",
+          "summary": "[video] New Google Shopping Marketing Content Feature - Google Ads Community Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "21 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd1VFWTFJTkhUWlo1TnpQQ0xfT1hkQXFIbEhXNGRsMUtaT0FnN05XMy1YcjJYMTkwd0FGRlpuNWg0Slk0N0xLTHpwUXRWMGROV0NuRHY4Ty0xSGRzX3NNWXRvNmNJZC1GOGlLdWdBcjhJV0dPRmxsbXllUUFfTDFacENQTGduWTFpcklOdzNYakJPTjRPVGlFQVV0Q0NmbG1WNkswdUlFajBZLWNlYlUza0lNQjJWU2l2aWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "About purchase signal annotations - Google Help",
           "summary": "About purchase signal annotations Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
@@ -151,7 +159,8 @@
           "source": "The Economic Times",
           "when": "21 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSWpyX1pjYllMQ3gwSFA2MnZqMm85N2hKUlFXLTZENTYtb0NhWC15amx5a2FwU2c4MFZvNXFCNzM3WTFQNDhSZGp1dFEtRGxYT24tMGdMalkzYmFBYWhSMHE2cy13T1dmclRSRzkxVUJVbG9IbkJ3N3hReDVwSHB1dXF5djJmUV9CejJPNFJYMXlxc21LRDdDbFlXU0I2WVlGamZHaWhfQnJ6ZzZHeU5ENkd5MHk1UExKYUZaWnJqTk85X3gxeU1nQ2pXYVVMNkJGX2psZTdpQjBrLWJSV05Nd013MHF3NDM4d3ZRb1pxSG1hekw2d2JxSUFfZWRyTHVYbEhSRmxFWmRVVXhYMVpheEdmUHFMZFNjZkHSAZ8CQVVfeXFMUFRQQ0RaakJvamdqT3F4VERxb1NPNVNSY21vTXNTNWg1MzVMZFJPaWcxX0thN2ZVQTBGbmJSRHRJYU9GSkRkb1JDWElwaFZXSE9fZnREazhlaW1RclY0Zlp5ZThFZ1NuRXBrYldoUDZrMExWbzJZcXYta2I2d2pDNVBUTjBvdXlmT0dJdFdILWM0eHFUVmJDU2FUWUQ4d1dCTDl6VklhdEljYlpRY2lMZWxCNjk0aUpPdHhBYkZFRGJVS3RCZ2VPVGpwQTRXaTg1TVdCZkFiTzdoSFZ4Z0NYQWw2clA5V2Jib1YxdEU5MkNhZnFlNDdWeFFobTVYNFo4ZUJLbTViSjM0WXpkbjJQTEJ0X3lOWVoxOWo2Mmw3NVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -235,6 +244,26 @@
             "when": "21 Nov 2026",
             "point": "Microsoft Expands Bing AI Search and Advertising Features cwibc.co.id",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uZTNaaEF1TzN5RnVRdFpOdDB3M3VEUXRmNmJwX25pQkxhamhEUkFvSjFOTmxLUnN1Q3J0dHRXZ1cyZUxsYlcyNFREdzlIYVZlOEJwZ3R4RU83TmNDLXNz?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "About purchase signal annotations - Google Help",
+        "status": "Cross-source coverage",
+        "common_context": "About purchase signal annotations Google Help",
+        "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "22 Nov 2026",
+            "point": "About purchase signal annotations Google Help",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tTUo4S3J0dU44RjNUS1JiM2U1Q2JlMnVnR0NxckFaMkZsaVdURURTZW4xNy1rMlZnU2xVZWJzWXU0VDVJbWVpNWM5eWxWcjI4Z1lPYThCcmdBdkVEanVVY0F2bWt2Mmg5cWxwNWZQZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "Google Help",
+            "when": "21 Nov 2026",
+            "point": "[video] New Google Shopping Marketing Content Feature - Google Ads Community Google Help",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd1VFWTFJTkhUWlo1TnpQQ0xfT1hkQXFIbEhXNGRsMUtaT0FnN05XMy1YcjJYMTkwd0FGRlpuNWg0Slk0N0xLTHpwUXRWMGROV0NuRHY4Ty0xSGRzX3NNWXRvNmNJZC1GOGlLdWdBcjhJV0dPRmxsbXllUUFfTDFacENQTGduWTFpcklOdzNYakJPTjRPVGlFQVV0Q0NmbG1WNkswdUlFajBZLWNlYlUza0lNQjJWU2l2aWc?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

@@ -1,20 +1,23 @@
 {
-  "date": "23 November 2026",
+  "date": "24 November 2026",
   "lead": {
-    "title": "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "deck": "Update your app SDK version for Google Ads conversion measurement Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rcVdaYnlJQ3Uxcm1YS2VnZVczYXBDaEJKcTNGV21UOXM1WEVhNENFZjRPaHUtSFhoSllOcTZyVjQyYlRVMUhxOEI3bFRrRzRhUmJUY1luMklQbF9TSXV1QmFVakxLd3NiWnVjTlNPcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "source": "Google Help",
-    "when": "22 Nov 2026",
+    "title": "Duda Launches Marketing Automation, Bringing Built-in Marketing and Bookings to Every Website - EIN Presswire",
+    "deck": "Duda Launches Marketing Automation, Bringing Built-in Marketing and Bookings to Every Website EIN Presswire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUmFKRXVJSG9ITXBjajNnNDd6UEg5OUU3bFBNV2s1S1p0YVE4VkFqWGc0NkctQUZvbHBsMFlfMFkxZHJSSzBBeTRwQ0l6b1d0eVY3MENZYU91dGJCRjFoMDJEZ2Z3dXVuMzhQVzlRWm85Z1Ffa2xNc2JNSk1pLThfWll0eVNlT0d3NmdBTzBXNWw4QWJtTHhDQ2dIa3U5WUR3M3h4RHpjU1ZVSktHemdJQmJtMWhFSlpFODRJZDF2bGIwZHExZHhLZVhrYnNFMHpFbUM5LWVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "EIN Presswire",
+    "when": "23 Nov 2026",
     "image": ""
   },
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
+    "Duda Launches Marketing Automation, Bringing Built-in Marketing and Bookings to Every Website - EIN Presswire",
+    "Amazon Lets Advertisers Use ChatGPT Via OpenAI Partnership 09/11/2026 - MediaPost",
+    "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine - Facebook",
+    "Daily Search Forum Recap: November 23, 2026 - Search Engine Roundtable",
     "Picsart Launches Developer Platform With More Than 250 AI Models - SMBtech",
     "Bing Opens AI Overviews to Ads in Every Market Except China - https://www.thekeyword.co/",
-    "Update your app SDK version for Google Ads conversion measurement - Google Help",
-    "Perplexity and Intelligence - OpenAI",
-    "Walmart Ad Sales Climb 25% as AI Shopping Grows - Wisevoter"
+    "Plumbing, not intelligence: Index Exchange on what MCP means for buyers - PPC Land",
+    "Code coverage uploads now flag invalid report formats - The GitHub Blog"
   ],
   "sections": [
     {
@@ -26,7 +29,8 @@
           "source": "Google Help",
           "when": "22 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rcVdaYnlJQ3Uxcm1YS2VnZVczYXBDaEJKcTNGV21UOXM1WEVhNENFZjRPaHUtSFhoSllOcTZyVjQyYlRVMUhxOEI3bFRrRzRhUmJUY1luMklQbF9TSXV1QmFVakxLd3NiWnVjTlNPcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -40,6 +44,14 @@
           "when": "22 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhTUxibWFwSWZ1RDVZZG95cTNpOFo0UFpoclB3M3pJc1hVRkNjQnpOblZ1Q2hHYnk2Q2hpUDVnbW1LRmoxY3pfcUV4ZXk0Qks5NzFaNUc1UXVWcjFWMVZNTjFn?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "Microsoft says its bidding upgrade started in summer, not November 18 - PPC Land",
+          "summary": "Microsoft says its bidding upgrade started in summer, not November 18 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "24 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTjk0c0lDSGVrRzZzdVhLVS1hZFJiVzg4X2NWZHNpZlBMVTl1WUlXZnRiVzN5VUN5VzdPeUNfQnVjaHZGTTZXMkw1aDFLR2dUVkVmUE1KeDNBZmxxaGVSckxnSldaNC1neDVtX0YwTW96aDB5LWx1ZzhUYXJqSDJ2NjdLZ1ZyZmU0aFAtT2ZLbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -47,11 +59,11 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "Bing Opens AI Overviews to Ads in Every Market Except China - https://www.thekeyword.co/",
-          "summary": "Bing Opens AI Overviews to Ads in Every Market Except China https://www.thekeyword.co/. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "https://www.thekeyword.co/",
-          "when": "22 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhTUxibWFwSWZ1RDVZZG95cTNpOFo0UFpoclB3M3pJc1hVRkNjQnpOblZ1Q2hHYnk2Q2hpUDVnbW1LRmoxY3pfcUV4ZXk0Qks5NzFaNUc1UXVWcjFWMVZNTjFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine - Facebook",
+          "summary": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Facebook",
+          "when": "23 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0xzM1JzdTFPTjBIekp6QnJPV3lraDJ4Z0hqWlpfSjh5RXIzSkJzUHplWU50SV9Sc2Y0UmVaTWZ1clFfUFVXY0tEbTN3Z3dCdENlTVdfVnFCRUE0WEtLWEl2NGVJZTVzVGhNZXRQNXU5MDh0OXhDUzNtWVVaV0NCTEM1a180a19lWUU1WWxuWXVra2pZdVpOZVVQNEdicDlYcDM40gGoAUFVX3lxTE9VNUd2RTJld1Z0b3VLdVRQeUpHVFNISUVuMmhpSGMwOEpoMjV5cV9Xd01PZUQzZzdZVm5qVzFoLURDMV9PV0lwcU5UWm5zUll0Z25WN1pLUGZnZUZmakppZkp5MDYtTm00R2x0b3ZSVzF4SmZySGxIWkk5UW5JeXozQmVzZGFNYXVKVmdxVm9rY212cUhSbE9iSTIySlZ6WkJUdlhacXRWUg?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -74,13 +86,12 @@
       "name": "TikTok Ads",
       "stories": [
         {
-          "title": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads - PPC Land",
-          "summary": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "PPC Land",
-          "when": "19 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMk53ZEdCcnlVNTh5aV9oQ19HTURzODlnM3MtbFdRNm41MHhwaklUampKcjlyRVJKZ0ZqQ1BMaXhMSW9GTDlVeFJranVjbE9HcnVuNEJROWs1d2J4cE5HaUxvZFEyRmZWY0JONV8xbk9wTVBBMFp1ZmVST0ZOYkdTeGhPbW5ZYUV5QWtoa2lJRjlHWEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Amazon Lets Advertisers Use ChatGPT Via OpenAI Partnership 09/11/2026 - MediaPost",
+          "summary": "Amazon Lets Advertisers Use ChatGPT Via OpenAI Partnership 09/11/2026 MediaPost. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "MediaPost",
+          "when": "24 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmEzbHpWOUxnNXowOVA2bHNLWTJycWowTUlEd1E5Q09uNHRBbmlkdGgxalRoQnB0V2VObW11RllYLU1CSHJmemxVQlY0NFFWUUJ3ZGV1Q1E1Z1F4OUk4VHp1ZXRFWVhqZnRwMUdWWkVxZWVaeF9ITk40WV82S2NaNk1aZUlBOU9mXzRqSTZocnd1VFFsTUFsU3NQOHRGMGlBQ2FDZkswV1YxdFhtQnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -88,11 +99,11 @@
       "name": "LinkedIn Ads",
       "stories": [
         {
-          "title": "Bing Opens AI Overviews to Ads in Every Market Except China - https://www.thekeyword.co/",
-          "summary": "Bing Opens AI Overviews to Ads in Every Market Except China https://www.thekeyword.co/. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "https://www.thekeyword.co/",
-          "when": "22 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhTUxibWFwSWZ1RDVZZG95cTNpOFo0UFpoclB3M3pJc1hVRkNjQnpOblZ1Q2hHYnk2Q2hpUDVnbW1LRmoxY3pfcUV4ZXk0Qks5NzFaNUc1UXVWcjFWMVZNTjFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "title": "Daily Search Forum Recap: November 23, 2026 - Search Engine Roundtable",
+          "summary": "Daily Search Forum Recap: November 23, 2026 Search Engine Roundtable. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Search Engine Roundtable",
+          "when": "23 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RmFvalpKLUlRaG1uRkZWd294OTB4NkM0SklydUFWaTdFZjF5LUpjaGJSY0hNVUpLLUxuUlJxRktHeEZHTXVZU0JkQWJGN2tVc1NIc0lYS0h3c1N4eEJHZUxYMVJBM28?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -129,13 +140,36 @@
       "name": "AI & Agents",
       "stories": [
         {
-          "title": "AI Firms Form Foundation for Autonomous Agent Protocols - Wisevoter",
-          "summary": "AI Firms Form Foundation for Autonomous Agent Protocols Wisevoter. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Wisevoter",
+          "title": "Plumbing, not intelligence: Index Exchange on what MCP means for buyers - PPC Land",
+          "summary": "Plumbing, not intelligence: Index Exchange on what MCP means for buyers PPC Land. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "PPC Land",
+          "when": "24 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0k4enhRS1prQ0s1OFJDQW9LTlJYOXZ0MndrNEZVYVBEZXVXb1dsM05UbXBRZzZ0VFBEMUxlMjVzQ0FGMGMycUFHenJNRkhMbDhwWm84S3BKb21kakVyaExNX29SSllBRFAxLUliWnRsRE1KdHdBNDFQMlhlWGtxM1pKVWF6TDMxSXlnZUlJSE8?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Code coverage uploads now flag invalid report formats - The GitHub Blog",
+          "summary": "Code coverage uploads now flag invalid report formats The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
           "when": "23 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1cyd0NQWXFrb0lzNWljTVlKOEQzUUZES2xhQmJPWEI5NVcyY2dtR2JfMm0wc19iRUgzNVpvdGJvd2RxUGtJNDdHZzhhMkJDS0tURmphR3NzYVRMSzNCQjZOb3hXdkhRR29DWHc4WGt3OVNrVE1MWlVxWS10RzNCWmYwUDBCbHpwc0FVRU1XZlF0Mjdt?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0FiSS15UjJZeFVqWUJMcmwzWDJkcUplRWI0OVZoQklqUG1aSF9Tc3JvOVdaSk9udDFMdnhnekVJNkhlSGcwUmR4Q1FydEdqR2xYSW15UzBnYkI4UmNLYl9XUlNEbG5tcXBHVXNzN2NsamNzalpIeFRjc2Nna21OZTBSTHBYZjZJclg0R3FKNlU1cGlMU1JDRG9rRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Issue statuses and repository boards are in public preview - The GitHub Blog",
+          "summary": "Issue statuses and repository boards are in public preview The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "24 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXlsTFFHNHRXdUZkQjFoMWRPbzF4eG9fMVNWU0IteFYxb2Ewd2xBT3ZTWWZCMFNxTFdYQVF1UXdVUWk4ZUZFWnE3LVhVZElFaFdvZ2d6NlF6M2pfQ0V6TnJZZml1R0pEcFl4eG1MTFlmVGVBZUpBS2x6U1FDY1pqR0JMQ0QxS2lyV1AyR19TMjlGRGpyVUM4QVdKcXQwNmxPbkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Secret scanning reduces false positives for Slack - The GitHub Blog",
+          "summary": "Secret scanning reduces false positives for Slack The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "24 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjdXV3h2QXh6dERNSW12OGN0andfZ3E4eFoyN1JSOHctZkdfSG9PUExIQVExWUFqQlByUE9zSkdKSDlzdG13alNXMy05aW1feXRkNUwzYzZZb0d4QzFSTXRQZExDclBOU2dPWGVUekVFaTR0b2FkcDFEa2kyaXAxR0JhdWtvbmFlWlJOejJVMXc1aHIzdUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -164,22 +198,20 @@
       "name": "MarTech & Automation",
       "stories": [
         {
-          "title": "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace - dev.ua",
-          "summary": "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace dev.ua. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "dev.ua",
-          "when": "21 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0RHTTBWOUtIN0M1Z2psaENsN09XUnBJM2JIYURxYTFqb29OM0JBZmJ6LXdweWkxSW1mMjF0b3RCMjFKYnRCT0NvUlpJcmNXTF8wYlhHZTZVQ0plaGV3dU55X1hGREVrRWh6SjhJWlROd1dITjhySm5GYXJCT0hJQjJoTGRSQm1MdXp0eTFyYVFoQXZYZ3NIQm1teEpYQU44MGVxSGpzNW1qT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "Duda Launches Marketing Automation, Bringing Built-in Marketing and Bookings to Every Website - EIN Presswire",
+          "summary": "Duda Launches Marketing Automation, Bringing Built-in Marketing and Bookings to Every Website EIN Presswire. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "EIN Presswire",
+          "when": "23 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUmFKRXVJSG9ITXBjajNnNDd6UEg5OUU3bFBNV2s1S1p0YVE4VkFqWGc0NkctQUZvbHBsMFlfMFkxZHJSSzBBeTRwQ0l6b1d0eVY3MENZYU91dGJCRjFoMDJEZ2Z3dXVuMzhQVzlRWm85Z1Ffa2xNc2JNSk1pLThfWll0eVNlT0d3NmdBTzBXNWw4QWJtTHhDQ2dIa3U5WUR3M3h4RHpjU1ZVSktHemdJQmJtMWhFSlpFODRJZDF2bGIwZHExZHhLZVhrYnNFMHpFbUM5LWVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         },
         {
-          "title": "Google Cloud latest news and announcements - Google Cloud",
-          "summary": "Google Cloud latest news and announcements Google Cloud. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Google Cloud",
-          "when": "20 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREwxdGg2aXlreXo5blo4WENaSFZEV2NGckE3MzBTbk1WeDQ5eVJsMkdjdlNnVUx5R1QxbHJSMmVRUmRHbkZWeV9PY2ExYXhxZ19tQnpjTFlPTWtPZy1VWmdxUFBKV2dFZmt2WHR0NmQtUlR6bzRVUVZpcHpVOGVuYnR5UHBUdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "title": "How to vet AI capabilities during martech RFPs - MarTech",
+          "summary": "How to vet AI capabilities during martech RFPs MarTech. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "MarTech",
+          "when": "23 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TcHlwV3NzY2FDQ2dUOXo2MnlDU2dXRGdMMkpNRks4SXUzWDJVZmdNNlVyQUpmeGJobmRkV3VOU1drd0Y3ZGpJTHFZVml5d0lEOW9oV2Eya3AtTnVPOUtla1NSTW50SU5ZdmFiM0wtTXh2ZFpDb3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -192,7 +224,8 @@
           "source": "Wisevoter",
           "when": "22 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWlBtYVZnMVdPcXdHNFFNeklXMkd0Y0tiU2dSRU1fT0JjWWhIZkVyd3ZHTEJ3VGpqNEFLNFE4c2hLSkJxckpoTjFQRWh4Z19YZjAtd3J0NDJRUnZXMjdnMEtpTU1hNzhPb3hReWRKQ0RaYlBCeXJUNjhIMExjbGJjTWo3ZHJrMEZQR3FBNV90Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     }
@@ -200,7 +233,54 @@
   "summary": {
     "title": "Summary — What’s Actually New",
     "intro": "Repeated facts are compressed so the edition highlights what each source adds beyond the common story.",
-    "topics": []
+    "topics": [
+      {
+        "topic": "Plumbing, not intelligence: Index Exchange on what MCP means for buyers - PPC Land",
+        "status": "Cross-source coverage",
+        "common_context": "Plumbing, not intelligence: Index Exchange on what MCP means for buyers PPC Land",
+        "unique_points": [
+          {
+            "source": "PPC Land",
+            "when": "24 Nov 2026",
+            "point": "Plumbing, not intelligence: Index Exchange on what MCP means for buyers PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0k4enhRS1prQ0s1OFJDQW9LTlJYOXZ0MndrNEZVYVBEZXVXb1dsM05UbXBRZzZ0VFBEMUxlMjVzQ0FGMGMycUFHenJNRkhMbDhwWm84S3BKb21kakVyaExNX29SSllBRFAxLUliWnRsRE1KdHdBNDFQMlhlWGtxM1pKVWF6TDMxSXlnZUlJSE8?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "24 Nov 2026",
+            "point": "Microsoft says its bidding upgrade started in summer, not November 18 PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTjk0c0lDSGVrRzZzdVhLVS1hZFJiVzg4X2NWZHNpZlBMVTl1WUlXZnRiVzN5VUN5VzdPeUNfQnVjaHZGTTZXMkw1aDFLR2dUVkVmUE1KeDNBZmxxaGVSckxnSldaNC1neDVtX0YwTW96aDB5LWx1ZzhUYXJqSDJ2NjdLZ1ZyZmU0aFAtT2ZLbw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Issue statuses and repository boards are in public preview - The GitHub Blog",
+        "status": "Cross-source coverage",
+        "common_context": "Issue statuses and repository boards are in public preview The GitHub Blog",
+        "unique_points": [
+          {
+            "source": "The GitHub Blog",
+            "when": "24 Nov 2026",
+            "point": "Issue statuses and repository boards are in public preview The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXlsTFFHNHRXdUZkQjFoMWRPbzF4eG9fMVNWU0IteFYxb2Ewd2xBT3ZTWWZCMFNxTFdYQVF1UXdVUWk4ZUZFWnE3LVhVZElFaFdvZ2d6NlF6M2pfQ0V6TnJZZml1R0pEcFl4eG1MTFlmVGVBZUpBS2x6U1FDY1pqR0JMQ0QxS2lyV1AyR19TMjlGRGpyVUM4QVdKcXQwNmxPbkE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "24 Nov 2026",
+            "point": "Secret scanning reduces false positives for Slack The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjdXV3h2QXh6dERNSW12OGN0andfZ3E4eFoyN1JSOHctZkdfSG9PUExIQVExWUFqQlByUE9zSkdKSDlzdG13alNXMy05aW1feXRkNUwzYzZZb0d4QzFSTXRQZExDclBOU2dPWGVUekVFaTR0b2FkcDFEa2kyaXAxR0JhdWtvbmFlWlJOejJVMXc1aHIzdUE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "The GitHub Blog",
+            "when": "23 Nov 2026",
+            "point": "Code coverage uploads now flag invalid report formats The GitHub Blog",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0FiSS15UjJZeFVqWUJMcmwzWDJkcUplRWI0OVZoQklqUG1aSF9Tc3JvOVdaSk9udDFMdnhnekVJNkhlSGcwUmR4Q1FydEdqR2xYSW15UzBnYkI4UmNLYl9XUlNEbG5tcXBHVXNzN2NsamNzalpIeFRjc2Nna21OZTBSTHBYZjZJclg0R3FKNlU1cGlMU1JDRG9rRQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      }
+    ]
   },
   "engine": {
     "model": "none",

@@ -17,7 +17,7 @@
     "OpenClips is the First AI Platform to Actually Turn a Product Link Into Production-Ready Ads - PR Newswire UK",
     "Pinterest sells feed and search ad space through Microsoft Advertising - PPC Land",
     "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine - Facebook",
-    "Daily Search Forum Recap: November 23, 2026 - Search Engine Roundtable"
+    "GPT-6 models demonstrate intrinsic protein-design capabilities - OpenAI"
   ],
   "sections": [
     {
@@ -45,14 +45,6 @@
           "image": ""
         },
         {
-          "title": "Daily Search Forum Recap: November 23, 2026 - Search Engine Roundtable",
-          "summary": "Daily Search Forum Recap: November 23, 2026 Search Engine Roundtable. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Search Engine Roundtable",
-          "when": "23 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RmFvalpKLUlRaG1uRkZWd294OTB4NkM0SklydUFWaTdFZjF5LUpjaGJSY0hNVUpLLUxuUlJxRktHeEZHTXVZU0JkQWJGN2tVc1NIc0lYS0h3c1N4eEJHZUxYMVJBM28?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Pinterest Opens Its Ad Inventory to Microsoft Advertising - https://www.thekeyword.co/",
           "summary": "Pinterest Opens Its Ad Inventory to Microsoft Advertising https://www.thekeyword.co/. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "https://www.thekeyword.co/",
@@ -66,6 +58,14 @@
           "source": "ContentGrip",
           "when": "24 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yR2dMZHhIUFBBZ2xrNTR3N2dzX2R5YnVibDUzOUZCMENHY1ZpTnJneEFYRjU4LWdHRlM4UjZxb25YSEFfbE1jQ2lVWVlaVUtkZ0xOZXdFeVBzVjFoeFFjWjkyRVVIcmN3M0xvRE9JOE8?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Microsoft says its bidding upgrade started in summer, not November 18 - PPC Land",
+          "summary": "Microsoft says its bidding upgrade started in summer, not November 18 PPC Land. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "PPC Land",
+          "when": "24 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTjk0c0lDSGVrRzZzdVhLVS1hZFJiVzg4X2NWZHNpZlBMVTl1WUlXZnRiVzN5VUN5VzdPeUNfQnVjaHZGTTZXMkw1aDFLR2dUVkVmUE1KeDNBZmxxaGVSckxnSldaNC1neDVtX0YwTW96aDB5LWx1ZzhUYXJqSDJ2NjdLZ1ZyZmU0aFAtT2ZLbw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -100,7 +100,8 @@
           "source": "PEI Private Equity",
           "when": "24 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnAyTVIxVkdONjVkX2NDRi1TS3RJU0xzRzVzQk0za0tXYjNVS2trMTUwSW1aOEJiWUltdTQwNEgwci05TjlXS0JtZzVJM2thUmZWOWpiRzJ4djFTaDJyTUxOLTlVU2c3TFIycnA3c2E5TFktc2IwYndxQmFidnQzNklCd21XRjVwS2ZOM0hVZlpPZ3FrQ0k3VHFwX2hkLUh2VVRMTXBDY0FBel9yV1RVWVZKbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -127,7 +128,8 @@
           "source": "Search Engine Roundtable",
           "when": "23 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RmFvalpKLUlRaG1uRkZWd294OTB4NkM0SklydUFWaTdFZjF5LUpjaGJSY0hNVUpLLUxuUlJxRktHeEZHTXVZU0JkQWJGN2tVc1NIc0lYS0h3c1N4eEJHZUxYMVJBM28?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -178,19 +180,19 @@
           "image": ""
         },
         {
-          "title": "Code coverage uploads now flag invalid report formats - The GitHub Blog",
-          "summary": "Code coverage uploads now flag invalid report formats The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "The GitHub Blog",
-          "when": "23 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0FiSS15UjJZeFVqWUJMcmwzWDJkcUplRWI0OVZoQklqUG1aSF9Tc3JvOVdaSk9udDFMdnhnekVJNkhlSGcwUmR4Q1FydEdqR2xYSW15UzBnYkI4UmNLYl9XUlNEbG5tcXBHVXNzN2NsamNzalpIeFRjc2Nna21OZTBSTHBYZjZJclg0R3FKNlU1cGlMU1JDRG9rRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "More predictable notifications on GitHub.com - The GitHub Blog",
           "summary": "More predictable notifications on GitHub.com The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "The GitHub Blog",
           "when": "24 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzNFNWZFLTFBdTE5eVpiaE1uaVlBakZCSkpqMlppeG9MTDJyYVZNSTNvejQ4eGczNUY1NGZxdzlncWhaOU15dkhOWXRHYU5pU0MzbHRrbmNoTFQ5MkR3TVpYaEpQVWhFdWI5UkFNd2ZIN1ZHMm42Y25JOWowTkRWRjI1QnhMRTdyRDlQN2FRTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Issue statuses and repository boards are in public preview - The GitHub Blog",
+          "summary": "Issue statuses and repository boards are in public preview The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "24 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXlsTFFHNHRXdUZkQjFoMWRPbzF4eG9fMVNWU0IteFYxb2Ewd2xBT3ZTWWZCMFNxTFdYQVF1UXdVUWk4ZUZFWnE3LVhVZElFaFdvZ2d6NlF6M2pfQ0V6TnJZZml1R0pEcFl4eG1MTFlmVGVBZUpBS2x6U1FDY1pqR0JMQ0QxS2lyV1AyR19TMjlGRGpyVUM4QVdKcXQwNmxPbkE?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -213,6 +215,22 @@
           "when": "24 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUUphSFhRY3VyaXBoZU9vV3NIZmVoNGl6OUd3S3AzMWRJcFF6YzZxdndCYnhIalFVMVNfSjY0ei1QWkpibnpjOVNMemQ2SklNSXJrWE1EMXpRRkxMS251OWNnV0ZnQzNwUnI0NGxpMktjYUxXQzRHcXlaVldoam1pMjlncjJ1ZkdjUTBpekRjc2x0QmxyaWpqNGxVbG5zMzIxakMyTTBPLUlqby0zZXJiTTkzTjk2eVFRUWxwd2dPMXVjRmZab2wxdXRLNnlPWjM0Z25XcEp6Z2p5MUZRMmJmWVpfaUg?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities - OpenAI",
+          "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "OpenAI",
+          "when": "25 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUdETW1TNzZiLWl5Z2lOUkhpRmtFMGNxY2dRVV9URkpQX3RVRGpVZGk5Q055WEY4elV1X2VHWlVCYzZTQUMydEk4YThidXZUOUh4dlBZVmpfZ21jaTZIeVRQaEFmdFN5MDNkNDhhYU5qdTJEN3ZQeGRXNG5NS215c3hxa2hFbEFjWW1DVE93UXFkdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "What Is the Best Kling AI Alternative for Fast, High-Quality Creator Visuals? - Quasa.io",
+          "summary": "What Is the Best Kling AI Alternative for Fast, High-Quality Creator Visuals? For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Quasa.io",
+          "when": "24 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTF0cjR0NEtVZ3dwOXdBclZ5Y3p4WFRqclROWmlwSmNHdGJlQTVRbVVQZVhiSkVMVGdJd1FENkN1cDZUMW9sTFR1anltMDJ2bHNKTzVjYWFMZVlhdjduYy16dVNqcUxmWlZFQUlTeng5emtsOWxHdV8wVDY0eUJScU9seEVhSGIyY19KLUdWamZ6MkhtVm0yd19Sb3lUcmFhY3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -225,7 +243,8 @@
           "source": "MarTech",
           "when": "23 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TcHlwV3NzY2FDQ2dUOXo2MnlDU2dXRGdMMkpNRks4SXUzWDJVZmdNNlVyQUpmeGJobmRkV3VOU1drd0Y3ZGpJTHFZVml5d0lEOW9oV2Eya3AtTnVPOUtla1NSTW50SU5ZdmFiM0wtTXh2ZFpDb3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -265,16 +284,36 @@
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81WmxhZ0V2RFJsSW9lMWxkdE9LcWlqeEtsSWZJUjl5SWdCV3FwU3MtM1A0Sjg2aFVhbVpPcnZZU2c4cXN1cDlWQTRYV0ZrZW1yeWthRk5maG94cGtNelBVMU9ENzZrVTZKV293R254TQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
+            "source": "ContentGrip",
+            "when": "24 Nov 2026",
+            "point": "Pinterest extends AI ad reach through Microsoft ContentGrip",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yR2dMZHhIUFBBZ2xrNTR3N2dzX2R5YnVibDUzOUZCMENHY1ZpTnJneEFYRjU4LWdHRlM4UjZxb25YSEFfbE1jQ2lVWVlaVUtkZ0xOZXdFeVBzVjFoeFFjWjkyRVVIcmN3M0xvRE9JOE8?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "source": "PPC Land",
+            "when": "24 Nov 2026",
+            "point": "Plumbing, not intelligence: Index Exchange on what MCP means for buyers PPC Land",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0k4enhRS1prQ0s1OFJDQW9LTlJYOXZ0MndrNEZVYVBEZXVXb1dsM05UbXBRZzZ0VFBEMUxlMjVzQ0FGMGMycUFHenJNRkhMbDhwWm84S3BKb21kakVyaExNX29SSllBRFAxLUliWnRsRE1KdHdBNDFQMlhlWGtxM1pKVWF6TDMxSXlnZUlJSE8?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "New Ecommerce Tools: November 24, 2026 - Practical Ecommerce",
+        "status": "Cross-source coverage",
+        "common_context": "New Ecommerce Tools: November 24, 2026 Practical Ecommerce",
+        "unique_points": [
+          {
             "source": "Practical Ecommerce",
             "when": "24 Nov 2026",
             "point": "New Ecommerce Tools: November 24, 2026 Practical Ecommerce",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zdkZvZGZ0Qk1McWpnOEhHanQ4RWZiOWZKQjlscHdnd042Y1B1SFpkbWdYQ1dBdTF3b2lzMlU3RnZsV0xUYVlpLURYSmhJaUZ4U2RZa2ZVUV8wcXFZeTBaSDNnVmtDZmtLTjB5bVlZSXQ5SUJlVy16MnMyWQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "ContentGrip",
+            "source": "findarticles.com",
             "when": "24 Nov 2026",
-            "point": "Pinterest extends AI ad reach through Microsoft ContentGrip",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yR2dMZHhIUFBBZ2xrNTR3N2dzX2R5YnVibDUzOUZCMENHY1ZpTnJneEFYRjU4LWdHRlM4UjZxb25YSEFfbE1jQ2lVWVlaVUtkZ0xOZXdFeVBzVjFoeFFjWjkyRVVIcmN3M0xvRE9JOE8?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "The 7 Best Tools to Create Ads With AI in 2026 findarticles.com",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QWDM5bFlEUVF2OExsZVNrNk1lWTNCMk9jVmttcnEyMEtDVF9TakNzbUxvOTlRWjBWeHFfRzJ3SEFaZFlXS0VMeGtWcjYzOF9kcUJ1bVFkTzV4UG01U1N1T3hkN2s1RTNCWS1Mdm9VNA?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
@@ -301,12 +340,6 @@
             "when": "24 Nov 2026",
             "point": "Secret scanning reduces false positives for Slack The GitHub Blog",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjdXV3h2QXh6dERNSW12OGN0andfZ3E4eFoyN1JSOHctZkdfSG9PUExIQVExWUFqQlByUE9zSkdKSDlzdG13alNXMy05aW1feXRkNUwzYzZZb0d4QzFSTXRQZExDclBOU2dPWGVUekVFaTR0b2FkcDFEa2kyaXAxR0JhdWtvbmFlWlJOejJVMXc1aHIzdUE?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "The GitHub Blog",
-            "when": "23 Nov 2026",
-            "point": "Code coverage uploads now flag invalid report formats The GitHub Blog",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0FiSS15UjJZeFVqWUJMcmwzWDJkcUplRWI0OVZoQklqUG1aSF9Tc3JvOVdaSk9udDFMdnhnekVJNkhlSGcwUmR4Q1FydEdqR2xYSW15UzBnYkI4UmNLYl9XUlNEbG5tcXBHVXNzN2NsamNzalpIeFRjc2Nna21OZTBSTHBYZjZJclg0R3FKNlU1cGlMU1JDRG9rRQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

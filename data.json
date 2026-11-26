@@ -11,24 +11,32 @@
   "note": "Rolling news edition refreshed frequently. Official-source searches run first, followed by broader discovery. Search indexing and source availability can delay or omit very recent announcements; this is not a guarantee of instant or exhaustive coverage.",
   "ticker": [
     "AI agents linked to Amazon Ads get an optional upgrade on December 8 - PPC Land",
-    "Meta and Amazon weigh deal to unlock AI shopping as advertising and search rights stall talks - Business Upturn",
-    "Archive Intel Launches Model Context Protocol (MCP) and Claude Compliance API Integration - Yahoo Finance",
-    "Canva makes MCP generally available to developers: What it means - The Financial Express",
-    "AI agents promise to transform work. Big Tech wants to collect the tolls. - Business Insider",
+    "Google Tells AI Agents to Use MCP for Workspace by Feb 1 - FourWeekMBA",
+    "A Billboard CEO Says AI Makes Ads Cheaper, Not Better – 3 Tests For Google Ads - Search Engine Journal",
+    "Best AI Marketing Tools in 2026: Compared by Category - Cryptopolitan",
     "Meta in talks with Amazon over AI agent after bot’s shopping activity left e-commerce giant ‘unhappy’ - The Times of India",
+    "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse - TechCrunch",
     "Exclusive: Meta and Amazon discuss ending Muse shopping bot blockade, as ads, search emerge as key issues - Fortune",
-    "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot - Search Engine Journal"
+    "Amazon And Meta Discuss Deal To Restore Muse AI Shopping Access - The 420.in"
   ],
   "sections": [
     {
       "name": "Google Ads",
       "stories": [
         {
-          "title": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot - Search Engine Journal",
-          "summary": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot Search Engine Journal. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "A Billboard CEO Says AI Makes Ads Cheaper, Not Better – 3 Tests For Google Ads - Search Engine Journal",
+          "summary": "A Billboard CEO Says AI Makes Ads Cheaper, Not Better – 3 Tests For Google Ads Search Engine Journal. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Search Engine Journal",
           "when": "25 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTJKZXRpa2JNM3hVV0wtZ013bzYwX3I0MktIa0xPa3V5dUtQYnpvc1BLb2J1aXlyQmZ4RG1lOEJPVzA1Q2dJSE96WUJhc0ZkbGFKcFotVDJaV3BhQmtlQXZjVGNaTDBZbFlRYmpYLWFaTnFUOWI4QnlIeWpiandDcG05ZGYyS2tjZ0MyU1M2VjdWdmVmLThHb05DdFJVeU82NzVRb0RzekR2Vk5uZDM2U2prbVNiMFpXRzlua2hqUUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Feature request: Support Kazakh language in Google Ads (13M+ speakers) - Google Ads Community - Google Help",
+          "summary": "Feature request: Support Kazakh language in Google Ads (13M+ speakers) - Google Ads Community Google Help. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "source": "Google Help",
+          "when": "25 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeGdvdFVyTEppbTRHbkNUcVBVZUttdjUzOHc4TkxWQTUzTVNxamFJdy00T1B0aS13WjViaDZCZ1BPV3BUUTJINXBsZkp2WHQ4dWcyTm81YzNldE5GX0dnUjdhZ3o2N3UyVGoxRHVKNGN0QkxidlUyZ3FZSG9obEZ1NlhlcXVqV2s3QU1FdVlHdS1NVjE3Z0tPb25PY1YwbzVma1dWS2hRNkszZE56YnNNUVVpT1VMQ2xxR0s1THFIUHp1c2tyZzVlOU5n?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -42,7 +50,8 @@
           "source": "VentureBeat",
           "when": "24 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaENmdmp2ZS02UjRsczlkM3RrVWFRYXhIZmNNUDRwZWNyWktZODkydGdOYjFwbTduMUFOd0V1RDZyRExfbVlCOS1FZ1lsanFxSE5qSG9ZbnowNk5JMG5fdWRnbThmREZDSHIxMWdEZW5mY1NZVkV5Y3hnWEZ6WVUxSldLeEFUWTJmR1NQajhGRTBfZURMVXBRR1gwdmtpNUpLdXJJSg?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         },
         {
           "title": "Pinterest Opens Its Ad Inventory to Microsoft Advertising - https://www.thekeyword.co/",
@@ -50,7 +59,8 @@
           "source": "https://www.thekeyword.co/",
           "when": "24 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81WmxhZ0V2RFJsSW9lMWxkdE9LcWlqeEtsSWZJUjl5SWdCV3FwU3MtM1A0Sjg2aFVhbVpPcnZZU2c4cXN1cDlWQTRYV0ZrZW1yeWthRk5maG94cGtNelBVMU9ENzZrVTZKV293R254TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -158,27 +168,27 @@
           "image": ""
         },
         {
-          "title": "Archive Intel Launches Model Context Protocol (MCP) and Claude Compliance API Integration - Yahoo Finance",
-          "summary": "Archive Intel Launches Model Context Protocol (MCP) and Claude Compliance API Integration Yahoo Finance. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Yahoo Finance",
-          "when": "24 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRDBTQWxTSHo0UEE2ZTRBRU92Q2lhT0lfTWpqZDZlX1JEQWRWSEVFVmc2TDlCOUJxVjMwNVpsQk1nY3d6MjlpZzgzQzVYZWhOU2NieGN6b0ZuTDhyNHV6R0pWMmlVcEFRcC1ReTVxbFp6c21WV1RyM0RjaC1WZVd3NWgtNTk0LUNQNXNyQVRxYnZDOWZTTnJaNHBwQ0NuaWNMSUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "AI agents promise to transform work. Big Tech wants to collect the tolls. - Business Insider",
-          "summary": "AI agents promise to transform work. Big Tech wants to collect the tolls. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Business Insider",
+          "title": "Google Tells AI Agents to Use MCP for Workspace by Feb 1 - FourWeekMBA",
+          "summary": "Google Tells AI Agents to Use MCP for Workspace by Feb 1 FourWeekMBA. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "FourWeekMBA",
           "when": "25 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVliT05sekNtYS1adENYOHZ2N0ctVFdDV3FSRGpfZl8ySUJXQnJnVHRuUjd3dXl0ZkZ1bDF0dVp1anlwc2JRSmo1Smo4U1hGNXFFcm1GY3FQYnV0QmxkekY4UDBfbmVTU0dGaTg5NWp2ZE5LR216TXYycnNmTlQzVDE4NGJXQzh5dlVRRmdZLTQzZy1tbHRPOTk2cU44MVVCdl9JRWlpVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU2REY0llcWxUSEZubjROR1U0VURlRjh5a1FsQmU4N0gwWkRGVkhZUTJwVGItY2tzUi1wdUVTczFLdTdPNF9Lb0Zkb0MzYTNyZEVvWDVsM0ZxaHk3S3FDMzdMMU9neVVIYUlpckZxRlhsRG1icWJTQ3JvckFXNDRmWnFGOFNBeG9uM0EtLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
-          "title": "Two Years of MCP Builders - Model Context Protocol Blog",
-          "summary": "Two Years of MCP Builders Model Context Protocol Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "Model Context Protocol Blog",
+          "title": "Copilot code review billing will default to the organization - The GitHub Blog",
+          "summary": "Copilot code review billing will default to the organization The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
+          "when": "26 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0lqY2tUbnh1cXNPTUxOWVVGLU1vckN4YkVselhYVllyM0c2U1FFVDdidl96dGtyemFKTlE3NV8tWVpHcFMwSVpIM3NNa0RpdlJ0Y2xGMXFDWFF4OTY4aks3RkJUMTRLOWtDemtpY2lKWlZQRzVsMXd4Y25kcG9GVEtxRVpCWVo4dG4xb0Q3Nnl0bWRkb1JOWTZqemtkR0dZa2xsVw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "More predictable notifications on GitHub.com - The GitHub Blog",
+          "summary": "More predictable notifications on GitHub.com The GitHub Blog. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "The GitHub Blog",
           "when": "24 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Nbm5rT0V2ZTMyWHlvaWM4c2w3ODJpVG1vVDRaeUxDZ05yVkpmRzhSU1BvWm5ndFdRSkw0bkNtMTBZSFBIRjF4Yi1vMjJyV0tvRGYxZmF0OV95UWhwQnJKckhjNDJ6WEpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzNFNWZFLTFBdTE5eVpiaE1uaVlBakZCSkpqMlppeG9MTDJyYVZNSTNvejQ4eGczNUY1NGZxdzlncWhaOU15dkhOWXRHYU5pU0MzbHRrbmNoTFQ5MkR3TVpYaEpQVWhFdWI5UkFNd2ZIN1ZHMm42Y25JOWowTkRWRjI1QnhMRTdyRDlQN2FRTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -186,6 +196,14 @@
     {
       "name": "Creative AI & Design",
       "stories": [
+        {
+          "title": "Best AI Marketing Tools in 2026: Compared by Category - Cryptopolitan",
+          "summary": "Best AI Marketing Tools in 2026: Compared by Category Cryptopolitan. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Cryptopolitan",
+          "when": "26 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmVKWXYyeVl6Q1pqMDlueXFTN1U1U3B1ZmUtZjIyaXFzbzVSZzBieVNacEt2YU5BaS1abHFpQl9raTJ4Z0hQZHhhS3JHYXJEcmNJVURzZlZaN2lubm9RWmQ5em5MejhWblNXVC1lb01vWHMwZWUxMHdpTks5UzFleFBuM0FNS29oY0FR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities - OpenAI",
           "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities OpenAI. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -205,7 +223,8 @@
           "source": "The Financial Express",
           "when": "24 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM3kzdllLVmNlSHJmSWVHVXJlM3RWZVlyTWpha3BMRzRSVzEwckx4aGhPRXNnRmVudjB2Z0Z2YlBVSFVKblZjbmlONUlwRjhjSGRERWl4ckg5LTBhWXlzekJSTkV1T0JmNnNFbUdKVnRBaEFjNnd2b1NER2ZvbzY0eWZpa2JoUVB0dDMxamIwMkdWZUFSU2pGdFJPdnU0MV9uLTM3c1hRd2hPdUpJU1UteE5Ib2FGb3Q5RmlzWk1CQ3JfU19xYTBINtIBzwFBVV95cUxNTkdwcUV1dEM5TmxYLU5rZmxxam50SlItSjJqbUFGd25TRHAzUnNXYWtYd25lZlpKOE5QNDBHQ0k3dXo5dVhYb1hMQzVwSDhoZGRCS2hqeFJ6cUZ0aExXYkxaYnVtd0xxM1NGMDRpNmprc09oZVI3alRiS0w4MjI4SFFXMC1zM3FwY1c0eEpieVVlWWRMNjl0ZnI4TmxyQUJRaGY5NFdPVVFEM1dlSGkyU2xtZWNsSlQ4djRKUTAtSnU5RU5EcVdXbW5wZ2RuNW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -213,19 +232,19 @@
       "name": "Ecommerce",
       "stories": [
         {
-          "title": "Meta and Amazon weigh deal to unlock AI shopping as advertising and search rights stall talks - Business Upturn",
-          "summary": "Meta and Amazon weigh deal to unlock AI shopping as advertising and search rights stall talks Business Upturn. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Business Upturn",
-          "when": "25 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOamRnZXN0N0ZJN1Q2ZW1fMjNHZk0tUVJLWmJoVlNVS2dDMWtaZlFNTDVGdGRmeVphbkVDUm5YX0JaTTVBenU4QXVYWE5MZl9sZU9NY1Z1Zm1fRWpVTE1jTndUOXZpQmM1THVZZkctb013QncxWVBIWjAwQUY3NjhZWUJIdUlNYmNMT1RVczlLeEdndHZOMjFDMHNKV3B6RXBVVXV3eU5KVUhlTnFYVXJ2cURscTRabnFBQVRtZFVNdHJ2WUZfNVZhVUNZMGpwcEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Meta in talks with Amazon over AI agent after bot’s shopping activity left e-commerce giant ‘unhappy’ - The Times of India",
           "summary": "Meta in talks with Amazon over AI agent after bot’s shopping activity left e-commerce giant ‘unhappy’ The Times of India. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "The Times of India",
           "when": "25 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNa0hvY0lRV0JqemNjVDctT2JRak5TODZ6MEJ6b0Y1ZTRsd1RLa0xPVGNIb0JkZk42SWI4MTVuaHAzT0dPam5mZ0xMVHRlM1JUM0FURW42SktJcWFFV3VRV3BOUzM3TDlfcHg2cUFZU3lpdGdjSk9ScDhHWEIwQm1kZURaRDlhTDVmWXZaWE1WZWZpSGNoRVQ5N0RXcnBZYVQzaFhRaHFHa2x5cWp5NzFuSXVWLWxvUlV1WkFkenEydHUwTUNkb0FaRnRuUktwaVNfX3NmTnpoOVZvejQ2WFY0Q2IxTEUxZEFGVk9uOWlZUEVKNC1ZRnp3N2FqOWFKd3VScTB5Mi1PZUM2aVFnRUHSAZMCQVVfeXFMTWd1Vjc3Z29OVjdjUGpSdXRNSDNKRmdJWWFzMzdDUEFGSFNTNmJwS0NNZ3kxNE9TRzdpQ1Y3dzV3X2NPRVU3REw5WEI0dHNhWER5MjNxWGxwaEMtS081Y3NjYjlDM3k3UXJRQ0hORjJ1SHZERkpQdHlPUkpaM3NjOFpTVXZYYWVkVU9yQUtPNkJ0WUNNWGNlTUQyeDFRNWM5dGhOdk5wZ2tmblhBcTFTWWI2azF0Z3ctclZSd2N5RkxGekZNVDQ5ZHZ6Qk1OQ1BZTTJxd0diQmxPTm5zOXg1ZHhwclI0TFpGOGJRcWtqNHV0MlN4SlVCMHh1clFMVTVTR0c0eG1EZUV4YmNTdWhuVUU4aEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
+        },
+        {
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse - TechCrunch",
+          "summary": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse TechCrunch. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "TechCrunch",
+          "when": "25 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHFMME9sY3NJajRoUmFLeXBMMEd5TkZWRkpMTkdKU1c1aUo5RnVxNjBmdHY5VkdQLUVKZDY2cTNqek1HVDVTWkJYSEhmellKWk9fNGQ2SW1OcnYxNWFZaWRxb05qQTJPbFd3WW5sOFFCU3hPaTFlSUJVdWdQWE9ySnQ5a3NfbFZIUVM5UlR2d1R1ZkFOLXNycTVFX3NIa05FaGd0UTZibw?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         },
         {
@@ -267,11 +286,25 @@
             "when": "26 Nov 2026",
             "point": "In B2B, the safe brand beats the better product, LinkedIn argues PPC Land",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVU2YXA3Y3N3eTZqbXE3UGNvR1poRFJ6VGZHYWZjOHRVaXNaYmNIMVg0elpPUGVCeFZVR0FVZXhNR3ZycnJLY0RPYWRYSmtlZVY2c09UMUVuSHRSQ0F6X0JuOUFsb2todlQwUVY2aXdzVTBObHBFZDZhTi1Cbk9vOWQwYnR2c3M?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
+      },
+      {
+        "topic": "Feature request: Support Kazakh language in Google Ads (13M+ speakers) - Google Ads Community - Google Help",
+        "status": "Cross-source coverage",
+        "common_context": "Feature request: Support Kazakh language in Google Ads (13M+ speakers) - Google Ads Community Google Help",
+        "unique_points": [
+          {
+            "source": "Google Help",
+            "when": "25 Nov 2026",
+            "point": "Feature request: Support Kazakh language in Google Ads (13M+ speakers) - Google Ads Community Google Help",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeGdvdFVyTEppbTRHbkNUcVBVZUttdjUzOHc4TkxWQTUzTVNxamFJdy00T1B0aS13WjViaDZCZ1BPV3BUUTJINXBsZkp2WHQ4dWcyTm81YzNldE5GX0dnUjdhZ3o2N3UyVGoxRHVKNGN0QkxidlUyZ3FZSG9obEZ1NlhlcXVqV2s3QU1FdVlHdS1NVjE3Z0tPb25PY1YwbzVma1dWS2hRNkszZE56YnNNUVVpT1VMQ2xxR0s1THFIUHp1c2tyZzVlOU5n?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "source": "Search Engine Journal",
             "when": "25 Nov 2026",
-            "point": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot Search Engine Journal",
+            "point": "A Billboard CEO Says AI Makes Ads Cheaper, Not Better – 3 Tests For Google Ads Search Engine Journal",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTJKZXRpa2JNM3hVV0wtZ013bzYwX3I0MktIa0xPa3V5dUtQYnpvc1BLb2J1aXlyQmZ4RG1lOEJPVzA1Q2dJSE96WUJhc0ZkbGFKcFotVDJaV3BhQmtlQXZjVGNaTDBZbFlRYmpYLWFaTnFUOWI4QnlIeWpiandDcG05ZGYyS2tjZ0MyU1M2VjdWdmVmLThHb05DdFJVeU82NzVRb0RzekR2Vk5uZDM2U2prbVNiMFpXRzlua2hqUUg?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
@@ -295,36 +328,16 @@
             "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNa0hvY0lRV0JqemNjVDctT2JRak5TODZ6MEJ6b0Y1ZTRsd1RLa0xPVGNIb0JkZk42SWI4MTVuaHAzT0dPam5mZ0xMVHRlM1JUM0FURW42SktJcWFFV3VRV3BOUzM3TDlfcHg2cUFZU3lpdGdjSk9ScDhHWEIwQm1kZURaRDlhTDVmWXZaWE1WZWZpSGNoRVQ5N0RXcnBZYVQzaFhRaHFHa2x5cWp5NzFuSXVWLWxvUlV1WkFkenEydHUwTUNkb0FaRnRuUktwaVNfX3NmTnpoOVZvejQ2WFY0Q2IxTEUxZEFGVk9uOWlZUEVKNC1ZRnp3N2FqOWFKd3VScTB5Mi1PZUM2aVFnRUHSAZMCQVVfeXFMTWd1Vjc3Z29OVjdjUGpSdXRNSDNKRmdJWWFzMzdDUEFGSFNTNmJwS0NNZ3kxNE9TRzdpQ1Y3dzV3X2NPRVU3REw5WEI0dHNhWER5MjNxWGxwaEMtS081Y3NjYjlDM3k3UXJRQ0hORjJ1SHZERkpQdHlPUkpaM3NjOFpTVXZYYWVkVU9yQUtPNkJ0WUNNWGNlTUQyeDFRNWM5dGhOdk5wZ2tmblhBcTFTWWI2azF0Z3ctclZSd2N5RkxGekZNVDQ5ZHZ6Qk1OQ1BZTTJxd0diQmxPTm5zOXg1ZHhwclI0TFpGOGJRcWtqNHV0MlN4SlVCMHh1clFMVTVTR0c0eG1EZUV4YmNTdWhuVUU4aEE?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "source": "Business Upturn",
+            "source": "The Verge",
             "when": "25 Nov 2026",
-            "point": "Meta and Amazon weigh deal to unlock AI shopping as advertising and search rights stall talks Business Upturn",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOamRnZXN0N0ZJN1Q2ZW1fMjNHZk0tUVJLWmJoVlNVS2dDMWtaZlFNTDVGdGRmeVphbkVDUm5YX0JaTTVBenU4QXVYWE5MZl9sZU9NY1Z1Zm1fRWpVTE1jTndUOXZpQmM1THVZZkctb013QncxWVBIWjAwQUY3NjhZWUJIdUlNYmNMT1RVczlLeEdndHZOMjFDMHNKV3B6RXBVVXV3eU5KVUhlTnFYVXJ2cURscTRabnFBQVRtZFVNdHJ2WUZfNVZhVUNZMGpwcEE?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Amazon is reportedly in talks to end Muse AI shopping block The Verge",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEl1X3IwdWxWdGJBMUg5NGN2YnNob3dxOXpkMURXTFdGYkVBOEYtUEJKRTN5SjVSczdoVUF5X2dUZEdWRVFMVFJ3X1ctZk1nRGhoN0RWSFRtRnM1ZnFDZnZiNVlFMWlIckQ3RllDaWM0MzExelJQQmdvWEM3U3lPajNabEo?oc=5"
           },
           {
-            "source": "Fortune",
+            "source": "TechCrunch",
             "when": "25 Nov 2026",
-            "point": "Exclusive: Meta and Amazon discuss ending Muse shopping bot blockade, as ads, search emerge as key issues Fortune",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFZrb3pJUHc3MGFvSnI5cV9GSE40UnhHQU9uRDB2MHlYNnZIVk9JX3lhdEsxXzlNaTg1OFhSN0FBdG9UcGJ4MUVLQjlYM015bXZUWXpQdzA5Tnd1czQ3a2lzN05NV0ZUSkx1VWdhakF4WGJxb3NxQmxWaXNVelFiTWlZRjNlN1ZiWkE1SEZTY3JRa1RWRlJUQVpMYVU?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Two Years of MCP Builders - Model Context Protocol Blog",
-        "status": "Cross-source coverage",
-        "common_context": "Two Years of MCP Builders Model Context Protocol Blog",
-        "unique_points": [
-          {
-            "source": "Model Context Protocol Blog",
-            "when": "24 Nov 2026",
-            "point": "Two Years of MCP Builders Model Context Protocol Blog",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Nbm5rT0V2ZTMyWHlvaWM4c2w3ODJpVG1vVDRaeUxDZ05yVkpmRzhSU1BvWm5ndFdRSkw0bkNtMTBZSFBIRjF4Yi1vMjJyV0tvRGYxZmF0OV95UWhwQnJKckhjNDJ6WEpR?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "Yahoo Finance",
-            "when": "24 Nov 2026",
-            "point": "Archive Intel Launches Model Context Protocol (MCP) and Claude Compliance API Integration Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRDBTQWxTSHo0UEE2ZTRBRU92Q2lhT0lfTWpqZDZlX1JEQWRWSEVFVmc2TDlCOUJxVjMwNVpsQk1nY3d6MjlpZzgzQzVYZWhOU2NieGN6b0ZuTDhyNHV6R0pWMmlVcEFRcC1ReTVxbFp6c21WV1RyM0RjaC1WZVd3NWgtNTk0LUNQNXNyQVRxYnZDOWZTTnJaNHBwQ0NuaWNMSUE?oc=5&hl=en-US&gl=US&ceid=US:en"
+            "point": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse TechCrunch",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHFMME9sY3NJajRoUmFLeXBMMEd5TkZWRkpMTkdKU1c1aUo5RnVxNjBmdHY5VkdQLUVKZDY2cTNqek1HVDVTWkJYSEhmellKWk9fNGQ2SW1OcnYxNWFZaWRxb05qQTJPbFd3WW5sOFFCU3hPaTFlSUJVdWdQWE9ySnQ5a3NfbFZIUVM5UlR2d1R1ZkFOLXNycTVFX3NIa05FaGd0UTZibw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."

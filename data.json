@@ -1,5 +1,5 @@
 {
-  "date": "27 November 2026",
+  "date": "28 November 2026",
   "lead": {
     "title": "Canva Goes All-In on AI Agents as MCP Hits General Availability With New APIs and Canva Craft - Pragativadi",
     "deck": "Canva Goes All-In on AI Agents as MCP Hits General Availability With New APIs and Canva Craft Pragativadi. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
@@ -16,8 +16,8 @@
     "Amazon, Meta Resume Talks on AI Shopping Agent Muse Two Months After Blocking It; Ads and Search Are the Sticking Points - BigGo Finance",
     "Canva opens its design tools to AI agents and developers, makes MCP server generally available - MediaBrief",
     "Autonomous AI Agents Hit Production as Kernel Shields, MCP Gateways, and Cloud Guardrails Redefine Defense + Video - Howl.Link",
-    "Aurora Mobile Opens 'AI in Action' Global Roadshow in Tokyo, Tackling the Enterprise AI Adoption Gap - markets.businessinsider.com",
-    "We wanted smaller businesses to access the marketing expertise usually reserved for brands hiring agencies: Sanjeev Jasani, TurboAgents - MediaNews4U"
+    "Google introduces fees for high-volume AI agent access to Workspace. Will Microsoft follow suit? - NEWS.am TECH",
+    "Aurora Mobile Opens 'AI in Action' Global Roadshow in Tokyo, Tackling the Enterprise AI Adoption Gap - markets.businessinsider.com"
   ],
   "sections": [
     {
@@ -51,22 +51,12 @@
       "name": "Meta Ads",
       "stories": [
         {
-          "title": "Introducing Muse in the UK: A Personal AI Agent You Control - Facebook",
-          "summary": "Introducing Muse in the UK: A Personal AI Agent You Control Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
+          "title": "Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together - Facebook",
+          "summary": "Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
           "source": "Facebook",
-          "when": "24 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3V1c0o4cXA1b0d0NFlqLU4zNmhfV1NlMlItVUx4UU5oZjJYOXVIRnNSeXMzam5jRFBXa2Y3NTI5U3RMLV9PSjVyR25uTWJKMG5DNHNCeXZ2UGktZkNreDlzN0h1TFU5TkpYZWtaV09iN2lZNHpzdlVQbDBMQ3N3NDZ1VWVWMW5mQkk4SFJ5VGNFTzIxT3B5ONIBngFBVV95cUxNeGZ3YjQ0UXNMUl9wazJROG1fY0djSTdQT21BUU1PRTRlQk1LYnVlQmx1a2ZjdXd3MmtkOFVVZ1BYTXhLenYtejJVeXFhakxMNWxkbU1kTUhIbVctb1FwQWFPWWw1VDFuUHpQdmQ2VzBGX1RTQk5oRTdkSmJ1Q2FFaXk1ZC0zb0RjNFF1emtqTUNnakJpZzBmZW9ZSDNwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
-        },
-        {
-          "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control - Facebook",
-          "summary": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control Facebook. For marketers, the practical impact is how this changes campaign setup, automation, measurement, creative control or optimization workflows.",
-          "source": "Facebook",
-          "when": "24 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWEzS0wwSnd5MXFaV3BtcURqaHVhRXhFRU91SDdKeFBuWXh6ZDNkM3J5cURJRnlVSEFlQ3FYMThidktBRk1OMDhqN2hQOVlBazZZeE1aT3JnSEpNR1ZQMDY4dXVIdF80TEM4RVpYSVROOWtHZ0psN2VXTjhUYWRuZDVVUXNVTVZFZXBwYjAwZEpZcE5KbjBPajhHYTIyYjNSX2U3NQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": "",
-          "status": "YTD UPDATE — carried forward because no fresh update was verified"
+          "when": "27 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmRlX3FCS0VhQzVBQnZZbTB2dFgxaWdyVzZxY0NOUDZPQ0tqODdMQVJFMXptZTJuSDdVdkNXSmJjWWQ0WlFLZUJvUzVQbGtNOUtRMGFnU0kxM2Uwa01pcHFNLWFnQ2dPSThEX18zSUNrbi1iN2JwNExIVjllcVhaQXlkRmJkbDhya0ZDbmNVdEVIdlQ5c3QxQzFUR1plZ0dQeVBMcUJUMXQ0OTZUX2NUMtIBtgFBVV95cUxOZzhzYm1vRGY3ZGxkMEg0TV81R0dBSlFRWEJ3bzVjRlBjcFVuRk5EOUQyZl9GVjdkUFV4MnVFTHF6Z0ZkbXpIU2RnbUtxMWJoOHJ4NHA4bE5fa3cxbEhJZmhrUkIxZTA2OXlDRUpxRXdydS1zNXhhczV4S1o4OXVhNTJJNWdkVGNLcEJ5NlBTQk1qbFdwLXlaWGpxaFI2MW0zR085TF9XSGNHZDdURy1JbldwVXNHdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "image": ""
         }
       ]
     },
@@ -79,7 +69,8 @@
           "source": "ContentGrip",
           "when": "26 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12alZGUzM1Rlg4bGxkNlNGS0RiLVBvbDlZa3Z1dkpPV1ZhbENYYm9qZnNFbDRsNTVNNG9GeFZ1Yno0Ulo5VG9PRUtCYkFvZVRfNzdrczVxUzV1d1FfU2Y3cjJaRFI?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
+          "image": "",
+          "status": "YTD UPDATE — carried forward because no fresh update was verified"
         }
       ]
     },
@@ -150,6 +141,14 @@
           "image": ""
         },
         {
+          "title": "Google introduces fees for high-volume AI agent access to Workspace. Will Microsoft follow suit? - NEWS.am TECH",
+          "summary": "Google introduces fees for high-volume AI agent access to Workspace. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "NEWS.am TECH",
+          "when": "26 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBham5mQ21nMU9NYVJRRkxnY0RrTVAwamZqR3RRSXFSYWM4LUJNOVB2T0ZtbnNObEZjbFVIMFM1cjZnRV9VdTJVVg?oc=5",
+          "image": ""
+        },
+        {
           "title": "Aurora Mobile Opens 'AI in Action' Global Roadshow in Tokyo, Tackling the Enterprise AI Adoption Gap - markets.businessinsider.com",
           "summary": "Aurora Mobile Opens 'AI in Action' Global Roadshow in Tokyo, Tackling the Enterprise AI Adoption Gap markets.businessinsider.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "markets.businessinsider.com",
@@ -163,27 +162,11 @@
       "name": "Creative AI & Design",
       "stories": [
         {
-          "title": "We wanted smaller businesses to access the marketing expertise usually reserved for brands hiring agencies: Sanjeev Jasani, TurboAgents - MediaNews4U",
-          "summary": "We wanted smaller businesses to access the marketing expertise usually reserved for brands hiring agencies: Sanjeev Jasani, TurboAgents MediaNews4U. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "MediaNews4U",
-          "when": "27 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON21aQTBjdXB0T3VMUDNDUkJqNjY0a1hSa0ZhLVRqOVdaN05Bam5mc0d1V3J5NEJYZ253RmdNRVVMekl6Y083TEJSbXJMamVDOUJCMFZfaHA2QlVUMFdPQzFyek1YQURoN2NmWW1NM0FVVDRtdVF2UE9wM243SEZ1a1lqWktlakpoNXVhcktiYUI2emdEdXltN1RjY1RfcHphbWJuNktwVXlneWY4R3JubHdfNUhEUVVUZmtDX3llYXNEM1l1WnF2U2ZHUzFZYVMwY1RPNGkwelFKdjB4cUF3ekhFV1BxYkhLb2liSkhmV1lGZWFO?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
           "title": "Zeely – AI Advertising Platform, Video Ad Creation & Meta Campaign Management - Quasa.io",
           "summary": "Zeely – AI Advertising Platform, Video Ad Creation & Meta Campaign Management Quasa.io. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
           "source": "Quasa.io",
           "when": "27 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNDhyTDA1OWRXNWJJQkMyTFdhV0FQWVp3WnJGWXFBNG9qUHhwRVBmLXc0XzNaUVVvWlZiS3VQLXc3enpUSW1RSFFnSVVXS1FuX2NybzNjMnZ3OTJkcVRHdFh1dkY4Vmptei1jakdLUWp1dmhIRDgwbUZ6TEYxS2NFX1E3UmlCbTRWNW5jTjR4OGNoYmwtUlZhb0NKOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "The 9 Best Tools to Create Ads With AI for Meta, From Statics to Video - findarticles.com",
-          "summary": "The 9 Best Tools to Create Ads With AI for Meta, From Statics to Video findarticles.com. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
-          "source": "findarticles.com",
-          "when": "26 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnVtaFBpYzVENWJhblEyVHQ2WlRvMkRBWlhLbDJmbmZtTi1pTFZuN01BQVNnTXl3R1B4VFBJb3kwZHVxSFZXU09HNUltS0xOR012MXU1NnRHMXpwbmVTNFkxamh4ZkQxb0xvWW1aaGdqbGpmajlGVFdXYVNJeDcwNVcwbk9HVlkyUTZ0aHFkQjN6WVpQMFRNX3pKd0owQUJF?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -214,6 +197,14 @@
           "when": "27 Nov 2026",
           "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBJdGhVRGtacGVrWS1kdFVKenk2NmVCV2hBRERIczNtcWpMSEcwWHUxUVBDN2hLZ0ptOTNZ?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
+        },
+        {
+          "title": "10 Best Influencer Marketing APIs Compared - Influencer Marketing Hub",
+          "summary": "10 Best Influencer Marketing APIs Compared Influencer Marketing Hub. For marketers, the useful angle is whether this creates a practical new capability, workflow, integration or automation opportunity.",
+          "source": "Influencer Marketing Hub",
+          "when": "27 Nov 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53SXVNRGtEV1RwZ0h1MUlEX3ktTGxBblUwX2owejRlVnhlcWJaQXUyaDJfR1owT2c4dHMtQUZPanNGMXVLbDhDNXNYdlFCWEpfa3dvZjlGWXFWRHdRbEFtai1tU0VnMTN6eW51SjBEZzBKSXlu?oc=5",
+          "image": ""
         }
       ]
     },
@@ -225,31 +216,15 @@
           "summary": "Amazon, Meta Resume Talks on AI Shopping Agent Muse Two Months After Blocking It; Ads and Search Are the Sticking Points BigGo Finance. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
           "source": "BigGo Finance",
           "when": "27 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aYU5RU0hoeG0tSEp6azRXT2M0d2NhVjdZTTdWb1lTVDNwMXZ4VV9kdVZ1MFpPaGRKNWJZa2xqbTJsa1YyaE1rQ0k1RWtabV9lT2FtTUVyTU1SUzJ6R1VXUFM1UHItbmJkdWg5aGRYNU9zQTZvUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aYU5RU0hoeG0tSEp6azRXT2M0d2NhVjdZTTdWb1lTVDNwMXZ4VV9kdVZ1MFpPaGRKNWJZa2xqbTJsa1YyaE1rQ0k1RWtabV9lT2FtTUVyTU1SUzJ6R1VXUFM1UHItbmJkdWg5aGRYNU9zQTZvUnc?oc=5",
           "image": ""
         },
         {
-          "title": "Amazon and Meta Discuss Restoring AI Shopping Agent Access - Daily Voice Of Asia",
-          "summary": "Amazon and Meta Discuss Restoring AI Shopping Agent Access Daily Voice Of Asia. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Daily Voice Of Asia",
+          "title": "How AI is Transforming E-Commerce & Retail Industry? - Analytics Insight",
+          "summary": "How AI is Transforming E-Commerce & Retail Industry? For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
+          "source": "Analytics Insight",
           "when": "27 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVQ5UkFGQThuUEpWSS0zdHp3WXhUaW1fdl9tZExhaHB6UTBGaW04c01MWnlPVlcxdVdxOFFnb29qVlFjSXlvaGM3NEpUYzgwd2hyRnp2NjRHbEtxSFJRQjdVdHM2akFFUDVVU2VJNkw2NFdMOGd3X0VwQ3Z2aExwbjZ4WFJPU2k3TnVjalBPMHJWN1Fzd1NhVHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Meta and Amazon in Talks Over AI Agent Shopping Behavior - RS Web Solutions",
-          "summary": "Meta and Amazon in Talks Over AI Agent Shopping Behavior RS Web Solutions. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "RS Web Solutions",
-          "when": "26 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUFoNDE5ZmI2XzNDMUtDVThQZGcxZFZnZUM1NWJ5OWVsMnZKS0RScVBOZnhvb29IbENmX2RPN3NIR29zd0d6dHhHY0VnTEtGX1lxdGFIaERrYjRkOHZNQ3doOXlfeWtPQ2thLUt5SlE1SlZWZXVHYVhGdkJtSkdnWTEyLVM2SEdwZk13WHFHUHVweGZfZDZkbUk3SlVudkc1SmpNQjBDc3dTQldKcFkzeF9nb3JIdXBNRkJHSUZULWZPZExtTmhRUFRERnJ1bzRLTjNnaU9vU0NxZGhENTNlNWpKWnRmQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "image": ""
-        },
-        {
-          "title": "Amazon and Meta in talks to lift blockade on Muse AI shopping agent - Adgully",
-          "summary": "Amazon and Meta in talks to lift blockade on Muse AI shopping agent Adgully. For ecommerce teams, this can affect discovery, product feeds, agentic shopping, conversion paths or advertising efficiency.",
-          "source": "Adgully",
-          "when": "26 Nov 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONlNlRnBaZndLb0VOd3pQUTJ5OXFoZ1pzMGJUdjd0Ml9GNGVjVkhUdnprcVpmMjZBanAtTUVjdmc3aFM3a1dlSUVSYmg5R3k2QjMtRjF0M2tOcXBBYkNQUHI4MGxkOURUa2F4dkxTS1h1YjlBeFY5YzhocHBxN3BhLXIwOUlBMmI2Yko2ZVVZTTEzQUdKUVJ5bER0YWh6RzFqSTNRd3BOaHY?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWUx6U1Zia3pBLTU1U1hDM1BOUGp4U3JGajE5SHBoNndDRGI1clRsaVpycW00WFV3RWRKNDdKSVlGUnM2TUNQWTk1MHpoeHdmdXJiMXZlbjM3V3lNa1hyaE1XQzUwTW1yNm4xenJDUVZ0R04xSTFBOTFOSFJsYTZpMG42NTRnN25IdUgyWTBhY1FERzQ2Y09ZZmg1X00yd2IxcTAyemRLVHpOZ9IBtwFBVV95cUxPLUVCTkM2cG1Fa0tmbDBscHFqVDVmX2duOUZBZHE5X2E2WlBVcndyVHFfZFR5UGtkbnRhdjZsU2NObERzQ3RyeHJpUXV1Z25vWjEzNXhIOGZvV3h0N3FyS2ZlcWFsN2JmajhHZ0NBZzZfTUdvNFU3OElkTHdGTWFDcVkzYXZBWGxESF9uN3l4U0FsQ2VwenNwR2R2UTdpRXhWUVQzUk9SRFJGTllQODBlSFNieXlta1k?oc=5&hl=en-US&gl=US&ceid=US:en",
           "image": ""
         }
       ]
@@ -281,44 +256,6 @@
             "when": "26 Nov 2026",
             "point": "Canva opens its design tools to AI agents and developers, makes MCP server generally available MediaBrief",
             "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrZ2RlY1lqX3pkOXNxTzhBNURlTTF5cm82V3pTSVcyZnZHMG41UDEzQU5nSlZrWUNvWkFjd1FZV2VXUUpOcDhOeDBFb1N3THUxdFM2ZERVbDNremF4Z05HSmFfaEI1Q2JUNEFvSE5MMlphUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "findarticles.com",
-            "when": "26 Nov 2026",
-            "point": "The 9 Best Tools to Create Ads With AI for Meta, From Statics to Video findarticles.com",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnVtaFBpYzVENWJhblEyVHQ2WlRvMkRBWlhLbDJmbmZtTi1pTFZuN01BQVNnTXl3R1B4VFBJb3kwZHVxSFZXU09HNUltS0xOR012MXU1NnRHMXpwbmVTNFkxamh4ZkQxb0xvWW1aaGdqbGpmajlGVFdXYVNJeDcwNVcwbk9HVlkyUTZ0aHFkQjN6WVpQMFRNX3pKd0owQUJF?oc=5&hl=en-US&gl=US&ceid=US:en"
-          }
-        ],
-        "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
-      },
-      {
-        "topic": "Amazon and Meta Discuss Restoring AI Shopping Agent Access - Daily Voice Of Asia",
-        "status": "Cross-source coverage",
-        "common_context": "Amazon and Meta Discuss Restoring AI Shopping Agent Access Daily Voice Of Asia",
-        "unique_points": [
-          {
-            "source": "Daily Voice Of Asia",
-            "when": "27 Nov 2026",
-            "point": "Amazon and Meta Discuss Restoring AI Shopping Agent Access Daily Voice Of Asia",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVQ5UkFGQThuUEpWSS0zdHp3WXhUaW1fdl9tZExhaHB6UTBGaW04c01MWnlPVlcxdVdxOFFnb29qVlFjSXlvaGM3NEpUYzgwd2hyRnp2NjRHbEtxSFJRQjdVdHM2akFFUDVVU2VJNkw2NFdMOGd3X0VwQ3Z2aExwbjZ4WFJPU2k3TnVjalBPMHJWN1Fzd1NhVHFn?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "BigGo Finance",
-            "when": "27 Nov 2026",
-            "point": "Amazon, Meta Resume Talks on AI Shopping Agent Muse Two Months After Blocking It; Ads and Search Are the Sticking Points BigGo Finance",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aYU5RU0hoeG0tSEp6azRXT2M0d2NhVjdZTTdWb1lTVDNwMXZ4VV9kdVZ1MFpPaGRKNWJZa2xqbTJsa1YyaE1rQ0k1RWtabV9lT2FtTUVyTU1SUzJ6R1VXUFM1UHItbmJkdWg5aGRYNU9zQTZvUnc?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "RS Web Solutions",
-            "when": "26 Nov 2026",
-            "point": "Meta and Amazon in Talks Over AI Agent Shopping Behavior RS Web Solutions",
-            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUFoNDE5ZmI2XzNDMUtDVThQZGcxZFZnZUM1NWJ5OWVsMnZKS0RScVBOZnhvb29IbENmX2RPN3NIR29zd0d6dHhHY0VnTEtGX1lxdGFIaERrYjRkOHZNQ3doOXlfeWtPQ2thLUt5SlE1SlZWZXVHYVhGdkJtSkdnWTEyLVM2SEdwZk13WHFHUHVweGZfZDZkbUk3SlVudkc1SmpNQjBDc3dTQldKcFkzeF9nb3JIdXBNRkJHSUZULWZPZExtTmhRUFRERnJ1bzRLTjNnaU9vU0NxZGhENTNlNWpKWnRmQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-          },
-          {
-            "source": "ContentGrip",
-            "when": "26 Nov 2026",
-            "point": "Amazon and Meta Muse talks put retail ads in focus ContentGrip",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12alZGUzM1Rlg4bGxkNlNGS0RiLVBvbDlZa3Z1dkpPV1ZhbENYYm9qZnNFbDRsNTVNNG9GeFZ1Yno0Ulo5VG9PRUtCYkFvZVRfNzdrczVxUzV1d1FfU2Y3cjJaRFI?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ],
         "bottom_line": "The coverage overlaps on the core development, but the points above are the incremental details surfaced by each source. Treat the source-specific details as the items to verify before acting."
